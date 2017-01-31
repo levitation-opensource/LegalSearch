@@ -1,0 +1,285 @@
+<inglise> COMMISSION REGULATION (EC) No 2702/98 of 17 December 1998 concerning the technical format for the transmission of structural business statistics (Text with EEA relevance) </inglise>
+<eesti> KOMISJONI M&Auml;&Auml;RUS (E&Uuml;) nr 2702/98 struktuurilise ettev&otilde;tlusstatistika edastamise tehnilise vormingu kohta 17. detsember 1998 (EMPs kohaldatav tekst) </eesti>
+<inglise> THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> EUROOPA &Uuml;HENDUSTE KOMISJON, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 (1) concerning structural business statistics, and in particular Article 12(viii) thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 20. detsembri 1996. aasta m&auml;&auml;rust (E&Uuml;, Euratom) nr 58/97 (1) struktuurilise ettev&otilde;tlusstatistika kohta, eriti selle artikli 12 punkti viii, </eesti>
+<inglise> Whereas Council Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, competitiveness and performance of businesses in the Community; </inglise>
+<eesti> ning arvestades, et: n&otilde;ukogu m&auml;&auml;rusega (E&Uuml;, Euratom) nr 58/97 on kehtestatud &uuml;hine raamistik &uuml;henduse ettev&otilde;tete struktuuri, tegevust, konkurentsiv&otilde;imet ja j&otilde;udlust k&auml;sitleva &uuml;henduse statistika koostamiseks; </eesti>
+<inglise> Whereas it is necessary to specify the technical format for the transmission of structural business statistics; </inglise>
+<eesti> on vaja kindlaks m&auml;&auml;rata struktuurilise ettev&otilde;tlusstatistika edastamise tehniline vorming; </eesti>
+<inglise> Whereas the envisaged measures are in accordance with the opinion of the Statistical Programme Committee, </inglise>
+<eesti> kavandatavad meetmed on koosk&otilde;las statistikaprogrammi komitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS REGULATION: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA M&Auml;&Auml;RUSE. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> The technical format referred to in Article 9 of Regulation (EC, Euratom) No 58/97 concerning structural business statistics is defined in the Annex to this Regulation. </inglise>
+<eesti> M&auml;&auml;ruse (E&Uuml;, Euratom) nr 58/97 artiklis 9 nimetatud tehniline vorming, mis on seotud struktuurilise ettev&otilde;tlusstatistikaga, on esitatud k&auml;esoleva m&auml;&auml;ruse lisas. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> Member States shall apply this format for the data concerning the 1996 reference year and subsequent years. </inglise>
+<eesti> Liikmesriigid kohaldavad seda vormingut vaatlusaasta 1996 ja j&auml;rgnevate vaatlusaastate andmete suhtes. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev m&auml;&auml;rus j&otilde;ustub kahek&uuml;mnendal p&auml;eval p&auml;rast selle avaldamist Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> This Regulation shall be binding in its entirety and directly applicable in all Member States. </inglise>
+<eesti> K&auml;esolev m&auml;&auml;rus on tervikuna siduv ja vahetult kohaldatav k&otilde;ikides liikmesriikides. </eesti>
+<inglise> Done at Brussels, 17 December 1998. </inglise>
+<eesti> Br&uuml;ssel, 17. detsember 1998 </eesti>
+<inglise> For the Commission Yves-Thibault de SILGUY Member of the Commission </inglise>
+<eesti> Komisjoni nimel komisjoni liige Yves-Thibault DE SILGUY </eesti>
+<inglise> (1) OJ L 14, 17.1.1997, p. 1. </inglise>
+<eesti> (1) E&Uuml;T L 14, 17.01.1997, lk 1. </eesti>
+<inglise> ANNEX </inglise>
+<eesti> LISA </eesti>
+<inglise> TECHNICAL FORMAT </inglise>
+<eesti> TEHNILINE VORMING </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The form of the data </inglise>
+<eesti> Andmete vorm </eesti>
+<inglise> The data is sent as a set of records of which a large part describes the characteristics of the data (country, year, economic activity, etc.). </inglise>
+<eesti> Andmed esitatakse kirjete kogumina, millest suur osa kirjeldab andmete tunnuseid (riik, aasta, majandustegevus jne). </eesti>
+<inglise> The data itself is a number which can be linked to flags and explanatory footnotes used for example to describe aggregations of NACE codes. </inglise>
+<eesti> Andmed esitatakse arvudena, mida on v&otilde;imalik siduda m&auml;rgete ja selgitavate allm&auml;rkustega ning mida kasutatakse n&auml;iteks NACE liitkoodide esitamiseks. </eesti>
+<inglise> Confidential data should be sent with the true value being recorded in the value field and a flag indicating the nature of the confidential data being added to the record. </inglise>
+<eesti> Konfidentsiaalsete andmete esitamisel tuleks tegelik v&auml;&auml;rtus esitada v&auml;&auml;rtuse lahtris ning kirjele tuleks lisada m&auml;rge andmete konfidentsiaalsuse kohta. </eesti>
+<inglise> In order to be precise about the nature of the data, it is necessary to distinguish the following special cases: </inglise>
+<eesti> Andmete laadi t&auml;pseks m&auml;&auml;ratlemiseks on vaja eristada j&auml;rgmisi erijuhte: </eesti>
+<inglise> - data equal to zero (coded '0'): real values of zero only, </inglise>
+<eesti> - nullandmed (kood "0"): tegelikud nullv&auml;&auml;rtused, </eesti>
+<inglise> - confidential data (coded 'x'): indicates data which the Member State does not transmit to Eurostat because the data is confidential, </inglise>
+<eesti> - konfidentsiaalsed andmed (kood "x"): andmed, mida liikmesriik nende konfidentsiaalsuse t&otilde;ttu Eurostatile ei esita, </eesti>
+<inglise> - missing data (coded 'm'): this is data which is currently missing but the Member State intends to supply when available, </inglise>
+<eesti> - puuduvad andmed (kood "m"): esitamise ajal puuduvad andmed, mille liikmesriik esitab nende k&auml;ttesaamisel, </eesti>
+<inglise> - data not available: this is data which is not collected in a Member State. </inglise>
+<eesti> - andmed ei ole k&auml;ttesaadavad: andmed, mida liikmesriik ei kogu. </eesti>
+<inglise> In this case the corresponding record is not sent. </inglise>
+<eesti> Sel juhul vastavat kirjet ei esitata. </eesti>
+<inglise> By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist except for those which are missing because they form part of a regrouping of NACE codes. </inglise>
+<eesti> Eeldatakse, et kui t&auml;ielikke andmeid (muutuja, NUTS kood, NACE kood jne) ei ole kogutud, ei ole vastavaid kirjeid olemas, v&auml;lja arvatud need kirjed, mis puuduvad seep&auml;rast, et need kuuluvad NACE koodide hulka. </eesti>
+<inglise> This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as 'm', and data which is really equal to zero by supplying the corresponding records in which the data value is set to 0. </inglise>
+<eesti> Sellep&auml;rast on oluline eristada tegelikult puuduvaid andmeid, mille kirjetes andmev&auml;&auml;rtus (iga puuduva &uuml;hiku puhul) m&auml;rgitakse koodiga "m", ning tegelikke nullandmeid, mille kirjetes andmev&auml;&auml;rtuseks m&auml;rgitakse 0. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Record structure </inglise>
+<eesti> Kirje struktuur </eesti>
+<inglise> Records are made up of fields of variable length separated by semi-colons (;). </inglise>
+<eesti> Kirjed koosnevad eri pikkusega v&auml;ljadest, mis eraldatakse semikooloniga (;). </eesti>
+<inglise> The maximum expected length is shown in the table for information. </inglise>
+<eesti> V&auml;ljade eeldatav maksimumpikkus on esitatud tabelis. </eesti>
+<inglise> In order from left to right they are: </inglise>
+<eesti> V&auml;ljad vasakult paremale on j&auml;rgmised: </eesti>
+<inglise> NB: A=Alphanumeric, N=Numeric This format may be converted into a fixed format by using the maximum length of each field and right justifying the contents of each field preceded by blanks. </inglise>
+<eesti> NB! A=t&auml;htnumbriline, N=numbriline Selle vormingu v&otilde;ib esitada p&uuml;siformaadis, mille iga v&auml;lja pikkus on maksimaalne ja tekstid lahtrites on joondatud paremale, nii et neile eelnevad t&uuml;hikud. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Description of the fields </inglise>
+<eesti> V&auml;ljade kirjeldus </eesti>
+<inglise> 3.1. </inglise>
+<eesti> 3.1. </eesti>
+<inglise> The type of series </inglise>
+<eesti> Sarja liik </eesti>
+<inglise> 3.2. </inglise>
+<eesti> 3.2. </eesti>
+<inglise> Territorial unit </inglise>
+<eesti> Territoriaal&uuml;ksus </eesti>
+<inglise> This code corresponds to the country for national series or to the region for regional series (series 1C, 2F, 3E, 3F, 4F). It is based on the NUTS 95 code. </inglise>
+<eesti> See kood vastab riigisarjade puhul riigile ning piirkonnasarjade puhul piirkonnale (andmed 1C, 2F, 3E, 3F, 4F). <hi rend="sub"> Koo </hi> Kood p&otilde;hineb NUTS 95 koodil. </eesti>
+<inglise> For regions, two characters are added to the two characters for the country (see NUTS 95). </inglise>
+<eesti> Piirkondade puhul lisandub riigi koodile veel kaks numbrit (vt NUTS 95). </eesti>
+<inglise> 3.3. </inglise>
+<eesti> 3.3. </eesti>
+<inglise> Size classes </inglise>
+<eesti> Suurusklassid </eesti>
+<inglise> Each size class corresponds to a code. </inglise>
+<eesti> Igal suurusklassil on oma kood. </eesti>
+<inglise> Most series cover all size categories and hence code 30 is the most appropriate. </inglise>
+<eesti> Enamik sarju h&otilde;lmab k&otilde;iki suurusklasse ning seep&auml;rast on k&otilde;ige asjakohasem kasutada koodi 30. </eesti>
+<inglise> All codes from 01 up to 53 refer to the number of persons employed. </inglise>
+<eesti> K&otilde;ik koodid 01-53 viitavad t&ouml;&ouml;ga h&otilde;ivatud isikute arvule. </eesti>
+<inglise> Codes 80 to 85 refer to gross premiums written. </inglise>
+<eesti> Koodid 80-85 viitavad etten&auml;htud maksete kogusummadele. </eesti>
+<inglise> 3.4. </inglise>
+<eesti> 3.4. </eesti>
+<inglise> Economic activity </inglise>
+<eesti> Majandustegevus </eesti>
+<inglise> This field is used for the NACE Rev. 1 heading. </inglise>
+<eesti> Seda v&auml;lja kasutatakse NACE Rev.1 vastava rubriigi jaoks. </eesti>
+<inglise> A number of standard aggregates are foreseen by the SBS Regulation and should be coded as follows. </inglise>
+<eesti> Struktuurilist ettev&otilde;tlusstatistikat k&auml;sitlevas m&auml;&auml;ruses on s&auml;testatud j&auml;rgmised standardsed liitkoodid: </eesti>
+<inglise> Non-standard aggregates should be indicated in the 'Aggregation of NACE codes field'. </inglise>
+<eesti> Mittestandardsed liitkoodid tuleb esitada v&auml;ljal "NACE koodide liitmine". </eesti>
+<inglise> 3.5. </inglise>
+<eesti> 3.5. </eesti>
+<inglise> Form of ownership or FATS identification </inglise>
+<eesti> Omandivorm v&otilde;i FATSi samasustunnus </eesti>
+<inglise> This field is used either for breakdowns according to form of ownership (only used in industry and construction) or FATS identification (only used in services). </inglise>
+<eesti> Sellel v&auml;ljal esitatakse liigitus omandivormi (ainult t&ouml;&ouml;stuse ja ehituse puhul) v&otilde;i FATSi tunnuste (ainult teenuste puhul) alusel. </eesti>
+<inglise> There are no series that breakdown by both classifications. </inglise>
+<eesti> &Uuml;htegi sarja ei liigitata samaaegselt m&otilde;lemal alusel. </eesti>
+<inglise> The requirements concerning the breakdown of characteristics following the location of ownership or control (FATS) are part of Annex 1, section 10, paragraph 3 of Regulation (EC, Euratom) No 58/97. </inglise>
+<eesti> N&otilde;uded tunnuste liigitamiseks omandi v&otilde;i valitsevat m&otilde;ju omava ettev&otilde;tja asukoha j&auml;rgi on esitatud m&auml;&auml;ruse (E&Uuml;, Euratom) nr 58/97 lisa 1 10. jao l&otilde;ikes 3. </eesti>
+<inglise> Thus data collection is subject to testing. </inglise>
+<eesti> Samuti kontrollitakse andmete kogumist. </eesti>
+<inglise> The data concern a breakdown of totals by the country or geographical region where ownership or control is located. </inglise>
+<eesti> Koguarvud on jaotatud omandi v&otilde;i valitsevat m&otilde;ju omava ettev&otilde;tja asukohariikide v&otilde;i geograafiliste piirkondade kaupa. </eesti>
+<inglise> Three pieces of information are required: </inglise>
+<eesti> Tuleb esitada kolme liiki andmed: </eesti>
+<inglise> - the method used for the collection: ultimate beneficial owner or 'first shot' information, </inglise>
+<eesti> - andmete kogumiseks kasutatud meetod: tegelikult tulusaavalt omanikult v&otilde;i otseselt omanikult p&auml;rinevad andmed, </eesti>
+<inglise> - the kind of FATS: inward/resident FATS or outward FATS, </inglise>
+<eesti> - FATSi liik: antud riigis asuva v&auml;lisriigi &auml;ri&uuml;hingu filiaali kaubandusstatistika v&otilde;i antud riigi &auml;ri&uuml;hingu v&auml;lisriigis asuva filiaali kaubandusstatistika, </eesti>
+<inglise> - the country where ownership or control is located or for outward FATS where, for example, turnover is generated or employment is located. </inglise>
+<eesti> - omandi v&otilde;i valitsevat m&otilde;ju omava ettev&otilde;tja asukohariik antud riigi &auml;ri&uuml;hingu v&auml;lisriigis asuva filiaali kaubandusstatistika puhul k&auml;ibe tekkimise koht v&otilde;i t&ouml;&ouml;koha asukoht. </eesti>
+<inglise> 3.6. </inglise>
+<eesti> 3.6. </eesti>
+<inglise> Location of ownership - FATS </inglise>
+<eesti> Omandi asukoht - FATS </eesti>
+<inglise> Only used in services. </inglise>
+<eesti> Kasutatakse ainult teenuste puhul. </eesti>
+<inglise> The codes to be used are those also used for balance of payments statistics (the same as the above codes in section 3.2). </inglise>
+<eesti> Kasutatakse maksebilansistatistika puhul kasutatavaid koode (vt eespool punkt 3.2). </eesti>
+<inglise> Country codes and other area codes (an incomplete list) are shown at the end of this format. </inglise>
+<eesti> Riikide koodid ja teised piirkondade koodid (mittet&auml;ielik loetelu) on esitatud k&auml;esoleva vormingu l&otilde;pus. </eesti>
+<inglise> 3.7. </inglise>
+<eesti> 3.7. </eesti>
+<inglise> Variable </inglise>
+<eesti> Muutuja </eesti>
+<inglise> 3.8. </inglise>
+<eesti> 3.8. </eesti>
+<inglise> Data value </inglise>
+<eesti> Andmev&auml;&auml;rtus </eesti>
+<inglise> Monetary data is expressed in thousands of national currency units except for: </inglise>
+<eesti> Rahalised andmed esitatakse omav&auml;&auml;ringus tuhandetes, v&auml;lja arvatud j&auml;rgmised riigid: </eesti>
+<inglise> - Ireland: data is given in units (IEP), </inglise>
+<eesti> - Iirimaa: andmed esitatakse raha&uuml;hikutes (Iiri naelades), </eesti>
+<inglise> - Spain, Greece and Italy: data is given in millions of national currency units. </inglise>
+<eesti> - Hispaania, Kreeka ja Itaalia: andmed esitatakse miljonites omav&auml;&auml;ringu &uuml;hikutes. </eesti>
+<inglise> In order to be precise about the nature of the data, it is necessary to distinguish the following cases: </inglise>
+<eesti> Andmete laadi t&auml;psustamiseks on vaja eristada j&auml;rgmisi juhte: </eesti>
+<inglise> - data equal to zero (coded '0'): real values of zero only, </inglise>
+<eesti> - nullandmed (kood "0"): tegelikud nullv&auml;&auml;rtused, </eesti>
+<inglise> - confidential data (coded 'X'): indicates data which the Member State does not transmit to Eurostat because the data is confidential. </inglise>
+<eesti> - konfidentsiaalsed andmed (kood "X"): andmed, mida liikmesriik nende konfidentsiaalsuse t&otilde;ttu Eurostatile ei esita. </eesti>
+<inglise> A flag should also be used to indicate that the data is missing due to confidentiality (see 3.10 below), </inglise>
+<eesti> Konfidentsiaalsuse t&otilde;ttu puuduvad andmed tuleb t&auml;histada vastava m&auml;rkega (vt allpool punkt 3.10), </eesti>
+<inglise> - missing data (coded 'm'): this is data which is currently missing but the Member State intends to supply when available, </inglise>
+<eesti> - puuduvad andmed (kood "m"): esitamise ajal puuduvad andmed, mille liikmesriik esitab nende k&auml;ttesaamisel, </eesti>
+<inglise> - data not available: this is data, which is not collected in a Member State. </inglise>
+<eesti> - andmeid ei ole: andmed, mida liikmesriik ei kogu. </eesti>
+<inglise> In this case the corresponding record is not sent. </inglise>
+<eesti> Sel juhul vastavat kirjet ei esitata. </eesti>
+<inglise> By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist excepts for those which are missing because they form part of a regrouping of NACE codes. </inglise>
+<eesti> Eeldatakse, et kui t&auml;ielikke andmeid (muutuja, NUTS kood, NACE kood jne) ei ole kogutud, ei ole vastavaid kirjeid olemas, v&auml;lja arvatud need kirjed, mis puuduvad seep&auml;rast, et need kuuluvad NACE koodide hulka. </eesti>
+<inglise> This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as 'm'. </inglise>
+<eesti> Seep&auml;rast on oluline eristada tegelikult puuduvaid andmeid, m&auml;rkides vastavates kirjetes (iga puuduva &uuml;hiku puhul) andmev&auml;&auml;rtuse koodiga "m". </eesti>
+<inglise> 3.9. </inglise>
+<eesti> 3.9. </eesti>
+<inglise> Quality flag </inglise>
+<eesti> M&auml;rge kvaliteedi kohta </eesti>
+<inglise> Revised data refers to data which are sent for a second (or more) time and are corrections of data which have been previously sent. </inglise>
+<eesti> Muudetud andmed on teist korda (v&otilde;i enam) saadetud andmed, mis korrigeerivad eelnevalt saadetud andmeid. </eesti>
+<inglise> Updated data concerns data which was not previously available and was coded as missing in the data value field (see 3.8) but has since become available. </inglise>
+<eesti> Uuendatud andmed on need, mis ei olnud varem k&auml;ttesaadavad ja on v&auml;&auml;rtuse v&auml;ljal (vt 3.8) esitatud puuduvate andmetena, kuid on hiljem muutunud k&auml;ttesaadavaks. </eesti>
+<inglise> The flag indicating provisional data should be used in order to indicate that it is likely that that the data being transmitted may be corrected. </inglise>
+<eesti> Esialgseid andmeid t&auml;histavat m&auml;rget tuleb kasutada selliste andmete puhul, milles t&otilde;en&auml;oliselt tehakse parandusi. </eesti>
+<inglise> 3.10. </inglise>
+<eesti> 3.10. </eesti>
+<inglise> Confidentiality </inglise>
+<eesti> Konfidentsiaalsus </eesti>
+<inglise> Member States are asked to clearly indicate confidential data using the flags listed below. </inglise>
+<eesti> Liikmesriigid t&auml;histavad konfidentsiaalsed andmed allpool loetletud m&auml;rgetega. </eesti>
+<inglise> Countries which cannot send confidential data are asked to set the value to 'x' (see 3.8) and to indicate using a flag that the data is missing due to confidentiality. </inglise>
+<eesti> Riigid, kes ei saa konfidentsiaalseid andmeid esitada, kasutavad koodi "x" (vt 3.8) ning m&auml;rget, et andmed puuduvad konfidentsiaalsuse t&otilde;ttu. </eesti>
+<inglise> 3.11. </inglise>
+<eesti> 3.11. </eesti>
+<inglise> Turnover size classes </inglise>
+<eesti> K&auml;ive suurusklasside kaupa </eesti>
+<inglise> The size classes below are measured in million ECU. </inglise>
+<eesti> Allpool esitatud suurusklassid on v&auml;ljendatud miljonites ek&uuml;&uuml;des. </eesti>
+<inglise> 3.12. </inglise>
+<eesti> 3.12. </eesti>
+<inglise> Sales area size classes </inglise>
+<eesti> M&uuml;&uuml;gipind suurusklasside kaupa </eesti>
+<inglise> 3.13. </inglise>
+<eesti> 3.13. </eesti>
+<inglise> Units of data values </inglise>
+<eesti> Andmev&auml;&auml;rtus&uuml;hikud </eesti>
+<inglise> This field is optional and allows Member States to specify which units have been used for the data values used in the data transmission. </inglise>
+<eesti> Selle v&auml;lja t&auml;itmine ei ole kohustuslik ning v&otilde;imaldab liikmesriikidel m&auml;&auml;ratleda, milliseid &uuml;hikuid on edastatud andmete korral kasutatud. </eesti>
+<inglise> The correct implementation of section 3.8 makes it unnecessary to use this field. </inglise>
+<eesti> Punkti 3.8 n&otilde;uetekohase t&auml;itmise korral ei ole vaja k&auml;esolevat v&auml;lja t&auml;ita. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Examples of records </inglise>
+<eesti> Kirjete n&auml;ited </eesti>
+<inglise> Example 1: Aggregation of NACE-codes </inglise>
+<eesti> N&auml;ide 1: NACE liitkoodid </eesti>
+<inglise> Series 2A data for 1995 for Germany. </inglise>
+<eesti> Saksamaad k&auml;sitlev sari 2A 1995. aasta kohta. </eesti>
+<inglise> The NACE code 231 contains the aggregation of codes 231 + 232 + 233 for variable 16 11 0: number of persons employed. </inglise>
+<eesti> Muutuja 16 11 0 ("T&ouml;&ouml;ga h&otilde;ivatud isikute arv") puhul kujutab NACE kood 231 endast koodide &uuml;hendit 231+232+233. </eesti>
+<inglise> It is not confidential. </inglise>
+<eesti> Need andmed ei ole konfidentsiaalsed. </eesti>
+<inglise> 2A; 1995; DE; 30; 231;;; 16110; 2700; M;;; 231 = 231 + 232 + 233; </inglise>
+<eesti> 2A; 1995; DE; 30; 231;;; 16110; 2700; M;;; 231 = 231+232+233; </eesti>
+<inglise> Example 2: Confidential data: too few enterprises </inglise>
+<eesti> N&auml;ide 2: Konfidentsiaalsed andmed: liiga v&auml;he ettev&otilde;tteid </eesti>
+<inglise> Total wages and salaries (DEM 12 124 million) for the manufacture of iron and steel (NACE 271) in 1995 in the region of Fribourg (series C) is confidential because there are too few enterprises. </inglise>
+<eesti> 1995. aastal Freiburgi piirkonnas (sari C) malmi- ja terasetootmissektoris (NACE 271) makstud palkade kogusumma (12 124 miljonit Saksa marka) on konfidentsiaalne, sest ettev&otilde;tteid on liiga v&auml;he. </eesti>
+<inglise> This is revised data. </inglise>
+<eesti> Need on muudetud andmed. </eesti>
+<inglise> 2C; 1995; DE13; 30; 271;;; 13320; 12124000; R; A;;; </inglise>
+<eesti> 2C; 1995; DE13; 30; 271;;; 13320; 12124000; R; A;;; </eesti>
+<inglise> Example 3: Confidential data: dominance by one enterprise </inglise>
+<eesti> N&auml;ide 3: Konfidentsiaalsed andmed: &uuml;ks ettev&otilde;te domineerib </eesti>
+<inglise> The number of persons employed (2 700) in France in 1996 for enterprises of 250 to 499 employees for NACE 141 is confidential. </inglise>
+<eesti> NACE 141 puhul on 1996. aastal Prantsusmaal 250-499 t&ouml;&ouml;tajaga ettev&otilde;tete t&ouml;&ouml;st h&otilde;ivatud isikute arv (2700) konfidentsiaalne. </eesti>
+<inglise> One enterprise dominates the data and represents 92 % of employment. </inglise>
+<eesti> Andmetes domineerib &uuml;ks ettev&otilde;te, kelle t&ouml;&ouml;tajad moodustavad 92%. </eesti>
+<inglise> This is provisional data. </inglise>
+<eesti> Need on esialgsed andmed. </eesti>
+<inglise> 2D; 1996; FR; 14; 141;;; 16110; 2700; P; B; 92;; </inglise>
+<eesti> 2D; 1996; FR; 14; 141;;; 16110; 2700; P; B; 92;; </eesti>
+<inglise> Example 4: Size class data: sales area in retail trade </inglise>
+<eesti> N&auml;ide 4: Andmed suurusklassi kohta: jaem&uuml;&uuml;gikaupluste m&uuml;&uuml;gipind </eesti>
+<inglise> The turnover of the retail sale of foods (NACE Rev. 1 52.2) in Luxembourg in 1996 for a sales space of 120 to 399 m2 was LUF 1 000 million. </inglise>
+<eesti> Luksemburgi 1996. aasta toidukaupade jaem&uuml;&uuml;gi k&auml;ive (NACE Rev.1 52.2) oli 1000 miljonit Luksemburgi franki 120-399m (2) m&uuml;&uuml;gipinna kohta. </eesti>
+<inglise> It is updated data. </inglise>
+<eesti> Need on uuendatud andmed. </eesti>
+<inglise> 3C; 1996; LU; 30; 522;;; 12110; 1000000; M;;;;;; 02 </inglise>
+<eesti> 3C; 1996; LU; 30; 522;;; 12110; 1000000; M;;;;;; 02 </eesti>
+<inglise> Example 5: Inward FATS in road freight transport </inglise>
+<eesti> N&auml;ide 5: Antud riigis asuva v&auml;lisriigi &auml;ri&uuml;hingu filiaali kaubandusstatistika autokaubavedude puhul </eesti>
+<inglise> In 1995 the number of enterprises (code 11110) in the Netherlands in road freight transport owned or controlled by an enterprise in the USA, following the concept of ultimate beneficial ownership (UBO), is 4. </inglise>
+<eesti> 1995. aastal oli Madalmaades 4 sellist autokaubaveoettev&otilde;tet (kood 11110), mis on tegelikult tulusaava omaniku p&otilde;him&otilde;tte alusel USA ettev&otilde;tte omanduses v&otilde;i kontrolli all. </eesti>
+<inglise> The data is provisional. It concerns Annex 1 data and the specification on the data value is added. </inglise>
+<eesti> Need on 1. lisa kohased esialgsed andmed ning neile lisatakse andmev&auml;&auml;rtuste spetsifikaat. </eesti>
+<inglise> 1G; 1995; NL; 30; 6024; 30; US; 11110; 4; P;;;; UNIT </inglise>
+<eesti> 1G; 1995; NL; 30; 6024; 30; US; 11110; 4; P;;;; UNIT </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Type of magnetic media </inglise>
+<eesti> Magnetkandja liik </eesti>
+<inglise> In order to facilitate reading the data, the data must be supplied on 3,5" diskette. </inglise>
+<eesti> Andmete lugemise h&otilde;lbustamiseks tuleb andmed esitada 3,5 tollisel disketil. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> Other methods </inglise>
+<eesti> Teised meetodid </eesti>
+<inglise> Upon written request Eurostat can provide Member States with electronic questionnaires for the service sectors using Microsoft Excel. </inglise>
+<eesti> Eurostat v&otilde;ib liikmesriikidele kirjaliku taotluse korral esitada elektroonilised k&uuml;simustikud teenusesektorite jaoks, kes kasutavad arvutiprogrammi Microsoft Excel. </eesti>
+<inglise> The request should be made well in advance of the planned date of data delivery. </inglise>
+<eesti> Taotlus tuleb esitada aegsasti enne andmete esitamise t&auml;htaega. </eesti>
+<inglise> INCOMPLETE EXAMPLE SET OF CODINGS FOR FAT STATISTICS </inglise>
+<eesti> FAT-STATISTIKA KOODIDE MITTET&Auml;IELIK N&Auml;IDISLOETELU </eesti>
+<inglise> Codings to be used are those for balance of payments statistics (1) </inglise>
+<eesti> Kasutada maksebilansistatistika puhul kasutatavaid koode. (1) </eesti>
+<inglise> (1) Except for the United Kingdom for which the code 'UK' is to be used instead of GB. </inglise>
+<eesti> (1) V&auml;lja arvatud &Uuml;hendkuningriik, kelle koodina kasutatakse "GB" asemel l&uuml;hendit "UK". </eesti>
+ 

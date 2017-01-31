@@ -1,0 +1,273 @@
+<inglise> DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 May 1998 on settlement finality in payment and securities settlement systems </inglise>
+<eesti> EUROOPA PARLAMENDI JA N&Otilde;UKOGU DIREKTIIV 98/26/E&Uuml; arvelduse l&otilde;plikkuse kohta makse- ja v&auml;&auml;rtpaberiarvelduss&uuml;steemides 19. mai 1998 </eesti>
+<inglise> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, </inglise>
+<eesti> EUROOPA PARLAMENT JA EUROOPA LIIDU N&Otilde;UKOGU, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, eriti selle artiklit 100a, </eesti>
+<inglise> Having regard to the proposal from the Commission (1), </inglise>
+<eesti> v&otilde;ttes arvesse komisjoni ettepanekut, </eesti>
+<inglise> Having regard to the opinion of the European Monetary Institute (2), </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa Rahainstituudi arvamust, </eesti>
+<inglise> Having regard to the opinion of the Economic and Social Committee (3), </inglise>
+<eesti> v&otilde;ttes arvesse majandus- ja sotsiaalkomitee arvamust, </eesti>
+<inglise> Acting in accordance with the procedure laid down in Article 189b of the Treaty (4), </inglise>
+<eesti> toimides asutamislepingu artiklis 189b s&auml;testatud korras ning arvestades, et: </eesti>
+<inglise> (1) Whereas the Lamfalussy report of 1990 to the Governors of the central banks of the Group of Ten Countries demonstrated the important systemic risk inherent in payment systems which operate on the basis of several legal types of payment netting, in particular multilateral netting; whereas the reduction of legal risks associated with participation in real time gross settlement systems is of paramount importance, given the increasing development of these systems; </inglise>
+<eesti> 1) 1990. aasta Lamfalussy aruandes k&uuml;mne grupi riikide keskpankade juhatajatele osutati t&auml;htsale s&uuml;steemiriskile, mis on seotud maksete mitme &otilde;igusliku tasaarvelduse viisi, eelk&otilde;ige mitmepoolse tasaarvelduse kasutamisel p&otilde;hinevate makses&uuml;steemidega; reaalajalistes brutoarvelduss&uuml;steemides osalemisega seotud &otilde;iguslike riskide v&auml;hendamine on &uuml;limalt t&auml;htis, arvestades nende s&uuml;steemide j&auml;tkuvat arengut; </eesti>
+<inglise> (2) Whereas it is also of the utmost importance to reduce the risk associated with participation in securities settlement systems, in particular where there is a close connection between such systems and payment systems; </inglise>
+<eesti> 2) samuti on &auml;&auml;rmiselt oluline v&auml;hendada v&auml;&auml;rtpaberiarvelduss&uuml;steemides osalemisega seotud riski, eelk&otilde;ige juhul, kui sellised s&uuml;steemid ja makses&uuml;steemid on omavahel tihedalt seotud; </eesti>
+<inglise> (3) Whereas this Directive aims at contributing to the efficient and cost effective operation of cross-border payment and securities settlement arrangements in the Community, which reinforces the freedom of movement of capital in the internal market; whereas this Directive thereby follows up the progress made towards completion of the internal market, in particular towards the freedom to provide services and liberalisation of capital movements, with a view to the realisation of Economic and Monetary Union; </inglise>
+<eesti> 3) k&auml;esoleva direktiivi eesm&auml;rk on toetada rahvusvaheliste maksete ja v&auml;&auml;rtpaberiarvelduste korra t&otilde;husat ja tasuvat toimimist &uuml;henduses, mis tugevdab kapitali liikumise vabadust siseturul; seel&auml;bi j&auml;tkab k&auml;esolev direktiiv edusamme, mis on tehtud siseturu v&auml;ljakujundamise, eelk&otilde;ige teenuste osutamise vabaduse ja kapitali liikumise piirangutest vabastamise suunas, et saavutada majandus- ja rahaliit; </eesti>
+<inglise> (4) Whereas it is desirable that the laws of the Member States should aim to minimise the disruption to a system caused by insolvency proceedings against a participant in that system; </inglise>
+<eesti> 4) on soovitav, et liikmesriikide &otilde;igusaktide eesm&auml;rk oleks v&otilde;imalikult v&auml;hendada s&uuml;steemi h&auml;ireid, mida p&otilde;hjustavad k&otilde;nealuses s&uuml;steemis osaleja vastu algatatud maksej&otilde;uetusmenetlused; </eesti>
+<inglise> (5) Whereas a proposal for a Directive on the reorganisation and winding-up of credit institutions submitted in 1985 and amended on 8 February 1988 is still pending before the Council; whereas the Convention on Insolvency Proceedings drawn up on 23 November 1995 by the Member States meeting within the Council explicitly excludes insurance undertakings, credit institutions and investment firms; </inglise>
+<eesti> 5) 1985. aastal esitatud ja 8. veebruaril 1988 muudetud ettepaneku suhtes krediidiasutuste &uuml;mberkorraldamist ja l&otilde;petamist k&auml;sitleva direktiivi vastuv&otilde;tmiseks ei ole n&otilde;ukogu veel otsust teinud; n&otilde;ukogus kohtunud liikmesriikide 23. novembril 1995 koostatud maksej&otilde;uetusmenetluse konventsiooni reguleerimisalast arvatakse s&otilde;naselgelt v&auml;lja kindlustusseltsid, krediidiasutused ja investeerimis&uuml;hingud; </eesti>
+<inglise> (6) Whereas this Directive is intended to cover payment and securities settlement systems of a domestic as well as of a cross-border nature; whereas the Directive is applicable to Community systems and to collateral security constituted by their participants, be they Community or third country participants, in connection with participation in these systems; </inglise>
+<eesti> 6) k&auml;esoleva direktiivi eesm&auml;rk on h&otilde;lmata nii siseriiklikke kui ka rahvusvahelisi makse- ja v&auml;&auml;rtpaberiarvelduss&uuml;steeme; k&auml;esolevat direktiivi kohaldatakse &uuml;henduse s&uuml;steemide ja tagatiste suhtes, mida nendes osalejad, olgu siis &uuml;hendusest v&otilde;i kolmandatest riikidest, on andnud seoses nendes s&uuml;steemides osalemisega; </eesti>
+<inglise> (7) Whereas Member States may apply the provisions of this Directive to their domestic institutions which participate directly in third country systems and to collateral security provided in connection with participation in such systems; </inglise>
+<eesti> 7) liikmesriigid v&otilde;ivad kohaldada k&auml;esoleva direktiivi s&auml;tteid oma siseriiklike asutuste suhtes, kes osalevad vahetult kolmandate riikide s&uuml;steemides, ja seoses osalemisega sellistes s&uuml;steemides antud tagatiste suhtes; </eesti>
+<inglise> (8) Whereas Member States should be allowed to designate as a system covered by this Directive a system whose main activity is the settlement of securities even if the system to a limited extent also deals with commodity derivatives; </inglise>
+<eesti> 8) liikmesriikidel tuleks lubada m&auml;&auml;rata k&auml;esoleva direktiiviga reguleeritavaks selline s&uuml;steem, mille p&otilde;hitegevus on v&auml;&auml;rtpaberiarveldused, isegi kui s&uuml;steemis tegeldakse piiratud ulatuses ka kaubap&otilde;histe tuletisv&auml;&auml;rtpaberitega; </eesti>
+<inglise> (9) Whereas the reduction of systemic risk requires in particular the finality of settlement and the enforceability of collateral security; whereas collateral security is meant to comprise all means provided by a participant to the other participants in the payment and/or securities settlement systems to secure rights and obligations in connection with that system, including repurchase agreements, statutory liens and fiduciary transfers; whereas regulation in national law of the kind of collateral security which can be used should not be affected by the definition of collateral security in this Directive; </inglise>
+<eesti> 9) s&uuml;steemiriski v&auml;hendamine eeldab eelk&otilde;ige arvelduse l&otilde;plikkust ja tagatise t&auml;itmisele p&ouml;&ouml;ratavust; tagatistena k&auml;sitletakse k&otilde;iki vahendeid, kaasa arvatud tagasiostulepingud, seadusj&auml;rgsed pandi&otilde;igused ja tagatis&otilde;iguste &uuml;leminek usaldusisikule, mida osaleja annab teistele makse- ja/v&otilde;i v&auml;&auml;rtpaberiarvelduss&uuml;steemides osalejatele, et tagada selle s&uuml;steemiga seotud &otilde;igusi ja kohustusi; tagatise m&auml;&auml;ratlus k&auml;esolevas direktiivis ei tohiks m&otilde;jutada siseriiklikke eeskirju kasutatavate tagatiste liikide kohta; </eesti>
+<inglise> (10) Whereas this Directive, by covering collateral security provided in connection with operations of the central banks of the Member States functioning as central banks, including monetary policy operations, assists the European Monetary Institute in its task of promoting the efficiency of cross-border payments with a view to the preparation of the third stage of Economic and Monetary Union and thereby contributes to developing the necessary legal framework in which the future European central bank may develop its policy; </inglise>
+<eesti> 10) h&otilde;lmates tagatisi, mis on antud seoses keskpankade &uuml;lesannet t&auml;itvate liikmesriikide keskpankade toimingutega, kaasa arvatud rahapoliitilised meetmed, abistab k&auml;esolev direktiiv Euroopa Rahainstituuti tema &uuml;lesandes t&otilde;hustada v&auml;lismaksete sooritamist, et valmistada ette majandus- ja rahaliidu kolmandat etappi, ning toetab seel&auml;bi vajaliku &otilde;igusliku raamistiku kujundamist, milles tulevane Euroopa Keskpank v&otilde;ib arendada oma rahapoliitikat; </eesti>
+<inglise> (11) Whereas transfer orders and their netting should be legally enforceable under all Member States' jurisdictions and binding on third parties; </inglise>
+<eesti> 11) maksejuhised ja nende tasaarveldused peaksid olema k&otilde;ikides liikmesriikides &otilde;iguslikult t&auml;itmisele p&ouml;&ouml;ratavad ja kolmandatele isikutele siduvad; </eesti>
+<inglise> (12) Whereas rules on finality of netting should not prevent systems testing, before the netting takes place, whether orders that have entered the system comply with the rules of that system and allow the settlement of that system to take place; </inglise>
+<eesti> 12) tasaarvelduse l&otilde;plikkust k&auml;sitlevad eeskirjad ei tohiks takistada s&uuml;steeme enne tasaarvelduse toimumist kontrollimast, kas s&uuml;steemi sisestatud juhised vastavad k&otilde;nealuse s&uuml;steemi eeskirjadele ja v&otilde;imaldavad teostada tasaarveldust selles s&uuml;steemis; </eesti>
+<inglise> (13) Whereas nothing in this Directive should prevent a participant or a third party from exercising any right or claim resulting from the underlying transaction which they may have in law to recovery or restitution in respect of a transfer order which has entered a system, e.g. in case of fraud or technical error, as long as this leads neither to the unwinding of netting nor to the revocation of the transfer order in the system; </inglise>
+<eesti> 13) mitte miski k&auml;esolevas direktiivis ei tohiks takistada &uuml;htki osalejat ega kolmandat isikut kasutamast v&otilde;imalikke seadusj&auml;rgseid &otilde;igusi v&otilde;i esitamast n&otilde;udeid aluseks oleva tehingu tagaj&auml;rjel s&uuml;steemi sisestatud maksejuhise tagasisaamiseks v&otilde;i tagastamiseks, n&auml;iteks pettuse v&otilde;i tehnilise vea korral, kui see ei p&otilde;hjusta tasaarvelduse ega maksejuhise t&uuml;histamist s&uuml;steemis; </eesti>
+<inglise> (14) Whereas it is necessary to ensure that transfer orders cannot be revoked after a moment defined by the rules of the system; </inglise>
+<eesti> 14) on vaja tagada, et maksejuhiseid ei saa t&uuml;histada p&auml;rast s&uuml;steemi eeskirjades m&auml;&auml;ratletud ajahetke; </eesti>
+<inglise> (15) Whereas it is necessary that a Member State should immediately notify other Member States of the opening of insolvency proceedings against a participant in the system; </inglise>
+<eesti> 15) on vaja, et liikmesriik teataks teistele liikmesriikidele viivitamata maksej&otilde;uetusmenetluse algatamisest s&uuml;steemis osaleja vastu; </eesti>
+<inglise> (16) Whereas insolvency proceedings should not have a retroactive effect on the rights and obligations of participants in a system; </inglise>
+<eesti> 16) maksej&otilde;uetusmenetlustel ei tohiks olla tagasiulatuvat j&otilde;udu s&uuml;steemis osaleja &otilde;iguste ja kohustuste suhtes; </eesti>
+<inglise> (17) Whereas, in the event of insolvency proceedings against a participant in a system, this Directive furthermore aims at determining which insolvency law is applicable to the rights and obligations of that participant in connection with its participation in a system; </inglise>
+<eesti> 17) maksej&otilde;uetusmenetluse korral s&uuml;steemis osaleja vastu on k&auml;esoleva direktiivi eesm&auml;rk lisaks sellele m&auml;&auml;rata kindlaks, millist maksej&otilde;uetus&otilde;igust kohaldatakse osaleja &otilde;iguste ja kohustuste suhtes seoses tema osalemisega s&uuml;steemis; </eesti>
+<inglise> (18) Whereas collateral security should be insulated from the effects of the insolvency law applicable to the insolvent participant; </inglise>
+<eesti> 18) maksej&otilde;uetu osaleja suhtes kohaldatav maksej&otilde;uetus&otilde;igus ei tohiks m&otilde;jutada tagatist; </eesti>
+<inglise> (19) Whereas the provisions of Article 9(2) should only apply to a register, account or centralized deposit system which evidences the existence of proprietary rights in or for the delivery or transfer of the securities concerned; </inglise>
+<eesti> 19) artikli 9 l&otilde;ike 2 s&auml;tteid tuleks kohaldada &uuml;ksnes registri, konto v&otilde;i keskse depositooriumi suhtes, mis t&otilde;endab k&otilde;nealuste v&auml;&auml;rtpaberite suhtes varaliste &otilde;iguste v&otilde;i nende &uuml;leandmise v&otilde;i &uuml;lekandmise &otilde;iguste olemasolu; </eesti>
+<inglise> (20) Whereas the provisions of Article 9(2) are intended to ensure that if the participant, the central bank of a Member State or the future European central bank has a valid and effective collateral security as determined under the law of the Member State where the relevant register, account or centralized deposit system is located, then the validity and enforceability of that collateral security as against that system (and the operator thereof) and against any other person claiming directly or indirectly through it, should be determined solely under the law of that Member State; </inglise>
+<eesti> 20) artikli 9 l&otilde;ike 2 s&auml;tted on m&otilde;eldud tagamaks, et juhul, kui osalejal, liikmesriigi keskpangal v&otilde;i tulevasel Euroopa Keskpangal on kehtiv tagatis selle liikmesriigi &otilde;iguse kohaselt, kus asjakohane register, konto v&otilde;i keskne depositoorium asub, tuleks selle tagatise kehtivust ja t&auml;itmisele p&ouml;&ouml;ratavust selle s&uuml;steemi (ja selle k&auml;itaja) ning k&otilde;ikide muude otseselt v&otilde;i kaudselt l&auml;bi selle s&uuml;steemi n&otilde;udeid esitavate isikute suhtes m&auml;&auml;rata kindlaks &uuml;ksnes k&otilde;nealuse liikmesriigi &otilde;iguse alusel; </eesti>
+<inglise> (21) Whereas the provisions of Article 9(2) are not intended to prejudice the operation and effect of the law of the Member State under which the securities are constituted or of the law of the Member State where the securities may otherwise be located (including, without limitation, the law concerning the creation, ownership or transfer of such securities or of rights in such securities) and should not be interpreted to mean that any such collateral security will be directly enforceable or be capable of being recognised in any such Member State otherwise than in accordance with the law of that Member State; </inglise>
+<eesti> 21) artikli 9 l&otilde;ike 2 s&auml;tete eesm&auml;rk ei ole piirata selle liikmesriigi &otilde;iguse kohaldamist ja m&otilde;ju, kelle &otilde;iguse alusel on v&auml;&auml;rtpaberid v&auml;lja lastud, ega selle liikmesriigi &otilde;iguse kohaldamist ja m&otilde;ju, kus v&auml;&auml;rtpaberid muul juhul asuvad (sealhulgas piiramata selliste v&auml;&auml;rtpaberite v&otilde;i nendega seotud &otilde;iguste v&auml;ljalaskmist, omamist v&otilde;i &uuml;leandmist k&auml;sitlevate &otilde;igusaktide kohaldamist), ning neid s&auml;tteid ei tohiks t&otilde;lgendada nii, et iga selline tagatis on vahetult t&auml;itmisele p&ouml;&ouml;ratav v&otilde;i tunnustatav m&otilde;nes sellises liikmesriigis ka muul viisil kui koosk&otilde;las selle liikmesriigi &otilde;igusega; </eesti>
+<inglise> (22) Whereas it is desirable that Member States endeavour to establish sufficient links between all the securities settlement systems covered by this Directive with a view towards promoting maximum transparency and legal certainty of transactions relating to securities; </inglise>
+<eesti> 22) on soovitav, et liikmesriigid &uuml;ritavad luua piisavaid sidemeid k&otilde;ikide k&auml;esoleva direktiiviga reguleeritavate v&auml;&auml;rtpaberiarvelduss&uuml;steemide vahel, et saavutada v&auml;&auml;rtpaberitega seotud tehingute osas v&otilde;imalikult suur l&auml;bipaistvus ja &otilde;iguskindlus; </eesti>
+<inglise> (23) Whereas the adoption of this Directive constitutes the most appropriate way of realising the abovementioned objectives and does not go beyond what is necessary to achieve them, </inglise>
+<eesti> 23) k&auml;esoleva direktiivi vastuv&otilde;tmine on k&otilde;ige sobivam viis eespool nimetatud eesm&auml;rkide saavutamiseks, h&otilde;lmamata rohkem kui nende saavutamiseks h&auml;davajalik, </eesti>
+<inglise> HAVE ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> SECTION I </inglise>
+<eesti> I JAGU </eesti>
+<inglise> SCOPE AND DEFINITIONS </inglise>
+<eesti> REGULEERIMISALA JA M&Otilde;ISTED </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> The provisions of this Directive shall apply to: </inglise>
+<eesti> K&auml;esoleva direktiivi s&auml;tteid kohaldatakse: </eesti>
+<inglise> (a) any system as defined in Article 2(a), governed by the law of a Member State and operating in any currency, the ecu or in various currencies which the system converts one against another; </inglise>
+<eesti> a) iga artikli 2 punktis a m&auml;&auml;ratletud s&uuml;steemi suhtes, mida reguleerib liikmesriigi &otilde;igus ja mis toimib mis tahes v&auml;&auml;ringus, ek&uuml;&uuml;des v&otilde;i erinevates v&auml;&auml;ringutes, mida arvestatakse s&uuml;steemis teineteise suhtes &uuml;mber; </eesti>
+<inglise> (b) any participant in such a system; </inglise>
+<eesti> b) iga sellises s&uuml;steemis osaleja suhtes; </eesti>
+<inglise> (c) collateral security provided in connection with: </inglise>
+<eesti> c) tagatise suhtes, mis antakse seoses: </eesti>
+<inglise> - participation in a system, or </inglise>
+<eesti> - s&uuml;steemis osalemisega v&otilde;i </eesti>
+<inglise> - operations of the central banks of the Member States in their functions as central banks. </inglise>
+<eesti> - liikmesriikide keskpankade toimingutega nende t&auml;ites keskpanga &uuml;lesannet. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> For the purpose of this Directive: </inglise>
+<eesti> K&auml;esolevas direktiivis kasutatakse j&auml;rgmisi m&otilde;isteid: </eesti>
+<inglise> (a) 'system' shall mean a formal arrangement: </inglise>
+<eesti> a) s&uuml;steem - vormiline struktuur: </eesti>
+<inglise> - between three or more participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, with common rules and standardised arrangements for the execution of transfer orders between the participants, </inglise>
+<eesti> - kolme v&otilde;i enama osaleja vahel, arvestamata v&otilde;imalikku arveldusagenti, v&otilde;imalikku keskset osalejat, v&otilde;imalikku arvelduskoda v&otilde;i v&otilde;imalikku kaudset osalejat, kusjuures on olemas &uuml;hised eeskirjad ja &uuml;htne kord maksejuhiste t&auml;itmiseks osalejate vahel, </eesti>
+<inglise> - governed by the law of a Member State chosen by the participants; the participants may, however, only choose the law of a Member State in which at least one of them has its head office, and </inglise>
+<eesti> - mida reguleerib osalejate valitud liikmesriigi &otilde;igus; osalejad v&otilde;ivad siiski valida &uuml;ksnes sellise liikmesriigi &otilde;iguse, kus asub v&auml;hemalt &uuml;he osaleja peakontor, ja </eesti>
+<inglise> - designated, without prejudice to other more stringent conditions of general application laid down by national law, as a system and notified to the Commission by the Member State whose law is applicable, after that Member State is satisfied as to the adequacy of the rules of the system. </inglise>
+<eesti> - mille on s&uuml;steemiks m&auml;&auml;ranud ja sellest komisjonile teatanud p&auml;rast s&uuml;steemi eeskirjade asjakohasuses veendumist see liikmesriik, kelle &otilde;igust kohaldatakse, ilma et see piiraks muude, siseriiklikes &otilde;igusaktides s&auml;testatud rangemate &uuml;ldkohaldatavate tingimuste kohaldamist. </eesti>
+<inglise> Subject to the conditions in the first subparagraph, a Member State may designate as a system such a formal arrangement whose business consists of the execution of transfer orders as defined in the second indent of (i) and which to a limited extent executes orders relating to other financial instruments, when that Member State considers that such a designation is warranted on grounds of systemic risk. </inglise>
+<eesti> Vastavalt esimese l&otilde;igu tingimustele v&otilde;ib liikmesriik s&uuml;steemiks m&auml;&auml;rata sellise vormilise struktuuri, kelle tegevus koosneb punkti i teises taandes m&auml;&auml;ratletud maksejuhiste t&auml;itmisest ja kes t&auml;idab piiratud ulatuses muude finantsvahenditega seotud juhiseid, kui k&otilde;nealune liikmesriik leiab, et m&auml;&auml;ramine on s&uuml;steemiriski t&otilde;ttu &otilde;igustatud. </eesti>
+<inglise> A Member State may also on a case-by-case basis designate as a system such a formal arrangement between two participants, without counting a possible settlement agent, a possible central counterparty, a possible clearing house or a possible indirect participant, when that Member State considers that such a designation is warranted on grounds of systemic risk; </inglise>
+<eesti> Samuti v&otilde;ib liikmesriik iga &uuml;ksikjuhu puhul eraldi m&auml;&auml;rata s&uuml;steemiks vormilise struktuuri kahe osaleja vahel, arvestamata v&otilde;imalikku arveldusagenti, v&otilde;imalikku keskset osalejat, v&otilde;imalikku arvelduskoda v&otilde;i v&otilde;imalikku kaudset osalejat, kui k&otilde;nealune liikmesriik leiab, et m&auml;&auml;ramine on s&uuml;steemiriski t&otilde;ttu &otilde;igustatud; </eesti>
+<inglise> (b) 'institution' shall mean: </inglise>
+<eesti> b) asutus: </eesti>
+<inglise> - a credit institution as defined in the first indent of Article 1 of Directive 77/780/EEC (5) including the institutions set out in the list in Article 2(2) thereof, or </inglise>
+<eesti> - krediidiasutus direktiivi 77/780/EM&Uuml; artikli 1 esimeses taandes m&auml;&auml;ratletud t&auml;henduses, sealhulgas k&otilde;nealuse direktiivi artikli 2 l&otilde;ike 2 loendis s&auml;testatud asutused, </eesti>
+<inglise> - an investment firm as defined in point 2 of Article 1 of Directive 93/22/EEC (6) excluding the institutions set out in the list in Article 2(2) (a) to (k) thereof, or </inglise>
+<eesti> - investeerimis&uuml;hing direktiivi 93/22/EM&Uuml; artikli 1 punktis 2 m&auml;&auml;ratletud t&auml;henduses, v&auml;lja arvatud k&otilde;nealuse direktiivi artikli 2 l&otilde;ike 2 punktide a-k loendis s&auml;testatud asutused, </eesti>
+<inglise> - public authorities and publicly guaranteed undertakings, or </inglise>
+<eesti> - ametiasutus ja avalik-&otilde;iguslik riigigarantiiga ettev&otilde;tja v&otilde;i </eesti>
+<inglise> - any undertaking whose head office is outside the Community and whose functions correspond to those of the Community credit institutions or investment firms as defined in the first and second indent, which participates in a system and which is responsible for discharging the financial obligations arising from transfer orders within that system. </inglise>
+<eesti> - mis tahes ettev&otilde;tja, kelle peakontor asub v&auml;ljaspool &uuml;hendust ja kelle tegevus vastab esimeses ja teises taandes m&auml;&auml;ratletud &uuml;henduse krediidiasutuse v&otilde;i investeerimis&uuml;hingu omale, kes osalevad s&uuml;steemis ja vastutavad maksejuhistest tulenevate rahaliste kohustuste t&auml;itmise eest selles s&uuml;steemis. </eesti>
+<inglise> If a system is supervised in accordance with national legislation and only executes transfer orders as defined in the second indent of (i), as well as payments resulting from such orders, a Member State may decide that undertakings which participate in such a system and which have responsibility for discharging the financial obligations arising from transfer orders within this system, can be considered institutions, provided that at least three participants of this system are covered by the categories referred to in the first subparagraph and that such a decision is warranted on grounds of systemic risk; </inglise>
+<eesti> Kui s&uuml;steemi j&auml;rele valvatakse koosk&otilde;las siseriikliku &otilde;igusega ja see t&auml;idab &uuml;ksnes punkti i teises taandes m&auml;&auml;ratletud maksejuhiseid ning teostab sellistest juhistest tulenevaid makseid, v&otilde;ib liikmesriik otsustada, et sellises s&uuml;steemis osalevaid ettev&otilde;tjaid, kes vastutavad maksejuhistest tulenevate rahaliste kohustuste t&auml;itmise eest selles s&uuml;steemis, v&otilde;ib k&auml;sitleda asutustena, tingimusel et v&auml;hemalt kolm selles s&uuml;steemis osalejat kuulub esimeses l&otilde;igus nimetatud liikidesse ja k&otilde;nealune otsus on s&uuml;steemiriski t&otilde;ttu &otilde;igustatud; </eesti>
+<inglise> (c) 'central counterparty' shall mean an entity which is interposed between the institutions in a system and which acts as the exclusive counterparty of these institutions with regard to their transfer orders; </inglise>
+<eesti> c) keskne osaleja - &uuml;ksus s&uuml;steemis osalevate asutuste vahel, kes toimib nende asutuste suhtes eraldiseisva osapoolena nende asutuste maksejuhiste osas; </eesti>
+<inglise> (d) 'settlement agent' shall mean an entity providing to institutions and/or a central counterparty participating in systems, settlement accounts through which transfer orders within such systems are settled and, as the case may be, extending credit to those institutions and/or central counterparties for settlement purposes; </inglise>
+<eesti> d) arveldusagent - &uuml;ksus, kes pakub s&uuml;steemis osalevatele asutustele ja/v&otilde;i kesksele osalejale arvelduskontosid, mille kaudu maksejuhiseid sellistes s&uuml;steemides arveldatakse, ja annab vajaduse korral nendele asutustele ja/v&otilde;i kesksetele osalejatele arveldamise eesm&auml;rgil krediiti; </eesti>
+<inglise> (e) 'clearing house' shall mean an entity responsible for the calculation of the net positions of institutions, a possible central counterparty and/or a possible settlement agent; </inglise>
+<eesti> e) arvelduskoda - &uuml;ksus, kes vastutab asutuste, v&otilde;imaliku keskse osaleja ja/v&otilde;i v&otilde;imaliku arveldusagendi netopositsioonide arvutamise eest; </eesti>
+<inglise> (f) 'participant' shall mean an institution, a central counterparty, a settlement agent or a clearing house. </inglise>
+<eesti> f) osaleja - asutus, keskne osaleja, arveldusagent v&otilde;i arvelduskoda. </eesti>
+<inglise> According to the rules of the system, the same participant may act as a central counterparty, a settlement agent or a clearing house or carry out part or all of these tasks. </inglise>
+<eesti> Vastavalt s&uuml;steemi eeskirjadele v&otilde;ib &uuml;ks ja seesama osaleja toimida keskse osaleja, arveldusagendi v&otilde;i arvelduskojana v&otilde;i t&auml;ita k&otilde;iki neid &uuml;lesandeid v&otilde;i osa neist. </eesti>
+<inglise> A Member State may decide that for the purposes of this Directive an indirect participant may be considered a participant if it is warranted on the grounds of systemic risk and on condition that the indirect participant is known to the system; </inglise>
+<eesti> Kui see on s&uuml;steemiriski t&otilde;ttu &otilde;igustatud, v&otilde;ib liikmesriik otsustada, et k&auml;esoleva direktiivi kohaldamisel v&otilde;ib kaudset osalejat k&auml;sitleda osalejana, tingimusel et kaudset osalejat tuntakse s&uuml;steemis; </eesti>
+<inglise> (g) 'indirect participant' shall mean a credit institution as defined in the first indent of (b) with a contractual relationship with an institution participating in a system executing transfer orders as defined in the first indent of (i) which enables the abovementioned credit institution to pass transfer orders through the system; </inglise>
+<eesti> g) kaudne osaleja - punkti b esimeses taandes m&auml;&auml;ratletud krediidiasutus, kellel on lepinguline suhe sellises s&uuml;steemis osaleva asutusega, kus t&auml;idetakse punkti i esimeses taandes m&auml;&auml;ratletud maksejuhiseid, v&otilde;imaldades eespool nimetatud krediidiasutusel suunata maksejuhiseid l&auml;bi s&uuml;steemi; </eesti>
+<inglise> (h) 'securities' shall mean all instruments referred to in section B of the Annex to Directive 93/22/EEC; </inglise>
+<eesti> h) v&auml;&auml;rtpaberid - k&otilde;ik direktiivi 93/22/EM&Uuml; lisa B jaos nimetatud vahendid; </eesti>
+<inglise> (i) 'transfer order' shall mean: </inglise>
+<eesti> i) maksejuhis: </eesti>
+<inglise> - any instruction by a participant to place at the disposal of a recipient an amount of money by means of a book entry on the accounts of a credit institution, a central bank or a settlement agent, or any instruction which results in the assumption or discharge of a payment obligation as defined by the rules of the system, or </inglise>
+<eesti> - osaleja mis tahes korraldus anda saaja k&auml;sutusse teatav hulk raha, tehes raamatupidamiskande krediidiasutuse, keskpanga v&otilde;i arveldusagendi kontodele, v&otilde;i mis tahes korraldus, millest tuleneb maksekohustuse v&otilde;tmine v&otilde;i selle t&auml;itmine, nagu m&auml;&auml;ratletud s&uuml;steemi eeskirjades, v&otilde;i </eesti>
+<inglise> - an instruction by a participant to transfer the title to, or interest in, a security or securities by means of a book entry on a register, or otherwise; </inglise>
+<eesti> - osaleja mis tahes korraldus anda &uuml;le v&auml;&auml;rtpaberi v&otilde;i v&auml;&auml;rtpaberite omandi- v&otilde;i muu &otilde;igus, tehes registrisse raamatupidamiskande v&otilde;i muul viisil; </eesti>
+<inglise> (j) 'insolvency proceedings' shall mean any collective measure provided for in the law of a Member State, or a third country, either to wind up the participant or to reorganise it, where such measure involves the suspending of, or imposing limitations on, transfers or payments; </inglise>
+<eesti> j) maksej&otilde;uetusmenetlus - liikmesriigi v&otilde;i kolmanda riigi &otilde;igusaktides s&auml;testatud mis tahes &uuml;hismeetmed osaleja l&otilde;petamiseks v&otilde;i &uuml;mberkorraldamiseks, kui selliste meetmetega kaasneb &uuml;lekannete v&otilde;i maksete peatamine v&otilde;i piiramine; </eesti>
+<inglise> (k) 'netting' shall mean the conversion into one net claim or one net obligation of claims and obligations resulting from transfer orders which a participant or participants either issue to, or receive from, one or more other participants with the result that only a net claim can be demanded or a net obligation be owed; </inglise>
+<eesti> k) tasaarveldus - osaleja v&otilde;i osalejate poolt &uuml;hele v&otilde;i mitmele teisele osalejale antud v&otilde;i neilt saadud maksejuhistest tulenevate n&otilde;uete ja kohustuste &uuml;mberarvestamine &uuml;heks neton&otilde;udeks v&otilde;i &uuml;heks netokohustuseks, mille tulemusena saab sisse n&otilde;uda &uuml;ksnes neton&otilde;ude v&otilde;i v&otilde;lgneda netokohustuse; </eesti>
+<inglise> (l) 'settlement account' shall mean an account at a central bank, a settlement agent or a central counterparty used to hold funds and securities and to settle transactions between participants in a system; </inglise>
+<eesti> l) arvelduskonto - konto keskpangas, arveldusagendi v&otilde;i keskse osaleja juures, mida kasutatakse rahaliste vahendite ja v&auml;&auml;rtpaberite hoidmiseks ning s&uuml;steemis osalejate vaheliste tehingute arveldamiseks; </eesti>
+<inglise> (m) 'collateral security' shall mean all realisable assets provided under a pledge (including money provided under a pledge), a repurchase or similar agreement, or otherwise, for the purpose of securing rights and obligations potentially arising in connection with a system, or provided to central banks of the Member States or to the future European central bank. </inglise>
+<eesti> m) tagatis - k&otilde;ik likviidsed varad (sealhulgas panditud raha), mis on antud pandi-, tagasiostu- v&otilde;i samalaadse lepinguga v&otilde;i muul viisil seoses s&uuml;steemiga tekkida v&otilde;ivate &otilde;iguste ja kohustuste tagamiseks v&otilde;i mis on antud liikmesriikide keskpankadele v&otilde;i tulevasele Euroopa Keskpangale. </eesti>
+<inglise> SECTION II </inglise>
+<eesti> II JAGU </eesti>
+<inglise> NETTING AND TRANSFER ORDERS </inglise>
+<eesti> TASAARVELDUS JA MAKSEJUHISED </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Transfer orders and netting shall be legally enforceable and, even in the event of insolvency proceedings against a participant, shall be binding on third parties, provided that transfer orders were entered into a system before the moment of opening of such insolvency proceedings as defined in Article 6(1). </inglise>
+<eesti> Maksejuhised ja tasaarveldused on &otilde;iguslikult t&auml;itmisele p&ouml;&ouml;ratavad ja isegi maksej&otilde;uetusmenetluse korral osaleja vastu kolmandatele isikutele siduvad, tingimusel et maksejuhised sisestati s&uuml;steemi enne artikli 6 l&otilde;ikes 1 m&auml;&auml;ratletud maksej&otilde;uetusmenetluse algatamise hetke. </eesti>
+<inglise> Where, exceptionally, transfer orders are entered into a system after the moment of opening of insolvency proceedings and are carried out on the day of opening of such proceedings, they shall be legally enforceable and binding on third parties only if, after the time of settlement, the settlement agent, the central counterparty or the clearing house can prove that they were not aware, nor should have been aware, of the opening of such proceedings. </inglise>
+<eesti> Kui maksejuhised on erandlikult s&uuml;steemi sisestatud p&auml;rast maksej&otilde;uetusmenetluse algatamise hetke ja need on t&auml;idetud sellise menetluse algatamise p&auml;eval, on need &otilde;iguslikult t&auml;itmisele p&ouml;&ouml;ratavad ja kolmandatele isikutele siduvad &uuml;ksnes siis, kui p&auml;rast arveldushetke suudab arveldusagent, keskne osaleja v&otilde;i arvelduskoda t&otilde;estada, et nad ei olnud ega oleks pidanud olema sellisest menetlusest teadlikud. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> No law, regulation, rule or practice on the setting aside of contracts and transactions concluded before the moment of opening of insolvency proceedings, as defined in Article 6(1) shall lead to the unwinding of a netting. </inglise>
+<eesti> &Uuml;kski &otilde;igusnorm, eeskiri ega tava, mis k&auml;sitleb enne artikli 6 l&otilde;ikes 1 m&auml;&auml;ratletud maksej&otilde;uetusmenetluse algatamise hetke s&otilde;lmitud lepinguid v&otilde;i tehtud tehinguid, ei p&otilde;hjusta tasaarvelduse t&uuml;histamist. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The moment of entry of a transfer order into a system shall be defined by the rules of that system. </inglise>
+<eesti> Maksejuhise s&uuml;steemi sisestamise hetk m&auml;&auml;ratletakse selle s&uuml;steemi eeskirjades. </eesti>
+<inglise> If there are conditions laid down in the national law governing the system as to the moment of entry, the rules of that system must be in accordance with such conditions. </inglise>
+<eesti> Kui s&uuml;steemi reguleerivates siseriiklikes &otilde;igusaktides on sisestamishetke k&auml;sitlevaid tingimusi, peavad k&otilde;nealuse s&uuml;steemi eeskirjad olema selliste tingimustega koosk&otilde;las. </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> Member States may provide that the opening of insolvency proceedings against a participant shall not prevent funds or securities available on the settlement account of that participant from being used to fulfil that participant's obligations in the system on the day of the opening of the insolvency proceedings. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad ette n&auml;ha, et maksej&otilde;uetusmenetluse algatamine osaleja vastu ei takista selle osaleja arvelduskontol olevate rahaliste vahendite v&otilde;i v&auml;&auml;rpaberite kasutamist selle osaleja kohustuste t&auml;itmiseks s&uuml;steemis maksej&otilde;uetusmenetluse algatamise p&auml;eval. </eesti>
+<inglise> Furthermore, Member States may also provide that such a participant's credit facility connected to the system be used against available, existing collateral security to fulfil that participant's obligations in the system. </inglise>
+<eesti> Lisaks sellele v&otilde;ivad liikmesriigid ette n&auml;ha, et sellise osaleja laenuv&otilde;imalusi, mis on seotud s&uuml;steemiga, kasutatakse k&auml;ttesaadava, olemasoleva tagatise vastu, et t&auml;ita selle osaleja kohustused s&uuml;steemis. </eesti>
+<inglise> Article 5 </inglise>
+<eesti> Artikkel 5 </eesti>
+<inglise> A transfer order may not be revoked by a participant in a system, nor by a third party, from the moment defined by the rules of that system. </inglise>
+<eesti> Alates k&otilde;nealuse s&uuml;steemi eeskirjades m&auml;&auml;ratletud hetkest ei v&otilde;i s&uuml;steemis osaleja ega kolmas isik maksejuhist t&uuml;histada. </eesti>
+<inglise> SECTION III </inglise>
+<eesti> III JAGU </eesti>
+<inglise> PROVISIONS CONCERNING INSOLVENCY PROCEEDINGS </inglise>
+<eesti> MAKSEJ&Otilde;UETUSMENETLUST K&Auml;SITLEVAD S&Auml;TTED </eesti>
+<inglise> Article 6 </inglise>
+<eesti> Artikkel 6 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> For the purpose of this Directive, the moment of opening of insolvency proceedings shall be the moment when the relevant judicial or administrative authority handed down its decision. </inglise>
+<eesti> K&auml;esoleva direktiivi kohaldamisel on maksej&otilde;uetusmenetluse algatamise hetk see, mil asjaomane kohtuorgan v&otilde;i haldusasutus langetab oma otsuse. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> When a decision has been taken in accordance with paragraph 1, the relevant judicial or administrative authority shall immediately notify that decision to the appropriate authority chosen by its Member State. </inglise>
+<eesti> Kui otsus on tehtud l&otilde;ike 1 kohaselt, teatab asjaomane kohtuorgan v&otilde;i haldusasutus sellest otsusest enda liikmesriigi valitud asjakohasele asutusele. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The Member State referred to in paragraph 2 shall immediately notify other Member States. </inglise>
+<eesti> L&otilde;ikes 2 nimetatud liikmesriik teatab sellest viivitamata teistele liikmesriikidele. </eesti>
+<inglise> Article 7 </inglise>
+<eesti> Artikkel 7 </eesti>
+<inglise> Insolvency proceedings shall not have retroactive effects on the rights and obligations of a participant arising from, or in connection with, its participation in a system earlier than the moment of opening of such proceedings as defined in Article 6(1). </inglise>
+<eesti> Maksej&otilde;uetusmenetlusel ei ole tagasiulatuvat j&otilde;udu osaleja osalemisest s&uuml;steemis v&otilde;i sellega seoses tulenevate selliste &otilde;iguste ja kohustuse suhtes, mis on tekkinud enne artikli 6 l&otilde;ikes 1 m&auml;&auml;ratletud maksej&otilde;uetusmenetluse algatamise hetke. </eesti>
+<inglise> Article 8 </inglise>
+<eesti> Artikkel 8 </eesti>
+<inglise> In the event of insolvency proceedings being opened against a participant in a system, the rights and obligations arising from, or in connection with, the participation of that participant shall be determined by the law governing that system. </inglise>
+<eesti> Maksej&otilde;uetusmenetluse algatamise korral s&uuml;steemis osaleja vastu m&auml;&auml;ratakse k&otilde;nealuse osaleja osalemisest tulenevad v&otilde;i sellega seotud &otilde;igused ja kohustused seda s&uuml;steemi reguleeriva &otilde;igusega. </eesti>
+<inglise> SECTION IV </inglise>
+<eesti> IV JAGU </eesti>
+<inglise> INSULATION OF THE RIGHTS OF HOLDERS OF COLLATERAL SECURITY FROM THE EFFECTS OF THE INSOLVENCY OF THE PROVIDER </inglise>
+<eesti> TAGATISE VALDAJATE &Otilde;IGUSTE KAITSMINE TAGATISE ANDJA MAKSEJ&Otilde;UETUSE M&Otilde;JUDE EEST </eesti>
+<inglise> Article 9 </inglise>
+<eesti> Artikkel 9 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The rights of: - a participant to collateral security provided to it in connection with a system, and </inglise>
+<eesti> Tagatise andnud osaleja v&otilde;i liikmesriikide v&otilde;i tulevase Euroopa Keskpanga lepingupartneri vastu algatatud maksej&otilde;uetusmenetlus ei m&otilde;juta: </eesti>
+<inglise> - central banks of the Member States or the future European central bank to collateral security provided to them, shall not be affected by insolvency proceedings against the participant or counterparty to central banks of the Member States or the future European central bank which provided the collateral security. </inglise>
+<eesti> - osaleja &otilde;igusi seoses s&uuml;steemiga talle antud tagatisele ega - liikmesriikide keskpankade v&otilde;i tulevase Euroopa Keskpanga &otilde;igusi nendele antud tagatisele. </eesti>
+<inglise> Such collateral security may be realised for the satisfaction of these rights. </inglise>
+<eesti> Sellist tagatist v&otilde;ib nende &otilde;iguste tagamiseks m&uuml;&uuml;a. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Where securities (including rights in securities) are provided as collateral security to participants and/or central banks of the Member States or the future European central bank as described in paragraph 1, and their right (or that of any nominee, agent or third party acting on their behalf) with respect to the securities is legally recorded on a register, account or centralised deposit system located in a Member State, the determination of the rights of such entities as holders of collateral security in relation to those securities shall be governed by the law of that Member State. </inglise>
+<eesti> Kui v&auml;&auml;rtpaberid (sealhulgas &otilde;igusi v&auml;&auml;rpaberitele) antakse v&auml;&auml;rtpaberitagatisena osalejatele ja/v&otilde;i liikmesriikide keskpankadele v&otilde;i tulevasele Euroopa Keskpangale, nagu kirjeldatud l&otilde;ikes 1, ja nende (v&otilde;i k&otilde;ikide nende nimel tegutsevate volitatud isikute, esindajate v&otilde;i kolmandate isikute) &otilde;igus v&auml;&auml;rtpaberitele on seaduslikult registreeritud liikmesriigis asuvas registris, kontol v&otilde;i keskses depositooriumis, m&auml;&auml;ratakse selliste &uuml;ksuste kui v&auml;&auml;rtpaberitagatise valdajate &otilde;igused nendele v&auml;&auml;rtpaberitele k&otilde;nealuse liikmesriigi &otilde;iguse kohaselt. </eesti>
+<inglise> SECTION V </inglise>
+<eesti> V JAGU </eesti>
+<inglise> FINAL PROVISIONS </inglise>
+<eesti> L&Otilde;PPS&Auml;TTED </eesti>
+<inglise> Article 10 </inglise>
+<eesti> Artikkel 10 </eesti>
+<inglise> Member States shall specify the systems which are to be included in the scope of this Directive and shall notify them to the Commission and inform the Commission of the authorities they have chosen in accordance with Article 6(2). </inglise>
+<eesti> Liikmesriigid piiritlevad k&auml;esoleva direktiiviga h&otilde;lmatavad s&uuml;steemid ning teatavad neist ja nende koosk&otilde;las artikli 6 l&otilde;ikega 2 valitud ametiasutustest komisjonile. </eesti>
+<inglise> The system shall indicate to the Member State whose law is applicable the participants in the system, including any possible indirect participants, as well as any change in them. </inglise>
+<eesti> S&uuml;steem teatab sellele liikmesriigile, kelle &otilde;igust kohaldatakse, s&uuml;steemis osalejatest, kaasa arvatud v&otilde;imalikud kaudsed osalejad, ja nendega seotud muutustest. </eesti>
+<inglise> In addition to the indication provided for in the second subparagraph, Member States may impose supervision or authorisation requirements on systems which fall under their jurisdiction. </inglise>
+<eesti> Lisaks teises l&otilde;igus s&auml;testatud teatamisele v&otilde;ivad liikmesriigid nende jurisdiktsiooni all olevatele s&uuml;steemidele kehtestada j&auml;relevalve- v&otilde;i loan&otilde;udeid. </eesti>
+<inglise> Anyone with a legitimate interest may require an institution to inform him of the systems in which it participates and to provide information about the main rules governing the functioning of those systems. </inglise>
+<eesti> Iga &otilde;igustatud huvi omav isik v&otilde;ib n&otilde;uda, et asutus teataks talle s&uuml;steemidest, milles see osaleb, ja annaks teavet nende s&uuml;steemide toimimist reguleerivate p&otilde;hieeskirjade kohta. </eesti>
+<inglise> Article 11 </inglise>
+<eesti> Artikkel 11 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 11 December 1999. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi j&auml;rgimiseks vajalikud &otilde;igusnormid enne 11. detsembrit 1999. </eesti>
+<inglise> They shall forthwith inform the Commission thereof. </inglise>
+<eesti> Liikmesriigid teatavad sellest viivitamata komisjonile. </eesti>
+<inglise> When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need meetmed vastu v&otilde;tavad, lisavad nad nendesse meetmetesse v&otilde;i nende meetmete ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The methods of making such a reference shall be laid down by the Member States. </inglise>
+<eesti> Sellise viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field governed by this Directive. </inglise>
+<eesti> Liikmesriigid edastavad komisjonile k&auml;esoleva direktiiviga reguleeritavas valdkonnas nende vastuv&otilde;etud siseriiklike &otilde;igusnormide teksti. </eesti>
+<inglise> In this Communication, Member States shall provide a table of correspondence showing the national provisions which exist or are introduced in respect of each Article of this Directive. </inglise>
+<eesti> Selles teatises esitavad liikmesriigid vastavustabeli, mis osutab k&auml;esoleva direktiivi igale artiklile vastavatele olemasolevatele v&otilde;i kehtestatavatele siseriiklikele &otilde;igusnormidele. </eesti>
+<inglise> Article 12 </inglise>
+<eesti> Artikkel 12 </eesti>
+<inglise> No later than three years after the date mentioned in Article 11(1), the Commission shall present a report to the European Parliament and the Council on the application of this Directive, accompanied where appropriate by proposals for its revision. </inglise>
+<eesti> Hiljemalt kolme aasta jooksul alates artikli 11 l&otilde;ikes 1 nimetatud kuup&auml;evast esitab komisjon Euroopa Parlamendile ja n&otilde;ukogule aruande k&auml;esoleva direktiivi kohaldamise kohta, lisades vajaduse korral ettepanekud selle l&auml;bivaatamiseks. </eesti>
+<inglise> Article 13 </inglise>
+<eesti> Artikkel 13 </eesti>
+<inglise> This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev direktiiv j&otilde;ustub Euroopa &Uuml;henduste Teatajas avaldamise p&auml;eval. </eesti>
+<inglise> Article 14 </inglise>
+<eesti> Artikkel 14 </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 19 May 1998. </inglise>
+<eesti> Br&uuml;ssel, 19. mai 1998 </eesti>
+<inglise> For the European Parliament </inglise>
+<eesti> Euroopa Parlamendi nimel </eesti>
+<inglise> The President </inglise>
+<eesti> president </eesti>
+<inglise> J.M. GIL-ROBLES </inglise>
+<eesti> J. M. GIL-ROBLES </eesti>
+<inglise> For the Council </inglise>
+<eesti> N&otilde;ukogu nimel </eesti>
+<inglise> The President </inglise>
+<eesti> eesistuja </eesti>
+<inglise> G. BROWN </inglise>
+<eesti> G. BROWN </eesti>
+ 

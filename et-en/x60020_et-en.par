@@ -1,0 +1,232 @@
+<eesti>Isikutunnistuse vormi ja tehnilise kirjelduse ning isikutunnistusele kantavate andmete loetelu kehtestamine ja isikutunnistusele kantavate digitaalsete andmete kehtivusaja m&auml;&auml;ramine </eesti>
+<inglise>Establishment of Format and Technical Description of Identity Card and List of Data Entered on Identity Card and Determination of Period of Validity of Digital Data Entered on Identity Card </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2001. a m&auml;&auml;rus nr 370 </eesti>
+<inglise>Regulation No. 370 of the Government of the Republic of 4 December 2001 </inglise>
+<eesti>(RT I 2001, 96, 599), </eesti>
+<inglise>(RT (1) I 2001, 96, 599), </inglise>
+<eesti>j&otilde;ustunud 21. detsembril 2001. a. </eesti>
+<inglise>entered into force 21 December 2001. </inglise>
+<eesti>M&auml;&auml;rus kehtestatakse "Isikut t&otilde;endavate dokumentide seaduse" (RT I 1999, 25, 365; 2000, 25, 148; 40, 254; 86, 550; 2001, 16, 68; 31, 173; 56, 338) &sect; 9 l&otilde;igete 1 ja 5 ning &sect; 20 l&otilde;ike 3 alusel. </eesti>
+<inglise>This Regulation is established on the basis of subsections 9 (1) and (5) and subsection 20 (3) of the Identity Documents Act (RT I 1999, 25, 365; 2000, 25, 148; 40, 254; 86, 550; 2001, 16, 68; 31, 173; 56, 338). </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>Isikutunnistuse vorm ja tehniline kirjeldus </eesti>
+<inglise>Format and Technical Description of Identity Card </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Isikutunnistuse vorm </eesti>
+<inglise>Format of identity card </inglise>
+<eesti>(1) Isikutunnistus on pol&uuml;karbonaadist valmistatud &uuml;marate nurkadega kaart m&otilde;&otilde;tmetega 8,55 cm &times; 5,4 cm, vastavalt ISO 7810 standardile. </eesti>
+<inglise>(1) The identity card is a card manufactured from polycarbonate, with rounded corners and with the measurements of 8.55 cm &times; 5.4 cm, in compliance with the standard ISO 7810. </inglise>
+<eesti>(2) Isikutunnistuse vorm peab vastama m&auml;&auml;ruse lisale. </eesti>
+<inglise>(2) The format of an identity card shall comply with the Annex to this Regulation. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>Isikutunnistuse esik&uuml;lje kirjeldus </eesti>
+<inglise>Description of front side of identity card </inglise>
+<eesti>(1) Isikutunnistuse esik&uuml;lg on helesinise, halli ja valge v&auml;rvi kombinatsioonis. </eesti>
+<inglise>(1) The front side of the identity card is printed in a combination of light blue, grey and white. </inglise>
+<eesti>(2) Vasaku serva &uuml;lanurka on kollase ja sinise v&auml;rviga tr&uuml;kitud Eesti Vabariigi suure riigivapi kujutis. </eesti>
+<inglise>(2) The image of the grand national coat of arms of the Republic of Estonia in yellow and blue is printed in the top left-hand corner. </inglise>
+<eesti>(3) Isikutunnistuse keskosas on mikrokirjas korduv tekst: EESTIVABARIIKREPUBLICOFESTONIA. </eesti>
+<inglise>(3) A repeated text in microprint EESTIVABARIIKREPUBLICOFESTONIA appears in the centre of the identity card. </inglise>
+<eesti>(4) Vasaku serva keskosas on elektrooniline protsessorkiip, millele kantakse m&auml;&auml;ruse &sect;-s 5 loetletud digitaalsed andmed. </eesti>
+<inglise>(4) An electronic processor chip containing the data listed in &sect; 5 of this Act is located on the left-hand side in the centre. </inglise>
+<eesti>(5) Vasaku serva keskossa, protsessorkiibi alla, on optiliselt muutuva tr&uuml;kiv&auml;rviga tr&uuml;kitud Eesti riigivapi l&otilde;vi kujutis, mille v&auml;rvus muutub rohelisest kuldseks. </eesti>
+<inglise>(5) On the left-hand side in the centre, below the processor chip, the image of the lion of the national coat of arms of Estonia whose colour varies from green to gold is printed in optically variable ink. </inglise>
+<eesti>(6) Isikutunnistuse esik&uuml;ljel on andmev&auml;ljad tekstiga: </eesti>
+<inglise>(6) The front side of the identity card contains the following data fields with text: </inglise>
+<eesti>1) Eesti Vabariik / Republic of Estonia; </eesti>
+<inglise>1) Eesti Vabariik / Republic of Estonia; </inglise>
+<eesti>2) Isikutunnistus / Identity Card; </eesti>
+<inglise>2) Isikutunnistus / Identity Card; </inglise>
+<eesti>3) Perekonnanimi / Surname; </eesti>
+<inglise>3) Perekonnanimi / Surname; </inglise>
+<eesti>4) Eesnimed / Given names; </eesti>
+<inglise>4) Eesnimed / Given names; </inglise>
+<eesti>5) Sugu / Sex; </eesti>
+<inglise>5) Sugu / Sex; </inglise>
+<eesti>6) Kodakondsus / Citizenship; </eesti>
+<inglise>6) Kodakondsus / Citizenship; </inglise>
+<eesti>7) S&uuml;nniaeg / Date of birth; </eesti>
+<inglise>7) S&uuml;nniaeg / Date of birth; </inglise>
+<eesti>8) Isikukood / Personal code; </eesti>
+<inglise>8) Isikukood / Personal code; </inglise>
+<eesti>9) Dokumendi number / Document number; </eesti>
+<inglise>9) Dokumendi Nr / Document No; </inglise>
+<eesti>10) Kehtiv kuni / Date of expiry; </eesti>
+<inglise>10) Kehtiv kuni / Date of expiry; </inglise>
+<eesti>11) Omaniku allkiri / Holder's signature. </eesti>
+<inglise>11) Omaniku allkiri / Holder's signature. </inglise>
+<eesti>(7) Parema serva alanurka lasergraveeritakse isikutunnistuse kasutaja fotokujutis. </eesti>
+<inglise>(7) The photographic image of the holder of the identity card in laser engraving appears in the bottom right-hand corner. </inglise>
+<eesti>(8) Isikutunnistuse keskossa tr&uuml;kitakse sinine (piirjoonega) Eesti Vabariigi territooriumi kontuuri kujutav varikujund. </eesti>
+<inglise>(8) A shadow image showing the outline (contour) of the territory of the Republic of Estonia in blue is printed in the centre of the identity card. </inglise>
+<eesti>(9) Isikutunnistuse esi- ja tagak&uuml;ljel on ultraviolettvalguses n&auml;htav fluorestseeruvas tr&uuml;kis p&otilde;imikornament. </eesti>
+<inglise>(9) A plaited ornament in fluorescent printing visible in ultraviolet light appears on the front and back side of the identity card. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Isikutunnistuse tagak&uuml;lje kirjeldus </eesti>
+<inglise>Description of back side of identity card </inglise>
+<eesti>(1) Isikutunnistuse tagak&uuml;lg on helesinise, halli ja valge v&auml;rvi kombinatsioonis. </eesti>
+<inglise>(1) The back side of the identity card is printed in a combination of light blue, grey and white. </inglise>
+<eesti>(2) Vasaku serva &uuml;lanurgas on turvaelemendid MLI ja Kineprint. </eesti>
+<inglise>(2) The top left-hand corner contains the security features MLI and Kineprint. </inglise>
+<eesti>(3) Parema serva keskosas on turvaelemendid LFI ja Kinegram. </eesti>
+<inglise>(3) The centre of the right-hand side contains the security features LFI and Kinegram. </inglise>
+<eesti>(4) Isikutunnistuse tagak&uuml;ljel on andmev&auml;ljad tekstiga: </eesti>
+<inglise>(4) The back side of the identity card contains the following data fields with text: </inglise>
+<eesti>1) S&uuml;nnikoht / Place of birth; </eesti>
+<inglise>1) S&uuml;nnikoht / Place of birth; </inglise>
+<eesti>2) V&auml;lja antud / Date of issue. </eesti>
+<inglise>2) V&auml;lja antud / Date of issue. </inglise>
+<eesti>(5) Kui isikutunnistuse kasutaja on v&auml;lismaalane, lasergraveeritakse lisaks k&auml;esoleva paragrahvi l&otilde;ikes 4 nimetatud tekstile isikutunnistusele t&auml;iendav andmev&auml;li tekstiga: </eesti>
+<inglise>(5) If the holder of the identity card is an alien, then in addition to the text specified in subsection (4) of this section, an additional data field shall be laser engraved on the identity card with the following text: </inglise>
+<eesti>Elamisloa liik / Type of residence permit. </eesti>
+<inglise>Elamisloa liik / Type of residence permit. </inglise>
+<eesti>(6) Vajadusel lisatakse k&auml;esoleva paragrahvi l&otilde;ikes 5 etten&auml;htud tekstile andmev&auml;li tekstiga: </eesti>
+<inglise>(6) If necessary, a data field with the following text shall be added to the text prescribed in subsection (5) of this section: </inglise>
+<eesti>M&auml;rkused / Remarks. </eesti>
+<inglise>M&auml;rkused / Remarks. </inglise>
+<eesti>(7) Tagak&uuml;lje allosas on ultraviolettvalguses fluorestseeruv turvaniit. </eesti>
+<inglise>(7) The lower part of the back side contains a security thread fluorescent in ultraviolet light. </inglise>
+<eesti>(8) Tagak&uuml;lje keskosas on lainelises mikrokirjas tekst: </eesti>
+<inglise>(8) A microprint text in a wavy pattern appears in the centre of the back side of the identity card: </inglise>
+<eesti>"Me hoiame n&otilde;nda &uuml;hte kui heitunud mesilaspere me hoiame n&otilde;nda &uuml;hte ja l&auml;heme l&auml;bi mere ja l&auml;heme l&auml;bi mere mis t&otilde;useb me vastu tige ja l&auml;heme l&auml;bi mere ja muud me ei vaja tuge ja muud me ei vaja tuge kui &uuml;ksteise selged &otilde;lad ja muud me ei vaja tuge kui &uuml;hised r&otilde;&otilde;msad v&otilde;lad (Paul-Eerik Rummo luuletusest)". </eesti>
+<inglise>"Me hoiame n&otilde;nda &uuml;hte kui heitunud mesilaspere me hoiame n&otilde;nda &uuml;hte ja l&auml;heme l&auml;bi mere ja l&auml;heme l&auml;bi mere mis t&otilde;useb me vastu tige ja l&auml;heme l&auml;bi mere ja muud me ei vaja tuge ja muud me ei vaja tuge kui &uuml;ksteise selged &otilde;lad ja muud me ei vaja tuge kui &uuml;hised r&otilde;&otilde;msad v&otilde;lad (Paul-Eerik Rummo luuletusest)". [ We stick together like a frightened swarm of bees we stick together and we pass through the sea and we pass through the sea that rises against us viciously and we pass through the sea and we need nothing else to lean on and we need nothing else to lean on than the clear shoulders of each other and we need nothing else to lean on than the happy debts we share (from a poem by Paul-Eerik Rummo) ]. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Isikutunnistusele kantavad andmed </eesti>
+<inglise>Data Entered on Identity Card </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Isikutunnistusele kantavad andmed </eesti>
+<inglise>Data Entered on identity card </inglise>
+<eesti>(1) Isikutunnistuse esik&uuml;ljele kantakse j&auml;rgmised andmed: </eesti>
+<inglise>(1) The following data shall be entered on the front side of the identity card: </inglise>
+<eesti>1) dokumendi nimetus; </eesti>
+<inglise>1) the name of the document; </inglise>
+<eesti>2) isikutunnistuse v&auml;ljaandja riik; </eesti>
+<inglise>2) the issuing state of the identity card; </inglise>
+<eesti>3) isikutunnistuse kasutaja perekonnanimi; </eesti>
+<inglise>3) the surname of the holder of the identity card; </inglise>
+<eesti>4) isikutunnistuse kasutaja eesnimed; </eesti>
+<inglise>4) the given names of the holder of the identity card; </inglise>
+<eesti>5) isikutunnistuse kasutaja sugu; </eesti>
+<inglise>5) the sex of the holder of the identity card; </inglise>
+<eesti>6) isikutunnistuse kasutaja kodakondsus; </eesti>
+<inglise>6) the citizenship of the holder of the identity card; </inglise>
+<eesti>7) isikutunnistuse kasutaja s&uuml;nniaeg; </eesti>
+<inglise>7) the date of birth of the holder of the identity card; </inglise>
+<eesti>8) isikutunnistuse kasutaja isikukood; </eesti>
+<inglise>8) the personal code of the holder of the identity card; </inglise>
+<eesti>9) isikutunnistuse kasutaja fotokujutis; </eesti>
+<inglise>9) the photographic image of the holder of the identity card; </inglise>
+<eesti>10) isikutunnistuse kasutaja allkiri; </eesti>
+<inglise>10) the signature of the holder of the identity card; </inglise>
+<eesti>11) isikutunnistuse number; </eesti>
+<inglise>11) the number of the identity card; </inglise>
+<eesti>12) isikutunnistuse kehtivuse viimane kuup&auml;ev. </eesti>
+<inglise>12) the date of expiry of the identity card. </inglise>
+<eesti>(2) Isikutunnistuse tagak&uuml;ljele kantakse j&auml;rgmised andmed: </eesti>
+<inglise>(2) The following data shall be entered on the back side of the identity card: </inglise>
+<eesti>1) isikutunnistuse kasutaja s&uuml;nnikoht; </eesti>
+<inglise>1) the place of birth of the holder of the identity card; </inglise>
+<eesti>2) isikutunnistuse v&auml;ljaandmise kuup&auml;ev; </eesti>
+<inglise>2) the date of issue of the identity card; </inglise>
+<eesti>3) isikutunnistuse number ja isikutunnistuse seeria number. </eesti>
+<inglise>3) the number of the identity card and the serial number of the identity card. </inglise>
+<eesti>(3) Kui isikutunnistuse kasutaja on v&auml;lismaalane, kantakse isikutunnistuse tagak&uuml;ljele lisaks k&auml;esoleva paragrahvi l&otilde;ikes 2 nimetatud andmetele: </eesti>
+<inglise>(3) If the holder of the identity card is an alien, then in addition to the data specified in subsection (2) of this section, the following shall be entered on the back side of the identity card: </inglise>
+<eesti>1) elamisloa liik; </eesti>
+<inglise>1) the type of residence permit; </inglise>
+<eesti>2) kui elamisluba on t&auml;htajaline, kantakse isikutunnistusele elamisloa kehtivusaeg; </eesti>
+<inglise>2) if the residence permit is temporary, the expiry date of the residence permit shall be entered on the identity card; </inglise>
+<eesti>3) kui isikule on v&auml;lja antud t&ouml;&ouml;luba, t&ouml;&ouml;loa andmed; </eesti>
+<inglise>3) if a work permit has been issued to the person, the data of the work permit; </inglise>
+<eesti>4) vajaduse korral kantakse isikutunnistusele ka m&auml;rkused. </eesti>
+<inglise>4) if necessary, remarks are entered on the identity card. </inglise>
+<eesti>(4) Isikutunnistuse tagak&uuml;lje all&auml;&auml;res paiknevale masinloetavale v&auml;ljale kantakse vastavalt ICAO 9303-3 ja ISO 7501-1 standarditele struktureeritud kujul j&auml;rgmised andmed: </eesti>
+<inglise>(4) On the machine-readable field at the bottom of the back side of the identity card, the following data in compliance with the standards ICAO 9303-3 and ISO 7501-1 shall be entered in structured form: </inglise>
+<eesti>1) dokumendi liik (nimetus); </eesti>
+<inglise>1) the type of the document (name); </inglise>
+<eesti>2) v&auml;ljaandja riigi kood (EST); </eesti>
+<inglise>2) the code of the issuing state (EST); </inglise>
+<eesti>3) isikutunnistuse number; </eesti>
+<inglise>3) the number of the identity card; </inglise>
+<eesti>4) isikutunnistuse kehtivuse viimane kuup&auml;ev; </eesti>
+<inglise>4) the date of expiry of the identity card; </inglise>
+<eesti>5) isikutunnistuse kasutaja sugu; </eesti>
+<inglise>5) the sex of the holder of the identity card; </inglise>
+<eesti>6) isikutunnistuse kasutaja s&uuml;nniaeg; </eesti>
+<inglise>6) the date of birth of the holder of the identity card; </inglise>
+<eesti>7) isikutunnistuse kasutaja kodakondsus; </eesti>
+<inglise>7) the citizenship of the holder of the identity card; </inglise>
+<eesti>8) isikutunnistuse kasutaja perekonnanimi; </eesti>
+<inglise>8) the surname of the holder of the identity card; </inglise>
+<eesti>9) isikutunnistuse kasutaja eesnimed. </eesti>
+<inglise>9) the given names of the holder of the identity card. </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Isikutunnistusele kantavad digitaalsed andmed </eesti>
+<inglise>Digital data entered on identity card </inglise>
+<eesti>(1) Isikutunnistusele kantakse isiku digitaalset tuvastamist v&otilde;imaldav sertifikaat ja digitaalset allkirjastamist v&otilde;imaldav sertifikaat ning nendes sertifikaatides sisalduvatele avalikele v&otilde;tmetele &uuml;heselt vastavad isiklikud v&otilde;tmed. </eesti>
+<inglise>(1) A certificate which enables digital identification and a certificate which enables digital signing, and the private keys which uniquely correspond to the public keys contained in such certificates shall be entered on an identity card. </inglise>
+<eesti>(2) Isiku digitaalset tuvastamist v&otilde;imaldav sertifikaat sisaldab j&auml;rgmisi andmeid: </eesti>
+<inglise>(2) A certificate which enables digital identification shall contain the following data: </inglise>
+<eesti>1) sertifikaadi v&auml;ljaandja; </eesti>
+<inglise>1) the issuer of the certificate; </inglise>
+<eesti>2) sertifikaadi number; </eesti>
+<inglise>2) the number of the certificate; </inglise>
+<eesti>3) sertifikaadi omaniku perekonnanimi; </eesti>
+<inglise>3) the surname of the holder of the certificate; </inglise>
+<eesti>4) sertifikaadi omaniku eesnimed; </eesti>
+<inglise>4) the given names of the holder of the certificate; </inglise>
+<eesti>5) sertifikaadi omaniku isikukood; </eesti>
+<inglise>5) the personal code of the holder of the certificate; </inglise>
+<eesti>6) sertifikaadi moodustamise kuup&auml;ev ja kellaaeg; </eesti>
+<inglise>6) the date and time of creation of the certificate; </inglise>
+<eesti>7) sertifikaadi kehtivuse viimane kuup&auml;ev ja kellaaeg; </eesti>
+<inglise>7) the date and time of expiry of the certificate; </inglise>
+<eesti>8) sertifikaadi kasutamiseks etten&auml;htud elektronpostiaadress; </eesti>
+<inglise>8) the electronic mail address prescribed for the use of the certificate; </inglise>
+<eesti>9) sertifikaadi kasutusvaldkond. </eesti>
+<inglise>9) the scope of use of the certificate. </inglise>
+<eesti>(3) Digitaalset allkirjastamist v&otilde;imaldav sertifikaat sisaldab j&auml;rgmisi andmeid: </eesti>
+<inglise>(3) A certificate which enables digital signing shall contain the following data: </inglise>
+<eesti>1) sertifikaadi v&auml;ljaandja; </eesti>
+<inglise>1) the issuer of the certificate; </inglise>
+<eesti>2) sertifikaadi number; </eesti>
+<inglise>2) the number of the certificate; </inglise>
+<eesti>3) sertifikaadi omaniku perekonnanimi; </eesti>
+<inglise>3) the surname of the holder of the certificate; </inglise>
+<eesti>4) sertifikaadi omaniku eesnimed; </eesti>
+<inglise>4) the given names of the holder of the certificate; </inglise>
+<eesti>5) sertifikaadi omaniku isikukood; </eesti>
+<inglise>5) the personal code of the holder of the certificate; </inglise>
+<eesti>6) sertifikaadi moodustamise kuup&auml;ev ja kellaaeg; </eesti>
+<inglise>6) the date and time of creation of the certificate; </inglise>
+<eesti>7) sertifikaadi kehtivuse viimane kuup&auml;ev ja kellaaeg; </eesti>
+<inglise>7) the date and time of expiry of the certificate; </inglise>
+<eesti>8) sertifikaadi kasutusvaldkond. </eesti>
+<inglise>8) the scope of use of the certificate. </inglise>
+<eesti>(4) Isikutunnistusele kantakse andmefail, mis sisaldab m&auml;&auml;ruse &sect; 4 l&otilde;ike 1 punktides 1-8, 11 ja 12 ning l&otilde;igetes 2 ja 3 nimetatud andmeid. </eesti>
+<inglise>(4) A data file containing the data specified in clauses 4 (1) 1) -8), 11) and 12) and subsections 4 (2) and (3) of this Regulation shall be entered on the identity card. </inglise>
+<eesti>(5) Isikutunnistusele kantavad sertifikaadid kehtivad kolm aastat, kuid mitte kauem kui kehtib isikutunnistus. </eesti>
+<inglise>(5) The certificates entered on the identity card shall be valid for three years but not for longer than the period of validity of the identity card. </inglise>
+<eesti>L&otilde;ikes 4 nimetatud andmefail kehtib sama kaua kui isikutunnistus. </eesti>
+<inglise>The data file specified in subsection (4) shall be valid for as long as the identity card. </inglise>
+<eesti>3. peat&uuml;kk. </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>Rakenduss&auml;tted </eesti>
+<inglise>Implementing Provisions </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>M&auml;&auml;ruse muutmine </eesti>
+<inglise>Amendment of Regulation </inglise>
+
+<eesti>Vabariigi Valitsuse 11. novembri 1993. a m&auml;&auml;rusega nr 349 kinnitatud "Riigivapi kujutise kasutamise korra" (RT I 1993, 72/73, 1027; 1994, 41, 664; 65, 1125; 72, 1271; 2000, 66, 426) punktist 3 j&auml;etakse v&auml;lja s&otilde;nad "Eesti kodaniku." </eesti>
+<inglise>shall be omitted from clause 3) of the "Procedure for Use of Image of National Coat of Arms" approved by the Government of the Republic Regulation No. 349 of 11 November 1993 (RT I 1993, 72/73, 1027; 1994, 41, 664; 65, 1125; 72, 1271; 2000, 66, 426). </inglise>
+
+<eesti>Vabariigi Valitsuse 4. detsembri 2001. a m&auml;&auml;ruse nr 370 "Isikutunnistuse vormi ja tehnilise kirjelduse ning isikutunnistusele kantavate andmete loetelu kehtestamine ja isikutunnistusele kantavate digitaalsete andmete kehtivusaja m&auml;&auml;ramine" lisa </eesti>
+<inglise>Annex to Government of the Republic Regulation No. 370 of 4 December 2001 "Establishment of Format and Technical Description of Identity Card and List of Data Entered in Identity Card and Determination of Period of Validity of Digital Data Entered on Identity Card" </inglise>

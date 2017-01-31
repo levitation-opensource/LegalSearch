@@ -1,0 +1,269 @@
+<eesti>Kinnispakkide t&auml;itekoguste lubatavad h&auml;lbed nimikogusest ja kinnispakkide kontrollimine (1) </eesti>
+<inglise>Tolerable Errors in Actual Contents of Prepackages, and Checking of Prepackages (1) </inglise>
+<eesti>Majandusministri 29. novembri 2000. a m&auml;&auml;rus nr 40 </eesti>
+<inglise>Regulation No. 40 of the Minister of Economic Affairs of 29 November 2000 </inglise>
+<eesti>(RTL 2000, 124, 1981), </eesti>
+<inglise>(RTL (2) 2000, 124, 1981), </inglise>
+<eesti>j&otilde;ustunud 1. jaanuaril 2002. a. </eesti>
+<inglise>entered into force 1 January 2002. </inglise>
+<eesti>M&auml;&auml;rus kehtestatakse "M&otilde;&otilde;teseaduse" (RT I 1994, 71, 1224; 2000, 71, 442) paragrahvi 12 l&otilde;igete 1 ja 3 alusel. </eesti>
+<inglise>The Regulation is established on the basis of subsections 12 (1) and (3) of the Metrology Act (RT (3) I 1994, 71, 1224; 2000, 71, 442). </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>M&otilde;isted </eesti>
+<inglise>Definitions </inglise>
+<eesti>(1) K&auml;esolevas m&auml;&auml;ruses on metroloogiaalaseid p&otilde;him&otilde;isteid kasutatud vastavalt Eesti standardile EVS 758: 1998 "Metroloogia. </eesti>
+<inglise>(1) The main terms relating to the field of metrology are used in this Regulation according the Estonian standard EVS 758: 1998 "Metrology. </inglise>
+<eesti>Terminid ja m&auml;&auml;ratlused". </eesti>
+<inglise>Terms and Definitions". </inglise>
+<eesti>(2) Erim&otilde;isteid on kasutatud allj&auml;rgnevas t&auml;henduses: </eesti>
+<inglise>(2) Special terms are used as follows: </inglise>
+<eesti>1) netokogus, t&auml;itekogus - &uuml;hes kinnispakis sisalduva toote tegelik kogus; </eesti>
+<inglise>1) "net contents" or "actual contents" means the actual quantity of a product contained in one prepackage; </inglise>
+<eesti>2) nimikogus - kinnispakis sisalduva toote kogus, mis on tootja v&otilde;i importija poolt pakendile m&auml;rgitud; </eesti>
+<inglise>2) "nominal quantity" means the quantity of a product contained in a prepackage as indicated on the packaging by the producer or importer; </inglise>
+<eesti>3) t&auml;itekoguse negatiivne h&auml;lve - toote kogus, mille v&otilde;rra kinnispaki t&auml;itekogus on v&auml;iksem pakendile m&auml;rgitud nimikogusest; </eesti>
+<inglise>3) "negative error in actual contents" means the quantity of a product by which the actual contents of a prepackage is less than the nominal quantity indicated on the packaging; </inglise>
+<eesti>4) v&otilde;rdse nimikogusega kinnispakid - samaliigilised kinnispakid, millel on v&otilde;rdne nimikogus; </eesti>
+<inglise>4) "prepackages of equal nominal quantity" means prepackages of the same type and of an equal nominal quantity; </inglise>
+<eesti>5) r&uuml;hmapakend - samaliigiliste kinnispakkide r&uuml;hmitamiseks nende k&auml;sitlemise lihtsustamise v&otilde;i kaitsmise eesm&auml;rgil kasutatav lisapakend, mille eemaldamine ei m&otilde;juta kauba omadusi; </eesti>
+<inglise>5) "multipack" means an additional package for grouping prepackages of the same type, which is used in order to protect the prepackages or facilitate handling thereof and which can be removed without affecting the properties of the products; </inglise>
+<eesti>6) k&auml;itlemine (k&auml;itlemise protsess) - k&otilde;ik kinnispaki valmistamise, pakendamise, ladustamise, transportimise ja tehingutega (sh importimisega) seotud protseduurid; </eesti>
+<inglise>6) "handling (process of handling)" means all procedures relating to the manufacture, packaging, storage and transportation of and performance of transactions (including import) with prepackages; </inglise>
+<eesti>7) k&auml;itleja - k&auml;itlemise korraldaja v&otilde;i selle eest vastutav isik; </eesti>
+<inglise>7) "handler" means the person who organises or is responsible for handling; </inglise>
+<eesti>8) n&otilde;uetele vastavus - kinnispaki vastavus "M&otilde;&otilde;teseaduses" ja selle rakendusaktides s&auml;testatud n&otilde;uetele. </eesti>
+<inglise>8) "conformity" means the conformity of a prepackage with the requirements provided for in the Metrology Act and the implementing legislation thereof. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General provisions </inglise>
+<eesti>(1) K&auml;esolev m&auml;&auml;rus kehtestab Eesti Vabariigi territooriumil k&auml;ideldavate kinnispakkide t&auml;itekoguste lubatavad h&auml;lbed nimikogusest ja nende kontrolli korra. </eesti>
+<inglise>(1) This Regulation establishes tolerable errors in the actual contents of prepackages handled in the territory of the Republic of Estonia, and the procedure for checking prepackages. </inglise>
+<eesti>(2) M&auml;&auml;rus kehtib v&otilde;rdsete nimikogustega kinnispakkidele, mille nimikogus on v&auml;ljendatud massi- v&otilde;i mahu&uuml;hikutes ja on vastavalt vahemikus 5 g kuni 10 kg (kaasa arvatud) v&otilde;i 5 ml kuni 10 l (kaasa arvatud). </eesti>
+<inglise>(2) This Regulation applies to prepackages of equal nominal quantity, the nominal quantity of which is expressed in units of weight or volume and is not less than 5 g or 5 ml and not more than 10 kg or 10 l (inclusive), respectively. </inglise>
+<eesti>(3) Kinnispakkide t&auml;itekoguse kontrollimiseks tuleb nii k&auml;itleja kui j&auml;relevalveametnike poolt kasutada taadeldud m&otilde;&otilde;tevahendeid. </eesti>
+<inglise>(3) Handlers and supervisory officials shall use verified measuring instruments for checking the actual contents of prepackages. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>K&auml;itleja kohustused ja vastutus </eesti>
+<inglise>Obligations and liability of handlers </inglise>
+<eesti>(1) K&auml;itleja vastutab, et tema poolt k&auml;ideldavad kinnispakid vastaksid k&auml;esoleva m&auml;&auml;ruse ning kinnispakkide lubatavatele nimikogustele ja markeerimisele esitatavatele n&otilde;uetele. </eesti>
+<inglise>(1) A handler is liable for the conformity of the prepackages handled thereby with the requirements of this Regulation and the requirements for permissible nominal quantities of prepackages and for the marking of prepackages. </inglise>
+<eesti>(2) K&auml;itleja peab j&auml;rjepidevalt ja regulaarselt kontrollima kinnispakkide t&auml;itekogust oma k&auml;itlemisprotsessides. </eesti>
+<inglise>(2) A handler shall consistently and regularly check the actual contents of prepackages during the process of handling. </inglise>
+<eesti>(3) Kui kinnispakkide valmistaja t&otilde;endab dokumentaalselt nende kinnispakkide importijale, et vastava partii kinnispakkide t&auml;itekogused vastavad k&auml;esoleva m&auml;&auml;ruse 2. peat&uuml;kis esitatud n&otilde;uetele, v&otilde;ib kinnispakkide importija nende kinnispakkide kontrollimise edasise k&auml;itlemise jooksul korraldada vastavalt enda kehtestatud ja dokumenteeritud kvaliteedis&uuml;steemile. </eesti>
+<inglise>(3) If a manufacturer of prepackages submits documentary proof to the importer of the prepackages that the actual contents of the prepackages of the corresponding lot is in conformity with the requirements set out in Chapter 2 of this Regulation, the importer of the prepackages may organise the checking of such prepackages during further handling according to the quality system established and documented by the importer. </inglise>
+<eesti>(4) K&auml;itleja on kohustatud dokumenteerima k&otilde;ik l&auml;biviidud t&auml;itekoguste kontrollimiste tulemused ning s&auml;ilitama neid v&auml;hemalt kahe aasta jooksul arvates kontrolli toimumisest. </eesti>
+<inglise>(4) A handler is required to document the results of all checks of actual contents and preserve such results for at least two years after the performance of the checks. </inglise>
+<eesti>(5) Juhul kui kinnispakkide k&auml;itlemise protsessi juhtimine on sertifitseeritud akrediteeritud sertifitseerimisasutuse poolt, v&otilde;ib riikliku j&auml;relevalve ametnik k&auml;sitleda seda piisava eeldusena kinnispakkide k&auml;itlemise protsessi ja kinnispakkide n&otilde;uetele vastavuseks. </eesti>
+<inglise>(5) If the management of a process of handling prepackages is certified by an accredited certification body, state supervisory officials may consider this to be sufficient to prove the conformity of the prepackages and the process of handling the prepackages. </inglise>
+<eesti>(6) S&otilde;ltumata, kas eelmine eeldus on t&auml;idetud v&otilde;i mitte, on kinnispakkide k&auml;itleja kohustatud v&otilde;imaldama riikliku j&auml;relevalve ametnikul v&otilde;tta kontrollm&otilde;&otilde;tmiste l&auml;biviimiseks vajaliku koguse kinnispakke (edaspidi prooviv&otilde;tmine). </eesti>
+<inglise>(6) Regardless of whether the previous prerequisite is complied with, a handler of prepackages is required to provide a state supervisory official with the prepackages necessary to conduct measurement checks (hereinafter sampling). </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>J&auml;relevalve </eesti>
+<inglise>Supervision </inglise>
+<eesti>(1) Riiklikku j&auml;relevalvet kinnispakkidele n&otilde;udeid kehtestavate &otilde;igusaktide j&auml;rgimise &uuml;le teostab Tehnilise J&auml;relevalve Inspektsioon ja selle j&auml;relevalveks volitatud ametnikud (edaspidi j&auml;relevalveametnikud). </eesti>
+<inglise>(1) State supervision over compliance with legislation establishing requirements for prepackages shall be exercised by the Technical Inspectorate and the officials thereof who are authorised to exercise supervision (hereinafter supervisory officials). </inglise>
+<eesti>(2) J&auml;relevalveametnikel on &otilde;igus kontrollida kinnispakke nende k&auml;itlemise protsessi mistahes etapil. </eesti>
+<inglise>(2) Supervisory officials have the right to check prepackages at any stage in the process of handling. </inglise>
+<eesti>(3) Kinnispakkide kontrollimisel k&auml;itlemise protsessis peab j&auml;relevalveametnik esitama k&auml;itlejale j&auml;relevalvetoimingus rakendatavate m&otilde;&otilde;tevahendite taatlusm&auml;rgised ja/v&otilde;i taatlustunnistuse. </eesti>
+<inglise>(3) A supervisory official checking prepackages during the process of handling shall present the verification marks and/or verification certificate of the measuring instruments used in the supervisory operations to the handler. </inglise>
+<eesti>Prooviv&otilde;tmise korraldamisel (vt paragrahvi 5 l&otilde;ige 4) peab j&auml;relevalveametnik veenduma, et kompetentses m&otilde;&otilde;telaboris ehk kolmanda s&otilde;ltumatu osapoole (edaspidi m&otilde;&otilde;telabor) poolt kasutatavad m&otilde;&otilde;tevahendid on taadeldud. </eesti>
+<inglise>A supervisory official organising sampling (see subsection 5 (4)) shall ascertain whether the measuring instruments used by the competent measuring laboratory, i.e. the independent third party (hereinafter measuring laboratory), have been verified. </inglise>
+<eesti>(4) J&auml;relevalveametnik peab kontrollm&otilde;&otilde;tmisteks vajalikud kinnispakid valima kontrollitavast hulgast juhusliku valiku p&otilde;him&otilde;ttel ning koostama prooviv&otilde;tmise kohta akti. </eesti>
+<inglise>(4) A supervisory official shall draw the prepackages necessary for measurement checks from the batch at random and shall prepare a sampling report. </inglise>
+<eesti>(5) Akt koostatakse kahes identses eksemplaris, millest &uuml;ks antakse k&auml;itlejale ja teine j&auml;&auml;b j&auml;relevalveametnikule. </eesti>
+<inglise>(5) A report shall be prepared in two identical copies of which one shall be given to the handler and the other shall remain with the supervisory official. </inglise>
+<eesti>(6) Prooviv&otilde;tuaktis peavad sisalduma j&auml;rgmised andmed: </eesti>
+<inglise>(6) A sampling report shall contain the following information: </inglise>
+<eesti>1) prooviv&otilde;tmise kuup&auml;ev, aeg ja koht; </eesti>
+<inglise>1) the date, time and place of sampling; </inglise>
+<eesti>2) m&auml;rge, et k&auml;itleja esindaja on veendunud j&auml;relevalvemenetluses kasutatavate m&otilde;&otilde;tevahendite taatlusm&auml;rgiste olemasolus; </eesti>
+<inglise>2) a notation indicating that the representative of the handler has ascertained that the measuring instruments used in the supervisory proceedings bear verification marks; </inglise>
+<eesti>3) kinnispakkide n&otilde;uetele vastavuse eest vastutava isiku andmed; </eesti>
+<inglise>3) the details of the person responsible for the conformity of the prepackages; </inglise>
+<eesti>4) kinnispakkide tootmise aeg ja imporditud kinnispakkide korral importimiskuup&auml;ev; </eesti>
+<inglise>4) the time of manufacture of the prepackages and, in the case of imported prepackages, the date of importation; </inglise>
+<eesti>5) kinnispakkide nimikogus; </eesti>
+<inglise>5) the nominal quantity of the prepackages; </inglise>
+<eesti>6) prooviks v&otilde;etud kinnispakkide kogus; </eesti>
+<inglise>6) the number of prepackages taken for sampling; </inglise>
+<eesti>7) prooviv&otilde;tmise k&auml;igus avatud r&uuml;hmapakkide/pakendite kogus; </eesti>
+<inglise>7) the number of multipacks/packages opened for sampling; </inglise>
+<eesti>8) prooviks v&otilde;etud kinnispakkide maksumus, deklareerituna k&auml;itleja poolt; </eesti>
+<inglise>8) the cost of the prepackages taken for sampling, as declared by the handler; </inglise>
+<eesti>9) k&auml;itleja esindaja nimi ja allkiri ning identifitseerimistunnus (isikukood, ametit&otilde;endi rekvisiidid vms); </eesti>
+<inglise>9) the name, signature and identification (personal identification code, requisite information from his or her official identification, etc.) of the representative of the handler; </inglise>
+<eesti>10) riikliku j&auml;relevalve ametniku nimi ja allkiri ning kehtiv identifitseerimistunnus (ametit&otilde;endi nr vms). </eesti>
+<inglise>10) the name, signature and valid means of identification (the number of his or her official identification, etc.) of the state supervisory official. </inglise>
+<eesti>(7) J&auml;relevalveametnik peab teavitama k&auml;itlejat kontrolli tulemustest kirjalikult kahe n&auml;dala jooksul prooviv&otilde;tmise hetkest. </eesti>
+<inglise>(7) A supervisory official shall inform the handler of the results of the checks in writing within two weeks after the moment of sampling. </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>T&auml;itekoguse kontrollimine j&auml;relevalvemenetluse k&auml;igus </eesti>
+<inglise>Checking of actual contents in course of supervisory proceedings </inglise>
+<eesti>(1) J&auml;relevalveametnikud kasutavad kinnispakkide t&auml;itekoguse kontrollimisel k&auml;esoleva m&auml;&auml;ruse 3. peat&uuml;kis s&auml;testatud statistilise kontrolli meetodeid. </eesti>
+<inglise>(1) In checking the actual contents of prepackages, supervisory officials shall use the methods for statistical checking provided for in Chapter 3 of this Regulation. </inglise>
+<eesti>(2) J&auml;relevalveametnik peab vastava kleebisega t&auml;histama k&otilde;ik r&uuml;hmapakendid, millest on v&otilde;etud prooviv&otilde;tmise k&auml;igus kinnispakke. </eesti>
+<inglise>(2) A supervisory official shall attach a corresponding sticker to all multipacks from which prepackages have been taken for sampling. </inglise>
+<eesti>(3) Kleebis peab sisaldama j&auml;rgmisi andmeid: </eesti>
+<inglise>(3) A sticker shall contain the following information: </inglise>
+<eesti>1) tr&uuml;kitud kirje "Kinnispakkide t&auml;itekoguse kontrollimine"; </eesti>
+<inglise>1) printed text "Kinnispakkide t&auml;itekoguse kontrollimine" [ Checking of actual contents of prepackages ]; </inglise>
+<eesti>2) tr&uuml;kitud kirje "Tehnilise J&auml;relevalve Inspektsioon"; </eesti>
+<inglise>2) printed text "Tehnilise J&auml;relevalve Inspektsioon" [ Technical Inspectorate ]; </inglise>
+<eesti>3) tr&uuml;kitud koht kuup&auml;eva kirjutamiseks, mille t&auml;idab j&auml;relevalveametnik prooviv&otilde;tukuup&auml;eval; </eesti>
+<inglise>3) a printed space for the date, to be filled in by the supervisory official on the date of sampling; </inglise>
+<eesti>4) j&auml;relevalveametniku nimi ja allkiri. </eesti>
+<inglise>4) the name and signature of the supervisory official. </inglise>
+<eesti>(4) Kui j&auml;relevalveametnik otsustab, et kinnispakkide n&otilde;uetekohasuse kontrollimiseks on vajalik nende m&otilde;&otilde;tmine kompetentses m&otilde;&otilde;telaboris ehk kolmanda s&otilde;ltumatu osapoole poolt (edaspidi m&otilde;&otilde;telabor), tuleb j&auml;relevalveametniku poolt korraldada prooviks v&otilde;etud kinnispakkide toimetamine (transportimine) k&auml;itleja juurest m&otilde;&otilde;telaborisse. </eesti>
+<inglise>(4) If a supervisory official decides that, in order to check the conformity of prepackages, the prepackages need to be measured at a competent measuring laboratory, i.e. an independent third party (hereinafter measuring laboratory), the supervisory official shall organise the delivery (transportation) of the prepackages taken for sampling from the handler to the measuring laboratory. </inglise>
+<eesti>(5) Kontrollm&otilde;&otilde;tmisteks v&otilde;etud kinnispakkide algseisundi fikseerimiseks ja s&auml;ilitamiseks transportimise ajal asetab j&auml;relevalveametnik k&auml;itleja esindaja juuresolekul prooviks v&otilde;etud kinnispakid n&otilde;usse v&otilde;i pakendisse ja suleb selle l&otilde;ikes 3 kirjeldatud kleebisega. </eesti>
+<inglise>(5) In order to determine and, during transportation, preserve the initial condition of prepackages taken for measurement checks, the supervisory official shall place the prepackages in a container or package in the presence of the representative of the handler and shall seal the container or package with a sticker specified in subsection (3). </inglise>
+<eesti>(6) M&auml;rgistus tuleb kinnitada n&otilde;ule v&otilde;i pakendile nii, et seda pole v&otilde;imalik kinnitust rikkumata eemaldada. </eesti>
+<inglise>(6) The marking shall be affixed to the container or package such that it cannot be removed without damaging the marking. </inglise>
+<eesti>(7) Kinnispakkide transportimiseks kasutatava n&otilde;u v&otilde;i pakendi kuju ja materjal peab v&auml;listama kinnispakkide seisundi olulise muutumise prooviv&otilde;tmise hetkest kuni nende j&otilde;udmiseni m&otilde;&otilde;telaborisse. </eesti>
+<inglise>(7) The shape and material of a container or package used for transporting prepackages shall preclude any substantial changes from occurring in the condition of the prepackages between the moment of taking the samples and their arrival at the measuring laboratory. </inglise>
+<eesti>Oluline seisundi muutus on selline kinnispaki kahjustus, mis vahetult m&otilde;justab pakendatud t&auml;itekogust. </eesti>
+<inglise>"Substantial change in condition" means such damage to a prepackage which directly affects the actual contents of the prepackage. </inglise>
+<eesti>Sellise seisundina ei k&auml;sitleta n&auml;iteks pakendi pindmisi kriimustusi, muljumist, etikettide lahtitulekut jms. </eesti>
+<inglise>Scratches on the surface of the package, dents, loose labels, etc. shall not be considered substantial changes in condition. </inglise>
+<eesti>(8) J&auml;relevalveametniku poolt kontrollm&otilde;&otilde;tmisteks v&otilde;etud kinnispakkide toimetamine (transportimine) k&auml;itleja juurest m&otilde;&otilde;telaborisse peab toimuma hiljemalt 24 tunni jooksul prooviv&otilde;tmise ajast. </eesti>
+<inglise>(8) Prepackages taken by a supervisory official for measurement checks shall be delivered (transported) from the handler to the measuring laboratory not later than within twenty-four hours as of the time of sampling. </inglise>
+<eesti>(9) J&auml;relevalveametnik tagab v&otilde;etud kinnispakkide s&auml;ilitamise normaaltingimustel kuni nende toimetamiseni m&otilde;&otilde;telaborisse. </eesti>
+<inglise>(9) A supervisory official shall ensure that the prepackages are preserved under normal conditions until the delivery thereof to the measuring laboratory. </inglise>
+<eesti>(10) M&otilde;&otilde;telabor tagab kinnispakkide &uuml;leandmist fikseeriva akti allkirjastamise j&auml;rel kinnispakkide s&auml;ilitamise tingimustes, mis ei m&otilde;justa j&auml;rgnevaid m&otilde;&otilde;tmisprotseduure. </eesti>
+<inglise>(10) After the report documenting the delivery of prepackages has been signed, the measuring laboratory shall ensure that the prepackages are preserved under conditions which do not affect the subsequent measurement procedures. </inglise>
+<eesti>(11) L&otilde;igetes 4-9 kirjeldatud olukorra ja toimingute fikseerimiseks tehakse vastavad m&auml;rked prooviv&otilde;tuaktides. </eesti>
+<inglise>(11) The situation and operations specified in subsections (4) -(9) shall be documented by corresponding entries in the sampling reports. </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Kinnispakkide t&auml;itekoguste lubatavad h&auml;lbed nimikogusest </eesti>
+<inglise>Tolerable errors in actual contents of prepackages </inglise>
+<eesti>(1) V&otilde;rdse nimikogusega toodetud kinnispakkide hulga keskmine t&auml;itekogus peab olema suurem v&otilde;i v&otilde;rdne nimikogusega. </eesti>
+<inglise>(1) The average actual contents of prepackages of equal nominal quantity shall be greater than or equal to the nominal quantity. </inglise>
+<eesti>(2) Kinnispaki t&auml;itekogus v&otilde;ib olla v&auml;iksem nimikogusest vaid juhul, kui see on p&otilde;hjustatud fluktuatsioonidest pakendamisprotsessis. </eesti>
+<inglise>(2) The actual contents of a prepackage may be less than the nominal contents only if this is caused by fluctuations in the packaging process. </inglise>
+<eesti>Suurus T on kinnispaki t&auml;itekoguse lubatud negatiivne h&auml;lve nimikogusest ja selle v&auml;&auml;rtused on antud tabelis 1. </eesti>
+<inglise>The variable T is the tolerable negative error in the actual contents of a prepackage and the corresponding values are given in Table 1. </inglise>
+<eesti>(3) Kinnispakkide, mille t&auml;itekoguse negatiivne h&auml;lve on suurem kui T, osakaal koguhulgas peab olema piisavalt v&auml;ike, et rahuldada k&auml;esoleva m&auml;&auml;ruse paragrahvides 10 ja 11 esitatud kriteeriume. </eesti>
+<inglise>(3) The proportion of prepackages having a negative error in actual contents greater than T shall be sufficiently small for batches of prepackages to satisfy the requirements specified in &sect;&sect; 10 and 11 of this Regulation. </inglise>
+<eesti>(4) T&auml;itekoguse negatiivne h&auml;lve nimikogusest ei tohi &uuml;helgi juhul olla suurem kui 2 &times; T. Kinnispakkide, mille t&auml;itekoguse negatiivne h&auml;lve on suurem kui 2 &times; T, markeerimine e-m&auml;rgistusega on keelatud. </eesti>
+<inglise>(4) The negative error in actual contents shall in no case exceed 2 &times; T. No prepackage having a negative error in actual contents greater than 2 &times; T shall be marked with the CE marking. </inglise>
+<eesti>Tabel 1 </eesti>
+<inglise>Table 1 </inglise>
+<eesti>Kinnispaki t&auml;itekoguse lubatud negatiivne h&auml;lve nimikogusest </eesti>
+<inglise>Tolerable negative error in actual contents of prepackages </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Statistilise usaldusv&auml;&auml;ruse tagamine </eesti>
+<inglise>Ensuring statistical reliability </inglise>
+<eesti>(1) Kinnispakkide t&auml;itekoguse kontrollimisel peab m&otilde;&otilde;tetulemuste m&auml;&auml;ramatus olema v&auml;iksem kui 0,2 &times; T, kus T on t&auml;itekoguse lubatud negatiivne h&auml;lve nimikogusest vastavalt tabelile 1. </eesti>
+<inglise>(1) Upon checking the actual contents of prepackages, the uncertainty of measurement results shall be less than 0.2 &times; T, where T is the tolerable negative error in actual contents according to Table 1. </inglise>
+<eesti>(2) Kinnispakkide t&auml;itekoguste kontrollimisel tuleb kasutada allpool esitatud statistilist meetodit v&otilde;i meetodit, mis on v&auml;hemalt sama usaldatavuse tasemega. </eesti>
+<inglise>(2) The actual contents of prepackages shall be checked using the statistical method specified below or a method of at least the same level of reliability. </inglise>
+<eesti>(3) Statistilise testi k&auml;igus kontrollitakse v&otilde;rdsete nimikogustega kinnispakkide hulga vastavust k&auml;esoleva m&auml;&auml;ruse paragrahvis 6 esitatud n&otilde;uetele t&auml;itekogusele &uuml;hes kinnispakis ja hulga keskmisele t&auml;itekogusele. </eesti>
+<inglise>(3) A statistical test shall be used to check whether a batch of prepackages of equal nominal quantity complies with the requirements specified in &sect; 6 of this Regulation for the actual contents of one prepackage and the average actual contents of the batch. </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Statistilise testi objekt </eesti>
+<inglise>Object of statistical test </inglise>
+<eesti>(1) M&auml;&auml;ratakse kindlaks statistilise testi objekt (&uuml;he statistilise testi kohta) - v&otilde;rdsete nimikogustega kinnispakkide hulk. </eesti>
+<inglise>(1) The object of a statistical test - a batch of prepackages of equal nominal quantity - shall be determined for each statistical test. </inglise>
+<eesti>See hulk &uuml;he statistilise testi kohta ei tohi &uuml;letada 10 000 kinnispakendit. </eesti>
+<inglise>The batch size for one statistical test shall not exceed 10 000 prepackages. </inglise>
+<eesti>M&auml;rkus. </eesti>
+<inglise>Note. </inglise>
+<eesti>1) Hulgaks v&otilde;ib olla n&auml;iteks tootmisliini toodang &uuml;hes tunnis, hetkel laos olevad samaliigilised kinnispakid jne. </eesti>
+<inglise>1) A batch may, for example, consist of the hourly output of a production line, of the prepackages of the same type currently in the warehouse, etc. </inglise>
+<eesti>2) Kui statistilise testi objektiks olevate kinnispakkide hulk on v&auml;iksem kui 100 kinnispakki, tuleb need k&otilde;ik v&otilde;tta kontrollitavaks hulgaks ning, kui t&auml;itekoguse kontroll on v&otilde;imalik kinnispakke avamata, allutada sajaprotsendiliselt kontrollile. </eesti>
+<inglise>2) If a batch of prepackages which is the object of a statistical test consists of less than 100 prepackages, all of them shall be subject to the test and, if it is possible to check the actual contents without opening the prepackages, the test shall be 100%. </inglise>
+<eesti>(2) Statistilise testi objektiks olevast kinnispakkide hulgast valitakse juhuslikult v&auml;lja teatud hulk kinnispakke (edaspidi valim ehk kontrollitav hulk) vastavalt kasutatavale statistilise testi skeemile nii, et oleks vajadusel v&otilde;imalik l&auml;bi viia kaheastmelist kontrolli. </eesti>
+<inglise>(2) A sufficient number of prepackages (hereinafter sample or batch subject to checking) shall be drawn at random from a batch of prepackages which is the object of a statistical test according to the plan for the test used so that, if necessary, double checking can be carried out. </inglise>
+<eesti>(3) Kontrollitava hulga valimine testiks peab olema l&otilde;petatud enne m&otilde;&otilde;tmiste alustamist. </eesti>
+<inglise>(3) A batch subject to checking shall be chosen before the start of measuring operations. </inglise>
+<eesti>M&otilde;&otilde;tmiste l&auml;biviimisega samaaegselt ei ole uute kinnispakkide valimine lubatud. </eesti>
+<inglise>New prepackages shall not be chosen at the same time as measurements are being performed. </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Statistilise testi reeglid </eesti>
+<inglise>Rules for statistical tests </inglise>
+<eesti>(1) Testi k&auml;igus m&auml;&auml;ratakse valimisse kuuluvate kinnispakkide vastavust k&auml;esoleva m&auml;&auml;ruse paragrahvis 6 esitatud n&otilde;uetele t&auml;itekogusele &uuml;hes kinnispakis ja hulga keskmisele t&auml;itekogusele. </eesti>
+<inglise>(1) During a test, the fact whether the prepackages in the sample comply with the requirements specified in &sect; 6 of this Regulation for the actual contents of one prepackage and the average actual contents of the batch shall be determined. </inglise>
+<eesti>Kinnispakkide hulk loetakse testi positiivselt l&auml;binuks, kui valim rahuldab nii &uuml;ksiku kinnispaki kui keskmise t&auml;itekoguse vastavuskriteeriume. </eesti>
+<inglise>A batch of prepackages shall be considered acceptable for the purposes of the test if the batch complies with the requirements for both the actual contents of single prepackages and the average actual contents. </inglise>
+<eesti>(2) Kinnispakid, mille t&auml;itekoguse negatiivne h&auml;lve on suurem kui T, kus T on kinnispaki t&auml;itekoguse lubatud negatiivne h&auml;lve vastavalt tabelile 1, tuleb tunnistada n&otilde;uetele mittevastavaks. </eesti>
+<inglise>(2) Prepackages having a negative error in actual contents greater than T, where T is the tolerable negative error in the actual contents of a prepackage according to Table 1, shall be considered unacceptable. </inglise>
+<eesti>(3) &Uuml;hegi kontrollitava kinnispaki t&auml;itekoguse negatiivne h&auml;lve nimikogusest ei tohi &uuml;letada piiri 2 &times; T. </eesti>
+<inglise>(3) The negative error in the actual contents of any prepackage checked shall not exceed the limit of 2 &times; T. </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>&Uuml;ksiku kinnispaki t&auml;itekoguse kontroll </eesti>
+<inglise>Checking of actual contents of single prepackages </inglise>
+<eesti>(1) Kinnispaki t&auml;itekogust v&otilde;ib kontrollida pakendit avamata (rakendades kaheastmelist statistilist testi) v&otilde;i pakendit rikkudes (rakendades &uuml;heastmelist statistilist testi). </eesti>
+<inglise>(1) The actual contents of a prepackage may be checked by leaving the package unopened (double statistical test) or by destroying the package (single statistical test). </inglise>
+<eesti>(2) Kui t&auml;itekogus m&otilde;&otilde;detakse ilma kinnispakke avamata, siis tuleb kasutada tabelis 2 esitatud kaheastmelise statistilise testi t&uuml;&uuml;pskeemi. </eesti>
+<inglise>(2) If actual contents is measured without opening the prepackage, the standard plan for a double statistical test as specified in Table 2 shall be used. </inglise>
+<eesti>Tabel 2 </eesti>
+<inglise>Table 2 </inglise>
+<eesti>Kaheastmelise statistilise testi t&uuml;&uuml;pskeem </eesti>
+<inglise>Standard plan for double statistical test </inglise>
+<eesti>(3) S&otilde;ltuvalt kaheastmelise statistilise testi esimese osa tulemustest: </eesti>
+<inglise>(3) Depending on the results of the first part of a double statistical test: </inglise>
+<eesti>1) kui n&otilde;uetele mittevastavate kinnispakkide arv on v&otilde;rdne v&otilde;i v&auml;iksem kui tabelis 2 esimesele testiastmele kehtestatud lubatav arv, siis tunnistatakse testi objektiks olev kinnispakkide hulk vastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele; </eesti>
+<inglise>1) if the number of defective prepackages is equal to or less than the acceptance criterion for the first test level as indicated in Table 2, the batch of prepackages subject to testing shall be considered to be in compliance with the requirements specified in subsection 6 (2) of this Regulation; </inglise>
+<eesti>2) kui n&otilde;uetele mittevastavate kinnispakkide arv on v&otilde;rdne v&otilde;i suurem kui tabelis 2 esimesele testiastmele kehtestatud mittelubatav arv, siis tunnistatakse testi objektiks olev kinnispakkide hulk mittevastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele; m&otilde;lemal juhul testi teist osa ei teostata; </eesti>
+<inglise>2) if the number of defective prepackages is equal to or greater than the rejection criterion for the first test level as indicated in Table 2, the batch of prepackages subject to testing shall be considered not to be in compliance with the requirements specified in subsection 6 (2) of this Regulation; in both cases, the second part of the test shall not be carried out; </inglise>
+<eesti>3) kui n&otilde;uetele mittevastavateks tunnistatud kinnispakkide arv on lubatava ja mittelubatava arvu vahel, siis viiakse l&auml;bi testi teine osa; testi teise osa k&auml;igus leitud n&otilde;uetele mittevastavate kinnispakkide arv liidetakse testi esimeses osas leitud n&otilde;uetele mittevastavate kinnispakkide arvule. </eesti>
+<inglise>3) if the number of defective prepackages lies between the acceptance criterion and the rejection criterion, the second part of the test shall be carried out; the number of defective prepackages found in the second part of test shall be added to the number of defective prepackages found in the first part of the test. </inglise>
+<eesti>Kui saadud summaarne n&otilde;uetele mittevastavate kinnispakkide arv on v&otilde;rdne v&otilde;i v&auml;iksem kui tabelis 2 teisele testiastmele kehtestatud lubatav arv, siis tunnistatakse testi objektiks olev kinnispakkide hulk vastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele. </eesti>
+<inglise>If the aggregate number of defective prepackages is equal to or less than the acceptance criterion for the second test level as indicated in Table 2, the batch of prepackages subject to testing shall be considered to be in compliance with the requirements specified in subsection 6 (2) of this Regulation. </inglise>
+<eesti>Kui saadud summaarne n&otilde;uetele mittevastavate kinnispakkide arv on v&otilde;rdne v&otilde;i suurem kui samale testiastmele kehtestatud mittelubatav arv, tunnistatakse testi objektiks olev kinnispakkide hulk mittevastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele. </eesti>
+<inglise>If the aggregate number of defective prepackages is equal to or greater than the rejection criterion established for the same test level, the batch of prepackages subject to testing shall be considered not to be in compliance with the requirements specified in subsection 6 (2) of this Regulation. </inglise>
+<eesti>(4) Kui t&auml;itekoguse m&otilde;&otilde;tmiseks tuleb kontrollitava kinnispaki pakend rikkuda (avada), siis tuleb kasutada tabelis 3 esitatud &uuml;heastmelise statistilise testi t&uuml;&uuml;pskeemi. </eesti>
+<inglise>(4) If it is necessary to destroy (open) prepackages to measure the actual contents, the standard plan for a single statistical test specified in Table 3 shall be used. </inglise>
+<eesti>Testi objektiks olev kinnispakkide hulk tunnistatakse vastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele juhul, kui valimis ei sisaldu n&otilde;uetele mittevastavaid kinnispakke rohkem kui lubatav arv. </eesti>
+<inglise>A batch of prepackages subject to a test shall be considered to be in compliance with the requirements specified in subsection 6 (2) of this Regulation if the number of unacceptable prepackages in the sample does not exceed the acceptance criterion. </inglise>
+<eesti>Tabel 3 </eesti>
+<inglise>Table 3 </inglise>
+<eesti>&Uuml;heastmelise statistilise testi t&uuml;&uuml;pskeem </eesti>
+<inglise>Standard plan for single statistical test </inglise>
+<eesti>(5) Kinnispakkide hulk alla 100 kinnispaki allutatakse sajaprotsendilisele kontrollile. </eesti>
+<inglise>(5) For batches of less than 100 prepackages, the checks shall be 100%. </inglise>
+<eesti>Testi objektiks olev kinnispakkide hulk tunnistatakse vastavaks k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 2 esitatud n&otilde;uetele juhul, kui n&otilde;uetele mittevastavaid kinnispakke ei sisaldu rohkem, kui tabelis 4 toodud lubatav arv. </eesti>
+<inglise>A batch of prepackages subject to testing shall be considered to be in compliance with the requirements specified in subsection 6 (2) of this Regulation if the number of unacceptable prepackages does not exceed the acceptance criterion specified in Table 4. </inglise>
+<eesti>Tabel 4 </eesti>
+<inglise>Table 4 </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Kinnispakkide hulga keskmise t&auml;itekoguse kontroll </eesti>
+<inglise>Checking of average actual contents of batch of prepackages </inglise>
+<eesti>(1) Kinnispakkide hulga keskmise t&auml;itekoguse kontrollimisel tuleb arvesse v&otilde;tta statistilise testi usaldatavusastet. </eesti>
+<inglise>(1) In checking the average actual contents of a batch of prepackages, the level of reliability of the statistical test shall be taken into account. </inglise>
+<eesti>(2) Kinnispakkide hulk rahuldab k&auml;esoleva m&auml;&auml;ruse paragrahvi 6 l&otilde;ikes 1 esitatud n&otilde;uet juhul, kui valimi t&auml;itekoguse keskv&auml;&auml;rtus rahuldab vastavalt tabelis 5 v&otilde;i 6 toodud aktsepteerimiskriteeriume. </eesti>
+<inglise>(2) A batch of prepackages meets the requirements specified in subsection 6 (1) of this Regulation if the mean value of the actual contents of the sample meets the acceptance criterion specified in Table 5 or 6, respectively. </inglise>
+<eesti>Tabel 5 </eesti>
+<inglise>Table 5 </inglise>
+<eesti>Test kinnispakki avamata </eesti>
+<inglise>Non-destructive test </inglise>
+
+
+<eesti>on valimi t&auml;itekoguse keskv&auml;&auml;rtus, kus </eesti>
+<inglise>Table 6 </inglise>
+
+<eesti>n on kinnispakkide arv valimis; </eesti>
+<inglise>where </inglise>
+<eesti>Q <hi rend="sub"> n </hi> on testi objektiks olevate samaliigiliste kinnispakkide nimikogus. </eesti>
+<inglise>is the mean value of the actual contents of the batch where </inglise>
+
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>M&auml;&auml;ruse j&otilde;ustumine </eesti>
+<inglise>Entry into force of Regulation </inglise>
+<eesti>K&auml;esolev m&auml;&auml;rus j&otilde;ustub 1. jaanuaril 2002. a. </eesti>
+<inglise>This Regulation enters into force on 1 January 2002. </inglise>
+<eesti>(1) Arvestades Euroopa &Uuml;henduse N&otilde;ukogu direktiivide 75/106/EM&Uuml; (E&Uuml;T L 042, 15.02.1975, lk 1), 76/211/EM&Uuml; (E&Uuml;T L 046, 21.02.1976, lk 1) ja 80/232/EM&Uuml; (E&Uuml;T L 051, 25.02.1980, lk 1) t&auml;iendatud ja muudetud tekste. </eesti>
+<inglise>(1) The amended texts of Directives 75/106/EEC (OJ L 042, 15.02.1975, p. 1), 76/211/EEC (OJ L 046, 21.02.1976, p. 1) 80/232/EEC (OJ L 051, 25.02.1980, p. 1) and of the Council of the European Community have been taken into account. (2) RTL = Riigi Teataja Lisa = Appendix to the State Gazette </inglise>
+

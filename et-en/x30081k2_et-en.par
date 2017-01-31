@@ -1,0 +1,778 @@
+<eesti>Digitaalallkirja seadus </eesti>
+<inglise>Digital Signatures Act </inglise>
+<eesti>Vastu v&otilde;etud 8. m&auml;rtsil 2000. a. </eesti>
+<inglise>Passed 8 March 2000 </inglise>
+<eesti>(RT I 2000, 26, 150), </eesti>
+<inglise>(RT (1) I 2000, 26, 150), </inglise>
+<eesti>j&otilde;ustunud 15. detsembril 2000. a., </eesti>
+<inglise>entered into force 15 December 2000, </inglise>
+<eesti>muudetud j&auml;rgmiste seadustega: </eesti>
+<inglise>amended by the following Acts: </inglise>
+<eesti>06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336; </eesti>
+<inglise>06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336; </inglise>
+<eesti>15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597. </eesti>
+<inglise>15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597. </inglise>
+<eesti>I peat&uuml;kk </eesti>
+<inglise>Chapter I </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General Provisions </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Seaduse reguleerimisala </eesti>
+<inglise>Scope of application of Act </inglise>
+<eesti>K&auml;esolev seadus s&auml;testab digitaalallkirja kasutamiseks vajalikud tingimused ning sertifitseerimisteenuse ja ajatempliteenuse osutamise &uuml;le j&auml;relevalve teostamise korra. </eesti>
+<inglise>This Act provides the necessary conditions for using digital signatures and the procedure for exercising supervision over the provision of certification services and time-stamping services. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>Digitaalallkiri </eesti>
+<inglise>Digital signature </inglise>
+<eesti>(1) Digitaalallkiri on tehniliste ja organisatsiooniliste vahendite s&uuml;steemi abil moodustatud andmete kogum, mida allkirja andja kasutab, m&auml;rkimaks oma seost dokumendiga. </eesti>
+<inglise>(1) A digital signature is a data unit, created using a system of technical and organisational means, which a signatory uses to indicate his or her connection to a document. </inglise>
+<eesti>(2) Digitaalallkiri moodustatakse allkirja andja poolt allkirja andmise vahendi (edaspidi isiklik v&otilde;ti) abil, millele vastab &uuml;heselt allkirja kontrollimise vahend (edaspidi avalik v&otilde;ti). </eesti>
+<inglise>(2) A digital signature is created by a signatory using a signature creating device (hereinafter private key) to which a signature verification device (hereinafter public key) uniquely corresponds. </inglise>
+<eesti>(3) Digitaalallkiri koos selle kasutamise s&uuml;steemiga peab: </eesti>
+<inglise>(3) A digital signature and the system of using the digital signature shall: </inglise>
+<eesti>1) v&otilde;imaldama &uuml;heselt tuvastada isiku, kelle nimel allkiri on antud; </eesti>
+<inglise>1) enable unique identification of the person in whose name the signature is given; </inglise>
+<eesti>2) v&otilde;imaldama kindlaks teha allkirja andmise aja; </eesti>
+<inglise>2) enable determination of the time at which the signature is given; </inglise>
+<eesti>3) siduma digitaalallkirja andmetega sellisel viisil, mis v&auml;listab v&otilde;imaluse tuvastamatult muuta andmeid v&otilde;i nende t&auml;hendust p&auml;rast allkirja andmist. </eesti>
+<inglise>3) link the digital signature to data in such a manner that any subsequent change of the data or the meaning thereof is detectable. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Digitaalallkirja kasutamise &otilde;iguslikud tagaj&auml;rjed </eesti>
+<inglise>Legal consequences of digital signatures </inglise>
+<eesti>(1) Digitaalallkirjal on samad &otilde;iguslikud tagaj&auml;rjed nagu omak&auml;elisel allkirjal, kui seadusega ei ole neid tagaj&auml;rgi piiratud ning on t&otilde;endatud allkirja vastavus k&auml;esoleva seaduse &sect; 2 l&otilde;ike 3 n&otilde;uetele. </eesti>
+<inglise>(1) A digital signature has the same legal consequences as a hand-written signature if these consequences are not restricted by law and if the compliance of the signature with the requirements of subsection 2 (3) of this Act is proved. </inglise>
+<eesti>(2) K&auml;esoleva seaduse II-V peat&uuml;kis s&auml;testatud p&otilde;him&otilde;tete kohaselt antud digitaalallkirja vastavus k&auml;esoleva seaduse &sect; 2 l&otilde;ike 3 n&otilde;uetele ei vaja eraldi t&otilde;endamist, kui andmed koos digitaalallkirjaga v&otilde;imaldavad &uuml;heselt kindlaks teha sertifikaadi, milles sisalduvale avalikule v&otilde;tmele vastava isikliku v&otilde;tmega digitaalallkiri on antud. </eesti>
+<inglise>(2) The compliance of a digital signature given according to the principles provided for in Chapters II-V of this Act with the requirements of subsection 2 (3) of this Act need not be proved separately if data and the digital signature enable unique determination of the certificate which contains the public key to which the private key with which the digital signature is given corresponds. </inglise>
+<eesti>(3) Digitaalallkirja andmine ei too kaasa k&auml;esoleva paragrahvi l&otilde;ikes 1 s&auml;testatud tagaj&auml;rgi, kui on t&otilde;endatud, et isiklikku v&otilde;tit on kasutatud allkirja andmiseks ilma vastava sertifikaadi omaniku n&otilde;usolekuta. </eesti>
+<inglise>(3) A digital signature does not have the consequences provided for in subsection (1) of this section if it is proved that the private key was used for giving the signature without the consent of the holder of the corresponding certificate. </inglise>
+<eesti>(4) Digitaalallkirja andmine ilma vastava sertifikaadi omaniku n&otilde;usolekuta loetakse t&otilde;endatuks, kui sertifikaadi omanik t&otilde;endab asjaolud, mille esinemisel v&otilde;ib eeldada, et allkiri anti tema n&otilde;usolekuta. </eesti>
+<inglise>(4) The giving of a digital signature without the consent of the holder of the corresponding certificate is deemed to be proved if the certificate holder proves circumstances which existed and due to which it may be presumed that the signature was given without his or her consent. </inglise>
+<eesti>(5) K&auml;esoleva paragrahvi l&otilde;ikes 3 s&auml;testatud juhtudel peab sertifikaadi omanik h&uuml;vitama kahju, mis tekkis teisele isikule, kes ekslikult pidas allkirja antuks sertifikaadi omaniku poolt, kui isikliku v&otilde;tme kasutamine ilma sertifikaadi omaniku n&otilde;usolekuta oli toimunud sertifikaadi omaniku tahtluse v&otilde;i raske ettevaatamatuse t&otilde;ttu. </eesti>
+<inglise>(5) In the cases specified in subsection (3) of this section, the certificate holder shall compensate damage caused to another person who erroneously presumed that the signature was given by the certificate holder, if the private key was used without the consent of the certificate holder due to the intent or gross negligence of the certificate holder. </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Digitaalallkirja kasutamine </eesti>
+<inglise>Use of digital signatures </inglise>
+<eesti>(1) Era&otilde;iguslikes suhetes kasutatakse digitaalallkirja vastavalt poolte kokkuleppele. </eesti>
+<inglise>(1) In relations in private law, digital signatures shall be used according to agreement between the parties. </inglise>
+<eesti>(2) Avalik-&otilde;iguslikes suhetes kasutatakse digitaalallkirja vastavalt k&auml;esolevale seadusele ning selle alusel antud &otilde;igusaktidele. </eesti>
+<inglise>(2) In relations in public law, digital signatures shall be used pursuant to this Act and legislation issued on the basis thereof. </inglise>
+<eesti>(3) Riigi- ja kohaliku omavalitsuse asutused, avalik-&otilde;iguslikud juriidilised isikud ning avalik-&otilde;iguslikke &uuml;lesandeid t&auml;itvad era&otilde;iguslikud isikud on kohustatud hoidma &uuml;ldkasutatavas andmesidev&otilde;rgus k&auml;ttesaadavana teavet digitaalallkirja kasutamise v&otilde;imaluste ja korra kohta nende asutuste ja isikutega suhtlemisel. </eesti>
+<inglise>(3) State and local government agencies, legal persons in public law, and persons in private law performing public law functions are required to provide access through the public data communication network to information concerning the possibilities and procedure for using digital signatures in communication with such agencies and persons. </inglise>
+<eesti>II peat&uuml;kk </eesti>
+<inglise>Chapter II </inglise>
+<eesti>Sertifikaat </eesti>
+<inglise>Certificates </inglise>
+<eesti>1. jagu </eesti>
+<inglise>Division 1 </inglise>
+<eesti>Sertifikaat ja n&otilde;uded sertifikaadile </eesti>
+<inglise>Certificates and Requirements for Certificates </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Sertifikaat </eesti>
+<inglise>Certificates </inglise>
+<eesti>(1) Sertifikaat k&auml;esoleva seaduse m&otilde;istes on dokument, mis on v&auml;lja antud, v&otilde;imaldamaks digitaalallkirja andmist ja milles avalik v&otilde;ti seotakse &uuml;heselt f&uuml;&uuml;silise isikuga. </eesti>
+<inglise>(1) For the purposes of this Act, a certificate is a document which is issued in order to enable a digital signature to be given and in which a public key is uniquely linked to a natural person. </inglise>
+<eesti>(2) Sertifikaadis peab sisalduma selle: </eesti>
+<inglise>(2) A certificate shall set out: </inglise>
+<eesti>1) number; </eesti>
+<inglise>1) the number of the certificate; </inglise>
+<eesti>2) omaniku nimi; </eesti>
+<inglise>2) the name of the holder of the certificate; </inglise>
+<eesti>3) omaniku avalik v&otilde;ti; </eesti>
+<inglise>3) the public key of the certificate holder; </inglise>
+<eesti>4) kehtivusaeg; </eesti>
+<inglise>4) the period of validity of the certificate; </inglise>
+<eesti>5) v&auml;ljaandja ja registrikood; </eesti>
+<inglise>5) the issuer and registry code of the issuer; </inglise>
+<eesti>6) kasutusvaldkonna piirangute kirjeldus. </eesti>
+<inglise>6) a description of the limitations on the scope of use of the certificate. </inglise>
+<eesti>(3) Sertifikaadi v&auml;ljaandja kinnitab iga tema poolt v&auml;ljaantud sertifikaadi. </eesti>
+<inglise>(3) The issuer of a certificate shall confirm each certificate issued thereby. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Sertifikaadi omanik </eesti>
+<inglise>Certificate holder </inglise>
+<eesti>Sertifikaadi omanik k&auml;esoleva seaduse m&otilde;istes on f&uuml;&uuml;siline isik, kelle andmetega on sertifikaadis sisalduv avalik v&otilde;ti samas sertifikaadis seotud. </eesti>
+<inglise>For the purposes of this Act, a certificate holder is a natural person to whose personal data the public key contained in the certificate is linked in the same certificate. </inglise>
+<eesti>2. jagu </eesti>
+<inglise>Division 2 </inglise>
+<eesti>Sertifikaadi taotlemine ja v&auml;ljaandmine </eesti>
+<inglise>Application for and Issue of Certificates </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Isikliku ja avaliku v&otilde;tme moodustamine </eesti>
+<inglise>Creation of private and public keys </inglise>
+<eesti>(1) Isikliku ja avaliku v&otilde;tme moodustab sertifikaadi taotleja v&otilde;i vastavalt tema soovile ja pooltevahelisele kokkuleppele sertifitseerimisteenuse osutaja v&otilde;i muu isik v&otilde;i asutus. </eesti>
+<inglise>(1) A private key and a public key shall be created by an applicant for a certificate or, at his or her request and according to an agreement between the parties, by a certification service provider or another person or agency. </inglise>
+<eesti>(2) Teise isiku jaoks isikliku ja avaliku v&otilde;tme moodustaja ei tohi moodustada endale ega kolmandatele isikutele koopiat nendest v&otilde;tmetest. </eesti>
+<inglise>(2) Persons who create private and public keys for other persons shall not create copies of the keys for themselves or for third parties. </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Sertifikaadi taotlemine </eesti>
+<inglise>Application for certificates </inglise>
+<eesti>(1) Sertifikaadi saamiseks esitab isik (edaspidi sertifikaadi taotleja) sertifitseerimisteenuse osutajale kirjaliku avalduse, milles on: </eesti>
+<inglise>(1) In order to obtain a certificate, a person (hereinafter applicant for the certificate) shall submit a written application to a certification service provider setting out: </inglise>
+<eesti>1) sertifikaadi taotleja ees- ja perekonnanimi; </eesti>
+<inglise>1) the given name and surname of the applicant for the certificate; </inglise>
+<eesti>2) sertifikaadi taotleja isikukood, isikukoodi puudumisel s&uuml;nni p&auml;ev, kuu ja aasta; </eesti>
+<inglise>2) the personal identification code of the applicant for the certificate or, in the absence of a personal identification code, the day, month and year of birth of the applicant for the certificate; </inglise>
+<eesti>3) sertifikaadi taotleja avalik v&otilde;ti v&otilde;i volitus sertifitseerimisteenuse osutajale isikliku ja avaliku v&otilde;tme moodustamiseks; </eesti>
+<inglise>3) the public key of the applicant for the certificate or an authorisation of the applicant for the certificate to the certification service provider for the creation of a private and public key; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>4) sertifikaadi taotleja kontaktandmed; </eesti>
+<inglise>4) the contact details of the applicant for the certificate; </inglise>
+<eesti>5) taotletava sertifikaadi kehtivusaeg; </eesti>
+<inglise>5) the period of validity of the certificate applied for; </inglise>
+<eesti>6) sertifikaadi kasutusvaldkonna piirangute kirjeldus; </eesti>
+<inglise>6) a description of the limitations on the scope of use of the certificate; </inglise>
+<eesti>7) muud andmed, mille lisamist sertifikaadile isik taotleb. </eesti>
+<inglise>7) other data which the applicant applies to have added to the certificate. </inglise>
+<eesti>(2) Kui k&auml;esoleva paragrahvi l&otilde;ikes 1 nimetatud avalduses sisaldub sertifikaadi taotleja avalik v&otilde;ti, peab sertifikaadi taotleja t&otilde;endama, et sellele vastav isiklik v&otilde;ti on tema valduses. </eesti>
+<inglise>(2) If the public key of an applicant for a certificate is set out in an application specified in subsection (1) of this section, the applicant for the certificate shall prove that the private key corresponding to the public key is in his or her possession. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Sertifikaadi v&auml;ljaandja </eesti>
+<inglise>Issuer of certificates </inglise>
+<eesti>Sertifikaadi v&auml;ljaandja k&auml;esoleva seaduse m&otilde;istes on isik v&otilde;i asutus, kes on sertifikaadi v&auml;lja andnud ja vastutab sertifikaadis sisalduvate andmete t&otilde;esuse eest. </eesti>
+<inglise>For the purposes of this Act, an issuer of a certificate is a person or agency who issues the certificate and is responsible for the accuracy of the data contained in the certificate. </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Sertifikaadi v&auml;ljaandmine </eesti>
+<inglise>Issue of certificates </inglise>
+<eesti>(1) Sertifikaadi v&auml;ljaandja on kohustatud kontrollima sertifikaadi taotlemiseks esitatud avalduse vastavust k&auml;esolevale seadusele ja avalduses sisalduvate andmete t&otilde;esust. </eesti>
+<inglise>(1) The issuer of a certificate is required to verify that the application submitted in order to apply for the certificate complies with this Act and that the data contained in the application is accurate. </inglise>
+<eesti>(2) Sertifikaat antakse isikule v&auml;lja viivitamatult p&auml;rast vastavate andmete kandmist sertifikaadi v&auml;ljaandja poolt peetavasse sertifikaatide andmebaasi. </eesti>
+<inglise>(2) A certificate shall be issued to a person promptly after entry of the corresponding data in the database of certificates which is maintained by the issuer of the certificate. </inglise>
+<eesti>(3) Sertifikaadi v&auml;ljaandja on kohustatud sertifikaadi taotlejat teavitama sertifikaadi kasutamise tingimustest, sertifikaadi omaniku &otilde;igustest ja kohustustest ning teistest sertifikaadi kasutamisega seotud asjaoludest. </eesti>
+<inglise>(3) The issuer of a certificate is required to notify the applicant for the certificate of the conditions of use of the certificate, the rights and obligations of the certificate holder, and other circumstances related to the use of the certificate. </inglise>
+<eesti>3. jagu </eesti>
+<inglise>Division 3 </inglise>
+<eesti>Sertifikaadi kehtivusaeg, kehtivuse peatamine ja kehtetuks tunnistamine </eesti>
+<inglise>Period of Validity, and Suspension and Revocation of Certificates </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Sertifikaadi kehtivusaeg </eesti>
+<inglise>Period of validity of certificates </inglise>
+<eesti>(1) Sertifikaat hakkab kehtima sertifikaadis m&auml;rgitud kehtivusaja algusest, kuid mitte enne vastavate andmete kandmist sertifikaadi v&auml;ljaandja poolt peetavasse sertifikaatide andmebaasi. </eesti>
+<inglise>(1) A certificate is valid as of the beginning of the period of validity set out in the certificate but not before entry of the corresponding data in the database of certificates which is maintained by the issuer of the certificate. </inglise>
+<eesti>(2) Sertifikaadi kehtivus l&otilde;peb sertifikaati m&auml;rgitud kehtivuse l&otilde;ppemise t&auml;htp&auml;eva saabumisel v&otilde;i sertifikaadi kehtetuks tunnistamisel. </eesti>
+<inglise>(2) A certificate expires upon expiry of the period of validity set out in the certificate or upon revocation of the certificate. </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Sertifikaadi kehtivuse peatamine </eesti>
+<inglise>Suspension of certificates </inglise>
+<eesti>(1) Sertifitseerimisteenuse osutajal on &otilde;igus peatada sertifikaadi kehtivus, kui tal tekib p&otilde;hjendatud kahtlus, et sertifikaati on kantud eba&otilde;iged andmed v&otilde;i et sertifikaadis sisalduvat avalikule v&otilde;tmele vastavat isiklikku v&otilde;tit on v&otilde;imalik kasutada sertifikaadi omaniku n&otilde;usolekuta. </eesti>
+<inglise>(1) A certification service provider has the right to suspend a certificate if the certification service provider has a justified reason to believe that incorrect data has been entered in the certificate or that it is possible to use the private key corresponding to the public key contained in the certificate without the consent of the certificate holder. </inglise>
+<eesti>(2) Sertifitseerimisteenuse osutaja on kohustatud sertifikaadi kehtivuse peatama, kui seda n&otilde;uab: </eesti>
+<inglise>(2) A certification service provider is required to suspend a certificate if this is requested by: </inglise>
+<eesti>1) sertifikaadi omanik; </eesti>
+<inglise>1) the certificate holder; </inglise>
+<eesti>2) andmekaitse j&auml;relevalveasutus v&otilde;i sertifitseerimise riikliku registri vastutav t&ouml;&ouml;tleja, kui tal tekib p&otilde;hjendatud kahtlus, et sertifikaati on kantud eba&otilde;iged andmed v&otilde;i et sertifikaadis sisalduvale avalikule v&otilde;tmele vastavat isiklikku v&otilde;tit on v&otilde;imalik kasutada sertifikaadi omaniku n&otilde;usolekuta; </eesti>
+<inglise>2) the data protection supervision authority or the chief processor of the state register of certificates if there is a justified reason to believe that incorrect data has been entered in the certificate or that it is possible to use the private key corresponding to the public key contained in the certificate without the consent of the certificate holder; </inglise>
+<eesti>3) kohus, prokuratuur v&otilde;i kriminaalasjas kohtueelset uurimist teostav asutus kuritegude t&otilde;kestamiseks. </eesti>
+<inglise>3) a court, prosecutor's office or agency which conducts pre-trial investigations in criminal matters in order to combat criminal offences. </inglise>
+<eesti>(3) Sertifitseerimisteenuse osutaja on kohustatud p&auml;rast sertifikaadi kehtivuse peatamise n&otilde;ude seaduslikkuse kontrollimist viivitamatult kandma andmed kehtivuse peatamise kohta tema poolt peetavasse sertifikaatide andmebaasi. </eesti>
+<inglise>(3) After verification of the legality of the claim for suspension of a certificate, the certification service provider is required to promptly enter the data concerning suspension in the database of certificates which is maintained thereby. </inglise>
+<eesti>(4) Sertifitseerimisteenuse osutaja teavitab sertifikaadi kehtivuse peatamisest viivitamatult sertifikaadi omanikku. </eesti>
+<inglise>(4) The certification service provider shall notify the certificate holder promptly of suspension of a certificate. </inglise>
+<eesti>(5) Sertifitseerimisteenuse osutaja on kohustatud pidama arvestust sertifikaadi kehtivuse peatamise aja, aluse, taotleja ja peatatuse l&otilde;petamise kohta. </eesti>
+<inglise>(5) Certification service providers are required to maintain records of the time of and bases and applicants for suspension of certificates, and of termination of the suspension of certificates. </inglise>
+<eesti>(6) Sertifikaadi kehtivuse peatatuse ajal antud digitaalallkiri on kehtetu. </eesti>
+<inglise>(6) Digital signatures given during the period when the certificate is suspended are invalid. </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>Sertifikaadi kehtivuse peatatuse l&otilde;petamine </eesti>
+<inglise>Termination of suspension of certificates </inglise>
+<eesti>(1) Sertifikaadi kehtivuse peatatus l&otilde;petatakse sertifikaadi omaniku v&otilde;i sertifikaadi kehtivuse peatamist n&otilde;udnud isiku v&otilde;i asutuse avalduse alusel vastavate andmete kandmisega sertifikaadi v&auml;ljaandnud sertifitseerimisteenuse osutaja poolt peetavasse sertifikaatide andmebaasi. </eesti>
+<inglise>(1) Suspension of a certificate shall be terminated on the basis of an application by the certificate holder or a person or agency which requests the suspension of the certificate by entry of the corresponding data in the database of certificates which is maintained by the certification service provider which issued the certificate. </inglise>
+<eesti>(2) K&auml;esoleva seaduse &sect; 12 l&otilde;ike 2 punktis 3 nimetatud juhtudel saab sertifikaadi kehtivuse peatatuse l&otilde;petada peatamise algataja. </eesti>
+<inglise>(2) In the cases specified in clause 12 (2) 3) of this Act, the person who initiates the suspension may terminate the suspension of a certificate. </inglise>
+<eesti>(3) Sertifitseerimisteenuse osutaja teavitab sertifikaadi kehtivuse peatatuse l&otilde;petamisest viivitamatult sertifikaadi omanikku. </eesti>
+<inglise>(3) A certification service provider shall notify the certificate holder promptly of termination of the suspension of the certificate. </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>Sertifikaadi kehtetuks tunnistamine </eesti>
+<inglise>Revocation of certificates </inglise>
+<eesti>(1) Sertifikaadi kehtetuks tunnistamise aluseks on: </eesti>
+<inglise>(1) The following are the bases for revocation of a certificate: </inglise>
+<eesti>1) sertifikaadi omaniku avaldus; </eesti>
+<inglise>1) an application by the certificate holder; </inglise>
+<eesti>2) sertifikaadis toodud avalikule v&otilde;tmele vastava isikliku v&otilde;tme ilma sertifikaadi omaniku n&otilde;usolekuta kasutamise v&otilde;imalus; </eesti>
+<inglise>2) the opportunity for the private key corresponding to the public key set out in the certificate to be used without the consent of the certificate holder; </inglise>
+<eesti>3) sertifikaadi omaniku teov&otilde;imetuks tunnistamine; </eesti>
+<inglise>3) divestment of the certificate holder of active legal capacity; </inglise>
+<eesti>4) sertifikaadi omaniku surnuks tunnistamine; </eesti>
+<inglise>4) declaration of the certificate holder as dead; </inglise>
+<eesti>5) sertifikaadi omaniku surm; </eesti>
+<inglise>5) the death of the certificate holder; </inglise>
+<eesti>6) sertifikaadi omaniku poolt sertifikaadi saamiseks sertifitseerimisteenuse osutajale valeandmete esitamine; </eesti>
+<inglise>6) submission of false data to a certification service provider by the certificate holder in order to obtain the certificate; </inglise>
+<eesti>7) sertifitseerimisteenuse osutaja tegevuse l&otilde;petamine; </eesti>
+<inglise>7) termination of the activities of the certification service provider; </inglise>
+<eesti>8) muud seaduses s&auml;testatud juhud. </eesti>
+<inglise>8) other cases provided by law. </inglise>
+<eesti>(2) &Otilde;igus taotleda vastava avalduse esitamisega sertifikaadi kehtetuks tunnistamist on sertifikaadi omanikul v&otilde;i muul isikul. </eesti>
+<inglise>(2) Certificate holders or other persons have the right to request revocation of a certificate by submission of a corresponding application. </inglise>
+<eesti>(3) Sertifikaadi tunnistab kehtetuks sertifitseerimisteenuse osutaja, kes algatab kehtetuks tunnistamise menetluse viivitamatult p&auml;rast vastava avalduse saamist v&otilde;i muu k&auml;esoleva paragrahvi l&otilde;ikes 1 s&auml;testatud aluse olemasolul. </eesti>
+<inglise>(3) A certificate shall be revoked by a certification service provider who initiates proceedings for revocation promptly after receipt of a corresponding application or upon the existence of another basis provided for in subsection (1) of this section. </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>Sertifikaadi kehtetuks tunnistamise menetlus </eesti>
+<inglise>Proceedings for revocation of certificates </inglise>
+<eesti>(1) Kui sertifikaadi kehtetuks tunnistamise p&otilde;hjuseks on k&auml;esoleva seaduse &sect; 14 l&otilde;ike 1 punktides 3 kuni 8 m&auml;rgitud juhud, lisatakse avaldusele sertifikaadi kehtetuks tunnistamise alust t&otilde;endavad dokumendid. </eesti>
+<inglise>(1) If the cases set out in clauses 14 (1) 3) -8) of this Act are the reasons for revocation of a certificate, the documents which certify the basis for revocation of the certificate shall be appended to the application. </inglise>
+<eesti>(2) Sertifitseerimisteenuse osutaja on kohustatud kontrollima sertifikaadi kehtetuks tunnistamise taotlemise ja aluse seaduslikkust. </eesti>
+<inglise>(2) Certification service providers are required to verify the legality of applications and the bases for revocation of certificates. </inglise>
+<eesti>(3) Sertifikaadi kehtivus l&otilde;peb vastavate andmete sertifitseerimisteenuse osutaja poolt peetavasse sertifikaatide andmebaasi kandmise hetkest. </eesti>
+<inglise>(3) A certificate expires as of entry of the corresponding data in the database of certificates which is maintained by the certification service provider. </inglise>
+<eesti>(4) Sertifitseerimisteenuse osutaja on kohustatud s&auml;ilitama sertifikaadi kehtetuks tunnistamise p&otilde;hjust t&otilde;estavad dokumendid oma tegevusaja l&otilde;puni, kui seaduses ei ole s&auml;testatud teist t&auml;htaega. </eesti>
+<inglise>(4) Certification service providers are required to preserve documents which certify the reasons for revocation of a certificate until the termination of their activities, unless another term is provided for by law. </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>Sertifikaadi kehtivuse seadusliku aluseta peatamise ja kehtetuks tunnistamise tagaj&auml;rjed </eesti>
+<inglise>Consequences of suspension and revocation of certificates without legal basis </inglise>
+<eesti>Isik v&otilde;i asutus, kelle tahtluse v&otilde;i raske ettevaatamatuse t&otilde;ttu on ilma seadusliku aluseta peatatud sertifikaadi kehtivus v&otilde;i tunnistatud sertifikaat kehtetuks, on kohustatud h&uuml;vitama sertifikaadi kehtivuse peatamise v&otilde;i kehtetuks tunnistamisega p&otilde;hjustatud kahju. </eesti>
+<inglise>A person or agency who, without legal basis, intentionally or due to gross negligence causes suspension or revocation of a certificate is required to compensate damage caused by the suspension or revocation of the certificate. </inglise>
+<eesti>III peat&uuml;kk </eesti>
+<inglise>Chapter III </inglise>
+<eesti>Sertifitseerimisteenus ja sertifitseerimisteenuse osutaja </eesti>
+<inglise>Certification Services and Certification Service Providers </inglise>
+<eesti>&sect; 17. </eesti>
+<inglise>&sect; 17. </inglise>
+<eesti>Sertifitseerimisteenus </eesti>
+<inglise>Certification services </inglise>
+<eesti>(1) Sertifitseerimisteenusena k&auml;sitatakse digitaalallkirja andmiseks vajalike sertifikaatide v&auml;ljaandmist, sertifikaatide alusel antud digitaalallkirjade kontrollimise v&otilde;imaldamist ning sertifikaatide kehtivuse peatamise, kehtivuse peatatuse l&otilde;petamise ja kehtetuks tunnistamise menetlemist. </eesti>
+<inglise>(1) The issue of certificates necessary for giving digital signatures, the enabling of verification of digital signatures given on the basis of such certificates, and proceedings for suspension, termination of suspension and revocation of such certificates are certification services. </inglise>
+<eesti>(2) Sertifitseerimine on toiming, mille tulemusena sertifitseerimisteenuse osutaja annab sertifikaadi taotlejale v&auml;lja sertifikaadi. </eesti>
+<inglise>(2) Certification is an act as a result of which a certification service provider issues a certificate to an applicant for a certificate. </inglise>
+<eesti>&sect; 18. </eesti>
+<inglise>&sect; 18. </inglise>
+<eesti>Sertifitseerimisteenuse osutaja </eesti>
+<inglise>Certification service providers </inglise>
+<eesti>(1) Sertifitseerimisteenuse osutajaks v&otilde;ib olla teenuse osutajana sertifitseerimise riiklikku registrisse kantud ning Eesti vastavas registris registreeritud: </eesti>
+<inglise>(1) The following agencies and persons which are entered in the state register of certificates as service providers and which are registered in the corresponding register in Estonia may be certification service providers: </inglise>
+<eesti>1) aktsiaselts; </eesti>
+<inglise>1) public limited companies; </inglise>
+<eesti>2) osa&uuml;hing, mille osakapital on suurem kui 400 000 krooni; </eesti>
+<inglise>2) private limited companies the share capital of which exceeds 400 000 kroons; </inglise>
+<eesti>3) avalik-&otilde;iguslik juriidiline isik, kui see on ette n&auml;htud tema kohta k&auml;ivas seaduses; </eesti>
+<inglise>3) legal persons in public law if this is prescribed in an Act concerning the legal person in public law; </inglise>
+<eesti>4) Vabariigi Valitsuse m&auml;&auml;ratud riigiasutus. </eesti>
+<inglise>4) state agencies determined by the Government of the Republic. </inglise>
+<eesti>(2) (Kehtetu - 06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(2) (Repealed - 06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>&sect; 19. </eesti>
+<inglise>&sect; 19. </inglise>
+<eesti>Sertifitseerimisteenuse osutajale esitatavad n&otilde;uded </eesti>
+<inglise>Requirements for certification service providers </inglise>
+<eesti>(1) Sertifitseerimisteenuse osutaja peab vastama k&auml;esoleva seadusega kehtestatud n&otilde;uetele ning olema suuteline tagama seadustele ja seaduste alusel antud &otilde;igusaktidele vastava usaldusv&auml;&auml;rse sertifitseerimisteenuse. </eesti>
+<inglise>(1) Certification service providers shall comply with the requirements established by this Act and be capable of ensuring reliable certification services in accordance with Acts and legislation issued on the basis of Acts. </inglise>
+<eesti>(2) Sertifitseerimisteenuse osutaja on kohustatud igal aastal sertifitseerimise riiklikku registrisse kandmise kuup&auml;evaks tagama infos&uuml;steemi auditi teostamise ning esitama auditi tulemused sertifitseerimise riikliku registri volitatud t&ouml;&ouml;tlejale. </eesti>
+<inglise>(2) Certification service providers are required to ensure the conduct of an annual information systems audit by the date of entry in the state register of certificates, and to submit the results of the audit to the authorised processor of the state register of certificates. </inglise>
+<eesti>(3) Sertifitseerimisteenuse osutajal ei tohi olla maksuv&otilde;lga ega muid v&otilde;lgnevusi, mis seavad ohtu k&auml;esoleva seaduse II-V peat&uuml;kis s&auml;testatud p&otilde;him&otilde;tetele vastava sertifitseerimisteenuse osutamise. </eesti>
+<inglise>(3) Certification service providers shall not have tax arrears or other arrears which endanger the provision of certification services in compliance with the principles provided for in Chapters II-V of this Act. </inglise>
+<eesti>(4) Sertifitseerimisteenuse osutaja on kohustatud kindlustama oma tegevuse k&auml;esoleva seaduse &sect;-s 39 s&auml;testatud korras. </eesti>
+<inglise>(4) Certification service providers are required to insure their activities pursuant to the procedure provided for in &sect; 39 of this Act. </inglise>
+<eesti>&sect; 20. </eesti>
+<inglise>&sect; 20. </inglise>
+<eesti>Sertifitseerimisp&otilde;him&otilde;tted </eesti>
+<inglise>Certification principles </inglise>
+<eesti>(1) Sertifitseerimisp&otilde;him&otilde;tted on sertifitseerimisteenuse osutaja poolt k&auml;esoleva seadusega ja selle alusel kehtestatud n&otilde;uetele vastavad sertifitseerimisel kasutatavate organisatsiooniliste ja tehniliste vahendite ning sertifitseerimisteenuse osutaja poolt sertifikaadi taotlejale esitatavate n&otilde;uete kirjeldused. </eesti>
+<inglise>(1) The descriptions of the organisational and technical means which comply with this Act and requirements established on the basis thereof and which are used in certification by certification service providers, and the descriptions of the requirements set for applicants for certificates by certification service providers are certification principles. </inglise>
+<eesti>(2) Sertifitseerimisteenuse osutaja sertifitseerimisp&otilde;him&otilde;tetes peavad sisalduma: </eesti>
+<inglise>(2) The certification principles of a certification service provider shall set out the following: </inglise>
+<eesti>1) sertifitseerimisteenuse osutaja nimi v&otilde;i nimetus; </eesti>
+<inglise>1) the name of the certification service provider; </inglise>
+<eesti>2) sertifitseerimisteenuse osutaja asukoha aadress; </eesti>
+<inglise>2) the address of the seat of the certification service provider; </inglise>
+<eesti>3) sertifikaadi taotleja avalikule v&otilde;tmele vastava isikliku v&otilde;tme t&otilde;endamise kord; </eesti>
+<inglise>3) the procedure for proving the private key corresponding to the public key of the applicant for the certificate; </inglise>
+<eesti>4) sertifitseerimisteenuse osutamiseks kasutatavate tehniliste vahendite kirjeldus; </eesti>
+<inglise>4) a description of the technical means used to provide certification services; </inglise>
+<eesti>5) sertifitseerimismenetluse kord ja t&auml;htajad; </eesti>
+<inglise>5) the procedure and terms for certification proceedings; </inglise>
+<eesti>6) sertifikaadi taotlemise avalduse l&auml;bivaatamise kord; </eesti>
+<inglise>6) the procedure for review of applications for certificates; </inglise>
+<eesti>7) sertifikaadi v&auml;ljaandmise kord; </eesti>
+<inglise>7) the procedure for issue of certificates; </inglise>
+<eesti>8) sertifikaadi kasutusvaldkonna piirangute kirjeldamise mehhanismid; </eesti>
+<inglise>8) the mechanisms for description of limitations on the scope of use of certificates; </inglise>
+<eesti>9) v&auml;ljaantud sertifikaatide &uuml;le arvestuse pidamise kord; </eesti>
+<inglise>9) the procedure for maintaining records of the issued certificates; </inglise>
+<eesti>10) sertifikaatide kehtivuse kohta andmete v&auml;ljastamise kord; </eesti>
+<inglise>10) the procedure for release of information concerning the validity of certificates; </inglise>
+<eesti>11) v&otilde;tmete genereerimise ja s&auml;ilitamise kord; </eesti>
+<inglise>11) the procedure for generation and storage of keys; </inglise>
+<eesti>11 (1)) v&auml;ljaantavate sertifikaatide kinnitamise kord; </eesti>
+<inglise>11 (1)) the procedure for confirmation of the issued certificates; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>12) sertifikaadi kehtivuse peatamise ja kehtetuks tunnistamise kord; </eesti>
+<inglise>12) the procedure for suspension and revocation of certificates; </inglise>
+<eesti>13) tegevuskava juhuks, kui on saanud v&otilde;imalikuks sertifitseerimisteenuse osutaja v&otilde;i tema tegevuse j&auml;ljendamine teenuse osutamisel; </eesti>
+<inglise>13) an action plan in case it is possible to imitate the certification service provider or the activities thereof upon provision of services; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>14) sertifitseerimisteenuse osutaja poolt v&auml;ljaantud sertifikaatide kehtivuse peatamise, kehtivuse peatatuse l&otilde;petamise ja kehtetuks tunnistamise tehniline kord; </eesti>
+<inglise>14) the technical procedure for suspension, termination of suspension, and revocation of certificates issued by the certification service provider; </inglise>
+<eesti>15) sertifitseerimisteenuse osutamise l&otilde;petamise kord; </eesti>
+<inglise>15) the procedure for termination of the provision of certification services; </inglise>
+<eesti>16) muud asjaolud, mille s&auml;testamist sertifitseerimisp&otilde;him&otilde;tetes peab vajalikuks sertifitseerimisteenuse osutaja. </eesti>
+<inglise>16) other circumstances which the certification service provider deems necessary to have provided in the certification principles. </inglise>
+<eesti>(3) Vabariigi Valitsuse m&auml;&auml;ratud sertifitseerimisteenust osutava riigiasutuse sertifitseerimisp&otilde;him&otilde;tted ja teenuse hinnad kinnitab riigiasutuse juht. </eesti>
+<inglise>(3) The certification principles of a state agency which is determined by the Government of the Republic and which provides certification services, and the cost of the services provided by the state agency shall be approved by the head of the state agency. </inglise>
+<eesti>&sect; 21. </eesti>
+<inglise>&sect; 21. </inglise>
+<eesti>Sertifitseerimisteenuse osutaja t&ouml;&ouml;tajale esitatav piirang </eesti>
+<inglise>Restrictions on employees of certification service providers </inglise>
+<eesti>Sertifitseerimisteenuse osutaja t&ouml;&ouml;tajal, kes tegeleb sertifitseerimisteenuse osutamisega, ei tohi olla karistatust tahtlikult toimepandud kuriteo eest. </eesti>
+<inglise>Employees of certification service providers who are involved in providing certification services shall not have a criminal record for an intentionally committed criminal offence. </inglise>
+<eesti>&sect; 22. </eesti>
+<inglise>&sect; 22. </inglise>
+<eesti>Sertifitseerimisteenuse osutaja kohustused </eesti>
+<inglise>Duties of certification service providers </inglise>
+<eesti>Sertifitseerimisteenuse osutaja on kohustatud: </eesti>
+<inglise>Certification service providers are required to: </inglise>
+<eesti>1) avalikustama oma sertifitseerimisp&otilde;him&otilde;tted ning tagama nende k&auml;ttesaadavuse &uuml;ldkasutatavas andmesidev&otilde;rgus; </eesti>
+<inglise>1) publicise their certification principles and ensure accessibility thereto in the public data communication network; </inglise>
+<eesti>2) tagama sertifitseerimisteenuse osutamisel teatavaks saanud avaldamisele mittekuuluva teabe saladuses hoidmise; </eesti>
+<inglise>2) ensure maintenance of the confidentiality of information not subject to disclosure which becomes known thereto upon the provision of certification services; </inglise>
+<eesti>3) pidama arvestust enda poolt v&auml;ljaantud sertifikaatide ja nende kehtivuse &uuml;le; </eesti>
+<inglise>3) maintain records of the certificates issued thereby and the validity thereof; </inglise>
+<eesti>4) v&otilde;tma &ouml;&ouml;p&auml;evaringselt vastu avaldusi sertifikaatide kehtivuse peatamiseks; </eesti>
+<inglise>4) accept applications for the suspension of certificates twenty-four hours a day; </inglise>
+<eesti>5) t&otilde;endama huvitatud isiku n&otilde;udmisel oma esindaja digitaalallkirjaga enda poolt v&auml;ljaantud sertifikaadis sisalduvale avalikule v&otilde;tmele vastava isikliku v&otilde;tmega antud digitaalallkirja kehtivust; </eesti>
+<inglise>5) certify, at the request of an interested person, by the digital signature of a representative thereof the validity of a digital signature given by a private key corresponding to the public key contained in a certificate issued thereby; </inglise>
+<eesti>6) tagama &ouml;&ouml;p&auml;evaringselt sertifikaatide kehtivuse kontrolli v&otilde;imaluse &uuml;ldkasutatavas andmesidev&otilde;rgus; </eesti>
+<inglise>6) ensure that it is possible to verify the validity of certificates in the public data communication network twenty-four hours a day; </inglise>
+<eesti>7) s&auml;ilitama sertifitseerimisega seotud dokumentatsiooni oma tegevuse l&otilde;puni; </eesti>
+<inglise>7) preserve documentation related to certification until the termination of their activities; </inglise>
+<eesti>8) tagama igal aastal infos&uuml;steemi auditi teostamise ning esitama auditi tulemused sertifitseerimisteenuse riikliku registri volitatud t&ouml;&ouml;tlejale; </eesti>
+<inglise>8) ensure the conduct of an annual information systems audit and submit the results of the audit to the authorised processor of the state register of certificates; </inglise>
+<eesti>9) avalikustama kohustusliku kindlustuslepingu tingimused &uuml;ldkasutatavas andmesidev&otilde;rgus. </eesti>
+<inglise>9) publicise the conditions of compulsory insurance contracts in the public data communication network. </inglise>
+<eesti>IV peat&uuml;kk </eesti>
+<inglise>Chapter IV </inglise>
+<eesti>Ajatempliteenus ja ajatempliteenuse osutajad </eesti>
+<inglise>Time-stamping Services and Time-stamping Service Providers </inglise>
+<eesti>&sect; 23. </eesti>
+<inglise>&sect; 23. </inglise>
+<eesti>Ajatempli m&otilde;iste </eesti>
+<inglise>Definition of time stamp </inglise>
+<eesti>(1) Ajatempel on tehniliste ja organisatsiooniliste vahendite s&uuml;steemi abil moodustatud andmete kogum, mis t&otilde;endab dokumendi olemasolu kindlal ajahetkel. </eesti>
+<inglise>(1) A time stamp is a data unit which is created using a system of technical and organisational means which certifies the existence of a document at a given time. </inglise>
+<eesti>(2) Ajatempel peab olema seotud andmetega sellisel viisil, mis v&auml;listab v&otilde;imaluse tuvastamatult muuta andmeid p&auml;rast ajatempli v&otilde;tmist. </eesti>
+<inglise>(2) A time stamp shall be linked to data in such a manner as to preclude the possibility of changing the data undetectably after obtaining a time stamp. </inglise>
+<eesti>(3) Ajatempliteenuse osutaja kinnitab tema poolt v&auml;ljaantud ajatemplid. </eesti>
+<inglise>(3) Time-stamping service providers shall confirm the time stamps issued thereby. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>&sect; 24. </eesti>
+<inglise>&sect; 24. </inglise>
+<eesti>Ajatempliteenus </eesti>
+<inglise>Time-stamping services </inglise>
+<eesti>(1) Ajatempliteenus on digitaalallkirjade ajalise j&auml;rgnevuse t&otilde;estamiseks vajalike ajatemplite v&auml;ljaandmine ja v&auml;ljaantud ajatemplite kontrollimiseks tingimuste loomine. </eesti>
+<inglise>(1) Time-stamping services are the issue of time stamps necessary to prove the official time and temporal order of digital signatures and the creation of conditions for verification of issued time stamps. </inglise>
+<eesti>(2) Kui eri ajatempliteenuse osutajate poolt v&auml;ljaantud ajatemplite ajalist j&auml;rgnevust ei ole v&otilde;imalik kindlaks teha, loetakse, et need ajatemplid on antud &uuml;heaegselt. </eesti>
+<inglise>(2) If it is impossible to determine the official time and temporal order of time stamps issued by different time-stamping service providers, the time stamps are deemed to have been issued simultaneously. </inglise>
+<eesti>(3) Ajatempliteenuse osutaja peab tagama, et oleks v&auml;listatud korrektse ajatempli v&auml;ljaandmine selle taotlemise hetkest varasemale v&otilde;i hilisemale ajale v&otilde;i v&auml;ljaantud ajatemplite j&auml;rgnevuse muutmine. </eesti>
+<inglise>(3) Time-stamping service providers shall ensure that it is impossible to issue a correct time stamp for a time earlier or later than application therefor or change the order in which time stamps are issued. </inglise>
+<eesti>&sect; 25. </eesti>
+<inglise>&sect; 25. </inglise>
+<eesti>Ajatempliteenuse osutaja </eesti>
+<inglise>Time-stamping service providers </inglise>
+<eesti>Ajatempliteenuse osutajaks v&otilde;ib olla vastava teenuse osutajana sertifitseerimise riiklikku registrisse kantud ning Eesti vastavas registris registreeritud: </eesti>
+<inglise>The following persons and agencies which are entered in the state register of certificates as corresponding service providers and which are registered in the corresponding register in Estonia may be time-stamping service providers: </inglise>
+<eesti>1) aktsiaselts; </eesti>
+<inglise>1) public limited companies; </inglise>
+<eesti>2) osa&uuml;hing, mille osakapital on suurem kui 400 000 krooni; </eesti>
+<inglise>2) private limited companies the share capital of which exceeds 400 000 kroons; </inglise>
+<eesti>3) avalik-&otilde;iguslik juriidiline isik, kui see on ette n&auml;htud tema kohta k&auml;ivas seaduses; </eesti>
+<inglise>3) legal persons in public law if this is prescribed in an Act concerning the legal person in public law; </inglise>
+<eesti>4) Vabariigi Valitsuse m&auml;&auml;ratud riigiasutus. </eesti>
+<inglise>4) state agencies determined by the Government of the Republic. </inglise>
+<eesti>&sect; 26. </eesti>
+<inglise>&sect; 26. </inglise>
+<eesti>Ajatempliteenuse osutajale esitatavad n&otilde;uded </eesti>
+<inglise>Requirements for time-stamping service providers </inglise>
+<eesti>(1) Ajatempliteenuse osutaja peab vastama k&auml;esoleva seadusega kehtestatud n&otilde;uetele ning olema suuteline tagama seadustele ja seaduste alusel antud &otilde;igusaktidele vastava usaldusv&auml;&auml;rse ajatempliteenuse. </eesti>
+<inglise>(1) Time-stamping service providers shall comply with the requirements established by this Act and be capable of ensuring reliable time-stamping services in accordance with Acts and legislation issued on the basis of Acts. </inglise>
+<eesti>(2) Ajatempliteenuse osutaja on kohustatud igal aastal sertifitseerimise riiklikku registrisse kandmise kuup&auml;evaks tagama infos&uuml;steemi auditi teostamise ning esitama auditi tulemused sertifitseerimise riikliku registri volitatud t&ouml;&ouml;tlejale. </eesti>
+<inglise>(2) Time-stamping service providers are required to ensure the conduct of an annual information systems audit by the date of entry in the state register of certificates, and to submit the results of the audit to the authorised processor of the state register of certificates. </inglise>
+<eesti>(3) Ajatempliteenuse osutajal ei tohi olla maksuv&otilde;lga ega muid v&otilde;lgnevusi, mis seavad ohtu k&auml;esoleva seaduse II-V peat&uuml;kis s&auml;testatud p&otilde;him&otilde;tetele vastava ajatempliteenuse osutamise. </eesti>
+<inglise>(3) Time-stamping service providers shall not have tax arrears or other arrears which endanger the provision of time-stamping services in compliance with the principles provided for in Chapters II-V of this Act. </inglise>
+<eesti>(4) Ajatempliteenuse osutaja on kohustatud kindlustama oma tegevuse k&auml;esoleva seaduse &sect;-s 39 s&auml;testatud korras. </eesti>
+<inglise>(4) Time-stamping service providers are required to insure their activities pursuant to the procedure provided for in &sect; 39 of this Act. </inglise>
+<eesti>&sect; 27. </eesti>
+<inglise>&sect; 27. </inglise>
+<eesti>Ajatembeldusp&otilde;him&otilde;tted </eesti>
+<inglise>Time-stamping principles </inglise>
+<eesti>(1) Ajatembeldusp&otilde;him&otilde;tted on ajatempliteenuse osutaja poolt ajatempli andmiseks ning kontrollimiseks sooritatavate toimingute ning kasutatavate tehniliste vahendite kirjeldused. </eesti>
+<inglise>(1) The descriptions of operations performed in order to issue and verify time stamps and the descriptions of the technical means used by the time-stamping service providers are time-stamping principles. </inglise>
+<eesti>(2) Ajatempliteenuse osutaja ajatembeldusp&otilde;him&otilde;tetes peavad sisalduma: </eesti>
+<inglise>(2) The time-stamping principles of a time-stamping service provider shall set out the following: </inglise>
+<eesti>1) ajatempliteenuse osutaja nimi v&otilde;i nimetus; </eesti>
+<inglise>1) the name of the time-stamping service provider; </inglise>
+<eesti>2) ajatempliteenuse osutamiseks kasutatavate tehniliste vahendite kirjeldus; </eesti>
+<inglise>2) a description of the technical means used to provide time-stamping services; </inglise>
+<eesti>3) ajatempli v&otilde;tmise ja kontrollimise kord; </eesti>
+<inglise>3) the procedure for obtaining and verifying time stamps; </inglise>
+<eesti>3 (1)) v&auml;ljaantavate ajatemplite kinnitamise kord; </eesti>
+<inglise>3 (1)) the procedure for confirmation of the issued time stamps; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>4) v&auml;ljaantud ajatemplite &uuml;le arvestuse pidamise kord; </eesti>
+<inglise>4) the procedure for maintaining records of the issued time stamps; </inglise>
+<eesti>5) v&auml;ljaantud ajatemplite kohta andmete v&auml;ljastamise kord; </eesti>
+<inglise>5) the procedure for release of information concerning the issued time stamps; </inglise>
+<eesti>6) ajatempliteenuse osutamise l&otilde;petamise kord; </eesti>
+<inglise>6) the procedure for termination of the provision of time-stamping services; </inglise>
+<eesti>7) tegevuskava juhuks, kui on saanud v&otilde;imalikuks ajatempliteenuse osutaja v&otilde;i tema tegevuse j&auml;ljendamine teenuse osutamisel; </eesti>
+<inglise>7) an action plan in case it is possible to imitate the time-stamping service provider or the activities thereof upon provision of services; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>8) muud asjaolud, mille s&auml;testamist peab vajalikuks ajatempliteenuse osutaja. </eesti>
+<inglise>8) other circumstances which the time-stamping service provider deems necessary. </inglise>
+<eesti>&sect; 28. </eesti>
+<inglise>&sect; 28. </inglise>
+<eesti>Ajatempliteenuse osutaja kohustused </eesti>
+<inglise>Duties of time-stamping service providers </inglise>
+<eesti>Ajatempliteenuse osutaja on kohustatud: </eesti>
+<inglise>Time-stamping service providers are required to: </inglise>
+<eesti>1) tagama ajatemplites &otilde;iged ajan&auml;idud vastavalt ajatembeldusp&otilde;him&otilde;tetes kirjeldatule; </eesti>
+<inglise>1) ensure correct indications of time on time stamps pursuant to the descriptions provided in the time-stamping principles; </inglise>
+<eesti>2) pidama arvestust v&auml;ljaantud ajatemplite &uuml;le; </eesti>
+<inglise>2) maintain records of issued time stamps; </inglise>
+<eesti>3) s&auml;ilitama dokumentatsiooni v&auml;ljaantud ajatemplite kontrollimiseks; </eesti>
+<inglise>3) preserve documentation in order to verify issued time stamps; </inglise>
+<eesti>4) andma perioodiliselt ajatempleid sertifitseerimise riikliku registri ajatemplite andmebaasi vastavalt seadusele ja sertifitseerimise riikliku registri pidamise p&otilde;him&auml;&auml;rusele; </eesti>
+<inglise>4) issue time stamps periodically to the database of time stamps of the state register of certificates pursuant to law and the statutes for maintenance of the state register of certificates; </inglise>
+<eesti>5) tagama ajatemplite v&otilde;tmise ja kontrolli v&otilde;imaluse &uuml;ldkasutatavas andmesidev&otilde;rgus; </eesti>
+<inglise>5) ensure that it is possible to obtain and verify time stamps in the public data communication network; </inglise>
+<eesti>6) tagama igal aastal infos&uuml;steemi auditi teostamise ning esitama auditi tulemused sertifitseerimisteenuse riikliku registri volitatud t&ouml;&ouml;tlejale; </eesti>
+<inglise>6) ensure the conduct of an annual information systems audit and submit the results of the audit to the authorised processor of the state register of certificates; </inglise>
+<eesti>7) avalikustama kohustusliku kindlustuslepingu tingimused &uuml;ldkasutatavas andmesidev&otilde;rgus. </eesti>
+<inglise>7) publicise the conditions of compulsory insurance contracts in the public data communication network. </inglise>
+<eesti>&sect; 29. </eesti>
+<inglise>&sect; 29. </inglise>
+<eesti>Ajatempliteenuse osutaja t&ouml;&ouml;tajale esitatav piirang </eesti>
+<inglise>Restrictions on employees of time-stamping service providers </inglise>
+<eesti>Ajatempliteenuse osutaja t&ouml;&ouml;tajal, kes tegeleb ajatempliteenuse osutamisega, ei tohi olla karistatust tahtlikult toimepandud kuriteo eest. </eesti>
+<inglise>Employees of time-stamping service providers who are involved in providing certification services shall not have a criminal record for an intentionally committed criminal offence. </inglise>
+<eesti>V peat&uuml;kk </eesti>
+<inglise>Chapter V </inglise>
+<eesti>Sertifitseerimisteenuse ja ajatempliteenuse osutamise l&otilde;petamine </eesti>
+<inglise>Termination of provision of certification services and time-stamping services </inglise>
+<eesti>&sect; 30. </eesti>
+<inglise>&sect; 30. </inglise>
+<eesti>Sertifitseerimisteenuse ja ajatempliteenuse osutamise l&otilde;petamine </eesti>
+<inglise>Termination of provision of certification services and time-stamping services </inglise>
+<eesti>(1) Sertifitseerimisteenuse ja ajatempliteenuse (edaspidi teenus) osutamine l&otilde;petatakse: </eesti>
+<inglise>(1) The provision of certification services and time-stamping services (hereinafter services) shall be terminated: </inglise>
+<eesti>1) teenuse osutaja otsusega; </eesti>
+<inglise>1) by a decision of the service provider; </inglise>
+<eesti>2) teenuse osutamise &uuml;le j&auml;relevalvet teostava asutuse otsusega; </eesti>
+<inglise>2) by a decision of the agency exercising supervision over the provision of services; </inglise>
+<eesti>3) kohtuotsusega; </eesti>
+<inglise>3) by a court judgment; </inglise>
+<eesti>4) teenuse osutaja likvideerimise v&otilde;i tegevuse l&otilde;petamise korral; </eesti>
+<inglise>4) upon liquidation of the service provider or termination of the activities thereof; </inglise>
+<eesti>5) Vabariigi Valitsuse otsusega, millega l&otilde;petatakse k&auml;esoleva seaduse &sect; 18 l&otilde;ike 1 punktis 4 ja &sect; 25 punktis 4 nimetatud riigiasutuse poolt teenuse osutamine. </eesti>
+<inglise>5) by a Government of the Republic resolution which terminates the provision of services by state agencies specified in clauses 18 (1) 4) and 25 4) of this Act. </inglise>
+<eesti>(2) Sertifitseerimisteenuse ja ajatempliteenuse osutamise l&otilde;petamisel annab teenuse osutaja teenuse osutamisega seotud dokumentatsiooni &uuml;le sertifitseerimise riiklikule registrile. </eesti>
+<inglise>(2) Upon termination of the provision of certification services and time-stamping services, the service provider shall transfer documentation concerning provision of the service to the state register of certificates. </inglise>
+<eesti>&sect; 31. </eesti>
+<inglise>&sect; 31. </inglise>
+<eesti>Teenuse osutamise l&otilde;petamisest teatamine </eesti>
+<inglise>Notification of termination of provision of services </inglise>
+<eesti>(1) Teenuse osutaja on kohustatud teenuse osutamise l&otilde;petamise otsusest viivitamatult teatama sertifitseerimise riikliku registri volitatud t&ouml;&ouml;tlejale v&otilde;i vastutavale t&ouml;&ouml;tlejale. </eesti>
+<inglise>(1) A service provider is required to notify the authorised processor or the chief processor of the state register of certificates promptly of a decision to terminate provision of the service. </inglise>
+<eesti>Juhul kui isik v&otilde;i asutus teavitab teenuse osutamise l&otilde;petamise otsusest registri volitatud t&ouml;&ouml;tlejat, on viimane kohustatud sellest viivitamatult teatama registri vastutavale t&ouml;&ouml;tlejale. </eesti>
+<inglise>If the person or agency notifies the authorised processor of the register of the decision to terminate the provision of services, the authorised processor is required to notify the chief processor of the register thereof promptly. </inglise>
+<eesti>(2) Teenuse osutaja on kohustatud teenuse osutamise l&otilde;petamise otsusest teatama oma teenuse kasutajatele v&auml;hemalt &uuml;ks kuu enne teenuse osutamise l&otilde;petamist. </eesti>
+<inglise>(2) A service provider is required to notify users of the service thereof of a decision to terminate provision of the service at least one month before termination of provision of the service. </inglise>
+<eesti>(3) Sertifitseerimise riikliku registri vastutav t&ouml;&ouml;tleja teavitab teenuse osutamise l&otilde;petamise otsusest andmekaitse j&auml;relevalveasutust ja riigi infos&uuml;steemide alaseid t&ouml;id koordineerivat asutust. </eesti>
+<inglise>(3) The chief processor of the state register of certificates shall notify the data protection supervision authority and the state information systems co-ordination authority of any decision to terminate provision of a service. </inglise>
+<eesti>VI peat&uuml;kk </eesti>
+<inglise>Chapter VI </inglise>
+<eesti>Sertifitseerimise riiklik register </eesti>
+<inglise>State register of certificates </inglise>
+<eesti>&sect; 32. </eesti>
+<inglise>&sect; 32. </inglise>
+<eesti>Sertifitseerimise riiklik register </eesti>
+<inglise>State register of certificates </inglise>
+<eesti>(1) Sertifitseerimise riiklik register on Vabariigi Valitsuse asutatud riiklik register (edaspidi register), mille asutamise ja kasutusele v&otilde;tmise eesm&auml;rk on pidada arvestust teenuse osutajate &uuml;le ning tagada ajatempliteenuse osutajate poolt v&auml;ljaantavate ajatemplite ajalise j&auml;rgnevuse v&otilde;rreldavus registri vastutava t&ouml;&ouml;tleja kehtestatud t&auml;psusega. </eesti>
+<inglise>(1) The state register of certificates is a state register (hereinafter register) established by the Government of the Republic, the purpose for the establishment and introduction of which is to maintain records of service providers and to ensure the comparability of the official time and temporal order of time stamps issued by time-stamping service providers with the precision established by the chief processor of the register. </inglise>
+<eesti>(2) Registri vastutavaks t&ouml;&ouml;tlejaks on Teede- ja Sideministeerium. </eesti>
+<inglise>(2) The chief processor of the register is the Ministry of Transport and Communications. </inglise>
+<eesti>(3) Registri koosseisu kuuluvad: </eesti>
+<inglise>(3) The register comprises: </inglise>
+<eesti>1) sertifitseerimisteenuse osutajate andmebaas; </eesti>
+<inglise>1) a database of certification service providers; </inglise>
+<eesti>2) ajatempliteenuse osutajate andmebaas; </eesti>
+<inglise>2) a database of time-stamping service providers; </inglise>
+<eesti>3) ajatemplite andmebaas; </eesti>
+<inglise>3) a database of time stamps; </inglise>
+<eesti>4) registriarhiiv. </eesti>
+<inglise>4) the registry archives. </inglise>
+<eesti>&sect; 33. </eesti>
+<inglise>&sect; 33. </inglise>
+<eesti>Teenuse osutajate registrisse kandmise taotlemine </eesti>
+<inglise>Application for entry of service providers in register </inglise>
+<eesti>(1) Isik v&otilde;i asutus esitab registris registreerimiseks: </eesti>
+<inglise>(1) In order to be registered in a register, a person or agency shall submit the following: </inglise>
+<eesti>1) seadusliku esindaja poolt allkirjastatud isiku v&otilde;i asutuse teenuse osutajana registreerimise avalduse, kuhu on m&auml;rgitud ka isiku v&otilde;i asutuse avalik v&otilde;ti (avalikud v&otilde;tmed), mida isik v&otilde;i asutus hakkab sertifitseerimis- v&otilde;i ajatempliteenuse osutamisel kasutama; </eesti>
+<inglise>1) an application for registration of the person or agency as a service provider, which is signed by a legal representative and which sets out the public key (public keys) which the person or agency will begin to use upon the provision of certification services or time-stamping services by the person or agency; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>2) sama avalduse digitaalsel kujul, mis on kinnitatud v&auml;ljaantavate sertifikaatide ja ajatemplite kinnitamise korra kohaselt, millele on lisatud t&otilde;endus sertifitseerimis- v&otilde;i ajatempliteenuse osutamisel kasutatavate isiklike v&otilde;tmete valdamise kohta; </eesti>
+<inglise>2) the same application in digital form, which is certified pursuant to the procedure for certification of the issued certificates and time stamps and which includes proof concerning possession of private keys used upon provision of certification services or time-stamping services; </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>3) riigil&otilde;ivu kviitungi; </eesti>
+<inglise>3) a receipt certifying payment of the state fee; </inglise>
+<eesti>4) sertifitseerimis- v&otilde;i ajatembeldusp&otilde;him&otilde;tted; </eesti>
+<inglise>4) the certification or time-stamping principles; </inglise>
+<eesti>5) v&auml;ljav&otilde;tte registrist, kus teenust osutav isik v&otilde;i asutus on registreeritud; </eesti>
+<inglise>5) an extract from the register in which the person or agency which provides the service is registered; </inglise>
+<eesti>6) infos&uuml;steemi auditi tulemused; </eesti>
+<inglise>6) the results of the information systems audit; </inglise>
+<eesti>7) kinnituse selle kohta, et tal ei ole v&otilde;lgnevusi, mis seavad ohtu k&auml;esoleva seaduse II-V peat&uuml;kis s&auml;testatud p&otilde;him&otilde;tetele vastava teenuse osutamise, ja Maksuameti t&otilde;endi maksuv&otilde;la puudumise kohta. </eesti>
+<inglise>7) confirmation concerning the absence of arrears which endanger the provision of services in compliance with the principles provided for in Chapters II-V of this Act, and a statement from the Tax Board certifying the absence of tax arrears. </inglise>
+<eesti>(2) Teenuse osutaja registrisse kandmise avalduses peavad sisalduma: </eesti>
+<inglise>(2) An application for the entry of a service provider in the register shall set out the following: </inglise>
+<eesti>1) teenuse osutaja nimi v&otilde;i nimetus; </eesti>
+<inglise>1) the name of the service provider; </inglise>
+<eesti>2) teenuse osutaja asukoha aadress; </eesti>
+<inglise>2) the address of the seat of the service provider; </inglise>
+<eesti>3) teenuse osutaja registrikood; </eesti>
+<inglise>3) the registry code of the service provider; </inglise>
+<eesti>4) teenuse osutaja esindaja nimi, ametinimetus, isikukood ja kontaktandmed; </eesti>
+<inglise>4) the name, title, personal identification code and contact details of the representative of the service provider; </inglise>
+<eesti>5) teenuse osutaja sidevahendite numbrid v&otilde;i aadressid; </eesti>
+<inglise>5) the telecommunications numbers and addresses of the service provider; </inglise>
+<eesti>6) teenuse osutamiseks seatud piirangud. </eesti>
+<inglise>6) the limitations established on provision of the service. </inglise>
+<eesti>(3) Registri volitatud t&ouml;&ouml;tleja on kohustatud kontrollima esitatud andmete &otilde;igsust. </eesti>
+<inglise>(3) The authorised processor of the register is required to verify the accuracy of the submitted data. </inglise>
+<eesti>(4) Registri volitatud t&ouml;&ouml;tlejal on &otilde;igus esitada isiku v&otilde;i asutuse esitatud andmete &otilde;igsuse kontrollimiseks p&auml;ringuid ja j&auml;relep&auml;rimisi k&otilde;ikidele riigiasutustele ning riigi ja kohaliku omavalitsuse andmekogudele. </eesti>
+<inglise>(4) The authorised processor of the register has the right to make inquiries to all state agencies and state and local government databases in order to verify the accuracy of the data submitted by a person or agency. </inglise>
+<eesti>(5) Isik v&otilde;i asutus on kohustatud enne registrisse kandmist tagama infos&uuml;steemi auditi teostamise, mille tulemused esitatakse registri volitatud t&ouml;&ouml;tlejale. </eesti>
+<inglise>(5) Before entry in the register, a person or agency is required to ensure the conduct of an information systems audit, the results of which shall be submitted to the authorised processor of the register. </inglise>
+<eesti>Infos&uuml;steemi auditi kulud katab isik v&otilde;i asutus. </eesti>
+<inglise>The cost of the information systems audit shall be borne by the person or agency. </inglise>
+<eesti>&sect; 34. </eesti>
+<inglise>&sect; 34. </inglise>
+<eesti>Teenuse osutaja registreerimine </eesti>
+<inglise>Registration of service providers </inglise>
+<eesti>(1) Registri volitatud t&ouml;&ouml;tleja otsustab p&auml;rast dokumentide kontrollimist isiku v&otilde;i asutuse teenuse osutajana registris registreerimise viie t&ouml;&ouml;p&auml;eva jooksul, arvates k&auml;esoleva seaduse &sect; 33 l&otilde;igetes 1 ja 2 nimetatud dokumentide ja andmete saamise p&auml;evast. </eesti>
+<inglise>(1) After verification of the documents, the authorised processor of the register shall decide on the registration of a person or agency in the register as a service provider within five working days after the date of receipt of the documents and data specified in subsections 33 (1) and (2) of this Act. </inglise>
+<eesti>(2) Kui k&auml;esoleva paragrahvi l&otilde;ikes 1 s&auml;testatud t&auml;htajast esitatud andmete ja dokumentide kontrollimiseks ei piisa, v&otilde;ib registri vastutav t&ouml;&ouml;tleja pikendada t&auml;htaega kuni 10 t&ouml;&ouml;p&auml;evani. </eesti>
+<inglise>(2) If the term provided for in subsection (1) of this section is not sufficient for verification of the submitted data and documents, the chief processor of the register may extend the term up to ten working days. </inglise>
+<eesti>(3) Isik v&otilde;i asutus esitab p&auml;rast seda, kui teda on otsustatud registris registreerida, volitatud t&ouml;&ouml;tlejale k&auml;esoleva seaduse &sect; 39 n&otilde;uetele vastava kindlustuspoliisi &auml;rakirja, mille j&auml;rel isik v&otilde;i asutus registreeritakse viivitamatult teenuse osutajana. </eesti>
+<inglise>(3) After a decision is made to register a person or agency in the register, the person or agency shall submit a copy of an insurance policy which complies with the requirements of &sect; 39 of this Act to the authorised processor after which the person or agency shall promptly be registered as a service provider. </inglise>
+<eesti>(4) Registri volitatud t&ouml;&ouml;tleja annab igale registrisse kantud teenuse osutajale kordumatu registrikoodi. </eesti>
+<inglise>(4) The authorised processor of the register shall grant a non-recurrent registry code to each service provider entered in the register. </inglise>
+<eesti>(5) Registri volitatud t&ouml;&ouml;tleja kinnitab registreeritud teenuse osutajate k&auml;esoleva seaduse &sect; 33 l&otilde;ike 1 punktis 1 m&auml;rgitud avalikud v&otilde;tmed. </eesti>
+<inglise>(5) The authorised processor of the register shall approve the public keys of registered service providers set out in clause 33 (1) 1) of this Act. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>(6) Teenuse osutamise l&otilde;petamisel esitatakse sellekohane avaldus registri volitatud t&ouml;&ouml;tlejale, kes sisestab teenuse osutamise l&otilde;petamise andmed registrisse. </eesti>
+<inglise>(6) Upon termination of the provision of a service, a corresponding application shall be submitted to the authorised processor of the register who shall input data on the termination of provision of the service in the register. </inglise>
+<eesti>&sect; 35. </eesti>
+<inglise>&sect; 35. </inglise>
+<eesti>Teenuse osutaja registreerimisest keeldumine </eesti>
+<inglise>Refusal to register service providers </inglise>
+<eesti>(1) Registri volitatud t&ouml;&ouml;tleja keeldub teenuse osutaja registreerimisest, kui: </eesti>
+<inglise>(1) The authorised processor of the register shall refuse to register a service provider: </inglise>
+<eesti>1) isik v&otilde;i asutus ei vasta k&auml;esolevas seaduses s&auml;testatud n&otilde;uetele; </eesti>
+<inglise>1) if the person or agency does not comply with the requirements provided for in this Act; </inglise>
+<eesti>2) sertifitseerimis- v&otilde;i ajatembeldusp&otilde;him&otilde;tted ei vasta k&auml;esolevas seaduses s&auml;testatud n&otilde;uetele; </eesti>
+<inglise>2) if the certification or time-stamping principles are not in compliance with the requirements provided for in this Act; </inglise>
+<eesti>3) registrile esitatud avaldus v&otilde;i sellele lisatud dokumendid ei vasta k&auml;esolevas seaduses s&auml;testatud n&otilde;uetele; </eesti>
+<inglise>3) if the application submitted to the register or documents appended thereto are not in compliance with the requirements provided for in this Act; </inglise>
+<eesti>4) isik v&otilde;i asutus on esitanud registri volitatud t&ouml;&ouml;tlejale eba&otilde;igeid andmeid; </eesti>
+<inglise>4) if the person or agency submits incorrect data to the authorised processor of the register; </inglise>
+<eesti>5) esitatud infos&uuml;steemi auditi tulemuste alusel on p&otilde;hjust arvata, et isik v&otilde;i asutus ei suuda tagada k&auml;esoleva seaduse n&otilde;uetele vastavat teenust; </eesti>
+<inglise>5) if, on the basis of the submitted results of the information systems audit, there is reason to believe that the person or agency is unable to ensure services which are in compliance with the requirements of this Act; </inglise>
+<eesti>6) isikul v&otilde;i asutusel on maksuv&otilde;lg; </eesti>
+<inglise>6) if the person or agency has tax arrears; </inglise>
+<eesti>7) muudel seaduses s&auml;testatud juhtudel. </eesti>
+<inglise>7) in other cases provided by law. </inglise>
+<eesti>(2) Registri volitatud t&ouml;&ouml;tleja teatab isikule v&otilde;i asutusele teenuse osutaja registreerimisest keeldumisest kirjalikult p&auml;rast vastava otsuse tegemist. </eesti>
+<inglise>(2) The authorised processor of the register shall notify a person or agency in writing of refusal to register the person or agency as a service provider after making the corresponding decision. </inglise>
+<eesti>Otsuses peab sisalduma viide registreerimisest keeldumise p&otilde;hjusele. </eesti>
+<inglise>The decision shall contain a reference to the reasons for the refusal to register. </inglise>
+<eesti>&sect; 36. </eesti>
+<inglise>&sect; 36. </inglise>
+<eesti>Teenuse osutaja kustutamine registrist </eesti>
+<inglise>Deletion of service providers from register </inglise>
+<eesti>Teenuse osutaja kustutatakse registrist, kui ta on l&otilde;petanud teenuse osutamise vastavalt k&auml;esoleva seaduse V peat&uuml;ki s&auml;tetele. </eesti>
+<inglise>A service provider shall be deleted from the register if the service provider has terminated the provision of services pursuant to the provisions of Chapter V of this Act. </inglise>
+<eesti>&sect; 37. </eesti>
+<inglise>&sect; 37. </inglise>
+<eesti>Juurdep&auml;&auml;s registri andmetele </eesti>
+<inglise>Access to registered data </inglise>
+<eesti>(1) Registrisse kantud andmed on avalikud. </eesti>
+<inglise>(1) Data entered in the register are public. </inglise>
+<eesti>(2) Registri volitatud t&ouml;&ouml;tleja on kohustatud tagama teenuse osutajate ja v&auml;ljaantud ajatemplite kohta s&auml;ilitatavate andmete avalikkuse ning &ouml;&ouml;p&auml;evaringse k&auml;ttesaadavuse. </eesti>
+<inglise>(2) The authorised processor of the register is required to ensure access to the data stored concerning service providers and issued time stamps, and the availability thereof twenty-four hours a day. </inglise>
+<eesti>VII peat&uuml;kk </eesti>
+<inglise>Chapter VII </inglise>
+<eesti>Teenuse osutaja varaline vastutus ja kindlustamine </eesti>
+<inglise>Proprietary Liability of Service Providers and Insurance </inglise>
+<eesti>&sect; 38. </eesti>
+<inglise>&sect; 38. </inglise>
+<eesti>Teenuse osutaja varaline vastutus </eesti>
+<inglise>Proprietary liability of service providers </inglise>
+<eesti>(1) Teenuse osutaja vastutab otsese varalise kahju eest, mis on tekkinud tema poolt teenuse osutamisel tahtlikult v&otilde;i raskest ettevaatamatusest toimepandud &otilde;igusvastaste tegude tagaj&auml;rjel. </eesti>
+<inglise>(1) Service providers are liable for direct pecuniary loss which is caused upon the provision of services thereby as a result of unlawful acts committed intentionally or due to gross negligence. </inglise>
+<eesti>(2) Kui k&auml;esoleva paragrahvi l&otilde;ikes 1 nimetatud kahju tekitamise eest vastutab teenuse osutaja k&otilde;rval kolmas isik, siis vastutavad nad solidaarselt. </eesti>
+<inglise>(2) If a third person besides the service provider is liable for loss specified in subsection (1) of this section, they shall be solidarily liable. </inglise>
+<eesti>&sect; 39. </eesti>
+<inglise>&sect; 39. </inglise>
+<eesti>Teenuse osutaja kohustuslik kindlustamine </eesti>
+<inglise>Compulsory insurance of service providers </inglise>
+<eesti>(1) K&auml;esoleva seaduse &sect;-s 38 s&auml;testatud kahju h&uuml;vitamise tagamiseks on teenuse osutaja kohustatud s&otilde;lmima kohustusliku kindlustuslepingu. </eesti>
+<inglise>(1) In order to ensure compensation for loss provided for in &sect; 38 of this Act, service providers are required to enter into compulsory insurance contracts. </inglise>
+<eesti>(2) Teenuse osutaja on kohustatud kindlustuslepingu tingimused avaldama &uuml;ldkasutatavas andmesidev&otilde;rgus. </eesti>
+<inglise>(2) Service providers are required to publicise the conditions of insurance contracts in the public data communication network. </inglise>
+<eesti>VIII peat&uuml;kk </eesti>
+<inglise>Chapter VIII </inglise>
+<eesti>V&auml;lismaise sertifitseerimisteenuse osutaja poolt v&auml;ljaantud sertifikaatide ning nende alusel moodustatud digitaalallkirjade tunnustamine </eesti>
+<inglise>Recognition of Certificates Issued by Foreign Certification Service Providers and of Digital Signatures Created on Basis thereof </inglise>
+<eesti>&sect; 40. </eesti>
+<inglise>&sect; 40. </inglise>
+<eesti>V&auml;lismaise sertifikaadi tunnustamine </eesti>
+<inglise>Recognition of foreign certificates </inglise>
+<eesti>V&auml;lismaise sertifitseerimisteenuse osutaja poolt v&auml;ljaantud sertifikaate tunnustatakse v&otilde;rdv&auml;&auml;rsetena k&auml;esoleva seaduse alusel tegutsevate sertifitseerimisteenuse osutajate poolt v&auml;ljaantud sertifikaatidega, kui on t&auml;idetud v&auml;hemalt &uuml;ks j&auml;rgmistest tingimustest: </eesti>
+<inglise>Certificates issued by a foreign certification service provider shall be recognised as equivalent to certificates issued by certification service providers acting on the basis of this Act if at least one of the following conditions is met: </inglise>
+<eesti>1) v&auml;lismaine sertifitseerimisteenuse osutaja vastab registri vastutava t&ouml;&ouml;tleja otsuse kohaselt k&auml;esolevas seaduses ja selle alusel kehtestatud &otilde;igusaktides s&auml;testatud n&otilde;uetele; </eesti>
+<inglise>1) according to the decision of the chief processor of the register, the foreign certification service provider complies with the requirements provided for in this Act and legislation established on the basis thereof; </inglise>
+<eesti>2) v&auml;lismaise sertifitseerimisteenuse osutaja sertifikaate garanteerib m&otilde;ni k&auml;esoleva seaduse alusel tegutsev sertifitseerimisteenuse osutaja, kes on sertifikaatides sisalduvate andmete t&otilde;esuse eest endale vastutuse v&otilde;tnud; </eesti>
+<inglise>2) the certificates of the foreign certification provider are guaranteed by a certification service provider acting on the basis of this Act who assumes responsibility for the accuracy of the data contained in the certificates; </inglise>
+<eesti>3) v&auml;lismaise sertifitseerimisteenuse osutaja poolt v&auml;ljaantud sertifikaadid on tunnustatud Eesti Vabariigi v&auml;lislepinguga. </eesti>
+<inglise>3) the certificates issued by the foreign certification service provider are recognised by an international agreement entered into by the Republic of Estonia. </inglise>
+<eesti>IX peat&uuml;kk </eesti>
+<inglise>Chapter IX </inglise>
+<eesti>J&auml;relevalve sertifitseerimisteenuse ja ajatempliteenuse osutajate &uuml;le </eesti>
+<inglise>Supervision of Certification Service Providers and Time-stamping Service Providers </inglise>
+<eesti>&sect; 41. </eesti>
+<inglise>&sect; 41. </inglise>
+<eesti>J&auml;relevalve teostajad </eesti>
+<inglise>Supervisory authorities </inglise>
+<eesti>(1) K&auml;esoleva seaduse ja selle alusel kehtestatud &otilde;igusaktide n&otilde;uete j&auml;rgimist kontrollib Teede- ja Sideministeerium. </eesti>
+<inglise>(1) The Ministry of Transport and Communications shall monitor observance of the requirements of this Act and legislation established on the basis thereof. </inglise>
+<eesti>(2) J&auml;relevalvet registri pidamise &uuml;le teostab registri vastutav t&ouml;&ouml;tleja andmekogude seaduses (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77; 24, 133) etten&auml;htud korras. </eesti>
+<inglise>(2) The chief processor of the register shall exercise supervision over the maintenance of the register pursuant to the procedure prescribed in the Databases Act (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77; 24, 133). </inglise>
+<eesti>(3) J&auml;relevalvet registri pidamise seaduslikkuse ja andmete kaitse &uuml;le teostab andmekaitse j&auml;relevalveasutus andmekogude seaduses ja isikuandmete kaitse seaduses (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685) etten&auml;htud korras. </eesti>
+<inglise>(3) The data protection supervision authority shall exercise supervision over the legality of maintenance of the register and over the protection of data pursuant to the procedure prescribed in the Databases Act and the Personal Data Protection Act (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685). </inglise>
+<eesti>&sect; 42. </eesti>
+<inglise>&sect; 42. </inglise>
+<eesti>J&auml;relevalve teostamine </eesti>
+<inglise>Exercise of supervision </inglise>
+<eesti>Teede- ja Sideministeeriumil on k&auml;esoleva seaduse ja selle alusel antud &otilde;igusaktide n&otilde;uete j&auml;rgimise kontrollijana &otilde;igus: </eesti>
+<inglise>The Ministry of Transport and Communications, as the agency which monitors observance of the requirements of this Act and legislation established on the basis thereof, has the right to: </inglise>
+<eesti>1) kontrollida registrile esitatud infos&uuml;steemi auditi tulemuste vastavust tegelikkusele; </eesti>
+<inglise>1) verify the accuracy of results of the information systems audit submitted to the register; </inglise>
+<eesti>2) siseneda teenuse osutaja esindaja juuresolekul ruumidesse, mida kasutatakse teenuse osutamiseks, ning tutvuda teenuse osutamise dokumentidega; </eesti>
+<inglise>2) enter premises which are used for the provision of services and examine documents concerning the provision of services in the presence of a representative of the service provider; </inglise>
+<eesti>3) esitada j&auml;relep&auml;rimisi ja p&auml;ringuid riigiasutustele ning riigi ja kohaliku omavalitsuse andmekogudele vastavate andmete saamiseks; </eesti>
+<inglise>3) make inquiries to all state agencies and state and local government databases in order to obtain corresponding data; </inglise>
+<eesti>4) teha teenuse osutajale kirjalik hoiatus, kui ta k&auml;esoleva seaduse ja selle alusel antud &otilde;igusaktide n&otilde;uded esmakordselt v&otilde;i ettevaatamatuse t&otilde;ttu t&auml;itmata j&auml;tab; </eesti>
+<inglise>4) issue a written caution to a service provider if the service provider fails, for the first time or due to negligence, to comply with the requirements of this Act or legislation issued on the basis thereof; </inglise>
+<eesti>5) teha teenuse osutajale t&auml;htajaline ettekirjutus, kui ta k&auml;esoleva paragrahvi punktis 4 nimetatud hoiatusele ei reageeri v&otilde;i k&auml;esoleva seaduse ja selle alusel antud &otilde;igusaktid korduvalt v&otilde;i tahtlikult t&auml;itmata j&auml;tab; </eesti>
+<inglise>5) issue a precept for a specified term to a service provider if the service provider does not respond to a caution specified in clause 4) of this section or fails repeatedly or intentionally to implement this Act or observe legislation issued on the basis thereof; </inglise>
+<eesti>6) algatada k&auml;esoleva paragrahvi punktis 5 nimetatud ettekirjutuse t&auml;itmata j&auml;tmise korral haldus&otilde;iguserikkumise asi haldus&otilde;iguserikkumiste seadustikus (RT 1992, 29, 396; RT I 1999, 41, 496; 50, 548; 58, 608; 60, 616; 87, 792; 92, 825; 95, 843; 2000, 10, 58; 25, 141; 28, 167; 29, 169; 40, 247; 45, 279; 49, 301; 305; 51, 321; 54, 346; 348; 351; 55, 361; 58, 376; 84, 533; 86, 544; 548; 89, 578; 95, 609; 613; 2001, 3, 5; 9, 41; 17, 76; 18, 87; 21, 115; 116; 31, 174; 42, 236; 52, 303; 53, 312; 313; 314; 56, 333; 335; 339; 58, 356; 65, 378) etten&auml;htud korras; </eesti>
+<inglise>6) initiate administrative offence matters pursuant to the procedure prescribed in the Code of Administrative Offences (RT 1992, 29, 396; RT I 1999, 41, 496; 50, 548; 58, 608; 60, 616; 87, 792; 92, 825; 95, 843; 2000, 10, 58; 25, 141; 28, 167; 29, 169; 40, 247; 45, 279; 49, 301; 305; 51, 321; 54, 346; 348; 351; 55, 361; 58, 376; 84, 533; 86, 544; 548; 89, 578; 95, 609; 613; 2001, 3, 5; 9, 41; 17, 76; 18, 87; 21, 115; 116; 31, 174; 42, 236; 52, 303; 53, 312; 313; 314; 56, 333; 335; 339; 58, 356; 65, 378) upon failure to comply with a precept specified in clause 5) of this section; </inglise>
+<eesti>7) otsustada teenuse osutaja kustutamine registrist ning esitada otsus registri volitatud t&ouml;&ouml;tlejale vastava kande tegemiseks. </eesti>
+<inglise>7) decide on the deletion of a service provider from the register and submit the decision to the authorised processor of the register in order for a corresponding entry to be made. </inglise>
+<eesti>X peat&uuml;kk </eesti>
+<inglise>Chapter X </inglise>
+<eesti>Rakenduss&auml;tted </eesti>
+<inglise>Implementing Provisions </inglise>
+<eesti>&sect; 43. </eesti>
+<inglise>&sect; 43. </inglise>
+<eesti>Digitaalallkirja rakendamine </eesti>
+<inglise>Implementation of digital signatures </inglise>
+<eesti>(1) Vabariigi Valitsus asutab ja v&otilde;tab k&auml;esoleva seaduse &sect; 32 l&otilde;ikes 1 s&auml;testatud registri kasutusele k&auml;esoleva seaduse j&otilde;ustumise hetkeks. </eesti>
+<inglise>(1) The Government of the Republic shall establish and introduce the register provided for in subsection 32 (1) of this Act by the time this Act enters into force. </inglise>
+<eesti>(2) Vabariigi Valitsus kehtestab 2001. aasta 1. m&auml;rtsiks riigi- ja kohaliku omavalitsuse asutuste ning avalik-&otilde;iguslike juriidiliste isikute asjaajamiskorra &uuml;htsed alused, mis v&otilde;imaldavad asutuste asjaajamises kasutada ka digitaalselt allkirjastatud dokumente. </eesti>
+<inglise>(2) The Government of the Republic shall establish uniform bases for the document management procedures of state and local government agencies and legal persons in public law by 1 March 2001 and the bases shall also enable the use of digitally signed documents in the document management of the agencies. </inglise>
+<eesti>(15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>(15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>(3) Riigi- ja kohaliku omavalitsuse asutused ning avalik-&otilde;iguslikud juriidilised isikud korraldavad oma asjaajamise 2001. aasta 1. juuniks &uuml;mber vastavalt k&auml;esoleva paragrahvi l&otilde;ikes 2 s&auml;testatud asjaajamiskorrale. </eesti>
+<inglise>(3) State and local government agencies and legal persons in public law shall reorganise the document management thereof pursuant to the document management procedures provided for in subsection (2) of this section by 1 June 2001. </inglise>
+<eesti>(15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>(15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>(4) Teede- ja sideminister kinnitab teenuse osutajate infos&uuml;steemide auditeerimise korra 2000. aasta 1. oktoobriks. </eesti>
+<inglise>(4) The Minister of Transport and Communications shall approve the procedure for the information systems audit of service providers by 1 October 2000. </inglise>
+<eesti>&sect; 44. </eesti>
+<inglise>&sect; 44. </inglise>
+<eesti>Registri volitatud t&ouml;&ouml;tleja ja teenuse osutajate avalike v&otilde;tmete kinnitamine ning nendele vastavate isiklike v&otilde;tmete kasutusala m&auml;&auml;ramine </eesti>
+<inglise>Approval of use of public keys of authorised processor of register and service providers and determination of scope of use of private keys corresponding thereto </inglise>
+<eesti>(1) Sertifitseerimisteenuse osutaja ja ajatempliteenuse osutaja k&auml;esoleva seaduse &sect; 33 l&otilde;ike 1 punktis 1 m&auml;rgitud avaliku v&otilde;tme kinnitamiseks kasutatava registri volitatud t&ouml;&ouml;tleja avaliku v&otilde;tme kinnitab ja sellele vastava isikliku v&otilde;tme kasutusala m&auml;&auml;rab teede- ja sideminister. </eesti>
+<inglise>(1) The Minister of Transport and Communications shall approve the public key of the authorised processor of the register, which is used for the approval of the public keys of certification service providers and time-stamping service providers set out in clause 33 (1) 1) of this Act, and shall determine the scope of use of the private key corresponding thereto. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>(2) Sertifitseerimisteenuse osutaja ja ajatempliteenuse osutaja poolt sertifitseerimis- ja ajatempliteenuse osutamiseks kasutatava avaliku v&otilde;tme ja sellele vastava isikliku v&otilde;tme kasutusala kinnitab registri volitatud t&ouml;&ouml;tleja. </eesti>
+<inglise>(2) The authorised processor of the register shall approve the public key used for the provision of certification services or time-stamping services by certification service providers and time-stamping service providers, and the scope of use of the private key corresponding thereto. </inglise>
+<eesti>(06.06.2001 j&otilde;ust.07.07.2001 - RT I 2001, 56, 336) </eesti>
+<inglise>(06.06.2001 entered into force 07.07.2001 - RT I 2001, 56, 336) </inglise>
+<eesti>&sect; 45. </eesti>
+<inglise>&sect; 45. </inglise>
+<eesti>Riigil&otilde;ivuseaduse t&auml;iendamine </eesti>
+<inglise>Amendment of State Fees Act </inglise>
+<eesti>Riigil&otilde;ivuseaduses (RT I 1997, 80, 1344; 2001, 55, 331; 56, 332; 64, 367; 65, 377) tehakse j&auml;rgmised t&auml;iendused: </eesti>
+<inglise>The State Fees Act (RT I 1997, 80, 1344; 2001, 55, 331; 56, 332; 64, 367; 65, 377) is amended as follows: </inglise>
+<eesti>1) paragrahvi 3 l&otilde;iget 2 t&auml;iendatakse punktiga 26 (3) j&auml;rgmises s&otilde;nastuses: </eesti>
+<inglise>1) clause 26 (3)) is added to subsection 3 (2) worded as follows: </inglise>
+<eesti>"26 (3)) digitaalallkirja seaduse alusel teostatavad toimingud;" </eesti>
+<inglise>"26 (3)) acts performed on the basis of the Digital Signatures Act;" </inglise>
+<eesti>2) seaduse 7. peat&uuml;kki t&auml;iendatakse 18 (2). jaoga j&auml;rgmises s&otilde;nastuses: </eesti>
+<inglise>2) Division 18 (2) is added to Chapter 7 of the Act worded as follows: </inglise>
+<eesti>"18 (2). jagu </eesti>
+<inglise>"Division 18 (2) </inglise>
+<eesti>Digitaalallkirja seaduse alusel teostatavad toimingud </eesti>
+<inglise>Acts Performed on Basis of Digital Signatures Act </inglise>
+<eesti>&sect; 186 (3). </eesti>
+<inglise>&sect; 186 (3). </inglise>
+<eesti>Sertifitseerimisteenuse osutaja ja ajatempliteenuse osutaja kande tegemine ning kande muutmine sertifitseerimise riiklikus registris </eesti>
+<inglise>Making and amendment of entries concerning certification service providers and time-stamping service providers in state register of certificates </inglise>
+<eesti>(1) Sertifitseerimisteenuse osutaja ja ajatempliteenuse osutaja registreerimise eest sertifitseerimise riiklikus registris tasutakse riigil&otilde;ivu 10 000 krooni. </eesti>
+<inglise>(1) A state fee of 10 000 kroons shall be paid for registration of a certification service provider or a time-stamping service provider in the state register of certificates. </inglise>
+<eesti>(2) Sertifitseerimise riiklikus registris olevates sertifitseerimisteenuse osutaja ja ajatempliteenuse osutaja andmetes muudatuse tegemise eest tasutakse riigil&otilde;ivu 100 krooni." </eesti>
+<inglise>(2) A state fee of 100 kroons shall be paid for entry of amendments to data concerning a certification service provider or a time-stamping service provider in the state register of certificates. </inglise>
+<eesti>&sect; 46. </eesti>
+<inglise>&sect; 46. </inglise>
+<eesti>Isikut t&otilde;endavate dokumentide seaduse t&auml;iendamine </eesti>
+<inglise>Amendment of Identity Documents Act </inglise>
+<eesti>Isikut t&otilde;endavate dokumentide seaduses (RT I 1999, 25, 365) tehakse j&auml;rgmised t&auml;iendused: </eesti>
+<inglise>The Identity Documents Act (RT I 1999, 25, 365) is amended as follows: </inglise>
+<eesti>1) paragrahvi 9 t&auml;iendatakse l&otilde;ikega 5 j&auml;rgmises s&otilde;nastuses: </eesti>
+<inglise>1) subsection (5) is added to &sect; 9 worded as follows: </inglise>
+<eesti>"(5) Dokumenti v&otilde;ib kanda digitaalset tuvastamist ja allkirjastamist v&otilde;imaldavat informatsiooni ning teisi digitaalseid andmeid, mille loetelu kehtestab Vabariigi Valitsus m&auml;&auml;rusega." </eesti>
+<inglise>"(5) Information which enables digital identification and signing and other digital data, the list of which shall be established by a regulation of the Government of the Republic, may be entered in a document." </inglise>
+<eesti>; </eesti>
+<inglise>; </inglise>
+<eesti>2) paragrahvi 15 t&auml;iendatakse l&otilde;ikega 6 j&auml;rgmises s&otilde;nastuses: </eesti>
+<inglise>2) subsection (6) is added to &sect; 15 worded as follows: </inglise>
+<eesti>"(6) Dokumendi v&auml;ljaandjal on kohustus tuvastada dokumendi taotleja isik. </eesti>
+<inglise>"(6) The issuer of a document shall identify the person applying for the document. </inglise>
+<eesti>Tuvastamise korra kehtestab siseminister m&auml;&auml;rusega." </eesti>
+<inglise>The procedure for identification shall be established by a regulation of the Minister of Internal Affairs. </inglise>
+<eesti>&sect; 47. </eesti>
+<inglise>&sect; 47. </inglise>
+<eesti>Seaduse j&otilde;ustumine </eesti>
+<inglise>Entry into force of Act </inglise>
+<eesti>K&auml;esolev seadus j&otilde;ustub 2000. aasta 15. detsembril. </eesti>
+<inglise>This Act enters into force on 15 December 2000. (1) RT = Riigi Teataja = State Gazette </inglise>

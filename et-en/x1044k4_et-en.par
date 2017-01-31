@@ -1,0 +1,578 @@
+<eesti>Rahvatervise seadus </eesti>
+<inglise>Public Health Act </inglise>
+<eesti>Vastu v&otilde;etud 14. juunil 1995. a. </eesti>
+<inglise>Passed 14 June 1995 </inglise>
+<eesti>(RT I 1995, 57, 978), </eesti>
+<inglise>(RT (1) I 1995, 57, 978), </inglise>
+<eesti>j&otilde;ustunud 21. juulil 1995. a., </eesti>
+<inglise>entered into force 21 July 1995, </inglise>
+<eesti>muudetud j&auml;rgmiste seadustega: </eesti>
+<inglise>amended by the following Acts: </inglise>
+<eesti>20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187; </eesti>
+<inglise>20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187; </inglise>
+<eesti>14.02.2001 j&otilde;ust.16.03.2001 - RT I 2001, 23, 128; </eesti>
+<inglise>14.02.2001 entered into force 16.03.2001 - RT I 2001, 23, 128; </inglise>
+<eesti>10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804; </eesti>
+<inglise>10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804; </inglise>
+<eesti>25.02.1999 j&otilde;ust.01.01.2000 - RT I 1999, 30, 415; </eesti>
+<inglise>25.02.1999 entered into force 01.01.2000 - RT I 1999, 30, 415; </inglise>
+<eesti>23.04.97 j&otilde;ust.26.05.97 - RT I 1997, 37, 569; </eesti>
+<inglise>23.04.97 entered into force 26.05.97 - RT I 1997, 37, 569; </inglise>
+<eesti>26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953; </eesti>
+<inglise>26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953; </inglise>
+<eesti>19.12.95 j&otilde;ust.01.04.96 - RT I 1996, 3, 56. </eesti>
+<inglise>19.12.95 entered into force 01.04.96 - RT I 1996, 3, 56. </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General Provisions </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Seaduse eesm&auml;rk </eesti>
+<inglise>Purpose of Act </inglise>
+<eesti>K&auml;esoleva seaduse eesm&auml;rk on inimese tervise kaitsmine, haiguste ennetamine ja tervise edendamine, mis saavutatakse riigi, omavalitsuse, avalik- ja era&otilde;igusliku juriidilise isiku ning f&uuml;&uuml;silise isiku kohustustega ning riiklike ja omavalitsuslike abin&otilde;ude s&uuml;steemiga. </eesti>
+<inglise>The purpose of this Act is to protect human health, prevent disease and promote health, which is to be achieved through the performance of duties by the state, local governments, legal persons in public law, legal persons in private law and natural persons, and through national and local measures. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>Seaduses kasutatavad m&otilde;isted </eesti>
+<inglise>Definitions used in this Act </inglise>
+<eesti>K&auml;esolevas seaduses kasutatakse m&otilde;isteid j&auml;rgmises t&auml;henduses: </eesti>
+<inglise>In this Act, the following definitions are used: </inglise>
+<eesti>1) rahvatervis - teadus ja kunst haiguste ennetamiseks, eluea pikendamiseks ning vaimse ja f&uuml;&uuml;silise tervise edendamiseks ja tugevdamiseks &uuml;hiskonna organiseeritud j&otilde;upingutuste kaudu; </eesti>
+<inglise>1) "public health" means the science and art of disease prevention, extending life expectancy, promoting and improving mental and physical health through the organised efforts of society; </inglise>
+<eesti>2) tervis - inimese f&uuml;&uuml;silise, vaimse ja sotsiaalse heaolu seisund, mitte ainult puuete ja haiguste puudumine; </eesti>
+<inglise>2) "health" means a state of physical, mental and social well-being of a person, not only the absence of disability or disease; </inglise>
+<eesti>3) tervisekaitse - inimese tervisele ohutu elukeskkonna tagamisele ning elukeskkonnaga seonduvate terviseh&auml;irete ja haiguste v&auml;ltimisele suunatud tegevus; </eesti>
+<inglise>3) "health protection" means activities aimed at ensuring a physical and social environment which is safe for human health and at preventing health disorders and disease associated with the physical and social environment; </inglise>
+<eesti>4) tervise edendamine - inimese tervist v&auml;&auml;rtustava ja soodustava k&auml;itumise ja elulaadi kujundamine ning tervist toetava elukeskkonna sihip&auml;rane arendamine; </eesti>
+<inglise>4) "health promotion" means the creation of behaviour and lifestyles which value and enhance health, and the purposeful development of a physical and social environment which is conducive to health; </inglise>
+<eesti>5) haiguste ennetamine - inimese haiguseelsete seisundite varasele avastamisele suunatud tegevus ja meetmed haigestumise v&auml;ltimiseks; </eesti>
+<inglise>5) "disease prevention" means activities aimed at early detection of disease in persons and measures to prevent illness; </inglise>
+<eesti>6) tervisekasvatus - teabe sihip&auml;rane levitamine ja inimese harjumuste kujundamine tervise s&auml;ilitamiseks ja tugevdamiseks; </eesti>
+<inglise>6) "health education" means the purposeful dissemination of information and formation of people's habits for the preservation and improvement of health; </inglise>
+<eesti>7) elukeskkond - inimesega kokkupuutuva loodusliku, tehisliku ja sotsiaalse keskkonna tegurite kogum, mis m&otilde;jutab v&otilde;i v&otilde;ib m&otilde;jutada inimese tervist. </eesti>
+<inglise>7) "physical and social environment" means the aggregate of natural, artificial and social environmental factors with which people come into contact and which affects or may affect human health. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Tervisekaitse, haiguste ennetamise ja tervise edendamise p&otilde;hi&uuml;lesanded </eesti>
+<inglise>Primary objectives of health protection, disease prevention and health promotion </inglise>
+<eesti>Tervisekaitse, haiguste ennetamise ja tervise edendamise p&otilde;hi&uuml;lesanded on: </eesti>
+<inglise>The primary objectives of health protection, disease prevention and health promotion are: </inglise>
+<eesti>1) &uuml;ksikisiku, perekonna ja rahva tervise v&auml;&auml;rtustamine; </eesti>
+<inglise>1) to value the health of individuals, families and the public; </inglise>
+<eesti>2) abin&otilde;ude s&uuml;steemi v&auml;ljat&ouml;&ouml;tamine, seadustamine ja rakendamine laste tervisliku arengu tagamiseks, nakkuslike ja mittenakkuslike, kutse- ja muude haiguste &auml;rahoidmiseks ja v&auml;hendamiseks, varajase suremuse ja invaliidistumise v&auml;hendamiseks, elukvaliteedi paranemiseks ja t&ouml;&ouml;v&otilde;imelise ea pikenemiseks; </eesti>
+<inglise>2) to develop, legislate and implement measures for the healthy development of children, prevention and reduction of infectious, non-infectious, occupational and other diseases, to reduce incidents of premature death and disability, improve the quality of life and extend the duration of working life; </inglise>
+<eesti>3) elukeskkonna uurimine ja selle ohutegurite hindamine, inimese terviseseisundi j&auml;lgimine ning prognoosimine s&otilde;ltuvalt elukeskkonna seisundist; </eesti>
+<inglise>3) to study the physical and social environment and assess the risk factors thereof, and monitor and predict the state of human health depending on the state of the physical and social environment; </inglise>
+<eesti>4) avalikkuse teavitamine elukeskkonna seisundi halvenemisest v&otilde;i halvenemise ohust; </eesti>
+<inglise>4) to inform the public of the deterioration or danger of deterioration of the physical and social environment; </inglise>
+<eesti>5) erinevuste v&auml;hendamine riigi eri piirkondade ja inimeste eri r&uuml;hmade terviseseisundis; </eesti>
+<inglise>5) to reduce disparities in the state of health in different regions of the country and different groups of people; </inglise>
+<eesti>6) tervisekaitse &otilde;igusaktide v&auml;ljat&ouml;&ouml;tamine, kehtestamine ja riiklik j&auml;relevalve nende t&auml;itmise &uuml;le. </eesti>
+<inglise>6) to develop and enact health protection legislation and state supervision over compliance therewith. </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Elukeskkonna- ja tervisekaitse p&otilde;hin&otilde;uded </eesti>
+<inglise>Basic requirements for protection of physical and social environment and health </inglise>
+<eesti>Elukeskkonna- ja tervisekaitse p&otilde;hin&otilde;uded on: </eesti>
+<inglise>The basic requirements for protection of the physical and social environment and health are: </inglise>
+<eesti>1) inimene ei tohi ohustada teise inimese tervist oma otsese tegevusega v&otilde;i elukeskkonna halvendamise kaudu; </eesti>
+<inglise>1) no person shall endanger the health of other persons by his or her direct action or by harming the physical and social environment; </inglise>
+<eesti>2) m&uuml;&uuml;giks ette n&auml;htud toiduainete tootmisel, valmistamisel, vedamisel, s&auml;ilitamisel ja m&uuml;&uuml;misel peab olema v&auml;lditud nakkus- v&otilde;i muu terviseohu tekkimine ja levik; </eesti>
+<inglise>2) the development and spread of infection and other health hazards shall be prevented in the manufacture, preparation, transport, preservation and sale of foodstuffs intended for sale; </inglise>
+<eesti>3) joogi- ja suplusvesi peab olema tervisele ohutu; </eesti>
+<inglise>3) drinking water and bathing water shall be safe for health; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>4) tarbekaubad, eelk&otilde;ige lastekaubad peavad olema valmistatud sellistest materjalidest ja niisugusel viisil, et nende tavap&auml;rane kasutamine oleks ohutu inimese tervisele; </eesti>
+<inglise>4) consumer goods, in particular products for children, shall be produced from such materials and in such a way that ordinary use is safe for human health; </inglise>
+<eesti>4 (1)) kosmeetikatooted peavad olema sellise koostisega ning k&auml;ideldud niisugusel viisil, et nad etten&auml;htud kasutamise korral oleksid ohutud inimese tervisele; </eesti>
+<inglise>4 (1)) cosmetic products shall be of such composition and be handled in such way that upon prescribed use such products are safe for human health; </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>5) (Kehtetu - 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>5) (Repealed - 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>6) Eestis valmistatud ja imporditud kaupadele esitatakse &uuml;hesuguseid n&otilde;udeid; </eesti>
+<inglise>6) the same requirements shall apply to goods produced in and imported to Estonia; </inglise>
+<eesti>7) ehitised, rajatised ja transpordivahendid peavad olema projekteeritud ning ehitatud nii, et nende sihip&auml;rane kasutamine soodustaks tervise s&auml;ilimist ning arvestaks liikumispuuetega inimeste vajadusi; </eesti>
+<inglise>7) buildings, structures and means of transport shall be designed and built such that their intended use promotes the maintenance of health and considers the needs of persons with physical disabilities; </inglise>
+<eesti>8) &otilde;ppe- ja t&ouml;&ouml;tingimused ning &otilde;ppe- ja t&ouml;&ouml;vahendid peavad olema tervisele kahjutud ning nendes tegevusvaldkondades, kus v&otilde;ivad esineda tervist kahjustavad tegurid, peab inimene enne &otilde;ppima v&otilde;i t&ouml;&ouml;le asumist ja edaspidi perioodiliselt l&auml;bima tervisekontrolli. </eesti>
+<inglise>8) study and working conditions and study materials and work equipment shall be harmless to health; in areas of activity where health hazards may be present, persons shall undergo a medical examination prior to commencing studies or work and regular medical examinations thereafter; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>9) eluaseme- ja puhketingimused peavad soodustama tervise s&auml;ilimist; </eesti>
+<inglise>9) the conditions for household and rest areas shall promote the maintenance of health; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>10) teenuste osutamine majutus-, spordi-, puhke-, laste-, &otilde;ppe-, tervishoiu-, isikuteenindus- ja hoolekandeasutustes ei tohi kahjustada tervist; </eesti>
+<inglise>10) provision of services at establishments providing accommodation, sports facilities, recreational institutions, child care institutions, educational institutions, health care institutions, personal services establishments and social welfare institutions shall not be harmful to health; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>11) ruumide valgustus ei tohi kahjustada n&auml;gemist ning peab v&otilde;imaldama t&ouml;&ouml;- ja &otilde;ppe&uuml;lesannete t&auml;itmist; </eesti>
+<inglise>11) lighting in rooms shall not be harmful to vision and shall enable the performance of duties and doing study assignments; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>12) ultraviolettkiirgus, n&auml;htav valgus, infrapunane kiirgus, raadiosageduslik kiirgus ning madalsageduslik ja staatiline elektri- ja magnetv&auml;li (mitteioniseeriv kiirgus) ei tohi &uuml;letada tervisele ohutuid piirv&auml;&auml;rtusi ning selle kiirguse allikate valmistamine, kasutuselev&otilde;tmine ja kasutamine koosk&otilde;lastatakse Tervisekaitseinspektsiooniga; </eesti>
+<inglise>12) ultraviolet radiation, visible light, infra-red radiation, radio-frequency radiation, low-frequency and static electric and magnetic fields (non-ionizing radiation) shall not exceed the limits safe for health and the production, putting into service and use of sources of such radiation shall be co-ordinated with the Health Protection Inspectorate; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>13) aeroionisatsioonitase ruumides ning m&uuml;ra-, vibratsiooni-, ultraheli- ja infrahelitase ei tohi esile kutsuda terviseh&auml;ireid ning peab vastama puhke- ja olmetingimustele kehtestatud n&otilde;uetele; </eesti>
+<inglise>13) the level of air ionisation in the rooms and the level of noise, vibration, ultrasound or infrasound shall not cause health disorders and shall comply with the requirements established for rest and non-work areas; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>14) &uuml;hiss&otilde;idukid peavad olema konstrueeritud, ehitatud ja hooldatud selliselt, et need ei ohustaks kasutaja tervist; </eesti>
+<inglise>14) public transport vehicles shall be designed, constructed and maintained such that they would not endanger the health of the users thereof; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>15) surnute hoidmine, vedamine, matmine ja &uuml;mbermatmine peab olema korraldatud nii, et see ei ohustaks inimeste tervist. </eesti>
+<inglise>15) keeping, transport, burial and reburial of bodies shall be organised such that it would not endanger human health. </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Haiguste ennetamise vahendid </eesti>
+<inglise>Means of disease prevention </inglise>
+<eesti>Haiguste ennetamise vahendid on: </eesti>
+<inglise>Means of disease prevention are: </inglise>
+<eesti>1) laste tervisliku arengu tagamiseks ja terviseh&auml;irete varajaseks avastamiseks laste ennetav arstlik tervisekontroll; </eesti>
+<inglise>1) preventive medical examinations for children in order to ensure the healthy development of children and early detection of disease; </inglise>
+<eesti>2) nakkushaiguste levikut t&otilde;kestavate abin&otilde;ude rakendamine ja kaitsepookimine nakkushaiguste v&auml;ltimiseks; </eesti>
+<inglise>2) implementation of measures for prevention of the spread of infectious diseases and vaccination for prevention of infectious diseases; </inglise>
+<eesti>3) tervistkahjustaval t&ouml;&ouml;l t&ouml;&ouml;tavate inimeste tervise eelnev ja perioodiline arstlik kontrollimine t&ouml;&ouml;tingimuste t&otilde;ttu tekkida v&otilde;ivate terviseh&auml;irete ja kutsehaiguste &auml;rahoidmiseks ja varajaseks avastamiseks; </eesti>
+<inglise>3) initial and regular medical examinations of the health of persons working in jobs which are hazardous to health, for prevention and early detection of health disorders and occupational diseases which may develop due to working conditions; </inglise>
+<eesti>4) krooniliste mittenakkuslike haiguste ennetamiseks riskitegurite kontrollimine ja neid v&auml;ltivate programmide v&auml;ljat&ouml;&ouml;tamine ning elluviimine; </eesti>
+<inglise>4) monitoring of risk factors for prevention of chronic non-communicable diseases, and development and implementation of such disease prevention programmes; </inglise>
+<eesti>5) haiguste varase avastamise programmide v&auml;ljat&ouml;&ouml;tamine ja riskir&uuml;hmade uurimine. </eesti>
+<inglise>5) development of programmes for early detection of diseases and study of risk groups. </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Tervise edendamise vahendid </eesti>
+<inglise>Means of health promotion </inglise>
+<eesti>Tervise edendamise vahendid on: </eesti>
+<inglise>Means of health promotion are: </inglise>
+<eesti>1) tervisekasvatus ja tervise&otilde;petus haridusprogrammide osana; </eesti>
+<inglise>1) health education as part of educational programmes; </inglise>
+<eesti>2) terviseteabe levitamine ja tervislike eluviiside motiveerimine; </eesti>
+<inglise>2) dissemination of health information and promotion of healthy lifestyles; </inglise>
+<eesti>3) tervistavate teenuste arendamine; </eesti>
+<inglise>3) development of health promotion services; </inglise>
+<eesti>4) eluviisi m&otilde;jutamine ja k&auml;itumisriski v&auml;hendamine; </eesti>
+<inglise>4) influencing of lifestyles and reduction of behavioural risks; </inglise>
+<eesti>5) tervistsoodustava elukeskkonna kujundamine. </eesti>
+<inglise>5) development of a health-enhancing physical and social environment. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Riigi, kohaliku omavalitsuse ning avalik- ja era&otilde;igusliku juriidilise isiku ning f&uuml;&uuml;silise isiku &uuml;lesanded </eesti>
+<inglise>Duties of State, Local Governments, Legal Persons in Public Law, Legal Persons in Private Law and Natural Persons </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Vabariigi Valitsuse &uuml;lesanded </eesti>
+<inglise>Duties of Government of the Republic </inglise>
+<eesti>(1) Vabariigi Valitsuse &uuml;lesanded on: </eesti>
+<inglise>(1) The duties of the Government of the Republic are to: </inglise>
+<eesti>1) riigi tervisekaitse ja tervise edendamise poliitika &uuml;ldine juhtimine; </eesti>
+<inglise>1) oversee national health protection and health promotion policy; </inglise>
+<eesti>2) tervisekaitse riikliku j&auml;relevalve korra kehtestamine ja j&auml;relevalve tagamine; </eesti>
+<inglise>2) establish the procedure for state health protection supervision and ensure supervision; </inglise>
+<eesti>3) tervisele ohutu elukeskkonna loomisele, terviseh&auml;irete ja haiguste ennetamisele ning tervise edendamisele suunatud riiklike programmide kinnitamine. </eesti>
+<inglise>3) approve national programmes for prevention of health disorders and diseases, for health promotion and creation of a physical and social environment safe for health. </inglise>
+<eesti>(2) Vabariigi Valitsus kehtestab tervisekaitse &otilde;igusaktid: </eesti>
+<inglise>(2) The Government of the Republic shall enact health protection legislation on: </inglise>
+<eesti>1) (Kehtetu - 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804); </eesti>
+<inglise>1) (Repealed - 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804); </inglise>
+<eesti>2) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>2) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>3) tehismaterjalide ja nende t&ouml;&ouml;tlemissaaduste, tervist ohustada v&otilde;ivate masinate, seadmete ja t&ouml;&ouml;riistade tootmiseks, importimiseks ning kasutamiseks; </eesti>
+<inglise>3) manufacture, import and use of synthetic materials and products made therefrom, machinery, equipment and tools which may be hazardous to health; </inglise>
+<eesti>4) (Kehtetu - 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804); </eesti>
+<inglise>4) (Repealed - 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804); </inglise>
+<eesti>5) lastekaupade ning inimesega vahetult kokkupuutuvate v&otilde;i eluruumides kasutatavate tarbekaupade, samuti ehitusmaterjalide valmistamiseks, importimiseks ja m&uuml;&uuml;miseks; </eesti>
+<inglise>5) preparation, import and sale of products for children, consumer products which come into direct contact with persons, household effects and building materials; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804; 20.03.2002 j&otilde;ust.01.09.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804; 20.03.2002 entered into force 01.09.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>6) rahvusvahelise kokkuleppega m&auml;&auml;ratud eriti ohtlike nakkushaiguste (karantiinhaiguste) leviku t&otilde;kestamiseks riigipiiril ja riigis; </eesti>
+<inglise>6) prevention of the spread, at the state border and within the state, of infectious diseases designated as extremely dangerous in international agreements (quarantine diseases); </inglise>
+<eesti>7) olmeteenuste osutamiseks elanikele; </eesti>
+<inglise>7) provision of consumer services to the public; </inglise>
+<eesti>8) suplusveele ja supelrannale; </eesti>
+<inglise>8) bathing water and beaches; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>9) kosmeetikatoodetele ja nende k&auml;itlemisele. </eesti>
+<inglise>9) cosmetic products and handling thereof. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Sotsiaalministeeriumi &uuml;lesanded </eesti>
+<inglise>Duties of Ministry of Social Affairs </inglise>
+<eesti>(1) Sotsiaalministeeriumi &uuml;lesandeks on: </eesti>
+<inglise>(1) The duties of the Ministry of Social Affairs are to: </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>1) tervisekaitse, haiguste ennetamise ja tervise edendamise kavandamine ja kavandatu elluviimine; </eesti>
+<inglise>1) plan and implement plans for health protection, disease prevention and health promotion; </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953; 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953; 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>2) tervisekaitse, haiguste ennetamise ja tervise edendamise alaste seaduste ja muude &otilde;igusaktide eeln&otilde;ude v&auml;ljat&ouml;&ouml;tamine; </eesti>
+<inglise>2) draft health protection, disease prevention and health promotion laws and other legislation; </inglise>
+<eesti>3) teiste ministeeriumide poolt ettevalmistatud tervisekaitse, haiguste ennetamise ja tervise edendamisega seonduvate &otilde;igusaktide eeln&otilde;ude koosk&otilde;lastamine; </eesti>
+<inglise>3) concord draft legislation relating to health protection, disease prevention and health promotion prepared by other ministries; </inglise>
+<eesti>4) Vabariigi Valitsusele ettepanekute tegemine eriolukorra kehtestamiseks riigis v&otilde;i selle osas nakkushaiguste, m&uuml;rgistuste ning kiirguskahjustuste likvideerimiseks; </eesti>
+<inglise>4) propose to the Government of the Republic to establish an emergency situation in the state or in part of the state to eliminate an infectious disease, intoxication or radiation damage; </inglise>
+<eesti>5) teiste ministeeriumide, ametite ja inspektsioonide tegevuse koordineerimine ning tulemuslikkuse anal&uuml;&uuml;simine tervisekaitse ja tervise edendamise alal; </eesti>
+<inglise>5) co-ordinate and analyse the efficiency of the activities of other ministries, agencies and inspectorates in the area of health protection and health promotion; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>6) tervisele ohutu elukeskkonna loomisele, terviseh&auml;irete ja haiguste ennetamisele ning tervise edendamisele suunatud riiklike programmide ja projektide ning muude abin&otilde;ude kavandamine ja elluviimise korraldamine. </eesti>
+<inglise>6) plan and organise implementation of national programmes, projects and other measures for creation of a physical and social environment which is safe for health, prevention of health disorders and disease, and health promotion; </inglise>
+<eesti>7) tervisekasvatuse ja tervisliku eluviisi kujundamisele ning tervise v&auml;&auml;rtustamisele suunatud tegevuse korraldamine, samuti koost&ouml;&ouml;s Haridusministeeriumiga tervise&otilde;petuse korraldamine &otilde;ppeasutustes; </eesti>
+<inglise>7) organise health education and activities aimed at creating healthy lifestyles and health appreciation, and, in co-operation with the Ministry of Education, to organise health education in educational institutions; </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>8) tervisekaitse, haiguste ennetamise ja tervise edendamise alaste teadusuuringute koordineerimine; </eesti>
+<inglise>8) co-ordinate research relating to health protection, disease prevention and health promotion; </inglise>
+<eesti>9) tervisekaitse riikliku j&auml;relevalve koordineerimine Tervisekaitseinspektsiooni kaudu; </eesti>
+<inglise>9) co-ordinate state supervision over health protection through the Health Protection Inspectorate; </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>10) keskkonnast tingitud terviseohtude seire korraldamine; </eesti>
+<inglise>10) organise the monitoring of health hazards arising from environment; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>11) joogiveeproove v&otilde;tvate isikute atesteerimine; </eesti>
+<inglise>11) evaluate the persons who take samples of drinking water; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>12) rahvastiku tervisega seonduvate andmete kogumine ja isikuandmete t&ouml;&ouml;tlemine riikliku tervise- ja tervishoiupoliitika v&auml;ljat&ouml;&ouml;tamiseks ning elluviimiseks koosk&otilde;las isikuandmete kaitse seaduse (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685; 2001, 50, 283) ja andmekogude seadusega (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77). </eesti>
+<inglise>12) collect information on the health of the population, and process personal data for the development and implementation of national health and health care policies in accordance with the Personal Data Protection Act (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685; 2001, 50, 283) and the Databases Act (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77). </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(2) Sotsiaalminister kehtestab tervisekaitse &otilde;igusaktid j&auml;rgmiste valdkondade kohta: </eesti>
+<inglise>(2) The Minister of Social Affairs shall establish health protection legislation on the following areas: </inglise>
+<eesti>1) tervist ohustada v&otilde;ivate tehnoloogiate, masinate, seadmete ja t&ouml;&ouml;vahendite kasutuselev&otilde;tmine ning kasutamine; </eesti>
+<inglise>1) introduction and use of technologies, machinery, equipment and tools which may be hazardous to health; </inglise>
+<eesti>2) nakkus- ja parasitaarhaiguste leviku t&otilde;kestamine; </eesti>
+<inglise>2) prevention of the spread of infectious and parasitic diseases; </inglise>
+<eesti>3) koolide p&auml;evakavad ja &otilde;ppekorraldus; </eesti>
+<inglise>3) daily schedules and study timetables in schools; </inglise>
+<eesti>4) toitlustamine koolieelsetes lasteasutustes, koolides, tervishoiu- ja hoolekandeasutustes; </eesti>
+<inglise>4) food service in pre-school child care institutions, educational institutions, health care institutions and social welfare institutions; </inglise>
+<eesti>5) lastelutid; </eesti>
+<inglise>5) babies' dummies; </inglise>
+<eesti>6) koolieelsed lasteasutused ja koolid; </eesti>
+<inglise>6) pre-school child care institutions and schools; </inglise>
+<eesti>7) arvuti&otilde;pe ja arvuti avalik kasutamine; </eesti>
+<inglise>7) computer training and public use of computers; </inglise>
+<eesti>8) noortelaagrid ja teised noorte ja laste puhkeasutused; </eesti>
+<inglise>8) youth camps and other recreational institutions for young people and children; </inglise>
+<eesti>9) laste ja t&auml;iskasvanute hoolekandeasutused; </eesti>
+<inglise>9) social welfare institutions for children and adults; </inglise>
+<eesti>10) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>10) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>11) meditsiiniseadmete olulised n&otilde;uded, nende klassi m&auml;&auml;ramine, vastavushindamine, kasutuselev&otilde;tmine ja kasutamine; </eesti>
+<inglise>11) essential requirements for medical devices, designation of classes, conformity assessment, putting into service and use thereof; </inglise>
+<eesti>12) ilu- ja isikuteenuste osutamine; </eesti>
+<inglise>12) provision of beauty treatment and personal services; </inglise>
+<eesti>13) kosmeetikatoodete terviseohutuse kontrollimine; </eesti>
+<inglise>13) verification of the safety of cosmetic products; </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>14) mineraalvesi; </eesti>
+<inglise>14) mineral water; </inglise>
+<eesti>15) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>15) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>16) &uuml;hiss&otilde;idukid ja reisiteenused; </eesti>
+<inglise>16) public transport vehicles and travel services; </inglise>
+<eesti>17) mitteioniseeriva kiirguse, m&uuml;ra-, vibratsiooni-, ultra- ja infraheli taseme piirv&auml;&auml;rtused elu- ja puhkealal, elamutes ja &uuml;hiskasutusega hoonetes, paikse saasteallika sanitaarkaitsealal, &otilde;pperuumides ja muudes kohtades, kus inimene viibib pikemat aega, samuti k&auml;esolevas punktis loetletud f&uuml;&uuml;sikaliste suuruste taseme m&otilde;&otilde;tmise meetodid; </eesti>
+<inglise>17) limit values of levels of non-ionizing radiation, noise, vibration, ultrasound and infrasound in living and recreation areas, residential buildings and buildings in joint use, sanitary protection zones of stationary sources of pollution, study rooms and other places where people stay for a prolonged period of time, and methods of measurement of the levels of physical quantities listed in this clause; </inglise>
+<eesti>18) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>18) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>19) m&uuml;rgistuste arvestamine ja nende tekkimise asjaolude v&auml;ljaselgitamine; </eesti>
+<inglise>19) registration of intoxications and determination of circumstances of occurrence thereof; </inglise>
+<eesti>20) n&auml;riliste, putukate ja mikroorganismide keemiliseks t&otilde;rjeks tehtav teenust&ouml;&ouml;; </eesti>
+<inglise>20) provision of services of chemical control of insects, rodents and micro-organisms; </inglise>
+<eesti>21) surnute hoidmine, vedamine, matmine ja &uuml;mbermatmine; </eesti>
+<inglise>21) keeping, transport, burial and reburial of bodies; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>22) toidunormid kinnipidamisasutustes; </eesti>
+<inglise>22) rations in penal institutions; </inglise>
+<eesti>(14.02.2001 j&otilde;ust.16.03.2001 - RT I 2001, 23, 128) </eesti>
+<inglise>(14.02.2001 entered into force 16.03.2001 - RT I 2001, 23, 128) </inglise>
+<eesti>23) ravimuda turustamine, s&auml;ilitamine ja kasutamine. </eesti>
+<inglise>23) marketing, preservation and use of medicinal mud. </inglise>
+<eesti>(14.02.2001 j&otilde;ust.16.03.2001 - RT I 2001, 23, 128) </eesti>
+<inglise>(14.02.2001 entered into force 16.03.2001 - RT I 2001, 23, 128) </inglise>
+<eesti>(3) Sotsiaalminister kehtestab korra: </eesti>
+<inglise>(3) The Minister of Social Affairs shall establish the procedure for: </inglise>
+<eesti>1) maavalitsustes t&ouml;&ouml;tavate terviseedenduse spetsialistide tegevuse korraldamiseks; </eesti>
+<inglise>1) organisation of the activities of health promotion specialists who work at county governments; </inglise>
+<eesti>2) anatoomilise &otilde;ppematerjali hankimiseks, hoidmiseks, kasutamiseks ja utiliseerimiseks; </eesti>
+<inglise>2) supply, storage, use and disposal of anatomical teaching material; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>3) joogiveeproove v&otilde;tvate isikute atesteerimiseks. </eesti>
+<inglise>3) evaluation of the persons who take samples of drinking water. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Maavanema &uuml;lesanded </eesti>
+<inglise>Duties of county governors </inglise>
+<eesti>Maavanema &uuml;lesanded on: </eesti>
+<inglise>The duties of county governors are to: </inglise>
+<eesti>1) tervisekaitse, haiguste ennetamise ja tervise edendamise abin&otilde;ude elluviimise tagamine maakonna maa-alal; </eesti>
+<inglise>1) ensure implementation of health protection, disease prevention and health promotion measures in the territory of the county; </inglise>
+<eesti>2) tervisele ohutu elukeskkonna loomisele, terviseh&auml;irete ja haiguste ennetamisele suunatud programmide v&auml;ljat&ouml;&ouml;tamine ja elluviimise korraldamine maakonnas; </eesti>
+<inglise>2) develop and organise implementation of programmes aimed at creation of a physical and social environment which is safe for health, prevention of health disorders and disease in the county; </inglise>
+<eesti>3) tervisekaitse ja tervise edendamisega tegelevate asutuste ning valla- ja linnaarstide vahelise koost&ouml;&ouml; koordineerimine. </eesti>
+<inglise>3) co-ordinate co-operation between agencies dealing with health protection and health promotion and rural municipality medical officers and city medical officers </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Kohaliku omavalitsuse &uuml;lesanded </eesti>
+<inglise>Duties of local governments </inglise>
+<eesti>Kohaliku omavalitsuse &uuml;lesanded on: </eesti>
+<inglise>The duties of the local governments are to: </inglise>
+<eesti>1) tervisekaitsealaste &otilde;igusaktide t&auml;itmise korraldamine ja nende j&auml;rgimise kontrollimine kohaliku omavalitsuse maa-alal; </eesti>
+<inglise>1) organise implementation of health protection legislation and monitor observance thereof in the territory of the local government; </inglise>
+<eesti>2) elanikkonna haiguste ennetamisele ja tervise edendamisele suunatud tegevuse korraldamine kohaliku omavalitsuse maa-alal. </eesti>
+<inglise>2) organise activities aimed at prevention of disease and health promotion among the population in the territory of the local government. </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Valla- v&otilde;i linnaarsti &uuml;lesanded </eesti>
+<inglise>Duties of rural municipality medical officers and city medical officers </inglise>
+<eesti>(1) Valla- v&otilde;i linnaarst kontrollib oma teeninduspiirkonna riigi, munitsipaal- ja eraomandis olevate avalik- ja era&otilde;iguslike juriidiliste ja f&uuml;&uuml;siliste isikute halduses v&otilde;i omandis olevatel territooriumidel, ehitistel ja rajatistel tervisekaitse &otilde;igusaktide t&auml;itmist ning &otilde;igusaktide rikkumise korral teeb ettev&otilde;tte, asutuse v&otilde;i organisatsiooni juhtkonnale v&otilde;i f&uuml;&uuml;silisele isikule ettepaneku rikkumiste k&otilde;rvaldamiseks. </eesti>
+<inglise>(1) Rural municipality medical officers and city medical officers shall monitor observance of health protection legislation in territories, buildings and structures in state, municipal or private ownership which are administered by or in the ownership of legal persons in public law, legal persons in private law or natural persons under their jurisdiction and, upon violation of legislation, shall make proposals to the management of enterprises, agencies or organisations or to natural persons for the elimination of violations. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(2) K&auml;esoleva seaduse t&auml;itmisel on valla- v&otilde;i linnaarstil k&auml;esoleva seaduse paragrahv 16 1. l&otilde;ike punktis 1 toodud tervisekaitse riikliku j&auml;relevalve ametniku &otilde;igused. </eesti>
+<inglise>(2) In the implementation of this Act, rural municipality medical officers and city medical officers have the rights of state health protection supervisory officials specified in clause 16 (1) 1) of this Act. </inglise>
+<eesti>Tervisekaitse &otilde;igusaktide rikkumisest teatab valla- v&otilde;i linnaarst tervisekaitse riikliku j&auml;relevalve asutusele. </eesti>
+<inglise>Rural municipality medical officers and city medical officers shall notify state health protection supervisory agencies of violations of health protection legislation. </inglise>
+<eesti>(3) Valla- v&otilde;i linnaarsti &uuml;lesandeks on ettepanekute esitamine kohalikule omavalitsusele v&otilde;i teistele p&auml;devatele organitele elukeskkonna seisundi parandamiseks ja tervise edendamiseks vallas v&otilde;i linnas. </eesti>
+<inglise>(3) It is the duty of rural municipality medical officers and city medical officers to make proposals to local governments or other competent bodies on improving the state of the physical and social environment and on health promotion in the rural municipality or city. </inglise>
+<eesti>(4) Valla- v&otilde;i linnaarsti &uuml;lesandeks on koost&ouml;&ouml; maakonna tervisekaitsetalitusega. </eesti>
+<inglise>(4) The duties of rural municipality medical officers and city medical officers include co-operation with county health protection offices. </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Avalik- ja era&otilde;igusliku juriidilise isiku ning f&uuml;&uuml;silise isiku &uuml;lesanded </eesti>
+<inglise>Duties of legal persons in public law, legal persons in private law and natural persons </inglise>
+<eesti>(1) Avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik tagab enne tootmise alustamist tootmistingimuste ja toote terviseohutuse uurimise, kahjulike tegurite m&auml;&auml;ramise meetodite puudumisel nende v&auml;ljat&ouml;&ouml;tamise, toote tehnilise normdokumendi puudumisel selle vormistamise j&auml;rgmistes tootmisvaldkondades: </eesti>
+<inglise>(1) Prior to commencing manufacture of a product, legal persons in public law, legal persons in private law and natural persons shall ensure inspection of manufacturing conditions and the safety of the product or, in the absence of methods to determine hazards, develop such methods; in the absence of normative documents concerning the product prepare normative documents in the following areas of production: </inglise>
+<eesti>(20.03.2002 j&otilde;ust.01.09.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 01.09.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>1) toidutoorme ja toidu ning mineraal- ja joogiveega kokkupuutuvate materjalide tootmine; </eesti>
+<inglise>1) manufacture of materials which come into contact with raw material for food, food, mineral water and drinking water; </inglise>
+<eesti>(25.02.1999 j&otilde;ust.01.01.2000 - RT I 1999, 30, 415) </eesti>
+<inglise>(25.02.1999 entered into force 01.01.2000 - RT I 1999, 30, 415) </inglise>
+<eesti>2) tehismaterjalide ja neid sisaldavate esemete valmistamine; </eesti>
+<inglise>2) preparation of synthetic materials and products containing synthetic materials; </inglise>
+<eesti>(23.04.97 j&otilde;ust.26.05.97 - RT I 1997, 37, 569; 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(23.04.97 entered into force 26.05.97 - RT I 1997, 37, 569; 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>3) lastekaupade, kosmeetikatoodete ja inimesega vahetult kokkupuutuvate v&otilde;i ruumides kasutatavate muude tarbekaupade valmistamine; </eesti>
+<inglise>3) manufacture of products for children, cosmetic products, consumer products which come into direct contact with persons and household effects; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804; 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804; 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>4) tervist kahjustada v&otilde;ivate kiirgus-, m&uuml;ra- v&otilde;i vibratsiooniallikate valmistamine. </eesti>
+<inglise>4) manufacture of products which emit or cause radiation, noise or vibration which are potentially harmful to health. </inglise>
+<eesti>(2) (Kehtetu - 20.03.2002 j&otilde;ust.01.09.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(2) (Repealed - 20.03.2002 entered into force 01.09.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(3) Avalik- ja era&otilde;iguslik juriidiline ning f&uuml;&uuml;siline isik koosk&otilde;lastab tervisekaitse riikliku j&auml;relevalveasutusega k&auml;esoleva paragrahvi l&otilde;ikes 1 loetletud kaupu k&auml;itleva, samuti ilu- ja isikuteenuseid osutava ettev&otilde;tte, laste-, kooli-, tervishoiu-, hoolekandeasutuse ning laeva ehitusprojekti ja k&auml;esolevas l&otilde;ikes loetletud ehitiste ning laeva kasutuselev&otilde;tu. </eesti>
+<inglise>(3) Legal persons in public law, legal persons in private law and natural persons shall obtain approval for the building design documentation of enterprises which handle products specified in subsection (1) of this section or provide beauty treatment and personal services and of child care institutions, schools, health care institutions, social welfare institutions and ships, and for the putting into service of structures listed in this subsection and of ships from a state health protection supervisory agency. </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(4) (Kehtetu - 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(4) (Repealed - 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(5) Avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik informeerib viivitamatult tervisekaitse riikliku j&auml;relevalve asutust ja kohalikku omavalitsust avariidest ja olukordadest, mis v&otilde;ivad halvendada inimeste tervist ja elukeskkonda. </eesti>
+<inglise>(5) Legal persons in public law, legal persons in private law and natural persons shall promptly notify state health protection supervisory agencies and local governments of accidents and situations which may harm human health or the physical and social environment. </inglise>
+<eesti>(6) Avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik ei tohi levitada inimese tervist ja elukeskkonda kahjustada v&otilde;ivaid ideid, arvamusi, veendumusi ja muud teavet s&otilde;nas, tr&uuml;kis v&otilde;i muul viisil. </eesti>
+<inglise>(6) Legal persons in public law, legal persons in private law and natural persons shall not by word, print or other means disseminate ideas, opinions, beliefs or other information which could be hazardous to human health and the physical and social environment. </inglise>
+<eesti>(7) Avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik tagab vastavalt sotsiaalministri kehtestatud korrale: </eesti>
+<inglise>(7) Legal persons in public law, legal persons in private law and natural persons shall, pursuant to the procedure prescribed by the Minister of Social Affairs, ensure: </inglise>
+<eesti>1) joogivee ja supluseks v&otilde;i spordiks kasutatava vee laboratoorse kontrolli; </eesti>
+<inglise>1) laboratory testing of drinking water and of water used for recreational swimming or sport; </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>2) deratisatsiooni, desinfektsiooni v&otilde;i desinsektsiooni, kui on tekkinud soodsad tingimused nakkuste levikuks. </eesti>
+<inglise>2) disinfection or eradication of insect or rodent vermin if favourable conditions develop for the spread of infections; </inglise>
+<eesti>(8) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(8) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>Tervisekaitse, haiguste ennetamise ja tervise edendamise &uuml;lesandeid t&auml;itvad asutused </eesti>
+<inglise>Institutions performing health protection, disease prevention and health promotion duties </inglise>
+<eesti>(1) Tervisekaitse, haiguste ennetamise ja tervise edendamise p&otilde;hi&uuml;lesandeid t&auml;idavad tervishoiuasutused vastavalt oma p&otilde;hitegevuse suunale. </eesti>
+<inglise>(1) Health care institutions shall perform the primary objectives of health protection, disease prevention and health promotion according to their main areas of activity. </inglise>
+<eesti>(2) Tervisekaitsen&otilde;uete elluviimist korraldavad t&auml;idesaatva riigiv&otilde;imu asutused, avalik- ja era&otilde;iguslikud juriidilised isikud ning f&uuml;&uuml;silised isikud vastavalt oma p&auml;devusele. </eesti>
+<inglise>(2) Agencies of executive power, legal persons in public law and legal persons in private law and natural persons shall organise the implementation of health protection requirements according to their competence. </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(3) Elukeskkonna objektide terviseohutust hindavad Tervisekaitseinspektsiooni ja tema kohalike asutuste j&auml;relevalveametnikud. </eesti>
+<inglise>(3) The safety of objects in the physical and social environment shall be assessed by supervisory officials of the Health Protection Inspectorate and its local agencies. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>Inimese tervise ja elukeskkonna seisundi alase teabe k&auml;ttesaadavus </eesti>
+<inglise>Availability of information relating to state of human health and physical and social environment </inglise>
+<eesti>Tervisekaitse, haiguste ennetamise ja tervise edendamisega tegelevad asutused tagavad inimese tervise ja elukeskkonna &uuml;ldiseks kasutamiseks m&auml;&auml;ratud andmete k&auml;ttesaadavuse. </eesti>
+<inglise>Agencies dealing with health protection, disease prevention and health promotion shall ensure the availability of information intended for public use on human health and the physical and social environment. </inglise>
+<eesti>3. peat&uuml;kk </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>Tervisekaitse riiklik j&auml;relevalve </eesti>
+<inglise>State Supervision over Health Protection </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>J&auml;relevalve teostajad </eesti>
+<inglise>Supervisory authorities </inglise>
+<eesti>(1) Tervisekaitse riiklikku j&auml;relevalvet k&auml;esolevas seaduses ja selle alusel kehtestatud &otilde;igusaktides etten&auml;htud n&otilde;uete t&auml;itmise &uuml;le ning toote ohutuse seaduse (RT I 1998, 40, 613; 1999, 82, 753; 2000, 86, 546) &sect; 3 l&otilde;ikes 3 nimetatud juhtudel terviseohutuse &uuml;le, v&auml;lja arvatud k&auml;esoleva seaduse &sect; 8 l&otilde;ike 2 punkti 11 alusel kehtestatud &otilde;igusaktides etten&auml;htud n&otilde;uded, teostavad Tervisekaitseinspektsioon ja tema kohalikud asutused. </eesti>
+<inglise>(1) The Health Protection Inspectorate and its local agencies shall exercise state supervision over health protection with regard to implementation of the requirements prescribed by this Act and legislation established on the basis thereof, and in the cases specified in subsection 3 (3) of the Product Safety Act (RT I 1998, 40, 613; 1999, 82, 753; 2000, 86, 546), over safety, except requirements prescribed by legislation established on the basis of clause 8 (2) 11) of this Act. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(1 (1)) Tervisekaitse riiklikku j&auml;relevalvet k&auml;esoleva seaduse &sect; 8 l&otilde;ike 2 punkti 11 alusel kehtestatud &otilde;igusaktides etten&auml;htud n&otilde;uete t&auml;itmise &uuml;le teostab Ravimiamet. </eesti>
+<inglise>(1 (1)) State supervision over health protection with regard to implementation of the requirements prescribed by legislation established on the basis of clause 8 (2) 11) of this Act shall be exercised by the Agency of Medicines. </inglise>
+<eesti>(10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(2) (Kehtetu - 20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(2) (Repealed - 20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(3) Tervisekaitse riikliku j&auml;relevalve ametnik on oma ametikohustuste t&auml;itmisel v&otilde;imuesindaja ja tema seaduslikud n&otilde;udmised ning korraldused &otilde;iguserikkumiste k&otilde;rvaldamiseks on kohustuslikud k&otilde;ikidele ametnikele ja isikutele. </eesti>
+<inglise>(3) In the performance of his or her duties, a state health protection supervisory official is a representative of state authority and his or her lawful requirements and precepts for elimination of offences are mandatory for all officials and persons. </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>J&auml;relevalveametnike &otilde;igused ja kohustused </eesti>
+<inglise>Rights and obligations of supervisory officials </inglise>
+<eesti>(1) Ametit&otilde;endi esitamisel on j&auml;relevalveametnikul &otilde;igus: </eesti>
+<inglise>(1) Upon presentation of identification, supervisory officials have the right: </inglise>
+<eesti>1) takistamata kontrollida j&auml;relevalvealuste objektide territooriumi, ehitisi, rajatisi, tootmisprotsessi, toodangut, transpordivahendeid ja dokumente ning n&otilde;uda selgitusi tervisekaitsek&uuml;simuste lahendamiseks, s&otilde;ltumata objekti omandivormist; </eesti>
+<inglise>1) regardless of the form of ownership, to inspect without hindrance the territory, buildings, structures, manufacturing processes, products, means of transport and documentation of sites under inspection and to demand explanations in order to resolve health protection issues; </inglise>
+<eesti>2) v&otilde;tta kontrollitavatel objektidel tasuta materjalide ja toodete proove ning uurimise ajaks esemete n&auml;idiseid tervisekaitsealasteks uuringuteks, teha tervisekaitsealaseid uuringuid ja hinnata uurimisobjekti terviseohutust; </eesti>
+<inglise>2) to take samples of materials and products without charge and samples of objects for the duration of the inspection from sites under inspection in order to monitor health protection, monitor health protection and assess the safety of an inspected site; </inglise>
+<eesti>3) kohustada avalik- ja era&otilde;iguslikke juriidilisi isikuid ning f&uuml;&uuml;silisi isikuid omandi valdamisel, kasutamisel ja k&auml;sutamisel piirama, peatama v&otilde;i l&otilde;petama oma tegevust, mis kahjustab v&otilde;i v&otilde;ib kahjustada inimese tervist ning teha ettekirjutusi tervisekaitse &otilde;igusaktide rikkumiste k&otilde;rvaldamiseks koos t&auml;itmise t&auml;htaja kehtestamisega ning kontrollida nende t&auml;itmist. </eesti>
+<inglise>3) to require legal persons in public law, legal persons in private law and natural persons to restrict, suspend or terminate activities which are or may be a hazard to human health upon possession, use and disposal of assets; to issue precepts for elimination of violations of health protection legislation and impose deadlines for the performance thereof; and monitor the performance of such precepts. </inglise>
+<eesti>(1 (1)) K&auml;esoleva paragrahvi l&otilde;ike 1 punktis 3 nimetatud ettekirjutuse t&auml;itmata j&auml;tmise korral v&otilde;ib j&auml;relevalveametnik rakendada sunniraha asendust&auml;itmise ja sunniraha seaduses (RT I 2001, 50, 283; 94, 580) s&auml;testatud korras. </eesti>
+<inglise>(1 (1)) Upon failure to comply with a precept specified in clause (1) 3) of this section, a supervisory official may impose penalty payment pursuant to the procedure provided for in the Substitutive Enforcement and Penalty Payment Act (RT I 2001, 50, 283; 94, 580). </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(1 (2)) K&auml;esoleva paragrahvi l&otilde;ikes 1 (1) nimetatud sunniraha &uuml;lemm&auml;&auml;r on 10 000 krooni. </eesti>
+<inglise>(1 (2)) The maximum rate of penalty payment specified in subsection (1 (1)) of this section is 10 000 kroons. </inglise>
+<eesti>(20.03.2002 j&otilde;ust.18.04.2002 - RT I 2002, 32, 187) </eesti>
+<inglise>(20.03.2002 entered into force 18.04.2002 - RT I 2002, 32, 187) </inglise>
+<eesti>(2) Nakkushaiguste ja m&uuml;rgistuste leviku v&otilde;i leviku ohu korral v&otilde;ib j&auml;relevalveametnik: </eesti>
+<inglise>(2) In the case of a spread of infectious disease or intoxication, or danger of such spread, supervisory officials may: </inglise>
+<eesti>1) suunata endale v&otilde;i teistele ohtliku nakkushaige haiglaravile, samuti suunata nakkuskahtlase isiku arstlikele uuringutele; </eesti>
+<inglise>1) hospitalize persons suffering from an infectious disease who are a danger to themselves or others, and require potentially infected persons to undergo medical examinations; </inglise>
+<eesti>2) kohustada t&ouml;&ouml;andjaid ajutiselt k&otilde;rvaldama t&ouml;&ouml;lt t&ouml;&ouml;tajaid, kes pole &otilde;igeaegselt l&auml;binud kohustuslikku tervisekontrolli, v&otilde;i nakkushaigeid ja t&otilde;vestavate pisikute kandjaid, ning kes t&ouml;&ouml; ise&auml;rasuse t&otilde;ttu v&otilde;ivad nakatada teisi inimesi. </eesti>
+<inglise>2) require employers to temporarily suspend from work employees who have not undergone a mandatory medical examination on a timely basis, persons suffering from an infectious disease, carriers of germs and persons who due to the nature of their work may infect others; </inglise>
+<eesti>(3) Tervisekaitse j&auml;relevalve ametnikud on kohustatud: </eesti>
+<inglise>(3) Health protection supervisory officials are required to: </inglise>
+<eesti>1) kasutama oma &otilde;igusi tervisekaitse &otilde;igusaktide rikkumiste t&otilde;kestamiseks, vajadusel teavitades massiteabevahendeid; </eesti>
+<inglise>1) exercise their rights to terminate violations of health protection legislation and if necessary, inform the media; </inglise>
+<eesti>2) hoidma seoses tervisekaitse j&auml;relevalve &uuml;lesannete t&auml;itmisega neile teatavaks saanud arstlikke ja &auml;risaladusi, samuti temale teatavaks saanud isikute eraellu puutuvaid andmeid. </eesti>
+<inglise>2) maintain medical and business secrets and information regarding the private lives of persons that they become aware of in the performance of health protection supervision duties. </inglise>
+<eesti>&sect; 17. </eesti>
+<inglise>&sect; 17. </inglise>
+<eesti>Tervisekaitse riikliku j&auml;relevalve asutuse v&otilde;i ametniku ettekirjutuse v&otilde;i muu toimingu vaidlustamine </eesti>
+<inglise>Contestation of precepts or other acts of state health protection supervisory agencies or officials </inglise>
+<eesti>(1) Avalik- ja era&otilde;iguslikul juriidilisel isikul ning f&uuml;&uuml;silisel isikul on &otilde;igus tervisekaitse riikliku j&auml;relevalve asutuse v&otilde;i ametniku ettekirjutuse v&otilde;i muu toiminguga mitten&otilde;ustumisel esitada kaebus Tervisekaitseinspektsiooni peadirektorile 10 kalendrip&auml;eva jooksul, arvates ettekirjutusest v&otilde;i muust toimingust teada saamise p&auml;evast. </eesti>
+<inglise>(1) If a legal person in public law, legal person in private law or natural person does not agree with a precept or other act of a state health protection supervisory agency or official, such person has a right to file a complaint with the Director General of the Health Protection Inspectorate within ten calendar days after the date of becoming aware of the precept or other act. </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>(2) Kaebuse esitamine ei v&otilde;ta isikult kohustust t&auml;ita tervisekaitse riikliku j&auml;relevalve asutuse v&otilde;i ametniku ettekirjutust. </eesti>
+<inglise>(2) Filing of a complaint does not relieve persons of the duty to comply with a precept of a state health protection supervisory agency or official. </inglise>
+<eesti>(3) Tervisekaitseinspektsiooni peadirektor vaatab kaebuse l&auml;bi &uuml;he kuu jooksul, arvates kaebuse saamise p&auml;evast. </eesti>
+<inglise>(3) The Director General of the Health Protection Inspectorate shall review a complaint within one month after the date of receipt of the complaint. </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>(4) Kaebuse l&auml;bivaatamisel teeb Tervisekaitseinspektsiooni peadirektor &uuml;he j&auml;rgmistest otsustest: j&auml;tta ettekirjutus v&otilde;i muu toiming j&otilde;usse, see muuta v&otilde;i t&uuml;histada. </eesti>
+<inglise>(4) Upon reviewing a complaint, the Director General of the Health Protection Inspectorate shall make one of the following decisions: to uphold, amend or repeal the precept or other act. </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953) </inglise>
+<eesti>(5) Otsus tehakse kaebuse esitajale teatavaks ning antakse k&auml;tte allkirja vastu v&otilde;i saadetakse posti teel v&auml;ljastusteatega. </eesti>
+<inglise>(5) Decisions are communicated to complainants and issued against a signature or sent by certified mail. </inglise>
+<eesti>Otsusega mitten&otilde;ustumisel v&otilde;ib selle vaidlustada halduskohtu kaudu. </eesti>
+<inglise>Upon opposition, a decision may be contested in an administrative court. </inglise>
+<eesti>&sect; 18. </eesti>
+<inglise>&sect; 18. </inglise>
+<eesti>Kohtusse kaebamine </eesti>
+<inglise>Appeal to court </inglise>
+<eesti>(1) Avalik- ja era&otilde;iguslikul juriidilisel isikul ning f&uuml;&uuml;silisel isikul on &otilde;igus tervisekaitse riikliku j&auml;relevalve asutuse v&otilde;i ametniku ettekirjutuse v&otilde;i muu toimingu peale esitada kaebus halduskohtusse, s&otilde;ltumata k&auml;esoleva seaduse paragrahvis 17 nimetatud kaebuse varasemast esitamisest. </eesti>
+<inglise>(1) Regardless of an earlier filing of a complaint specified in &sect; 17 of this Act, legal persons in public law, legal persons in private law and natural persons have a right to appeal a precept or other act of a state health protection supervisory agency or official to an administrative court. </inglise>
+<eesti>(2) Kaebuse esitamine kohtusse ei v&otilde;ta isikult kohustust t&auml;ita tervisekaitse riikliku j&auml;relevalve asutuse v&otilde;i ametniku ettekirjutust seni, kuni kohus tunnistab selle kas osaliselt v&otilde;i t&auml;ielikult seadusevastaseks. </eesti>
+<inglise>(2) Filing of an appeal does not relieve persons of the duty to comply with a precept of a state health protection supervisory agency or official until a court declares it unlawful in part or in full. </inglise>
+<eesti>&sect; 19. </eesti>
+<inglise>&sect; 19. </inglise>
+<eesti>Vastutus tervisekaitse &otilde;igusaktide rikkumise eest </eesti>
+<inglise>Liability for violation of health protection legislation </inglise>
+<eesti>(1) Avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik kannab vastutust k&auml;esoleva seaduse ja muude tervisekaitse &otilde;igusaktide rikkumise eest. </eesti>
+<inglise>(1) Legal persons in public law, legal persons in private law and natural persons are liable for violations of this Act and other health protection legislation. </inglise>
+<eesti>(2) F&uuml;&uuml;siline isik kannab k&auml;esoleva seaduse ja muude tervisekaitse &otilde;igusaktide rikkumise eest distsiplinaar-, tsiviil-, haldus- v&otilde;i kriminaalvastutust seaduses etten&auml;htud korras. </eesti>
+<inglise>(2) Natural persons bear disciplinary, civil, administrative or criminal liability for violation of this Act and other health protection legislation pursuant to the procedure prescribed by law. </inglise>
+<eesti>(3) Juriidiline isik kannab k&auml;esoleva seaduse ja muude tervisekaitse &otilde;igusaktide rikkumise eest j&auml;rgmist haldusvastutust: </eesti>
+<inglise>(3) For violation of this Act and other health protection legislation, legal persons shall bear the following administrative liability: </inglise>
+<eesti>1) enne tootmis- v&otilde;i muu tegevuse alustamist n&otilde;utavate korraldavate dokumentide tervisekaitse riikliku j&auml;relevalve asutusega koosk&otilde;lastamata j&auml;tmise eest - m&auml;&auml;ratakse rahatrahv kuni 10 000 krooni; </eesti>
+<inglise>1) a fine of up to 10 000 kroons shall be imposed for failure to obtain approval for the required supporting documentation with a state health protection supervisory agency prior to commencing manufacture or other activity; </inglise>
+<eesti>2) ehitise, rajatise v&otilde;i transpordivahendi kasutuselev&otilde;tmise eest v&otilde;i nende kasutamise eest projektist erineval eesm&auml;rgil tervisekaitse riikliku j&auml;relevalve ametniku n&otilde;usolekuta - m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>2) a fine of up to 100 000 kroons shall be imposed for occupying or using a building, structure or means of transport for purposes other than those for which it is designed without the approval of a state health protection supervisory official; </inglise>
+<eesti>3) (Kehtetu - 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>3) (Repealed - 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>4) tervisekaitse &otilde;igusaktide muude n&otilde;uete rikkumise eest viisil, mis ohustab inimese tervist v&otilde;i elukeskkonda - m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>4) a fine of up to 100 000 kroons shall be imposed for violation of other requirements of health protection legislation in a manner which endangers human health or the physical and social environment; </inglise>
+<eesti>5) juriidilisele isikule teatavaks tehtud ettekirjutuste t&auml;itmata j&auml;tmise eest, kui see p&otilde;hjustas inimese tervise kahjustuse v&otilde;i haigestumise - m&auml;&auml;ratakse rahatrahv kuni 250 000 krooni. </eesti>
+<inglise>5) a fine of up to 250 000 kroons shall be imposed for failure to comply with a precept which has been communicated to a legal person if failure to comply therewith causes damage to human health or illness in a person. </inglise>
+<eesti>(4) K&auml;esoleva paragrahvi 3. l&otilde;ikes nimetatud &otilde;iguserikkumise asjades on asja arutamise ja karistuse m&auml;&auml;ramise &otilde;igus Tervisekaitseinspektsiooni peadirektoril ja tema aset&auml;itjal, Eesti Sanitaarkarantiinitalituse direktoril, tervisekaitsetalituse direktoril ja halduskohtunikul. </eesti>
+<inglise>(4) The Director General of the Health Protection Inspectorate, his or her deputy, the director of the Estonian Sanitary Quarantine Office, the directors of health protection offices and administrative court judges have the right to review and impose punishment in matters concerning offences specified in subsection (3) of this section. </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953; 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953; 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(5) Tervisekaitseinspektsiooni peadirektoril ja tema aset&auml;itjal, Eesti Sanitaarkarantiinitalituse direktoril ja tervisekaitsetalituse direktoril on k&auml;esoleva paragrahvi 3. l&otilde;ikes nimetatud &otilde;iguserikkumise asjades &otilde;igus m&auml;&auml;rata rahatrahv kuni 10 000 krooni, sellest suuremat rahatrahvi v&otilde;ib kohaldada ainult halduskohtunik. </eesti>
+<inglise>(5) In matters concerning offences specified in subsection (3) of this section, the Director General of the Health Protection Inspectorate, his or her deputy, the director of the Estonian Sanitary Quarantine Office and the directors of health protection offices have the right to impose fines of up to 10 000 kroons; greater fines may be imposed only by administrative court judges. </inglise>
+<eesti>(26.06.96 j&otilde;ust.26.07.96 - RT I 1996, 49, 953; 10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>(26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953; 10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(6) Menetlus k&auml;esoleva paragrahvi 3. l&otilde;ikes loetletud juriidilise isiku haldus&otilde;iguserikkumiste asjades, kaasa arvatud karistuste m&auml;&auml;ramine, nende vaidlustamine ja j&otilde;ustunud halduskaristuse otsuste t&auml;itmine toimub haldus&otilde;iguserikkumiste seadustikus (RT 1992, 29, 396; RT I 2001, 74, 453; 87, 524 ja 526; 97, 605; 102, 677; 2002, 18, 98; 21, 117; 29, 174 ja 175; 30, 176; 32, 189) ja kriminaalkoodeksis (RT 1992, 20, 288; RT I 2000, 73, 452; 85, 510; 87, 526; 2002, 30, 176; 32, 189) s&auml;testatud korras, kusjuures arvestatakse t&auml;itemenetluse seadustiku (RT I 1993, 49, 693; RT I 2001, 29, 156; 43, 238) ja halduskohtumenetluse seadustiku (RT I 1993, 50, 694; 1994, 16, 290; 28, 425; 1995, 29, 358 ja 359; 1996, 37, 739; 1997, I, 16, 260; 30, 472) norme. </eesti>
+<inglise>(6) The procedure for matters concerning administrative offences by legal persons specified in subsection (3) of this section, including the imposition of punishment, contestation thereof and execution of orders concerning administrative punishment which have entered into force are effected pursuant to the procedure provided for in the Code of Administrative Offences (RT 1992, 29, 396; RT I 2001, 74, 453; 87, 524 and 526; 97, 605; 102, 677; 2002, 18, 98; 21, 117; 29, 174 and 175; 30, 176; 32, 189) and the Criminal Code (RT 1992, 20, 288; RT I 2000, 73, 452; 85, 510; 87, 526; 2002, 30, 176; 32, 189) taking into consideration to the rules of the Code of Enforcement Procedure (RT I 1993, 49, 693; RT I 2001, 29, 156; 43, 238) and the Code of Administrative Procedure (RT I 1993, 50, 694; 1994, 16, 290; 28, 425; 1995, 29, 358 and 359; 1996, 37, 739; 1997, I, 16, 260; 30, 472). </inglise>
+<eesti>(7) K&auml;esoleva paragrahvi 3. l&otilde;ikes loetletud juriidilise isiku haldus&otilde;iguserikkumiste kohta on protokolli koostamise &otilde;igus haldus&otilde;iguserikkumiste seadustiku paragrahv 205 3. l&otilde;ikes nimetatud ametnikel. </eesti>
+<inglise>(7) Officials specified in subsection 205 (3) of the Code of Administrative Offences have the right to prepare reports on administrative offences by legal persons specified in subsection (3) of this section. </inglise>
+<eesti>Protokollis tuuakse &auml;ra selle koostamise aeg ja koht; asutuse nimi ja aadress, kelle nimel protokoll koostatakse; protokolli koostanud isiku ametinimetus, ees- ja perekonnanimi; &otilde;iguserikkujaks olnud juriidilise isiku nimetus ja aadress, tema p&auml;deva esindaja ees- ja perekonnanimi ning ametikoht; &otilde;iguserikkumise koht, aeg ja kirjeldus, viide k&auml;esoleva paragrahvi 3. l&otilde;ike punktile, mis n&auml;eb ette vastutuse selle &otilde;iguserikkumise eest, &otilde;iguserikkuja esindaja seletus ja vajadusel muud andmed. </eesti>
+<inglise>A report shall indicate the date and place of preparation of the report; the name and address of the agency in whose name the report is prepared; the official title, given name and surname of the person who prepared the report; the name and address of the violating legal person; the given name and surname and official title of a competent representative of the legal person; the place, time and description of the offence; a reference to a clause of subsection (3) of this section which provides for liability for such offence; an explanation provided by the representative of the offender; and other information as required. </inglise>
+<eesti>Protokollile kirjutavad alla selle koostanud isik ja &otilde;iguserikkuja esindaja. </eesti>
+<inglise>The report shall be signed by the person who prepares the report and the representative of the offender. </inglise>
+<eesti>Kui &otilde;iguserikkuja esindaja keeldub protokollile alla kirjutamast, teeb protokolli koostaja sellesse vastava kande. </eesti>
+<inglise>If the representative of the offender refuses to sign the report, a corresponding entry shall be made therein by the person who prepares the report. </inglise>
+<eesti>Protokollile lisatakse &otilde;iguserikkuja esindaja kirjalikud m&auml;rkused protokolli kohta, samuti protokollile allakirjutamisest keeldumise kohta. </eesti>
+<inglise>Written notations of the representative of the offender concerning the report and refusal to sign the report shall be appended to the report. </inglise>
+<eesti>(8) Kui f&uuml;&uuml;siline isik, tegutsedes juriidilise isiku t&ouml;&ouml;tajana v&otilde;i tema volitusel, pani toime k&auml;esoleva paragrahvi 3. l&otilde;ikes nimetatud &otilde;iguserikkumise, v&otilde;ib selle &otilde;iguserikkumise eest kohaldada vastutust samaaegselt nii f&uuml;&uuml;silisele isikule haldus&otilde;iguserikkumiste seadustiku alusel kui ka juriidilisele isikule k&auml;esoleva paragrahvi 3. l&otilde;ike alusel. </eesti>
+<inglise>(8) If a natural person acting as an employee of a legal person or with the authorisation of a legal person commits an offence specified in subsection (3) of this section, liability for such offence may be simultaneously applied to the natural person pursuant to the Code of Administrative Offences and the legal person pursuant to subsection (3) of this section. </inglise>
+<eesti>&sect; 20. </eesti>
+<inglise>&sect; 20. </inglise>
+<eesti>Rahvatervise seaduse rikkumisest tingitud kahju h&uuml;vitamine </eesti>
+<inglise>Compensation for damage due to violation of Public Health Act </inglise>
+<eesti>K&auml;esolevat seadust ning tervisekaitse &otilde;igusakte rikkunud avalik- ja era&otilde;iguslik juriidiline isik ning f&uuml;&uuml;siline isik, kui see rikkumine p&otilde;hjustas inimeste tervise kahjustuse v&otilde;i tekitas kahju elukeskkonnale, teistele juriidilistele v&otilde;i f&uuml;&uuml;silistele isikutele, on kohustatud h&uuml;vitama selle kahju ja kandma kahju likvideerimisega seotud kulutused seadusega etten&auml;htud korras. </eesti>
+<inglise>Legal persons in public law, legal persons in private law and natural persons who violate this Act or health protection legislation are required to compensate for damage and bear expenses relating to elimination of damage if the violation causes harm to human health or damage to the physical and social environment or to another legal person or natural person pursuant to the procedure prescribed by law. </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>L&otilde;pps&auml;tted </eesti>
+<inglise>Final Provisions </inglise>
+<eesti>&sect; 21. </eesti>
+<inglise>&sect; 21. </inglise>
+<eesti>Finantseerimine </eesti>
+<inglise>Financing </inglise>
+<eesti>(1) Tervisekaitse riikliku j&auml;relevalve asutuste tegevust finantseeritakse riigieelarvest. </eesti>
+<inglise>(1) The activities of state health protection supervisory agencies are financed from the state budget. </inglise>
+<eesti>(2) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud riiklikke programme finantseeritakse riigieelarvest. </eesti>
+<inglise>(2) National programmes relating to health protection, disease prevention and health promotion are financed from the state budget. </inglise>
+<eesti>(3) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud kohalikke programme v&otilde;ib osaliselt v&otilde;i t&auml;ielikult finantseerida riigieelarvest. </eesti>
+<inglise>(3) Local programmes relating to health protection, disease prevention and health promotion may be financed in part or in full from the state budget. </inglise>
+<eesti>(4) Tervisekaitse, haiguste ennetamise ja tervise edendamisega seotud programme v&otilde;ib osaliselt v&otilde;i t&auml;ielikult finantseerida ravikindlustuse eelarvest. </eesti>
+<inglise>(4) Programmes relating to health protection, disease prevention and health promotion may be financed in part or in full from the health insurance budget. </inglise>
+<eesti>10.11.99 j&otilde;ust.10.12.99 - RT I 1999, 88, 804) </eesti>
+<inglise>10.11.99 entered into force 10.12.99 - RT I 1999, 88, 804) </inglise>
+<eesti>(5) Riiklikud tervisekaitse asutused osutavad tasulisi tervisekaitsealaseid teenuseid Sotsiaalministeeriumi kehtestatud korra ja hinnakirja kohaselt. </eesti>
+<inglise>(5) State health protection agencies provide health protection services for a fee pursuant to the procedure and fee schedule established by the Ministry of Social Affairs. </inglise>
+<eesti>(6) Avalik- ja era&otilde;iguslikud juriidilised isikud ning f&uuml;&uuml;silised isikud kannavad k&auml;esoleva seadusega neile pandud &uuml;lesannete ja kohustuste t&auml;itmise kulud. </eesti>
+<inglise>(6) Legal persons in public law, legal persons in private law and natural persons shall bear the expenses relating to performance of functions and duties assigned by this Act. </inglise>
+<eesti>[ &sect; 22 v&auml;lja j&auml;etud ] (1) </eesti>
+<inglise>[ &sect; 22 omitted ] (2) </inglise>
+<eesti>(1) V&auml;ljaj&auml;etud paragrahviga muudetakse varasemaid &otilde;igusakte. </eesti>
+<inglise>(1) RT = Riigi Teataja = State Gazette (2) Omitted sections amend other legislation. </inglise>

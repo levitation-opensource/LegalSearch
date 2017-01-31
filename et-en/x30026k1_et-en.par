@@ -1,0 +1,456 @@
+<eesti>M&otilde;&otilde;teseadus </eesti>
+<inglise>Metrology Act </inglise>
+<eesti>Vastu v&otilde;etud 28. septembri 1994. a. </eesti>
+<inglise>Passed 28 September 1994 </inglise>
+<eesti>(RT I 1994, 71, 1224; terviktekst RT I 2000, 71, 442), </eesti>
+<inglise>(RT (1) I 1994, 71, 1224; consolidated text RT I 2000, 71, 442), </inglise>
+<eesti>j&otilde;ustunud 1. jaanuaril 1995. a. </eesti>
+<inglise>entered into force 1 January 1995. </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>M&otilde;&otilde;tmine </eesti>
+<inglise>Measurement </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Seaduse reguleerimisala </eesti>
+<inglise>Scope of application of Act </inglise>
+<eesti>(1) K&auml;esolevas seaduses s&auml;testatakse f&uuml;&uuml;sikaliste suuruste m&otilde;&otilde;tmise j&auml;lgitavuse tagamise alused. </eesti>
+<inglise>(1) This Act provides the bases for the ensurance of the traceability of measurement of physical quantities. </inglise>
+<eesti>M&otilde;&otilde;tmine k&auml;esoleva seaduse t&auml;henduses on operatsioonide kogum f&uuml;&uuml;sikalise suuruse v&auml;&auml;rtuse m&auml;&auml;ramiseks spetsiaalsete tehniliste vahendite (m&otilde;&otilde;tevahendite) abil ning m&otilde;&otilde;tmise j&auml;lgitavus - m&otilde;&otilde;tetulemuse v&otilde;i etaloni v&auml;&auml;rtuse omadus, mis v&otilde;imaldab neid seostada riigi- v&otilde;i rahvusvahelise etaloniga katkematu v&otilde;rdlusteahela kaudu, kusjuures ahela k&otilde;ikidel l&uuml;lidel on teada olev m&auml;&auml;ramatus. </eesti>
+<inglise>For the purposes of this Act, measurement is the aggregate of operations for determining the value of a physical quantity with the aid of specific technical instruments (measuring &quest;instruments), and traceability of measurement is a characteristic of the value of results of measurement or measurement standards which enables them to be traced to national or international standards through an unbroken chain of comparisons, in which all links of the chain have a stated uncertainty of measurement. </inglise>
+<eesti>(2) M&otilde;&otilde;tmiste usaldatavus ja j&auml;lgitavus saavutatakse Rahvusvahelisele M&otilde;&otilde;t&uuml;hikute S&uuml;steemile (SI) vastavate m&otilde;&otilde;t&uuml;hikute ja nende etalonide kasutamise, m&otilde;&otilde;tevahendite metroloogilise kontrolli ja m&otilde;&otilde;tmisi teostavate laborite akrediteerimise kaudu. </eesti>
+<inglise>(2) The reliability and traceability of measurements shall be achieved by the use of units of measurement and measurement standards thereof which correspond to the International System of Units (SI), by metrological control of measuring instruments and by accreditation of laboratories which carry out measurements. </inglise>
+<eesti>K&auml;esoleva seaduse t&auml;henduses on akrediteerimine labori kompetentsuse ametlik tunnustamine kindlate m&otilde;&otilde;tmiste sooritamiseks. </eesti>
+<inglise>For the purposes of this Act, accreditation is official recognition of the competence of a laboratory to carry out certain measurements. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>M&otilde;&otilde;t&uuml;hikud </eesti>
+<inglise>Units of measurement </inglise>
+<eesti>Kohustuslikud m&otilde;&otilde;t&uuml;hikud ja nende kasutusalad kehtestab Vabariigi Valitsus. </eesti>
+<inglise>Mandatory units of measurements and the areas of application thereof shall be established by the Government of the Republic. </inglise>
+<eesti>&sect; 2 (1). </eesti>
+<inglise>&sect; 2 (1). </inglise>
+<eesti>M&otilde;&otilde;tevahendid </eesti>
+<inglise>Measuring instruments </inglise>
+<eesti>(1) M&otilde;&otilde;tevahendid on: </eesti>
+<inglise>(1) The following are measuring instruments: </inglise>
+<eesti>1) m&otilde;&otilde;dud, m&otilde;&otilde;teriistad, m&otilde;&otilde;temuundurid, m&otilde;&otilde;tekompleksid; </eesti>
+<inglise>1) material measures, indicating measuring instruments, measuring transducers and measuring systems; </inglise>
+<eesti>2) teised normeeritud metroloogiliste omadustega tehnilised vahendid, mida kasutatakse m&otilde;&otilde;tmiseks. </eesti>
+<inglise>2) other technical equipment with standardised metrological characteristics used for measurement. </inglise>
+<eesti>(2) T&auml;psuse ja kasutusotstarbe j&auml;rgi jagunevad m&otilde;&otilde;tevahendid etalonideks ja t&ouml;&ouml;m&otilde;&otilde;tevahenditeks. </eesti>
+<inglise>(2) Based on accuracy and application, measuring instruments are divided into measurement standards and working measuring instruments. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Etalonid </eesti>
+<inglise>Measurement standards </inglise>
+<eesti>(1) Etalon on m&otilde;&otilde;tevahend, mida kasutatakse m&otilde;&otilde;t&uuml;hiku esitamiseks ja edastamiseks m&otilde;&otilde;teastendiku kaudu. </eesti>
+<inglise>(1) A measurement standard is a measuring instrument which is used to define and reproduce units of measurement through hierarchy schemes for measuring instruments. </inglise>
+<eesti>(2) Riigietalon on etalon, mis on riikliku &otilde;igusaktiga tunnistatud selles riigis v&auml;&auml;rtuse omistamisel vaadeldava suuruse teiste etalonide aluseks. </eesti>
+<inglise>(2) A national measurement standard is a standard which is recognised by national legislation to serve, in a country, as the basis for assigning values to other standards of the quantity concerned. </inglise>
+<eesti>(3) Tugietalon on antud paikkonnas v&otilde;i organisatsioonis olemasolevatest parimate metroloogiliste omadustega etalon, millele tugineb m&otilde;&otilde;tmine selles paikkonnas v&otilde;i organisatsioonis. </eesti>
+<inglise>(3) A reference standard is a standard which has the highest metrological quality available at a given location or in a given organisation and from which measurements made at the location or in the organisation are derived. </inglise>
+<eesti>(4) T&ouml;&ouml;etalon on etalon, mida rutiinselt kasutatakse m&otilde;&otilde;tude, m&otilde;&otilde;teriistade v&otilde;i etalonainete kalibreerimiseks, taatlemiseks v&otilde;i kontrolliks. </eesti>
+<inglise>(4) A working standard is a standard which is used routinely to calibrate, verify or check material measures, indicating measuring instruments or reference materials. </inglise>
+<eesti>(5) &Uuml;lekandeetalon on etalon, mida kasutatakse vahel&uuml;lina etalonide v&otilde;rdlemisel. </eesti>
+<inglise>(5) A transfer standard is a standard which is used as an intermediary to compare standards. </inglise>
+<eesti>(6) Etalonaine on materjal v&otilde;i aine, mille omaduse &uuml;ks v&otilde;i mitu v&auml;&auml;rtust on piisavalt homogeensed ja h&auml;sti m&auml;&auml;ratud, kasutamaks seda m&otilde;&otilde;tevahendite kalibreerimisel, m&otilde;&otilde;temeetodi hindamisel v&otilde;i materjali omadusele v&auml;&auml;rtuse omistamisel. </eesti>
+<inglise>(6) A reference material is a material or substance one or more of whose property values are sufficiently homogeneous and well established to be used for the calibration of measuring instruments, the assessment of a measuring method, or for assigning values to materials. </inglise>
+<eesti>(7) Sertifitseeritud etalonaine on aine, millel on kaasas sertifikaat, mis t&otilde;endab, et aine omaduse &uuml;ks v&otilde;i mitu v&auml;&auml;rtust on sertifitseeritud protseduuriga, mis seostab selle vaadeldava omaduse v&auml;&auml;rtusi esitava &uuml;hikuga, kusjuures igal esitatud v&auml;&auml;rtusel on kindel m&auml;&auml;ramatus. </eesti>
+<inglise>(7) A certified reference material is a reference material which is accompanied by a certificate affirming that one or more of the property values of the material are certified by a procedure which establishes traceability to an accurate realisation of the unit in which the property values are expressed, and for which each certified value has a stated uncertainty of measurement. </inglise>
+<eesti>(8) Majandusminister kehtestab: </eesti>
+<inglise>(8) The Minister of Economic Affairs shall establish: </inglise>
+<eesti>1) riigietalonide nimistu; </eesti>
+<inglise>1) list of national measurement standards; </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>2) etalonide valiku, kinnitamise, s&auml;ilitamise ja kasutamise korra. </eesti>
+<inglise>2) procedures for selection, approval, maintenance and use of measurement standards. </inglise>
+<eesti>(9) Kulutused riigietalonide soetamiseks, s&auml;ilitamiseks, kalibreerimiseks ja rahvusvaheliseks v&otilde;rdlemiseks kaetakse riigieelarvest. </eesti>
+<inglise>(9) Costs of obtainment, maintenance, calibration and international comparison of national measurement standards shall be covered from the state budget. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>M&otilde;&otilde;teastendik </eesti>
+<inglise>Hierarchy schemes for measuring instruments </inglise>
+<eesti>(1) M&otilde;&otilde;t&uuml;hiku edastamiseks rakendatakse m&otilde;&otilde;teastendikke, mille koosseisu kuuluvad: </eesti>
+<inglise>(1) In order to reproduce units of measurement, hierarchy schemes for measuring instruments shall be used, including: </inglise>
+<eesti>1) riigietalonid, mida perioodiliselt kalibreeritakse ja v&otilde;rreldakse rahvusvaheliste v&otilde;i teiste riikide etalonidega; </eesti>
+<inglise>1) national measurement standards which shall be periodically calibrated and compared to international or foreign standards; </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>2) tugietalonid, mida perioodiliselt kalibreeritakse riigietalonide abil; </eesti>
+<inglise>2) reference standards which shall be periodically calibrated using national measurement standards; </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>3) t&ouml;&ouml;etalonid, mida perioodiliselt kalibreeritakse tugietalonide abil; </eesti>
+<inglise>3) working standards which shall be periodically calibrated using reference standards; </inglise>
+<eesti>4) sertifitseeritud etalonained; </eesti>
+<inglise>4) certified reference materials; </inglise>
+<eesti>5) t&ouml;&ouml;m&otilde;&otilde;tevahendid, mille metroloogiline kontroll toimub t&ouml;&ouml;etalonide v&otilde;i sertifitseeritud etalonainete abil. </eesti>
+<inglise>5) working measuring instruments, the metrological control of which shall be carried out using working standards or certified reference materials. </inglise>
+<eesti>(2) Etalone kasutatakse teiste etalonide ja t&ouml;&ouml;m&otilde;&otilde;tevahendite kontrolliks. </eesti>
+<inglise>(2) Measurement standards shall be used to check other measurement standards and working measuring instruments. </inglise>
+<eesti>(3) T&ouml;&ouml;m&otilde;&otilde;tevahendeid kasutatakse ainult tavalisteks m&otilde;&otilde;tmisteks. </eesti>
+<inglise>(3) Working measuring instruments shall only be used for ordinary measurements. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Metroloogiline kontroll </eesti>
+<inglise>Metrological Control </inglise>
+<eesti>&sect; 5. (Kehtetu - 16.12.1998 j&otilde;ust. 23.01.1999 - RT I 1999, 4, 50) </eesti>
+<inglise>&sect; 5. (Repealed - 16.12.1998 entered into force 23.01.1999 - RT I 1999, 4, 50) </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Kontrolli liigid </eesti>
+<inglise>Classification of control </inglise>
+<eesti>(1) M&otilde;&otilde;tetulemuste j&auml;lgitavuse ja usaldusv&auml;&auml;rsuse saavutamiseks kontrollitakse m&otilde;&otilde;tevahendeid t&uuml;&uuml;bikinnituse, taatlemise ja kalibreerimise teel. </eesti>
+<inglise>(1) In order to achieve traceability and reliability of the results of measurements, measuring instruments shall be checked by means of type approval, verification and calibration. </inglise>
+<eesti>T&uuml;&uuml;bikinnitus ja taatlemine on m&otilde;&otilde;tevahendi kohustusliku metroloogilise kontrolli liigid, millele allutatakse k&auml;esoleva seaduse &sect; 10 alusel taatlusele kuuluvad m&otilde;&otilde;tevahendid. </eesti>
+<inglise>Type approval and verification are classes of mandatory metrological control of measuring instruments which measuring instruments subject to verification on the basis of &sect; 10 of this Act shall undergo. </inglise>
+<eesti>Kalibreerimine on metroloogilise kontrolli liik, millele allutatakse etalonid. </eesti>
+<inglise>Calibration is a class of metrological control which measurement standards shall undergo. </inglise>
+<eesti>T&ouml;&ouml;m&otilde;&otilde;tevahendite kalibreerimine ei ole kohustuslik. </eesti>
+<inglise>Calibration of working measuring instruments is not mandatory. </inglise>
+<eesti>(2) (Kehtetu - 14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(2) (Repealed - 14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(3) Kohustuslikule metroloogilisele kontrollile kuuluvate m&otilde;&otilde;tevahendite t&uuml;&uuml;bikinnituse ja taatlemise eest v&otilde;etava tasu piirm&auml;&auml;rad kehtestab majandusminister. </eesti>
+<inglise>(3) The maximum fee chargeable for type approval and verification of measuring instruments subject to mandatory metrological control shall be established by the Minister of Economic Affairs. </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>T&uuml;&uuml;bikinnitus </eesti>
+<inglise>Type approval </inglise>
+<eesti>(1) T&uuml;&uuml;bikinnitus on protseduur, mille k&auml;igus tehakse kohustuslikes m&otilde;&otilde;t&uuml;hikutes gradueeritud m&otilde;&otilde;tevahendi dokumentatsiooni ja t&uuml;&uuml;bikatsetustulemuste alusel kindlaks, kas antud t&uuml;&uuml;pi m&otilde;&otilde;tevahendiga m&otilde;&otilde;tmisel v&otilde;ib eeldada vajaliku t&auml;psuse s&auml;ilimist kindlaksm&auml;&auml;ratud ajavahemiku (taatluskehtivusaeg) jooksul ja v&auml;ljastatakse t&uuml;&uuml;bikinnitustunnistus. </eesti>
+<inglise>(1) Type approval is a procedure during which it is determined whether the necessary degree of precision of measurements made by a type of measuring instrument will be maintained throughout a defined period of time (period of validity of verification) on the basis of documentation and type testing results concerning the type of measuring instrument gauged according to mandatory units of measurement, and during which a type approval certificate is issued. </inglise>
+<eesti>(2) Taotluse t&uuml;&uuml;bikinnituse saamiseks esitab m&otilde;&otilde;tevahendi valmistaja, importija v&otilde;i nende esindaja Tehnilise J&auml;relevalve Inspektsioonile, kus taotlejale k&auml;esoleva paragrahvi l&otilde;ikes 1 s&auml;testatud n&otilde;uetele vastava m&otilde;&otilde;tevahendi t&uuml;&uuml;bi jaoks v&auml;ljastatakse kehtestatud korras t&uuml;&uuml;bikinnitustunnistus ja antakse &otilde;igus kanda seda t&uuml;&uuml;pi m&otilde;&otilde;tevahendile t&uuml;&uuml;bikinnitusm&auml;rk. </eesti>
+<inglise>(2) The producer or importer of a measuring instrument or the representative of the producer or importer of a measuring instrument shall submit an application for type approval to the Technical Inspectorate, which shall issue a type approval certificate pursuant to established procedure and grant the right to affix the type approval mark on the measuring instrument if the measuring instrument meets the requirements provided for in subsection (1) of this section. </inglise>
+<eesti>T&uuml;&uuml;bikinnitustunnistus sisaldab m&otilde;&otilde;tevahendi t&uuml;&uuml;bi garanteeritud metroloogilisi omadusi ja vajaduse korral lisatingimusi, piiranguid ning t&auml;htaegu. </eesti>
+<inglise>The type approval certificate specifies the guaranteed metrological characteristics of the type of measuring instrument and, if necessary, additional conditions, limitations or dates. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(3) T&uuml;&uuml;bikinnitus on kohustuslik m&otilde;&otilde;tevahendite korral, mida kasutatakse m&otilde;&otilde;tmiseks valdkondades, kus kehtib k&auml;esoleva seaduse &sect; 10 alusel taatluskohustus. </eesti>
+<inglise>(3) Type approval is mandatory for measuring instruments which are used for measuring in areas of application subject to mandatory verification pursuant to &sect; 10 of this Act. </inglise>
+<eesti>(4) T&uuml;&uuml;bikinnituse korra kehtestab majandusminister. </eesti>
+<inglise>(4) The procedure for type approval shall be established by the Minister of Economic Affairs. </inglise>
+<eesti>(5) (Kehtetu - 16.12.1998 j&otilde;ust. 23.01.1999 - RT I 1999, 4, 50) </eesti>
+<inglise>(5) (Repealed - 16.12.1998 entered into force 23.01.1999 - RT I 1999, 4, 50) </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Taatlemine </eesti>
+<inglise>Verification </inglise>
+<eesti>(1) M&otilde;&otilde;tevahend on taatlusk&otilde;lblik, kui selle t&uuml;&uuml;bile on Eestis omistatud t&uuml;&uuml;bikinnitus ja ta vastab kehtivate &otilde;igusaktide n&otilde;uetele. </eesti>
+<inglise>(1) A measuring instrument can be verified if its type has been granted type approval in Estonia and if it complies with the requirements of legislation in force. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(2) Taatlemine on protseduur m&otilde;&otilde;tevahendi kasutamisk&otilde;lblikkuse kindlaksm&auml;&auml;ramiseks, mille k&auml;igus: </eesti>
+<inglise>(2) Verification is a procedure which determines the fitness for use of a measuring instrument during which: </inglise>
+<eesti>1) kontrollitakse m&otilde;&otilde;tevahendi metroloogilisi omadusi taatluseks riiklikku tegevusluba omavas taatluslaboris; </eesti>
+<inglise>1) the metrological characteristics of the measuring instrument are inspected in a verification laboratory which holds a state activity licence for verification; </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>2) taatlemisel esitatavatele n&otilde;uetele vastav m&otilde;&otilde;tevahend varustatakse taatlusm&auml;rgisega, milleks on taatluse l&auml;bimist t&otilde;endav kleebis, taatlusplomm v&otilde;i taatlustempli j&auml;ljend. </eesti>
+<inglise>2) a measuring instrument which meets the verification requirements is marked with an inspection mark, which is a sticker, verification seal or verification stamp certifying that the measuring instrument has passed verification. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(3) Taadeldud m&otilde;&otilde;tevahendiga saadud m&otilde;&otilde;tetulemused loetakse &otilde;igeks, kui selle kasutamisel on t&auml;idetud k&auml;esoleva seaduse &sect; 13 (1) 1. l&otilde;ikes s&auml;testatud n&otilde;uded. </eesti>
+<inglise>(3) The results of measurements obtained by a verified measuring instrument shall be deemed correct if the requirements provided for in subsection 13 (1) (1) of this Act are adhered to in using the measuring instrument. </inglise>
+<eesti>(3 (1)) K&auml;esoleva seaduse alusel j&auml;relevalveks volitatud ametiisikul on &otilde;igus korraldada taatluskehtivusaja jooksul m&otilde;&otilde;tevahendi erakorralist taatlust. </eesti>
+<inglise>(3 (1)) Officials authorised to excercise supervision on the basis of this Act have the right to organise extraordinary verification of a measuring instrument during the period of validity of verification. </inglise>
+<eesti>(4) Majandusminister kehtestab korra: </eesti>
+<inglise>(4) The Minister of Economic Affairs shall establish the procedures for: </inglise>
+<eesti>1) taatlemiseks ja m&otilde;&otilde;tevahendite taatluskehtivusaegade m&auml;&auml;ramiseks; </eesti>
+<inglise>1) verification and determination of periods of validity of verification of measuring instruments; </inglise>
+<eesti>2) taatlustemplite valmistamiseks, kasutamiseks ja hoidmiseks; </eesti>
+<inglise>2) the production, use and storage of verification stamps; </inglise>
+<eesti>3) erakorraliseks taatluseks ja selle eest tasumiseks. </eesti>
+<inglise>3) extraordinary verification and payment therefor. </inglise>
+<eesti>&sect; 8 (1). </eesti>
+<inglise>&sect; 8 (1). </inglise>
+<eesti>Taatluslabor </eesti>
+<inglise>Verification laboratory </inglise>
+<eesti>(1) Taatluslabor on taatlemist teostav juriidiline isik, kes omab selleks majandusministri v&auml;ljaantud tegevusluba. </eesti>
+<inglise>(1) A verification laboratory is a legal person which performs verification and holds an activity licence therefor issued by the Minister of Economic Affairs. </inglise>
+<eesti>(2) Majandusminister annab juriidilisele isikule tegevusloa vastava taotluse alusel juhul, kui: </eesti>
+<inglise>(2) The Minister of Economic Affairs grants an activity licence to a legal person on the basis of a corresponding application, if: </inglise>
+<eesti>1) isiku tegevusalade hulka kuulub m&otilde;&otilde;tevahendite taatlemine; </eesti>
+<inglise>1) the areas of activity of the person include verification of measuring instruments; </inglise>
+<eesti>2) isik omab akrediteeringut taatlemise teostamiseks vajalikus m&otilde;&otilde;tevaldkonnas. </eesti>
+<inglise>2) the person is accredited to perform verification in a corresponding field of measurement. </inglise>
+<eesti>(3) Kui isik vastab k&auml;esoleva paragrahvi l&otilde;ikes 2 s&auml;testatud n&otilde;uetele, annab majandusminister v&auml;lja tegevusloa &uuml;he kuu jooksul, arvates taotluse saabumise kuup&auml;evast. </eesti>
+<inglise>(3) If a person meets the requirements provided for in subsection (2) of this section, the Minister of Economic Affairs shall issue an activity licence within one month as of the date on which the application is received. </inglise>
+<eesti>(4) Majandusminister v&otilde;ib tegevusloa kehtetuks tunnistada, kui isik ei vasta enam k&auml;esoleva paragrahvi l&otilde;ikes 2 s&auml;testatud n&otilde;uetele v&otilde;i kui ta on oma taatlustegevuses korduvalt v&otilde;i oluliselt neid n&otilde;udeid rikkunud. </eesti>
+<inglise>(4) The Minister of Economic Affairs may revoke an activity licence if the person no longer meets the requirements provided for in subsection (2) of this section or if the person repeatedly or materially violates such requirements in its verification activities. </inglise>
+<eesti>(5) Tegevusluba omav isik on kohustatud majandusministrit kohe informeerima asjaoludest, mis seavad kahtluse alla tema n&otilde;uetele vastavuse taatluslaborina tegutsemiseks. </eesti>
+<inglise>(5) A person holding an activity licence is required to inform the Minister of Economic Affairs immediately of any circumstances which lead to doubt concerning the compliance of the person with requirements for acting as a verification laboratory. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Kalibreerimine </eesti>
+<inglise>Calibration </inglise>
+<eesti>(1) Kalibreerimine on m&otilde;&otilde;tevahendi metroloogiliste omaduste kindlaksm&auml;&auml;ramine kalibreerimislaboris m&otilde;&otilde;tevahendi valdajaga koosk&otilde;lastatud tingimustel, ulatuses ja meetodil, kusjuures t&uuml;&uuml;bikinnitus pole n&otilde;utav. </eesti>
+<inglise>(1) Calibration is the determination of the metrological characteristics of a measuring instrument in a calibration laboratory under the conditions, to the extent and by use of a method agreed with the possessor of the measuring instrument; type approval is not required. </inglise>
+<eesti>Kalibreerimine v&otilde;imaldab saavutada m&otilde;&otilde;tetulemuste j&auml;lgitavust. </eesti>
+<inglise>Calibration enables traceability of the results of measurements to be achieved. </inglise>
+<eesti>(2) Kalibreerimislabor v&auml;ljastab m&otilde;&otilde;tevahendi valdajale kalibreerimistunnistuse, milles on toodud m&otilde;&otilde;tevahendi kalibreerimise tulemused koos nende hinnatud m&otilde;&otilde;tem&auml;&auml;ramatusega ning viitega m&otilde;&otilde;tmiste j&auml;lgitavusele. </eesti>
+<inglise>(2) A calibration laboratory shall issue a calibration certificate to the possessor of a measuring instrument which shall indicate the results of the calibration of the measuring instrument with the estimated uncertainty of the measurements and a reference to the traceability of the measurements. </inglise>
+<eesti>(3) Kalibreerimine ei anna &otilde;igust m&otilde;&otilde;tevahendi kasutamiseks valdkondades, kus kehtib k&auml;esoleva seaduse &sect; 10 alusel taatluskohustus. </eesti>
+<inglise>(3) Calibration does not grant the right to use a measuring instrument in an area of application subject to mandatory verification pursuant to &sect; 10 of this Act. </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Taatluskohustus </eesti>
+<inglise>Verification obligation </inglise>
+<eesti>(1) Kohustuslikule taatlusele kuuluvad m&otilde;&otilde;tevahendid, mida kasutatakse tehingutes: </eesti>
+<inglise>(1) Measuring instruments are subject to mandatory verification if they are used in transactions: </inglise>
+<eesti>1) pikkuse, pindala, ruumala, massi, aja, temperatuuri, r&otilde;hu, soojus- ja elektrienergia, soojusliku ja elektrilise v&otilde;imsuse, vedelike ja gaaside koguse ning tiheduse ja ainetesisalduse m&otilde;&otilde;tmiseks; </eesti>
+<inglise>1) to measure length, area, volume, mass, time, temperature, pressure, heat and electric energy, heat and electric capacity, the quantity and density of liquids and gases and the content of substances in liquids and gases; </inglise>
+<eesti>2) (Kehtetu - 16.12.1998 j&otilde;ust. 23.01.1999 - RT I 1999, 4, 50) </eesti>
+<inglise>2) (Repealed - 16.12.1998 entered into force 16.12.1998 - RT I 1999, 4, 50) </inglise>
+<eesti>3) transpordi-, side- ja postiteenuse osutamisel. </eesti>
+<inglise>3) to provide transport, communications and postal services. </inglise>
+<eesti>(2) Kohustuslikule taatlusele kuuluvad m&otilde;&otilde;tevahendid, kui neid rakendatakse: </eesti>
+<inglise>(2) Measuring instruments shall be subject to mandatory verification if they are used: </inglise>
+<eesti>1) tulenevalt tolli- ja maksuseaduste n&otilde;uetest; </eesti>
+<inglise>1) pursuant to the requirements of customs and tax law; </inglise>
+<eesti>2) riikliku j&auml;relevalve ja kontrolli teostamisel; </eesti>
+<inglise>2) to exercise state supervision and control; </inglise>
+<eesti>3) ekspertiisi teostamisel kohtu- v&otilde;i vahekohtumenetluses; </eesti>
+<inglise>3) to conduct an expert analysis in a court or arbitration procedure; </inglise>
+<eesti>4) ravimite valmistamisel ja kontrollimisel; </eesti>
+<inglise>4) to manufacture or inspect medicinal products; </inglise>
+<eesti>5) tervishoiu- ja veterinaarteenuse osutamisel; </eesti>
+<inglise>5) to provide health and veterinary services; </inglise>
+<eesti>6) ohtlike m&otilde;jurite m&otilde;&otilde;tmisel keskkonna- ja tervisekaitses; </eesti>
+<inglise>6) to measure dangerous agents for environmental and health protection; </inglise>
+<eesti>7) t&ouml;&ouml;keskkonna f&uuml;&uuml;sikaliste, keemiliste ja bioloogiliste ohutegurite m&otilde;&otilde;tmiseks ja seadmete ohutu k&auml;itamise tagamiseks; </eesti>
+<inglise>7) to measure the physical, chemical and biological risk factors of work environments and ensure the safe operation of equipment; </inglise>
+<eesti>8) kinnispakkide t&auml;itekoguse kontrollimisel. </eesti>
+<inglise>8) to check the net content of prepackages. </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Taatlusteenuse tagamine </eesti>
+<inglise>Ensurance of verification services </inglise>
+<eesti>(1) Vabariigi Valitsusel on &otilde;igus erandjuhtudel vabastada taatluskohustusest m&otilde;&otilde;tevahendid, kui kulutused nende taatlemiseks on liialt suured ega vasta m&otilde;&otilde;tevahendi t&auml;htsusele oma kasutusalal. </eesti>
+<inglise>(1) The Government of the Republic has the right in exceptional cases to exempt measuring instruments from the duty to verify if the costs of verification are excessive and do not correspond to the significance of the measuring instrument in its area of application. </inglise>
+<eesti>(2) K&auml;esoleva paragrahvi 1. l&otilde;ike rakendamise korral on kohustuslik t&uuml;&uuml;bikinnitus v&otilde;i muude meetmete rakendamine, mis tagaks m&otilde;&otilde;tetulemuste piisava usaldusv&auml;&auml;rsuse. </eesti>
+<inglise>(2) If subsection (1) of this section is applied, type approval or the application of other measures to guarantee the sufficient reliability of the results of measurement is mandatory. </inglise>
+<eesti>(3) Taatlusteenuse k&auml;ttesaadavuse tagab riik. </eesti>
+<inglise>(3) The availability of verification services shall be ensured by the state. </inglise>
+<eesti>(4) Kohustuslikke norme kehtestav ministeerium tagab v&otilde;imalused normidele vastavuse kontrolliks kasutatavate m&otilde;&otilde;tevahendite taatlemiseks. </eesti>
+<inglise>(4) The ministry which establishes mandatory standards shall ensure opportunities for the verification of measuring instruments used to check conformity to the standards. </inglise>
+<eesti>(5) Kui v&otilde;imaluste loomine konkreetse m&otilde;&otilde;tevahendi taatlemiseks on ebaotstarbekas, v&otilde;ib Tehnilise J&auml;relevalve Inspektsioon m&auml;rgistada k&otilde;nesoleva m&otilde;&otilde;tevahendi taatlusm&auml;rgisega akrediteeritud kalibreerimislabori v&auml;ljastatud kalibreerimistunnistuse alusel. </eesti>
+<inglise>(5) If it is not feasible to create conditions for the verification of a particular measuring instrument, the Technical Inspectorate may affix an inspection mark to the measuring instrument on the basis of a calibration certificate issued by an accredited calibration laboratory. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Kinnispakk ja m&otilde;&otilde;temahutina kasutatav pakend </eesti>
+<inglise>Prepackages and packages used as measuring containers </inglise>
+<eesti>(1) Kinnispakk k&auml;esoleva seaduse t&auml;henduses on pakendis toode, mille pakend on pakendaja poolt m&auml;rgistatud eelm&auml;&auml;ratletud nimikogusega ja mis on suletud pakendaja poolt ilma ostja juuresolekuta viisil, mis ei v&otilde;imalda pakendi t&auml;itekogust muuta pakendit rikkumata. </eesti>
+<inglise>(1) For the purposes of this Act, prepackages are goods in packaging which are marked by the packager with a predetermined quantity and sealed by the packager in the absence of the customer such that the net content of the packaging cannot be altered without damaging the packaging. </inglise>
+<eesti>(2) M&otilde;&otilde;temahutina kasutatav pakend (edaspidi m&otilde;&otilde;temahuti) k&auml;esoleva seaduse t&auml;henduses on suletav anum nimimahuga 0,05 liitrit kuni 5 liitrit (kaasa arvatud), mis vastab j&auml;rgmistele tunnustele: </eesti>
+<inglise>(2) For the purposes of this Act, a package used as a measuring container (hereinafter measuring container) is a sealable container with a nominal capacity of 0.05 to 5 litres (inclusive) which has the following characteristics: </inglise>
+<eesti>1) anum on valmistatud klaasist v&otilde;i muust materjalist, mille omadused tagavad klaasiga v&auml;hemalt samav&auml;&auml;rsed metroloogilised karakteristikud; </eesti>
+<inglise>1) the container is made of glass or other material the characteristics of which ensure measuring characteristics at least equal to those of glass; </inglise>
+<eesti>2) anuma metroloogilised karakteristikud v&otilde;imaldavad selle kasutamist m&otilde;&otilde;tevahendina; </eesti>
+<inglise>2) the measuring characteristics of the container enable it to be used as a measuring instrument; </inglise>
+<eesti>3) anuma valmistamisprotsessis on tagatud anuma kuju ja m&otilde;&otilde;tmete metroloogiliste karakteristikute n&otilde;utav stabiilsus; </eesti>
+<inglise>3) the manufacturing process of the container guarantees that the measuring characteristics of the shape and dimensions of the vessel remain constant; </inglise>
+<eesti>4) anuma kuju ja m&otilde;&otilde;tmete metroloogilised karakteristikud v&otilde;imaldavad pakendada vedelikke n&otilde;utava t&auml;psusega ilma vedeliku kogust vahetult m&otilde;&otilde;tmata. </eesti>
+<inglise>4) the measuring characteristics of the shape and dimensions of the container enable liquids to be packaged with the required accuracy without directly measuring the quantity of the liquids. </inglise>
+<eesti>(3) Toodete kinnispakkide lubatud eelm&auml;&auml;ratletud nimikogused, kinnispakkide markeeringun&otilde;uded ja t&auml;itekoguse lubatavad h&auml;lbed nimikogusest kehtestab majandusminister. </eesti>
+<inglise>(3) The permitted predetermined quantities of prepackages, the marking requirements for prepackages and the permissible deviations from the net content of prepackages shall be established by the Minister of Economic Affairs. </inglise>
+<eesti>(4) M&otilde;&otilde;temahutite nimimahud ja nende lubatud h&auml;lbed ning m&otilde;&otilde;temahutite m&auml;rgistamise ja kontrolli korra kehtestab majandusminister. </eesti>
+<inglise>(4) The nominal capacities of measuring containers, the permissible deviations therefrom and the procedure for the marking and inspection of measuring containers shall be established by the Minister of Economic Affairs. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>M&otilde;&otilde;teteenistus </eesti>
+<inglise>Metrological service </inglise>
+<eesti>(1) M&otilde;&otilde;teteenistus h&otilde;lmab riiklikke ja era&otilde;iguslikke institutsioone, mis tegelevad m&otilde;&otilde;tmiste usaldatavuse ja j&auml;lgitavuse tagamise, m&otilde;&otilde;tevahendite metroloogilise kontrolli teostamise ja metroloogilise infrastruktuuri edendamisega. </eesti>
+<inglise>(1) The metrological service includes state institutions and private institutions which engage in ensuring the reliability and traceability of measuring, the metrological control of measuring instruments and the promotion of the metrological infrastructure. </inglise>
+<eesti>(2) M&otilde;&otilde;teteenistuse koosseisu kuuluvad: </eesti>
+<inglise>(2) The measurement service is composed of: </inglise>
+<eesti>1) metroloogia keskasutus; </eesti>
+<inglise>1) the central office of metrology; </inglise>
+<eesti>2) riigietaloni laborid; </eesti>
+<inglise>2) national measurement standard laboratories; </inglise>
+<eesti>3) metroloogiaalase j&auml;relevalve asutus; </eesti>
+<inglise>3) the metrology supervision agency; </inglise>
+<eesti>4) Eesti akrediteerimisasutus; </eesti>
+<inglise>4) accreditation agency of Estonia; </inglise>
+<eesti>5) akrediteeritud kalibreerimislaborid; </eesti>
+<inglise>5) accredited calibration laboratories; </inglise>
+<eesti>6) tegevusloaga taatluslaborid. </eesti>
+<inglise>6) licensed verification laboratories. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 13 (1). </eesti>
+<inglise>&sect; 13 (1). </inglise>
+<eesti>(Kehtetu - 14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(Repealed - 14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 13 (2). </eesti>
+<inglise>&sect; 13 (2). </inglise>
+<eesti>Metroloogia keskasutus </eesti>
+<inglise>Central office of metrology </inglise>
+<eesti>(1) Metroloogia keskasutus on majandusministri poolt Majandusministeeriumi valitsemisalas moodustatud hallatav riigiasutus, mis t&auml;idab vastavalt oma p&otilde;him&auml;&auml;rusele k&auml;esolevas paragrahvis nimetatud &uuml;lesandeid, v&otilde;i juriidiline isik, kellega majandusminister on s&otilde;lminud halduslepingu nimetatud &uuml;lesannete t&auml;itmiseks. </eesti>
+<inglise>(1) The central office of metrology is a state agency founded by the Minister of Economic Affairs within the area of government of and administered by the Ministry of Economic Affairs which performs the functions listed in this section pursuant to its statutes, or a legal person with which the Minister of Economic Affairs has entered into an administration contract for the performance of such functions. </inglise>
+<eesti>(2) Metroloogia keskasutus t&auml;idab j&auml;rgmisi &uuml;lesandeid: </eesti>
+<inglise>(2) The central office of metrology shall perform the following functions: </inglise>
+<eesti>1) korraldab riigietalonide perioodilist kalibreerimist ja v&otilde;rdlusm&otilde;&otilde;tmisi rahvusvaheliste v&otilde;i teiste riikide riigietalonidega majandusministri kehtestatud korras; </eesti>
+<inglise>1) organise the periodic calibration of the national measuring standards and intercomparison measurement thereof with international measuring standards or measuring standards of other states pursuant to the procedure established by the Minister of Economic Affairs; </inglise>
+<eesti>2) osaleb majandusministri korraldusel v&otilde;i loal rahvusvahelistes metroloogiaorganisatsioonides; </eesti>
+<inglise>2) participate in the work of international metrology organisations on the order or with the permission of the Minister of Economic Affairs; </inglise>
+<eesti>3) korraldab ja koordineerib riigietalonide laborite arendus- ja teadustegevust; </eesti>
+<inglise>3) organise and co-ordinate research and development work at national measurement standard laboratories; </inglise>
+<eesti>4) koostab ja esitab majandusministrile tema kehtestatud korra j&auml;rgi riigietalonide arendusplaane ja aruandeid. </eesti>
+<inglise>4) prepare and submit development plans and reports concerning national measurement standards to the Minister of Economic Affairs pursuant to the procedure established by the Minister of Economic Affairs. </inglise>
+<eesti>(3) Hallatavale riigiasutusele metroloogia keskasutuse &uuml;lesannete panemise v&otilde;i isikuga nende &uuml;lesannete t&auml;itmiseks halduslepingu s&otilde;lmimise j&auml;rel avaldab majandusminister &uuml;he kuu jooksul vastavasisulise teadaande ametlikus v&auml;ljaandes Ametlikud Teadaanded. </eesti>
+<inglise>(3) Within one month after assigning the functions of the central office of metrology to an administered state agency or entering into an administration contract with a person for the performance of such functions, the Minister of Economic Affairs shall publish a corresponding notice in the official publication Ametlikud Teadaanded (2). </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 13 (3). </eesti>
+<inglise>&sect; 13 (3). </inglise>
+<eesti>Riigietaloni labor </eesti>
+<inglise>National measurement standard laboratories </inglise>
+<eesti>(1) Riigietaloni labor on juriidiline isik, kellega majandusminister on s&otilde;lminud halduslepingu riigietaloni laborina tegutsemiseks, v&otilde;i majandusministri poolt Majandusministeeriumi valitsemisalas moodustatud hallatav riigiasutus, mis vastavalt oma p&otilde;him&auml;&auml;rusele t&auml;idab riigietaloni labori &uuml;lesandeid. </eesti>
+<inglise>(1) A national measurement standard laboratory is a legal person with which the Minister of Economic Affairs has entered into an administration contract for the performance of the functions of a national measurement standard laboratory, or a state agency founded by the Minister of Economic Affairs within the area of government of and administered by the Ministry of Economic Affairs which performs the functions of a national measurement standard laboratory pursuant to its statutes. </inglise>
+<eesti>(2) Riigietaloni labori &uuml;lesanneteks on riigietaloni soetamine, s&auml;ilitamine ja kasutamine ning p&otilde;hikirjast v&otilde;i p&otilde;him&auml;&auml;rusest tulenevad &uuml;lesanded. </eesti>
+<inglise>(2) The functions of a national measurement standard laboratory are to obtain, maintain and apply national measurement standards and functions arising from the articles of association or statutes of the laboratory. </inglise>
+<eesti>(3) Riigietaloni soetamiseks, s&auml;ilitamiseks ning kasutamiseks s&otilde;lmib majandusminister era&otilde;igusliku juriidilise isikuga halduslepingu v&otilde;i asutab Majandusministeeriumi valitsemisalas hallatava riigiasutuse. </eesti>
+<inglise>(3) In order to obtain, maintain and apply national measurement standards, the Minister of Economic Affairs shall enter into an administration contract with a legal person in private law or found a state agency within the area of government of and administered by the Ministry of Economic Affairs. </inglise>
+<eesti>Majandusministri kinnitatud hallatava riigiasutuse p&otilde;him&auml;&auml;ruses s&auml;testatakse, millises valdkonnas hallatav riigiasutus soetab, s&auml;ilitab ja v&otilde;imaldab kasutada riigietalone. </eesti>
+<inglise>The statutes of an administered state agency as approved by the Ministry of Economic Affairs shall provide the areas in which the agency obtains, maintains and enables the application of national measurement standards. </inglise>
+<eesti>(4) Era&otilde;iguslik juriidiline isik, kellega k&auml;esoleva paragrahvi l&otilde;ikes 1 nimetatud haldusleping s&otilde;lmitakse, peab: </eesti>
+<inglise>(4) A legal person in private law with which an administration contract specified in subsection (1) of this section is entered into shall: </inglise>
+<eesti>1) t&auml;itma oma &uuml;lesandeid erapooletult ning v&otilde;imaldama k&otilde;igile soovijatele kalibreerimisteenuseid tema valduses oleva riigietaloni alusel; </eesti>
+<inglise>1) perform its functions in an impartial manner and provide calibration services on the bases of the national measurement standards in the possession of the laboratory to all those seeking such services; </inglise>
+<eesti>2) omama piisavalt tehnilist varustust ning vajaliku ettevalmistusega personali talle pandud &uuml;lesannete t&auml;itmiseks. </eesti>
+<inglise>2) have adequate technical equipment and staff with the necessary professional training for the performance of the functions assigned to the laboratory. </inglise>
+<eesti>(5) Halduslepingus m&auml;&auml;ratakse kindlaks: </eesti>
+<inglise>(5) An administration contract shall specify: </inglise>
+<eesti>1) riigietalonid, mida isik on kohustatud soetama, s&auml;ilitama ja mille kasutamist v&otilde;imaldama; </eesti>
+<inglise>1) the national measurement standards which the person is required to obtain and maintain and the application of which the person is required to enable; </inglise>
+<eesti>2) isikule k&auml;esoleva paragrahvi l&otilde;ikes 2 nimetatud &uuml;lesannete t&auml;itmise eest makstava tasu m&auml;&auml;rad. </eesti>
+<inglise>2) the rates of fees payable to the person for the performance of the functions specified in subsection (2) of this section. </inglise>
+<eesti>(6) Halduslepingu s&otilde;lmimisega v&otilde;tab era&otilde;iguslik juriidiline isik endale kohustuse soetada ja s&auml;ilitada riigietalone ning v&otilde;imaldada nende kasutamist. </eesti>
+<inglise>(6) By entering into an administration contract, a legal person in private law assumes the duty to obtain and maintain national measurement standards and enable their application. </inglise>
+<eesti>(7) Riigietaloni labor on kohustatud majandusministri kehtestatud korras osalema metroloogia keskasutuse poolt korraldatavates v&otilde;rdlusm&otilde;&otilde;tmistes. </eesti>
+<inglise>(7) National measurement standard laboratories are required to participate in intercomparison measurements organised by the central office of metrology pursuant to the procedure established by the Minister of Economic Affairs. </inglise>
+<eesti>(8) Majandusminister avaldab hiljemalt iga aasta 1. veebruariks ametlikus v&auml;ljaandes Ametlikud Teadaanded k&otilde;igi riigietalonide laborite nimekirja koos neile pandud &uuml;lesannete loeteluga. </eesti>
+<inglise>(8) Not later than by 1 February each year, the Minister of Economic Affairs shall publish a list in the official publication Ametlikud Teadaanded of all national measurement standard laboratories and the functions assigned to each laboratory. </inglise>
+<eesti>Hiljemalt &uuml;he kuu jooksul p&auml;rast k&auml;esoleva paragrahvi l&otilde;ikes 1 nimetatud halduslepingu s&otilde;lmimist v&otilde;i &uuml;lesannete panemist hallatavale riigiasutusele avaldab majandusminister ametlikus v&auml;ljaandes Ametlikud Teadaanded sellekohase teate koos isikule v&otilde;i asutusele pandud &uuml;lesannete loeteluga. </eesti>
+<inglise>Not later than within one month after entering into the administration contract specified in subsection (1) of this section or assignment of the functions to an administered state agency, the Minister of Economic Affairs shall publish a corresponding notice in the official publication Ametlikud Teadaanded which sets out a list of the functions assigned to the person or agency. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 13 (4). </eesti>
+<inglise>&sect; 13 (4). </inglise>
+<eesti>M&otilde;&otilde;tmise usaldatavus </eesti>
+<inglise>Reliability of measurements </inglise>
+<eesti>(1) M&otilde;&otilde;tevahendeid peab &uuml;les seadma, &uuml;hendama, k&auml;sitsema, hooldama ja hoidma nii, et oleks tagatud m&otilde;&otilde;tmiste &otilde;igsus ja usaldusv&auml;&auml;rsus. </eesti>
+<inglise>(1) Measuring instruments shall be installed, connected, handled, maintained and stored such that the accuracy and reliability of measurements is ensured. </inglise>
+<eesti>Ostu-m&uuml;&uuml;gitehingutes kasutatavate m&otilde;&otilde;tevahendite n&auml;it peab olema ostjale ja m&uuml;&uuml;jale pingutuseta n&auml;htav. </eesti>
+<inglise>Indications of measuring instruments used in purchase and sales transactions shall be clearly visible to the buyer and seller. </inglise>
+<eesti>(2) M&otilde;&otilde;tmiste usaldatavuse kindlustamiseks kasutatakse m&otilde;&otilde;tmisi ja m&otilde;&otilde;tevahendite metroloogilist kontrolli teostavate laborite kompetentsuse hindamist ja akrediteerimist majandusministri kehtestatud korra kohaselt. </eesti>
+<inglise>(2) In order to guarantee the reliability of measurements, assessment of the competence of and accreditation of laboratories carrying out measurements and metrological control of measuring instruments shall be used pursuant to the procedure established by the Minister of Economic Affairs. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>J&auml;relevalve </eesti>
+<inglise>Supervision </inglise>
+<eesti>(1) Seaduse ja selle alusel kehtestatud &otilde;igusaktide n&otilde;uete j&auml;rgimise &uuml;le teostab j&auml;relevalvet, teeb ettekirjutusi ja otsuseid Tehnilise J&auml;relevalve Inspektsioon. </eesti>
+<inglise>(1) The Technical Inspectorate shall exercise supervision over compliance with the requirements of this Act and legislation established on the basis thereof, and shall issue precepts and make decisions. </inglise>
+<eesti>(2) Tehnilise J&auml;relevalve Inspektsiooni j&auml;relevalveks volitatud ametnikel on seaduse ja selle alusel kehtestatud &otilde;igusaktide n&otilde;uete j&auml;rgimise j&auml;relevalve teostamisel &otilde;igus: </eesti>
+<inglise>(2) Upon supervision of compliance with the requirements of this Act and legislation established on the basis thereof, an official of the Technical Inspectorate who is authorised to exercise supervision has the right to: </inglise>
+<eesti>1) siseneda taatluslaborite ruumidesse, tutvuda taatlemises kasutatavate seadmete ja dokumentatsiooniga ning saada taatlemistegevusega seotud informatsiooni; </eesti>
+<inglise>1) enter the premises of verification laboratories, examine equipment and records used in verification and obtain information pertaining to verification activities; </inglise>
+<eesti>2) siseneda ruumidesse, kus valmistatakse v&otilde;i hoitakse kinnispakke v&otilde;i pakendatakse tooteid kinnispakkidesse; tutvuda kinnispakkide tootmist v&otilde;i toodete pakendamist kinnispakkidesse puudutava dokumentatsiooniga ning saada informatsiooni kinnispakkide valmistamise, kasutamise ja hoidmise kohta; </eesti>
+<inglise>2) enter premises where prepackages are manufactured or stored or where products are packed in prepackages, and to examine records pertaining to the production of prepackages or to the packing of products in prepackages and obtain information pertaining to the manufacture, use and storage of prepackages; </inglise>
+<eesti>3) siseneda ruumidesse, kus valmistatakse v&otilde;i hoitakse m&otilde;&otilde;temahuteid v&otilde;i pakendatakse tooteid m&otilde;&otilde;temahutitesse; tutvuda m&otilde;&otilde;temahutite tootmist v&otilde;i pakendina kasutamist puudutava dokumentatsiooniga ning saada informatsiooni m&otilde;&otilde;temahutite valmistamise, kasutamise ja hoidmise kohta; </eesti>
+<inglise>3) enter premises where measuring containers are manufactured or stored or where products are packaged in measuring containers, and to examine records pertaining to the production of measuring containers or the use of measuring containers as packaging and obtain information pertaining to the manufacture, use and storage of measuring containers; </inglise>
+<eesti>4) siseneda ruumidesse, kus kasutatakse taatluskohustuslikke m&otilde;&otilde;tevahendeid, kontrollida nimetatud m&otilde;&otilde;tevahendite vastavust kehtestatud n&otilde;uetele, tutvuda nimetatud m&otilde;&otilde;tevahendite kasutamist puudutava dokumentatsiooniga ning saada informatsiooni m&otilde;&otilde;tevahendite kasutamise ja hoidmise kohta. </eesti>
+<inglise>4) enter premises where measuring instruments subject to mandatory verification are used, inspect the compliance of such measuring instruments with established requirements, examine records pertaining to the use of such measuring instruments and obtain information pertaining to the use and storage of the measuring instruments. </inglise>
+<eesti>(3) Tehnilise J&auml;relevalve Inspektsiooni j&auml;relevalveks volitatud ametnikud v&otilde;ivad oma otsusega keelata m&otilde;&otilde;tevahendi kasutamise, kui esineb kahtlus, et m&otilde;&otilde;tevahend ei vasta kehtestatud n&otilde;uetele, algatades &uuml;htlasi m&otilde;&otilde;tevahendi erakorralise taatluse. </eesti>
+<inglise>(3) An official of the Technical Inspectorate who is authorised to exercise supervision has the right to prohibit the use of a measuring instrument by his or her decision if doubt arises that the measuring instrument does not comply with established requirements; in such case, the official shall also initiate special verification of the measuring instrument. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>Juriidilise isiku vastutus </eesti>
+<inglise>Liability of legal persons </inglise>
+<eesti>(1) Juriidilise isiku poolt: </eesti>
+<inglise>(1) If a legal person: </inglise>
+<eesti>1) kehtiva taatlusm&auml;rgiseta v&otilde;i kehtiva taatlustunnistuseta taatluskohustuslike m&otilde;&otilde;tevahendite kasutamise eest - m&auml;&auml;ratakse rahatrahv kuni 25 000 krooni; </eesti>
+<inglise>1) uses a measuring instrument subject to mandatory verification without a valid inspection mark or certificate, a fine of up to 25 000 kroons shall be imposed; </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>2) taatluskohustuslike m&otilde;&otilde;tevahendite &uuml;lesseadmise, hoidmise v&otilde;i kasutamise eest viisil, mis ei taga m&otilde;&otilde;tmiste &otilde;igsust - m&auml;&auml;ratakse rahatrahv kuni 15 000 krooni; </eesti>
+<inglise>2) installs, stores or uses measuring instruments subject to mandatory verification in a manner which does not ensure the accuracy of measurements, a fine of up to 15 000 kroons shall be imposed; </inglise>
+<eesti>3) mitteseaduslike m&otilde;&otilde;t&uuml;hikute v&otilde;i nende mitteseaduslike nimetuste v&otilde;i t&auml;histe kasutamise eest - m&auml;&auml;ratakse rahatrahv kuni 5000 krooni; </eesti>
+<inglise>3) uses illegal units of measurement or their illegal names or symbols, a fine of up to 5000 kroons shall be imposed; </inglise>
+<eesti>4) k&auml;esoleva seaduse muude n&otilde;uete rikkumise eest - m&auml;&auml;ratakse rahatrahv kuni 5000 krooni. </eesti>
+<inglise>4) violates other requirements of this Act, a fine of up to 5000 kroons shall be imposed. </inglise>
+<eesti>(2) Juriidilise isiku poolt k&auml;esoleva paragrahvi l&otilde;ikes 1 nimetatud rikkumise asja arutamise ja karistuse m&auml;&auml;ramise &otilde;igus on halduskohtunikul. </eesti>
+<inglise>(2) Administrative court judges have the right to hear matters concerning offences set out in subsection (1) of this section committed by legal persons and to impose penalties on such legal persons. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(3) K&auml;esoleva paragrahvi 1. l&otilde;ikes etten&auml;htud sanktsioone rakendatakse haldus&otilde;iguserikkumiste seadustikus (RT 1992, 29, 396; RT I 1997, 66/68, 1109; 73, 1201; 81, 1361 ja 1362; 86, 1459 ja 1461; 87, 1466 ja 1467; 93, 1561, 1563, 1564 ja 1565; 1998, 2, 42; 17, 265; 23, 321; 30, 410; 34, 484; 36/37, 552 ja 553; 38, 562; 51, 756 ja 759; 52/53, 771; 60, 951 ja 952; 64/65, 1004; 86/87, 1409; 98/99, 1574; 103, 1695; 108/109, 1783; 1999, 4, 53) s&auml;testatud menetluskorda j&auml;rgides. </eesti>
+<inglise>(3) The sanctions prescribed in subsection (1) of this section apply pursuant to the procedure provided for in the Code of Administrative Offences (RT 1992, 29, 396; RT I 1997, 66/68, 1109; 73, 1201; 81, 1361 and 1362; 86, 1459 and 1461; 87, 1466 and 1467; 93, 1561, 1563, 1564 and 1565; 1998, 2, 42; 17, 265; 23, 321; 30, 410; 34, 484; 36/37, 552 and 553; 38, 562; 51, 756 and 759; 52/53, 771; 60, 951 and 952; 64/65, 1004; 86/87, 1409; 98/99, 1574; 103, 1695; 108/109, 1783; 1999, 4, 53). </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>F&uuml;&uuml;silise isiku vastutus </eesti>
+<inglise>Liability of natural persons </inglise>
+<eesti>K&auml;esolevas seaduses s&auml;testatud rikkumise eest kannab f&uuml;&uuml;siline isik vastutust haldus&otilde;iguserikkumiste seadustiku alusel. </eesti>
+<inglise>A natural person bears liability for a violation provided for in this Act on the basis of the Code of Administrative Offences. </inglise>
+<eesti>&sect; 17. </eesti>
+<inglise>&sect; 17. </inglise>
+<eesti>Protokolli koostamine </eesti>
+<inglise>Preparation of reports </inglise>
+<eesti>(1) K&auml;esoleva seaduse &sect;-s 15 s&auml;testatud haldus&otilde;iguserikkumiste kohta koostab haldus&otilde;iguserikkumise protokolli Tehnilise J&auml;relevalve Inspektsiooni j&auml;relevalveks volitatud ametnik. </eesti>
+<inglise>(1) Officials of the Technical Inspectorate who are authorised to exercise supervision shall prepare administrative offence reports concerning the administrative offences provided for in &sect; 15 of this Act. </inglise>
+<eesti>(2) Haldus&otilde;iguserikkumise protokolli m&auml;rgitakse j&auml;rgmised andmed: </eesti>
+<inglise>(2) An administrative offence report shall set out the following information: </inglise>
+<eesti>1) koostamise aeg ja koht; </eesti>
+<inglise>1) the time and place of preparation thereof; </inglise>
+<eesti>2) selle ametiasutuse nimetus ja aadress, kelle poolt protokoll koostatakse; </eesti>
+<inglise>2) the name and address of the agency who prepared the report; </inglise>
+<eesti>3) protokolli koostanud isiku ametinimetus, ees- ja perekonnanimi; </eesti>
+<inglise>3) the official title, given name and surname of the person who prepared the report; </inglise>
+<eesti>4) haldus&otilde;iguserikkuja nimetus v&otilde;i &auml;rinimi, registrikood ja asukoht; </eesti>
+<inglise>4) the name or business name, registry code and seat of the administrative offender; </inglise>
+<eesti>5) haldus&otilde;iguserikkuja esindaja ees- ja perekonnanimi ning ametikoht; </eesti>
+<inglise>5) the given name, surname and position of the representative of the administrative offender; </inglise>
+<eesti>6) haldus&otilde;iguserikkumise koht, aeg ja kirjeldus; </eesti>
+<inglise>6) the place, time and description of the administrative offence; </inglise>
+<eesti>7) viide k&auml;esoleva seaduse s&auml;tetele, mille alusel haldusvastutust kohaldatakse; </eesti>
+<inglise>7) a reference to the provisions of this Act which are the basis for the imposition of administrative liability; </inglise>
+<eesti>8) haldus&otilde;iguserikkuja esindaja seletus v&otilde;i m&auml;rge seletuse andmisest loobumise kohta. </eesti>
+<inglise>8) the explanation provided by the representative of the administrative offender or a notation concerning his or her refusal to provide an explanation. </inglise>
+<eesti>(3) Protokollile kirjutavad alla selle koostanud isik ja haldus&otilde;iguserikkuja esindaja. </eesti>
+<inglise>(3) The person who prepares the report and the representative of the administrative offender shall sign the report. </inglise>
+<eesti>Kui haldus&otilde;iguserikkuja esindaja keeldub protokollile alla kirjutamast, tehakse sellesse vastav kanne. </eesti>
+<inglise>If the representative of the administrative offender refuses to sign the report, this shall be noted in the report. </inglise>
+<eesti>Protokollile lisatakse haldus&otilde;iguserikkuja esindaja kirjalikud m&auml;rkused protokolli, samuti protokollile allakirjutamisest keeldumise kohta. </eesti>
+<inglise>Written notations made by the representative of the administrative offender concerning the report and notations concerning refusal to sign the report shall be appended to the report. </inglise>
+<eesti>(14.06.2000 j&otilde;ust. 21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>L&otilde;pps&auml;te </eesti>
+<inglise>Final Provision </inglise>
+<eesti>&sect; 18. </eesti>
+<inglise>&sect; 18. </inglise>
+<eesti>Seaduse rakendamine </eesti>
+<inglise>Implementation of Act </inglise>
+<eesti>(1) K&auml;esolev seadus j&otilde;ustub 1995. aasta 1. jaanuaril. </eesti>
+<inglise>(1) This Act enters into force on 1 January 1995. </inglise>
+<eesti>(2) Eesti territooriumil kuni 1992. aasta 1. jaanuarini k&auml;ibele lubatud m&otilde;&otilde;tevahendid ning Riigi Standardiametilt k&auml;esoleva seaduse j&otilde;ustumiseni t&uuml;&uuml;bikinnituse saanud m&otilde;&otilde;tevahendid omavad t&uuml;&uuml;bikinnitust selle kehtivusaja l&otilde;puni. </eesti>
+<inglise>(2) Measuring instruments which were approved for use in Estonia until 1 January 1992 and measuring instruments which received type approval from the National Standards Board before the entry into force of this Act have type approval until the period of validity thereof expires. </inglise>
+<eesti>(3) Enne k&auml;esoleva seaduse j&otilde;ustumist v&auml;lja antud riiklikud tegevuslitsentsid m&otilde;&otilde;tevahendite taatlemiseks kehtivad neil m&auml;rgitud kuup&auml;evani, kuid mitte kauem kui 2001. aasta 31. detsembrini. </eesti>
+<inglise>(3) State activity licences for the verification of measuring instruments which were issued before the entry into force of this Act are valid until the date specified on the licences but not for longer than until 31 December 2001. (14.06.2000 entered into force 21.07.2000 - RT I 2000, 55, 358) </inglise>
+<eesti>(14.06.2000 j&otilde;ust. </eesti>
+<inglise>(1) RT = Riigi Teataja = State Gazette </inglise>
+<eesti>21.07.2000 - RT I 2000, 55, 358) </eesti>
+<inglise>(2) Ametlikud Teadaanded = Official Notices </inglise>

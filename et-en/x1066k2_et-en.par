@@ -1,0 +1,885 @@
+<eesti>Maakatastriseadus </eesti>
+<inglise>Land Cadastre Act </inglise>
+<eesti>Vastu v&otilde;etud 12. oktoobril 1994. a. </eesti>
+<inglise>Passed 12 October 1994 </inglise>
+<eesti>(RT I 1994, 74, 1324), </eesti>
+<inglise>(RT I 1994, 74, 1324), </inglise>
+<eesti>j&otilde;ustunud 8. novembril 1994. a., </eesti>
+<inglise>entered into force 8 November 1994, </inglise>
+<eesti>muudetud j&auml;rgmiste seadustega: </eesti>
+<inglise>amended by the following Acts: </inglise>
+<eesti>15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598; </eesti>
+<inglise>15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598; </inglise>
+<eesti>13.06.2000 j&otilde;ust. 16.07.2000 - RT I 2000, 54, 347; </eesti>
+<inglise>13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347; </inglise>
+<eesti>13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261; </eesti>
+<inglise>13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261; </inglise>
+<eesti>30.04.96 j&otilde;ust. 07.06.96 - RT I 1996, 36, 738; </eesti>
+<inglise>30.04.96 entered into force 07.06.96 - RT I 1996, 36, 738; </inglise>
+<eesti>14.06.95 j&otilde;ust. 22.07.95 - RT I 1995, 59, 1006; </eesti>
+<inglise>14.06.95 entered into force 22.07.95 - RT I 1995, 59, 1006; </inglise>
+<eesti>22.02.95 j&otilde;ust. 27.03.95. </eesti>
+<inglise>22.02.95 entered into force 27.03.95. </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General Provisions </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Seaduse reguleerimisala </eesti>
+<inglise>Scope of application of Act </inglise>
+<eesti>(1) Maakatastriseadus s&auml;testab maakatastri (edaspidi kataster) pidamise alused, katastri pidamise eesm&auml;rgi, katastri&uuml;ksuste registreerimise korra, katastriandmete koosseisu ja nende t&ouml;&ouml;tlemise korra ning katastri finantseerimise korra. </eesti>
+<inglise>(1) The Land Cadastre Act provides the bases for maintenance of the land cadastre (hereinafter cadastre), the objective of maintenance of the cadastre, the procedure for registration of cadastral units, the composition of cadastral data and the procedure for the processing thereof, and the procedure for the financing of the cadastre. </inglise>
+<eesti>(2) Kataster on riigi p&otilde;hiregister. </eesti>
+<inglise>(2) The cadastre is a general national register. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 1 (1). </eesti>
+<inglise>&sect; 1 (1). </inglise>
+<eesti>Katastri pidamise eesm&auml;rk </eesti>
+<inglise>Objective of maintenance of cadastre </inglise>
+<eesti>(1) Katastri pidamise eesm&auml;rk on maa v&auml;&auml;rtust, maa looduslikku seisundit ja maa kasutamist kajastava informatsiooni registreerimine katastris ning informatsiooni kvaliteedi, s&auml;ilimise ja avalikkusele k&auml;ttesaadavuse tagamine. </eesti>
+<inglise>(1) The objective of the maintenance of the cadastre is to register information in the cadastre reflecting the value of land, the natural status of land and the use of land, and to ensure the quality of such information and that it is preserved and made available to the public. </inglise>
+<eesti>(2) Katastriandmed on aluseks ruumiandmeid sisaldavate infos&uuml;steemide loomisel ja arendamisel. </eesti>
+<inglise>(2) Cadastral data shall be the basis for the creation and development of information systems containing spatial data. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>M&otilde;isted </eesti>
+<inglise>Definitions </inglise>
+<eesti>K&auml;esolevas seaduses kasutatakse m&otilde;isteid j&auml;rgmises t&auml;henduses: </eesti>
+<inglise>In this Act, the following definitions are used as follows: </inglise>
+<eesti>1) maakataster (kataster) - andmekogu, mis koosneb maaregistrist koos katastrikaartidega ja katastriarhiivist; </eesti>
+<inglise>1) "land cadastre" ("cadastre") means a database consisting of the land register with cadastral maps and the cadastral archive; </inglise>
+<eesti>2) maaregister - katastri&uuml;ksuste kohta registreeritavate ja peetavate andmete kogu; </eesti>
+<inglise>2) "land register" means a collection of data pertaining to cadastral units which are registered and maintained; </inglise>
+<eesti>3) katastri kaardid (edaspidi kaardid) - katastri koosseisu kuuluvad kaardid registrisse kantava informatsiooni (piiride, kitsendusi p&otilde;hjustavate objektide paiknemise, maa kvaliteedi andmete jne) graafiliseks esitamiseks. </eesti>
+<inglise>3) "cadastral maps" (hereinafter maps) means maps in the cadastre for the graphic presentation of information entered in the register (boundaries, location of objects which give rise to restrictions, data on quality of land, etc.). </inglise>
+<eesti>Kaartideks on katastrikaart (&sect; 11), kitsenduste kaart (&sect; 12) ning maa kvaliteedi ja hindamise kaart (&sect; 14); </eesti>
+<inglise>Cadastral maps (&sect; 11), restrictions maps (&sect; 12) and land quality and valuation maps (&sect; 14) are maps; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>4) katastripiirkond - haldus&uuml;ksus v&otilde;i selle osa, mille m&auml;&auml;ramisel arvestatakse omavalitsus&uuml;ksuste piire; </eesti>
+<inglise>4) "cadastral area" means an administrative unit or a part thereof which is determined taking into consideration the boundaries of local governments; </inglise>
+<eesti>5) asum - katastri pidamisel kasutatav katastripiirkonna osa, mille m&auml;&auml;ramisel arvestatakse olemasoleva asustuse v&auml;ljakujunenud piire; </eesti>
+<inglise>5) "settlement" means a part of a cadastral area used in the maintenance of the cadastre which is determined taking into consideration existing settlement patterns; </inglise>
+<eesti>6) katastritunnus - numbriline kood, mis on ette n&auml;htud katastri&uuml;ksuste identifitseerimiseks ja andmete sidumiseks teiste registritega; </eesti>
+<inglise>6) "cadastral code" means a numeric code which is used to identify cadastral units and to relate data to other registers; </inglise>
+<eesti>7) katastri&uuml;ksus - katastris iseseisva &uuml;ksusena registreeritud maat&uuml;kk; </eesti>
+<inglise>7) "cadastral unit" means a plot of land registered in the cadastre as an independent unit; </inglise>
+<eesti>8) maat&uuml;kk (maa&uuml;ksus) - maa v&otilde;i veeala piiritletud osa; </eesti>
+<inglise>8) "plot of land" ("land unit") means a delimited part of land or water; </inglise>
+<eesti>9) katastri&uuml;ksuse sihtotstarve - &otilde;igusaktidega lubatud ja nendes s&auml;testatud korras m&auml;&auml;ratud katastri&uuml;ksuse kasutamise otstarve v&otilde;i otstarbed; </eesti>
+<inglise>9) "intended use of cadastral unit" means the use or uses of a cadastral unit permitted by legislation and determined pursuant to the procedure provided therein; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>9 (1)) piiripunkt - maa&uuml;ksuse v&auml;lispiiri punkt, millele on &otilde;igusaktides kehtestatud korras m&auml;&auml;ratud koordinaadid ja mille asukohta looduses on vajaduse korral v&otilde;imalik m&auml;&auml;rata; </eesti>
+<inglise>9 (1)) "boundary point" means a point on the external border of a land unit which has coordinates determined pursuant to the procedure established by legislation and the location of which in the field can, if necessary, be determined; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>10) piirim&auml;rk - piiripunkti t&auml;his looduses ja mille asukohta on v&otilde;imalik taastada; </eesti>
+<inglise>10) "boundary marker" means a marker of a boundary point in the field, the location of which can be restored; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>11) k&otilde;lvik - &uuml;hetaolise majandusliku sihtotstarbe ja/v&otilde;i loodusliku seisundiga katastri&uuml;ksuse osa, mida ei piiritleta piirim&auml;rkidega. </eesti>
+<inglise>11) "land use type" means a part of a cadastral unit which has the same intended economic use and/or natural status and which is not delimited by boundary markers. </inglise>
+<eesti>12) tehingu &otilde;iend - kinnisasja v&otilde;i ehitise kui vallasasja v&otilde;i nende osade v&otilde;&otilde;randamise tehingu kohta koostatav dokument; </eesti>
+<inglise>12) "certified statement of transaction" means a document prepared concerning a transaction for transfer of an immovable or a structure as is a movable or parts thereof; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>13) katastri aluskaardid - katastri kaartide alusena kasutatavad topograafilist infot sisaldavad kaardid, mis ei kuulu katastri koosseisu. </eesti>
+<inglise>13) "maps on which cadastral maps are based" means maps which contain topographic information, which are used as the bases for cadastral maps and which are not part of the cadastre. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Katastripidaja ja tema &uuml;lesanded </eesti>
+<inglise>Cadastral registrar and its functions </inglise>
+<eesti>(1) Katastri vastutav t&ouml;&ouml;tleja on Keskkonnaministeerium. </eesti>
+<inglise>(1) The chief processor of the cadastre is the Ministry of the Environment. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(1 (1)) Katastri volitatud t&ouml;&ouml;tleja (edaspidi katastripidaja) on Maa-amet. </eesti>
+<inglise>(1 (1)) The authorised processor of the cadastre (hereinafter cadastral registrar) is the Land Board. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(2) Katastripidaja &uuml;lesandeks on katastri&uuml;ksuste registreerimine, kitsenduste ja maakasutus&otilde;iguste registreerimine ning maa hindamiseks vajalike andmete kogumine ja t&ouml;&ouml;tlemine. </eesti>
+<inglise>(2) The function of the cadastral registrar is to register cadastral units, register restrictions and rights of use of land, and collect and process data necessary for the valuation of land. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(3) Katastrit peetakse &uuml;htse &uuml;hetasandilise infotehnoloogilise andmebaasina ja kaartidena kogu Eesti territooriumi kohta. </eesti>
+<inglise>(3) The cadastre is maintained as a uniform single-level computerised database and maps for the entire territory of Estonia. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(4) Katastripidaja &uuml;lesandeks on maaregistri algdokumentide ning kaartide k&auml;ttesaadavuse ja s&auml;ilivuse tagamine. </eesti>
+<inglise>(4) The cadastral registrar shall ensure access to and preservation of original documents and maps in the land register. </inglise>
+<eesti>(5) Katastripidamise korra kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(5) The procedure for maintenance of the cadastre shall be established by the Government of the Republic. </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Katastripidaja ja kinnistusameti andmevahetus </eesti>
+<inglise>Exchange of data between cadastral registrar and land registry </inglise>
+<eesti>(1) Katastripidaja ja kinnistusamet vahetavad andmeid. </eesti>
+<inglise>(1) The cadastral registrar and the land registry shall exchange data. </inglise>
+<eesti>(2) Katastripidaja esitab kinnistusametile: </eesti>
+<inglise>(2) The cadastral registrar shall submit the following to the land registry: </inglise>
+<eesti>1) katastri&uuml;ksuse m&otilde;&otilde;distamise tulemusel t&auml;psustatud andmed kinnistu pindala kohta kinnistusraamatu andmete t&auml;psustamiseks v&otilde;i parandamiseks; </eesti>
+<inglise>1) data pertaining to the area of a registered immovable which has been corrected as the result of a survey of a cadastral unit, in order to correct or amend data in the land register; </inglise>
+<eesti>2) kinnistu v&otilde;i kinnistu osade sihtotstarbe muutumisel andmed muudetud sihtotstarbe (sihtotstarvete) kohta. </eesti>
+<inglise>2) upon a change of the intended use of a registered immovable or a part thereof, data pertaining to the changed intended use or uses. </inglise>
+<eesti>(3) Kinnistusamet esitab katastripidajale: </eesti>
+<inglise>(3) The land registry shall submit the following to the cadastral registrar: </inglise>
+<eesti>1) andmed kinnistu numbri ja kinnistamise kuup&auml;eva kohta; </eesti>
+<inglise>1) data pertaining to registered immovable property numbers and the date of registration of immovables; </inglise>
+<eesti>2) andmed omaniku ja/v&otilde;i hoonestaja kohta ja nendega seotud muudatused; </eesti>
+<inglise>2) data pertaining to owners or superficiaries and amendments thereto; </inglise>
+<eesti>3) andmed kinnistu &uuml;hendamise ja jagamise kohta; </eesti>
+<inglise>3) data pertaining to the merger or division of registered immovables; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>4) andmed kinnistule seatud avalik-&otilde;iguslike kitsenduste kohta ja nendega seotud muudatused; </eesti>
+<inglise>4) data pertaining to restrictions in public law established in respect of registered immovables and amendments thereto; </inglise>
+<eesti>5) kinnisasja v&otilde;i selle osa v&otilde;&otilde;randamise tehingu &otilde;iendi, kus on j&auml;rgmised andmed: tehinguobjekti kinnistu number(id) ja katastritunnus(ed), tehinguobjekti liik ja omandiosa suurus, tehingu liik, tehingu sooritamise kuup&auml;ev, tehingu hind, selle puudumisel tehinguv&auml;&auml;rtus, andmed hoonestatuse kohta, andmed tehingu poolte kohta (isiku liik, tehingu osapoolte arv) ning andmed koormatiste olemasolu kohta. </eesti>
+<inglise>5) certified statements of transactions concerning the transfer of immovables or parts thereof which set out the following information: the registered immovable number(s) and cadastral register number(s) of the object of the transaction, the type of object of transaction and the share in the ownership of the object of the transaction, the type of transaction, the date of entry into the transaction, the price of the transaction or, in the absence thereof, the transaction value, data on buildings or structures, data on parties to the transaction (type of persons, number of parties to the transaction), and information concerning the existence of encumbrances. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(3 (1)) Katastri ja kinnistusraamatu andmete elektroonilise ristkasutuse korral vahetatakse k&auml;esoleva paragrahvi 2. ja 3. l&otilde;ikes nimetatud andmeid. </eesti>
+<inglise>(3 (1)) Upon electronic interbase cross-usage of data from the cadastre and the land register, data specified in subsections (2) and (3) of this section shall be exchanged. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(4) Katastripidaja ja kinnistusamet v&otilde;ivad vahetada muid andmeid Vabariigi Valitsuse poolt kehtestatud korras ja ulatuses. </eesti>
+<inglise>(4) The cadastral registrar and the land registry may exchange other data pursuant to the procedure and to the extent established by the Government of the Republic. </inglise>
+<eesti>(5) Andmed tuleb esitada mitte hiljem kui 10 p&auml;eva jooksul p&auml;rast vastava kande tegemist katastrisse v&otilde;i kinnistusraamatusse. </eesti>
+<inglise>(5) Data shall be submitted no later than ten days after the corresponding entry is made in the cadastre or land register. </inglise>
+<eesti>(6) Katastripidaja ja kinnistusameti andmevahetus toimub tasuta. </eesti>
+<inglise>(6) The exchange of data between the cadastral registrar and land registry shall be free of charge. </inglise>
+<eesti>(7) K&auml;esoleva paragrahvi 3. l&otilde;ike punktis 5 nimetatud tehingu &otilde;iendi vormi ja selle koostamise ning esitamise korra kehtestab justiitsminister. </eesti>
+<inglise>(7) The format of the certified statement of transaction specified in clause (3) 5) of this section and the procedure for the completion and submission thereof shall be established by the Minister of Justice. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Katastripidaja andmevahetus kohaliku omavalitsusorganiga </eesti>
+<inglise>Exchange of data between cadastral registrar and local governments </inglise>
+<eesti>(1) Katastripidaja esitab kohalikule omavalitsusorganile andmed selle haldusterritooriumil asuvate katastri&uuml;ksuste pindalades, k&otilde;lvikulises kooseisus, maa maksustamishinnas, kitsendustes ja kasutuspiirangutes toimunud muudatustest mitte harvem kui kord kvartalis. </eesti>
+<inglise>(1) The cadastral registrar shall submit to the local government data pertaining to amendments to the area, land use type categories, assessed value of land, restrictions and limitations on use of cadastral units within the territory of the local government at least once per quarter. </inglise>
+<eesti>(2) Kohalik omavalitsusorgan esitab katastripidajale andmed tema poolt kinnitatud katastri&uuml;ksuse sihtotstarbe, &uuml;ldplaneeringu, detailplaneeringu ja maakorralduskava, seadusj&auml;rgsete ja teiste kitsenduste muudatuste ning teiste katastri andmeid muutvate otsuste vastuv&otilde;tmise kohta mitte harvem kui kord kvartalis, kui seaduses ei ole ette n&auml;htud teisiti. </eesti>
+<inglise>(2) Local governments shall submit data pertaining to the intended use of cadastral units, comprehensive plans, detailed plans and land readjustment plans approved by the local governments, to amendments to restrictions established by law and other restrictions, and to the adoption of decisions which bring about amendments to the cadastral data to the cadastral registrar at least once per quarter unless otherwise prescribed by law. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(3) K&auml;esolevas paragrahvis etten&auml;htud andmevahetus toimub tasuta. </eesti>
+<inglise>(3) The exchange of data prescribed in this section shall be free of charge. </inglise>
+<eesti>(4) Katastri ja kohaliku omavalitsuse andmekogu ristkasutuse korral vahetatakse k&auml;esoleva paragrahvi 1. ja 2. l&otilde;ikes nimetatud andmeid elektrooniliselt. </eesti>
+<inglise>(4) Upon interbase cross-usage of data from the cadastre and local government databases, data specified in subsections (1) and (2) of this section shall be exchanged electronically. </inglise>
+<eesti>Andmete ristkasutuse korraldamiseks s&otilde;lmivad katastri vastutav t&ouml;&ouml;tleja ja kohaliku omavalitsuse andmekogu vastutav t&ouml;&ouml;tleja lepingu. </eesti>
+<inglise>In order to organise interbase cross-usage of data, the chief processor of the cadastre and the chief processor of the corresponding local government database shall enter into a contract. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 5 (1). </eesti>
+<inglise>&sect; 5 (1). </inglise>
+<eesti>Andmete ristkasutus teiste andmekogudega </eesti>
+<inglise>Interbase cross-usage of data with other databases </inglise>
+<eesti>Andmete ristkasutus teiste andmekogudega toimub Vabariigi Valitsuse m&auml;&auml;ratud juhtudel ja ulatuses. </eesti>
+<inglise>The interbase cross-usage of data with other databases shall be carried out in the cases and to the extent determined by the Government of the Republic. </inglise>
+<eesti>Sellisel juhul s&otilde;lmivad katastri vastutav t&ouml;&ouml;tleja ja ristkasutuses oleva andmekogu vastutav t&ouml;&ouml;tleja andmete ristkasutuse korraldamiseks lepingu. </eesti>
+<inglise>In such case, the chief processor of the cadastre and the chief processor of the database in cross-usage shall enter into a contract for the organisation of the interbase cross-usage of data. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Katastriandmetele juurdep&auml;&auml;s </eesti>
+<inglise>Access to cadastral data </inglise>
+<eesti>(1) Katastriandmetele juurdep&auml;&auml;s toimub katastriandmetega tutvumise ja nendest v&auml;ljav&otilde;tete saamise teel. </eesti>
+<inglise>(1) Cadastral data shall be accessed by way of reviewing cadastral data and taking extracts therefrom. </inglise>
+<eesti>(2) Iga&uuml;ks v&otilde;ib tutvuda katastriandmetega ja saada nendest v&auml;ljav&otilde;tteid, kui seadusega ei ole s&auml;testatud teisiti. </eesti>
+<inglise>(2) Every person may access cadastral data and take extracts therefrom unless otherwise provided by law. </inglise>
+<eesti>Tehingute andmebaasi andmetega v&otilde;ib tutvuda ja saada nendest v&auml;ljav&otilde;tteid ainult maa hindaja korralise ja erakorralise hindamise l&auml;biviimiseks. </eesti>
+<inglise>Data on the database of transactions may be accessed and extracts therefrom may be taken only for assessments and appraisals to be performed by valuators of land. </inglise>
+<eesti>(3) Katastriandmetega on v&otilde;imalik tutvuda katastripidaja juures ning andmesidev&otilde;rkude kaudu juhul, kui on tagatud, et lubatud tutvumise mahtu ei &uuml;letata ja et tutvuval isikul ei ole v&otilde;imalik katastriandmeid muuta. </eesti>
+<inglise>(3) Cadastral data may be accessed at the cadastral registrar and through data communications networks if it is ensured that the permitted extent of access cannot be exceeded and that the person accessing cannot alter cadastral data. </inglise>
+<eesti>Katastriandmetele juurdep&auml;&auml;suks piisab katastri&uuml;ksuse katastritunnuse v&otilde;i asukoha (aadressi) ja olemasolu korral nime teadmisest. </eesti>
+<inglise>Cadastral data may be accessed if the cadastral register number or location (address) of a cadastral unit and the name of the cadastral unit, if the cadastral unit has a name, are known. </inglise>
+<eesti>Katastriandmetele juurdep&auml;&auml;su sooviv isik v&otilde;ib korraga tutvuda &uuml;he katastri&uuml;ksuse ja sellega piirnevate katastri&uuml;ksuste andmetega. </eesti>
+<inglise>A person who requests access to cadastral data may access the data of one cadastral unit and the cadastral units adjacent thereto at a time. </inglise>
+<eesti>(4) Katastri ametlikeks v&auml;ljav&otilde;teteks on katastripidaja pitsati ja allkirjaga t&otilde;estatud &otilde;iend maa&uuml;ksuse registreerimise kohta maakatastris, mis peab sisaldama katastri&uuml;ksuse katastritunnust, sihtotstarvet, asukohta, pindala ja katastri&uuml;ksuse moodustamise &otilde;iguslikku alust, ning katastripidaja pitsati ja allkirjaga t&otilde;estatud koopia katastri&uuml;ksuse plaanist v&otilde;i katastripidaja pitsati ja allkirjaga t&otilde;estatud v&auml;ljav&otilde;te kaartidest. </eesti>
+<inglise>(4) A statement of registration of a land unit in the cadastre which is certified by the seal and signature of the cadastral registrar and which sets out the cadastral register number, intended use, location and area of the cadastral unit and the legal basis for the formation of the cadastral unit, and a copy of a cadastre plan certified by the seal and signature of the cadastral registrar or an extract of the maps certified by the seal and signature of the cadastral registrar are the only official extracts from the cadastre. </inglise>
+<eesti>(5) Katastriandmetega tutvumine katastripidaja juures toimub katastriandmete taasesitamise teel kuvari ekraanil v&otilde;i v&auml;ljatr&uuml;kil. </eesti>
+<inglise>(5) Cadastral data are accessed at the cadastral registrar by way of reproduction of the cadastral data on a display screen or on a printout. </inglise>
+<eesti>(6) Katastriandmetega tutvumine andmesidev&otilde;rkude vahendusel toimub katastripidaja loa alusel. </eesti>
+<inglise>(6) Cadastral data may be accessed through data communications networks on the basis of authorisation issued by the cadastral registrar. </inglise>
+<eesti>Nimetatud loa v&auml;ljaandmine ja katastriandmetega tutvumine toimub keskkonnaministri poolt kehtestatud korras. </eesti>
+<inglise>The specified authorisation shall be issued and cadastral data shall be accessed pursuant to the procedure established by the Minister of the Environment. </inglise>
+<eesti>(7) Katastriandmetega tutvuda sooviv isik peab esitama katastripidajale isikut t&otilde;endava dokumendi, isiku esindaja ka volitusi t&otilde;endava dokumendi. </eesti>
+<inglise>(7) A person who requests access to cadastral data shall present an identity document to the cadastral registrar, and the representative of the person shall also present a document certifying his or her authority. </inglise>
+<eesti>Katastriandmetega tutvumiseks andmesidev&otilde;rkude vahendusel esitatakse eelmises lauses nimetatud dokumendid automatiseeritud andmet&ouml;&ouml;tluse jaoks loa saamisel ning katastriandmetega tutvumisel esitatakse katastripidaja poolt v&auml;ljastatud elektrooniline kasutajakood. </eesti>
+<inglise>In order to access cadastral data through data communications networks, the documents specified in the previous sentence shall be submitted upon the receipt of authorisation for automatic data processing and an electronic user code issued by the cadastral registrar shall be submitted when accessing cadastral data. </inglise>
+<eesti>(8) Katastripidaja peab arvestust katastriandmetega tutvuvate isikute, tutvumise sisu ja aja kohta. </eesti>
+<inglise>(8) The cadastral registrar shall maintain records on persons accessing cadastral data and on the content and time of access. </inglise>
+<eesti>(9) Katastripidaja v&auml;ljastab k&auml;esoleva paragrahvi 4. l&otilde;ikes nimetatud v&auml;ljav&otilde;tte hiljemalt 15 t&ouml;&ouml;p&auml;eva jooksul taotluse esitamisest. </eesti>
+<inglise>(9) The cadastral registrar shall issue the extract specified in subsection (4) of this section not later than within fifteen working days as of the submission of the application. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Katastri finantseerimine </eesti>
+<inglise>Financing of cadastre </inglise>
+<eesti>(1) Katastri pidamist finantseeritakse riigieelarvest. </eesti>
+<inglise>(1) Maintenance of the cadastre is financed from the state budget. </inglise>
+<eesti>(2) Riigil&otilde;ivum&auml;&auml;rad katastriandmetest v&auml;ljav&otilde;tete tegemise eest kehtestatakse riigil&otilde;ivuseadusega (RT I 1997, 80, 1344; 2000, 5, 32; 10, 58; 19, 117; 26, 150; 29, 168 ja 169; 39, 237; 49, 300; 54, 346 ja 349; 55, 365; 57, 372 ja 373; 59, 379; 60, &otilde;iend; 78, 498; 84, 534). </eesti>
+<inglise>(2) The rates of state fees for taking extracts from cadastral data shall be established by the State Fees Act (RT I 1997, 80, 1344; 2000, 5, 32; 10, 58; 19, 117; 26, 150; 29, 168 and 169; 39, 237; 49, 300; 54, 346 and 349; 55, 365; 57, 372 and 373; 59, 379; 60, correction notice; 78, 498; 84, 534). </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Kataster </eesti>
+<inglise>Cadastre </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Katastripidaja &otilde;igused ja kohustused </eesti>
+<inglise>Rights and duties of cadastral registrar </inglise>
+<eesti>(1) Katastri&uuml;ksusi registreerib ning kandeid, sealhulgas parandusi ja muudatusi teeb katastrisse katastripidaja k&auml;esolevas seaduses s&auml;testatud alustel. </eesti>
+<inglise>(1) The cadastral registrar registers cadastral units and makes entries, including corrections and amendments, in the cadastre on the bases provided for in this Act. </inglise>
+<eesti>(2) Katastripidajal on &otilde;igus keelduda katastri&uuml;ksuse registreerimisest v&otilde;i kande v&otilde;i muudatuse tegemisest, kui: </eesti>
+<inglise>(2) The cadastral registrar has the right to refuse to register a cadastral unit or to make an entry or amendment if: </inglise>
+<eesti>1) esitatud dokumentidest ei selgu soovitava kande &otilde;iguslik alus; </eesti>
+<inglise>1) the submitted documents do not provide a legal basis for the desired entry; </inglise>
+<eesti>2) esitatud dokumendid ja plaanid on vormistatud vigadega v&otilde;i ebakorrektselt. </eesti>
+<inglise>2) the submitted documents and plans contain errors or are prepared incorrectly. </inglise>
+<eesti>(3) Katastri&uuml;ksuse registreerimisest, kande v&otilde;i muudatuse tegemisest keeldumisel tuleb katastripidaja poolt esitada kirjalikult motiveeritud keeldumise otsus katastri&uuml;ksuse registreerimist v&otilde;i kande v&otilde;i muudatuse tegemist taotlenud isikule &uuml;he kuu jooksul vastava taotluse katastripidajale esitamisest. </eesti>
+<inglise>(3) Upon refusal to register a cadastral unit or to make an entry or amendment, the cadastral registrar shall provide the person who applied for registration of the cadastral unit or for the entry or amendment with the reasoned written decision on refusal within one month after submission of such application to the cadastral registrar. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(4) Katastrit peetakse eesti keeles. </eesti>
+<inglise>(4) The cadastre is maintained in Estonian. </inglise>
+<eesti>V&otilde;&otilde;rkeelsed dokumendid esitatakse koos eestikeelse t&otilde;lkega. </eesti>
+<inglise>Documents in foreign languages shall be submitted together with a translation into Estonian. </inglise>
+<eesti>(5) Katastripidaja vastutab tehtud kande vastavuse eest algdokumendile. </eesti>
+<inglise>(5) The cadastral registrar is responsible for the conformity of entries with original documents. </inglise>
+<eesti>Katastripidaja valest kandest tekitatud kahjud h&uuml;vitatakse seaduses s&auml;testatud korras. </eesti>
+<inglise>Damage caused by incorrect entries made by the cadastral registrar is compensated for pursuant to the procedure provided by law. </inglise>
+<eesti>(6) Katastripidaja teatab kannet taotlenud isikule maaregistrisse kande tegemisest, selle muutmisest v&otilde;i kustutamisest Vabariigi Valitsuse poolt kehtestatud korras. </eesti>
+<inglise>(6) The person who applied for an entry shall be notified by the cadastral registrar of the making of the entry in the land register or of the amendment or deletion thereof pursuant to the procedure established by the Government of the Republic. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(7) Katastri&uuml;ksuse registreerimiseks, kande v&otilde;i muudatuse tegemiseks esitatavate dokumentide loetelu kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(7) The list of documents to be submitted for the registration of cadastral units or for the making of entries or amendments shall be established by the Government of the Republic. </inglise>
+<eesti>(8) Katastrile andmete esitamise ja katastrist andmete v&auml;ljastamise &uuml;le peab katastripidaja arvestust elektrooniliselt. </eesti>
+<inglise>(8) The cadastral registrar shall maintain electronic records on the submission of data to the cadastre and the issue of data from the cadastre. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Maaregister </eesti>
+<inglise>Land register </inglise>
+<eesti>(1) (Kehtetu - 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(1) (Repealed -15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(2) Maaregister sisaldab katastri&uuml;ksuse kohta j&auml;rgmisi andmeid: </eesti>
+<inglise>(2) The land register contains the following data pertaining to a cadastral unit: </inglise>
+<eesti>1) katastritunnus; </eesti>
+<inglise>1) the cadastral code; </inglise>
+<eesti>2) asukoht ja olemasolul nimi; </eesti>
+<inglise>2) the location and name, if this exists; </inglise>
+<eesti>3) omavalitsus&uuml;ksuse nimetus; </eesti>
+<inglise>3) the name of the local government; </inglise>
+<eesti>4) katastris registreerimise kuup&auml;ev, kuu ja aasta; </eesti>
+<inglise>4) the date, month and year of registration in the cadastre; </inglise>
+<eesti>5) kinnistu number; </eesti>
+<inglise>5) the register part number of the immovable property; </inglise>
+<eesti>6) kinnistamise kuup&auml;ev; </eesti>
+<inglise>6) the date of registration in the land register; </inglise>
+<eesti>7) omaniku, hoonestaja nimi, aadress ja isikukood, juriidilisel isikul asukoht, postiaadress ja registreerimisnumber; </eesti>
+<inglise>7) the name, address and personal identification code of the owner or superficiary; in the case of a legal person, the seat, postal address and registration number; </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>8) kasutamise kitsendused; </eesti>
+<inglise>8) the restrictions on use; </inglise>
+<eesti>9) sihtotstarve; </eesti>
+<inglise>9) the intended use; </inglise>
+<eesti>10) &uuml;ldpindala; </eesti>
+<inglise>10) the total area; </inglise>
+<eesti>11) pindalad k&otilde;lvikute ja sihtotstarvete l&otilde;ikes; </eesti>
+<inglise>11) the area by land use type and intended use; </inglise>
+<eesti>12) piiripunktide andmed; </eesti>
+<inglise>12) the data pertaining to boundary points; </inglise>
+<eesti>13) (Kehtetu - 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>13) (Repealed -15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>14) maksustamishind; </eesti>
+<inglise>14) the assessed value; </inglise>
+<eesti>15) (Kehtetu - 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>15) (Repealed -15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>16) katastritunnus v&otilde;i -tunnused, millest antud katastri&uuml;ksus on moodustatud. </eesti>
+<inglise>16) the cadastral code or codes from which the cadastral unit is formed. </inglise>
+<eesti>(2 (1)) Maa korralise ja erakorralise hindamise l&auml;biviimiseks ning maa v&auml;&auml;rtust kajastavate andmete t&ouml;&ouml;tlemiseks moodustatakse tehingute andmebaas. </eesti>
+<inglise>(2 (1)) A database of transactions shall be created in order to enable land to be assessed and appraised and data reflecting the value of land to be processed. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(2 (2)) Tehingute andmebaas sisaldab kinnisasjade ja ehitiste kui vallasasjade v&otilde;i nende osade v&otilde;&otilde;randamise tehingute kohta j&auml;rgmisi andmeid: </eesti>
+<inglise>(2 (2)) The database of transactions shall contain the following information on transactions for transfer of immovables and of structures as movables or parts thereof: </inglise>
+<eesti>1) tehingu identifikaator (automaatselt genereeritav j&auml;rjekorranumber); </eesti>
+<inglise>1) the identification number of the transaction (automatically generated serial number); </inglise>
+<eesti>2) tehingu liik (ost-m&uuml;&uuml;k, vahetus, kinge v&otilde;i muu); </eesti>
+<inglise>2) the type of transaction (purchase or sale, exchange, gift or other); </inglise>
+<eesti>3) tehinguobjekti liik (kinnisasi, hoonestus&otilde;igus, korteriomand, korterihoonestus&otilde;igus, vallasasi); </eesti>
+<inglise>3) the type of object of the transaction (immovable, right of superficies, apartment ownership, right of superficies in apartments, movable); </inglise>
+<eesti>4) tehinguobjekti katastritunnus(-ed); </eesti>
+<inglise>4) the cadastral register number(s) of the object of the transaction; </inglise>
+<eesti>5) tehinguobjekti omandiosa suurus; </eesti>
+<inglise>5) the share in the ownership of the object of the transaction; </inglise>
+<eesti>6) tehinguobjekti pindala ja k&otilde;lvikud; </eesti>
+<inglise>6) the area and land use types of the object of the transaction; </inglise>
+<eesti>7) tehinguobjekti sihtotstarve; </eesti>
+<inglise>7) the intended use of the object of the transaction; </inglise>
+<eesti>8) andmed hoonestatuse kohta; </eesti>
+<inglise>8) data on buildings or structures; </inglise>
+<eesti>9) andmed koormatiste olemasolu kohta; </eesti>
+<inglise>9) information concerning the existence of encumbrances; </inglise>
+<eesti>10) tehingu sooritamise kuup&auml;ev; </eesti>
+<inglise>10) the date of entry into the transaction; </inglise>
+<eesti>11) tehinguhind, selle puudumisel tehinguv&auml;&auml;rtus; </eesti>
+<inglise>11) the price of the transaction or, in the absence thereof, the transaction value; </inglise>
+<eesti>12) andmed tehingu poolte kohta (isiku liik, tehingu osapoolte arv). </eesti>
+<inglise>12) information concerning the parties to the transaction (type of person, number of parties to the transaction). </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(3) Katastripidaja v&otilde;ib vajadusel katastrisse kanda katastri&uuml;ksuse kohta muid andmeid ja moodustada andmebaase. </eesti>
+<inglise>(3) The cadastral registrar may enter other data concerning a cadastral unit in the cadastre and create databases if necessary. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(4) Maaregistrisse kande tegemine, sealhulgas muutmine ja kustutamine toimub seaduse, Vabariigi Valitsuse m&auml;&auml;ruse, kohtuotsuse, kinnistusameti teatise, kohaliku omavalitsusorgani otsuse v&otilde;i vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omava isiku poolt esitatud katastri&uuml;ksuse moodustamise toimiku v&otilde;i muude &otilde;igusaktides s&auml;testatud dokumentide alusel. </eesti>
+<inglise>(4) The making of entries in the land register, including the amendment and deletion of entries, shall be carried out on the basis of an Act, regulation of the Government of the Republic, court order, land registry notice, decision of a local government or cadastral unit formation file submitted by a sworn land surveyor or person with a corresponding licence, or on the basis of other documents provided for in other legislation. </inglise>
+<eesti>Kande tegemise aluseks v&otilde;ib olla ka riigi v&otilde;i kohaliku omavalitsusorgani &uuml;lesandel tehtud erakorralise hindamise akt. </eesti>
+<inglise>Entries may also be based on appraisal reports ordered by the state or a local government. </inglise>
+<eesti>(4 (1)) Tehingute andmebaasi kande tegemine, sealhulgas muutmine ja kustutamine toimub tehingu &otilde;iendi v&otilde;i muude &otilde;igusaktides s&auml;testatud dokumentide alusel. </eesti>
+<inglise>(4 (1)) Entries in the database of transactions, including amendment and deletion thereof, shall be made on the basis of certified statements of transactions or other documents provided by legislation. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(5) Maaregistri juurde kuuluvad katastri&uuml;ksuse plaan, katastrikaart, kitsenduste kaart, ning maa kvaliteedi ja hindamise kaart. </eesti>
+<inglise>(5) Cadastral plans, cadastral maps, restrictions maps and land quality and valuation maps form the land register. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Katastri&uuml;ksuse plaan </eesti>
+<inglise>Cadastral plan </inglise>
+<eesti>(1) Katastri&uuml;ksuse plaanile peavad olema kantud katastri&uuml;ksuse piirid, ehitised (hooned, rajatised), k&otilde;lvikute paiknemine ja kitsendusi p&otilde;hjustavate objektide asukoht ning andmed k&otilde;lvikute pindalade kohta. </eesti>
+<inglise>(1) The boundaries of a cadastral unit, structures (buildings and constructions), location of land use types, location of objects which give rise to restrictions and data on the area of each land use type shall be marked on a cadastral plan. </inglise>
+<eesti>Katastri&uuml;ksuse plaan on katastri&uuml;ksuse piiride ja kitsendusi p&otilde;hjustavate objektide asukohta t&otilde;endavaks algdokumendiks katastrisse kandmisel. </eesti>
+<inglise>A cadastral plan is the source document upon the making of an entry in the cadastre for proof of the location of boundaries and objects which give rise to restrictions. </inglise>
+<eesti>(2) Katastri&uuml;ksuse plaani koostab vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omav isik. </eesti>
+<inglise>(2) A cadastral plan is compiled by a sworn land surveyor or person with a corresponding licence. </inglise>
+<eesti>&Uuml;ks eksemplar sellest plaanist kuulub katastri&uuml;ksuse moodustamise toimiku koosseisu. </eesti>
+<inglise>One copy of such plan shall be included in the cadastral unit formation file. </inglise>
+<eesti>(3) Katastri&uuml;ksuse moodustamise ajaks rajatud v&otilde;i kaitse alla v&otilde;etud kitsendust p&otilde;hjustav objekt loetakse seaduslikuks ja kitsendus seadusj&auml;rgseks ning selle asukoht (piirid) kantakse katastri&uuml;ksuse plaanile. </eesti>
+<inglise>(3) An object which gives rise to a restriction and is constructed or placed under protection by the time a cadastral unit is formed is deemed to be lawful, such restriction is deemed to be legal and the location (boundaries) of the restriction shall be entered on the cadastral plan. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Katastrikaart </eesti>
+<inglise>Cadastral map </inglise>
+<eesti>(1) Katastrikaardil ja p&otilde;hikaardil kasutatakse &uuml;hist matemaatilist alust ja kartograafilist projektsiooni. </eesti>
+<inglise>(1) A common mathematical basis and cartographic projection shall be used for cadastral maps and the base map. </inglise>
+<eesti>(2) Katastrikaardi m&otilde;&otilde;tkava on 1: 10 000, &otilde;igusaktidega s&auml;testatud korras m&auml;&auml;ratud tiheasustusega aladel on katastrikaardi m&otilde;&otilde;tkava 1: 500 v&otilde;i 1: 2000. </eesti>
+<inglise>(2) The scale of cadastral maps shall be 1: 10 000, and the scale of cadastral maps in high density areas determined pursuant to the procedure provided by legislation shall be 1: 500 or 1: 2000. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(3) Kanded katastrikaardile teeb katastripidaja. </eesti>
+<inglise>(3) Markings on cadastral maps shall be made by the cadastral registrar. </inglise>
+<eesti>Katastrikaardile kantakse riigipiir, maakonna, valla ja linna halduspiirid, alevi, aleviku, k&uuml;la, katastripiirkonna, asumi ja katastri&uuml;ksuste piirid ning katastritunnused. </eesti>
+<inglise>The state border, the administrative boundaries of counties, rural municipalities and cities, the boundaries of towns, small towns, villages, cadastral areas, settlements and cadastral units, and their cadastral codes shall be marked on the cadastral map. </inglise>
+<eesti>(22.02.95 j&otilde;ust. 27.03.95 - RT I 1995, 29, 356) </eesti>
+<inglise>(22.02.95 entered into force 27.03.95 - RT I 1995, 29, 356) </inglise>
+<eesti>(4) Halduspiiride kaardile kandmise ja muutmise aluseks on &otilde;igusaktidega kinnitatud piirid. </eesti>
+<inglise>(4) Administrative boundaries are marked and amended on maps based on the boundaries confirmed by legislation. </inglise>
+<eesti>(5) Kui katastripidamise k&auml;igus katastri aluskaart vahetub ning kasutusele v&otilde;etaval kaardil olev halduspiir ei lange kokku kasutusel olnud kaardil olevate situatsioonielementidega, on katastripidajal lubatud t&auml;psustada halduspiiri katastriandmete alusel. </eesti>
+<inglise>(5) If the map on which the cadastral maps are based is altered in the course of maintenance of the cadastre and if the administrative boundary on the map to be adopted does not coincide with the situational elements on the map previously used, the cadastral registrar is permitted to specify the administrative boundary on the basis of cadastral data. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Kitsenduste kaart </eesti>
+<inglise>Restrictions map </inglise>
+<eesti>(1) Katastripidaja kannab kitsenduste kaardile katastri&uuml;ksuse kasutamise kitsendust p&otilde;hjustava objekti asukoha (piirid) ning vajaduse korral esitab kitsenduse ulatuse. </eesti>
+<inglise>(1) The cadastral registrar shall enter the location (boundaries) of objects which give rise to restrictions on the use of a cadastral unit on the restrictions map and, if necessary, shall specify the scope of such restrictions. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(2) Kitsenduste kaardile kannete tegemine, muutmine ja kustutamine toimub kinnistusameti teatise v&otilde;i vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omava isiku poolt esitatud katastri&uuml;ksuse moodustamise toimiku v&otilde;i muude &otilde;igusaktides s&auml;testatud dokumentide alusel v&otilde;i &otilde;igusaktis etten&auml;htud muudel alustel. </eesti>
+<inglise>(2) The making, amendment and deletion of markings on a restrictions map shall be carried out on the basis of a land registry notice, cadastral unit formation file or other documents provided for in other legislation submitted by a sworn land surveyor or person with a corresponding licence, or another basis provided by legislation. </inglise>
+<eesti>(3) Kitsenduste kaardi m&otilde;&otilde;tkava v&otilde;ib katastripidaja otsusel olla suurem k&auml;esoleva seaduse paragrahv 11 2. l&otilde;ikes etten&auml;htud m&otilde;&otilde;tkavast. </eesti>
+<inglise>(3) A larger scale than prescribed by subsection 11 (2) of this Act may be used on the basis of a decision of the cadastral registrar. </inglise>
+<eesti>&sect; 13. (Kehtetu - 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>&sect; 13. (Repealed -15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>Maa kvaliteedi ja hindamise kaart </eesti>
+<inglise>Land quality and valuation map </inglise>
+<eesti>(1) Maa kvaliteedi ja hindamise kaardile kantakse vabariigi maismaad iseloomustavad maa kvaliteedi v&otilde;i v&auml;&auml;rtuse n&auml;itajad, mis on aluseks maa maksustamishinna m&auml;&auml;ramisel. </eesti>
+<inglise>(1) Quality or value indicators which characterise land in Estonia and constitute the basis for the assessed value of land shall be marked on a land quality and valuation map. </inglise>
+<eesti>(2) Maa kvaliteedi ja hindamise kaardil piiritletakse ja iseloomustatakse maa-alad, kus maa kasutamine ja majanduslik tegevus on reguleeritud seadusj&auml;rgse kitsenduse v&otilde;i planeeringuga, kui sellest s&otilde;ltub maksustamishind. </eesti>
+<inglise>(2) Areas where the use of land and economic activities are regulated by legal restrictions or planning shall be delimited and characterised on a land quality and valuation map if the assessed value of land depends thereon. </inglise>
+<eesti>(3) Maa kvaliteedi ja hindamise kaart koostatakse Vabariigi Valitsuse poolt kehtestatud korras. </eesti>
+<inglise>(3) Land quality and valuation maps shall be prepared pursuant to the procedure established by the Government of the Republic. </inglise>
+<eesti>&sect; 14 (1). </eesti>
+<inglise>&sect; 14 (1). </inglise>
+<eesti>Katastri aluskaardid </eesti>
+<inglise>Maps on which cadastral maps are based </inglise>
+<eesti>(1) Katastri aluskaardid on Eesti p&otilde;hikaart, ortofotod ning asulaplaanid. </eesti>
+<inglise>(1) The maps on which cadastral maps are based are the base map of Estonia, orthophotos and settlement plans. </inglise>
+<eesti>(2) Eesti p&otilde;hikaardi m&otilde;&otilde;tkava on 1: 10 000. </eesti>
+<inglise>(2) The scale of the base map of Estonia shall be 1: 10 000. </inglise>
+<eesti>Ortofotode m&otilde;&otilde;tkava on asulates 1: 2000 ja hajaasustusega aladel 1: 10 000. </eesti>
+<inglise>The scale of orthophotos shall be 1: 2000 in settlements and 1: 10 000 in low density areas. </inglise>
+<eesti>(3) Tiheasustusega aladel kasutatakse katastri aluskaardina asulaplaane m&otilde;&otilde;tkavas 1: 500 v&otilde;i 1: 2000. </eesti>
+<inglise>(3) In high density areas, settlement plans with a scale of 1: 500 or 1: 2000 shall be used as the maps on which cadastral maps are based. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>Katastriarhiiv </eesti>
+<inglise>Cadastral archive </inglise>
+<eesti>(1) Katastripidaja peab katastri maaregistri ja kaartide kasutamiseks ning kande aluseks olevate dokumentide s&auml;ilitamiseks arhiivi. </eesti>
+<inglise>(1) The cadastral registrar shall maintain an archive for use of the land register and cadastral maps and the storage of documents which constitute the basis for entries. </inglise>
+<eesti>Algdokumendid peavad olema kopeeritud. </eesti>
+<inglise>Original documents shall be copied. </inglise>
+<eesti>Koopiaid tuleb muutuste korral uuendada ja s&auml;ilitada eraldi asuvas arhiivis. </eesti>
+<inglise>New copies shall be made in the case of amendments and stored in a separate archive. </inglise>
+<eesti>(1 (1)) Tehingute andmebaasi kande aluseks olevaid algdokumente s&auml;ilitatakse katastriarhiivis viis aastat ja neid ei kopeerita. </eesti>
+<inglise>(1 (1)) Original documents which constitute the basis for entries in the database of transactions shall be preserved in the cadastral archive for five years and shall not be copied. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(2) Katastriarhiivi pidamise eeskirjad kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(2) Rules for the maintenance of the cadastral archive shall be established by the Government of the Republic. </inglise>
+<eesti>3. peat&uuml;kk </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>Katastripidamine </eesti>
+<inglise>Maintenance of Cadastre </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>Katastri&uuml;ksuse moodustamine </eesti>
+<inglise>Formation of cadastral unit </inglise>
+<eesti>(1) Katastri&uuml;ksuse moodustamiseks teostab vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omav isik maaomaniku lihtkirjaliku avalduse alusel katastrim&otilde;&otilde;distamised. </eesti>
+<inglise>(1) A sworn land surveyor or person with a corresponding licence shall carry out a cadastral survey for the formation of a cadastral unit based on an unattested written application of the landowner. </inglise>
+<eesti>Vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omav isik koostab &otilde;igusaktis s&auml;testatud korras katastri&uuml;ksuse moodustamise toimiku, mille ta esitab &otilde;igusaktis s&auml;testatud korras katastripidajale katastri&uuml;ksuse registreerimiseks. </eesti>
+<inglise>The sworn land surveyor or person with a corresponding licence shall prepare a cadastral unit formation file pursuant to the procedure provided by legislation and submit such file pursuant to the procedure provided by legislation to the cadastral registrar for registration of the cadastral unit. </inglise>
+<eesti>(2) Katastrim&otilde;&otilde;distamisi teostav vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omav isik vastutab tema poolt teostatud m&otilde;&otilde;distamise ning koostatud katastri&uuml;ksuse moodustamise toimiku &otilde;igsuse ja seaduslikkuse eest. </eesti>
+<inglise>(2) Sworn land surveyors or persons with corresponding licences who carry out cadastral surveys are responsible for the accuracy and legality of the cadastral unit formation files which they compile. </inglise>
+<eesti>(3) Katastri&uuml;ksuse minimaalsuuruseks on 30 m2. </eesti>
+<inglise>(3) The minimum size of a cadastral unit is 30 m2. </inglise>
+<eesti>Minimaalsuurusest v&auml;iksema katastri&uuml;ksuse v&otilde;ib moodustada kohaliku omavalitsuse volikogu otsusega. </eesti>
+<inglise>Cadastral units which are smaller than the minimum size may be formed pursuant to a decision of the local government. </inglise>
+<eesti>&sect; 16 (1). </eesti>
+<inglise>&sect; 16 (1). </inglise>
+<eesti>Maakorraldust&ouml;&ouml;de tegevuslitsentsi v&auml;ljaandmine </eesti>
+<inglise>Issue of activity licences for land readjustment works </inglise>
+<eesti>(1) Maakorraldust&ouml;&ouml;de tegemise &otilde;igus on maakorraldust&ouml;&ouml;de tegevuslitsentsi (edaspidi litsents) omaval isikul. </eesti>
+<inglise>(1) Persons who hold activity licences for land readjustment works (hereinafter licences) have the right to perform land readjustment works. </inglise>
+<eesti>(2) Litsentsi andmiseks moodustatakse Maa-ameti juurde ekspertkomisjon. </eesti>
+<inglise>(2) An expert committee shall be formed at the Land Board to issue licences. </inglise>
+<eesti>Komisjoni koosseisu kinnitab Maa-ameti peadirektor. </eesti>
+<inglise>The membership of the committee shall be approved by the Director General of the Land Board. </inglise>
+<eesti>Litsentsi annab v&auml;lja Maa-ameti peadirektor ekspertkomisjoni ettepanekul. </eesti>
+<inglise>Licences shall be issued by the Director General of the Land Board on the proposal of the expert committee. </inglise>
+<eesti>Litsents antakse viieks aastaks. </eesti>
+<inglise>Licences shall be issued for five years. </inglise>
+<eesti>Litsentsi pikendamise j&auml;rgmiseks kehtivuse perioodiks otsustab litsentsi omava isiku taotlusel tegevuslitsentsi v&auml;ljaandja ekspertkomisjoni ettepanekul. </eesti>
+<inglise>The extension of an activity licence for the next period of validity shall be decided on by issuer of the activity licence at the request of the person holding the licence and on the proposal of the expert committee. </inglise>
+<eesti>Litsents ei ole &uuml;leantav ning selle &uuml;leandmine teisele isikule ja kasutamine teise isiku poolt on keelatud. </eesti>
+<inglise>Licences are not transferable, and the transfer of a licence to or use of a licence by another person is prohibited. </inglise>
+<eesti>(3) Litsents antakse isikule, kes on sooritanud kaks katset&ouml;&ouml;d ja eksami maakorralduse ja maareformi l&auml;biviimise ning maakorraldust&ouml;&ouml;de teostamise teoorias ja praktikas. </eesti>
+<inglise>(3) A licence shall be issued to a person who has performed two test assignments and passed an examination in the theory and practice of land readjustment, the carrying out of land reform and the performance of land readjustment works. </inglise>
+<eesti>(4) Litsentsi v&auml;ljaandja v&otilde;ib keelduda tegevuslitsentsi v&auml;ljaandmisest juhul, kui taotleja: </eesti>
+<inglise>(4) The issuer of licences may refuse to issue an activity licence if the applicant: </inglise>
+<eesti>1) on litsentsi taotlemisel esitanud valeandmeid; </eesti>
+<inglise>1) submitted false information upon application for the licence; </inglise>
+<eesti>2) ei sooritanud katset&ouml;id; </eesti>
+<inglise>2) failed to perform the test assignments; </inglise>
+<eesti>3) ei sooritanud eksamit. </eesti>
+<inglise>3) failed to pass the examination. </inglise>
+<eesti>(5) Litsentsi v&auml;ljaandmise, peatamise ja t&uuml;histamise korra kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(5) The procedure for the issue, suspension and revocation of licences shall be established by the Government of the Republic. </inglise>
+<eesti>Katset&ouml;&ouml;de, eksami ja hariduse suhtes esitatavad n&otilde;uded kehtestab keskkonnaminister. </eesti>
+<inglise>The requirements for test assignments, the examination and education shall be established by the Minister of the Environment. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 16 (2). </eesti>
+<inglise>&sect; 16 (2). </inglise>
+<eesti>Litsentsi kehtivus, selle peatamine ja t&uuml;histamine </eesti>
+<inglise>Validity, suspension and revocation of licences </inglise>
+<eesti>(1) Litsents kaotab kehtivuse litsentsil m&auml;rgitud kehtivusaja m&ouml;&ouml;dumisel, litsentsi t&uuml;histamisel, litsentsi omava isiku tegevuse l&otilde;petamisel, isiku l&otilde;ppemisel v&otilde;i f&uuml;&uuml;silise isiku surmaga. </eesti>
+<inglise>(1) A licence becomes invalid upon expiry of the term specified in the licence, revocation of the licence, termination of the activities of the person holding the licence, dissolution of the person, or the death of the natural person. </inglise>
+<eesti>(2) Litsentsi saab ekspertkomisjoni ettepanekul t&uuml;histada litsentsi v&auml;ljaandja. </eesti>
+<inglise>(2) A licence may be revoked by the issuer of the licence on the proposal of the expert committee. </inglise>
+<eesti>Litsentsi v&otilde;ib t&uuml;histada j&auml;rgmistel juhtudel: </eesti>
+<inglise>A licence may be revoked in the following cases: </inglise>
+<eesti>1) litsentsi taotlemisel esitati valeandmeid ning see ilmnes p&auml;rast litsentsi v&auml;ljaandmist; </eesti>
+<inglise>1) if false information was submitted upon application for the licence and this becomes evident after the issue of the licence; </inglise>
+<eesti>2) litsentsi omav isik on korduvalt esitanud katastripidajale registreerimiseks dokumentatsiooni, mis ei vasta kehtestatud n&otilde;uetele; </eesti>
+<inglise>2) if the person holding the licence repeatedly submits documentation which does not comply with the established requirements to the cadastral registrar for registration; </inglise>
+<eesti>3) litsentsi omava isiku taotlusel. </eesti>
+<inglise>3) at the request of the person holding the licence. </inglise>
+<eesti>(3) Litsentsi t&uuml;histamise aluseks olevate asjaolude ilmnemisel v&otilde;i vastava kirjaliku informatsiooni saamisel kontrollib ekspertkomisjon ilmnenud asjaolusid ja esitatud informatsiooni. </eesti>
+<inglise>(3) If circumstances which are the bases for revocation of a licence become evident or if the expert committee receives corresponding written information, the expert committee shall verify the circumstances which became evident and the information submitted. </inglise>
+<eesti>Ekspertkomisjon teeb vajaduse korral litsentsi omavale isikule ettekirjutuse puuduste k&otilde;rvaldamiseks, m&auml;&auml;rates selleks t&auml;htaja, v&otilde;i teeb litsentsi v&auml;ljaandjale ettepaneku litsentsi t&uuml;histamiseks. </eesti>
+<inglise>The expert committee shall, if necessary, issue a precept to the person holding the licence for the elimination of deficiencies and set a term therefor or make a proposal to the issuer of the licence for the revocation of the licence. </inglise>
+<eesti>Puuduste k&otilde;rvaldamiseni on ekspertkomisjonil &otilde;igus litsents peatada. </eesti>
+<inglise>The expert committee has the right to suspend a licence until the deficiencies are eliminated. </inglise>
+<eesti>Kui litsentsi omav isik ei t&auml;ida ettekirjutust m&auml;&auml;ratud t&auml;htaja jooksul, on litsentsi v&auml;ljaandjal &otilde;igus ekspertkomisjoni ettepanekul litsents t&uuml;histada. </eesti>
+<inglise>If the person holding the licence fails to comply with the precept during the term specified, the issuer of the licence has the right to revoke the licence on the proposal of the expert committee. </inglise>
+<eesti>(4) Litsentsi t&uuml;histamisel v&otilde;ib litsentsi v&auml;ljaandja ekspertkomisjoni ettepanekul m&auml;&auml;rata litsentsi omavale isikule t&auml;htaja pooleliolevate t&ouml;&ouml;de l&otilde;petamiseks. </eesti>
+<inglise>(4) Upon revocation of a licence, the issuer of the licence may, on the proposal of the expert committee, set a term for the person holding the licence to complete any unfinished works. </inglise>
+<eesti>(5) Litsentsi t&uuml;histamise otsus saadetakse litsentsi omavale isikule hiljemalt kolme t&ouml;&ouml;p&auml;eva jooksul, arvates otsuse tegemisest. </eesti>
+<inglise>(5) A decision to revoke a licence shall be sent to the person holding the licence not later than within three working days as of decision being made. </inglise>
+<eesti>(6) Maa-ametil on &otilde;igus igal ajal kontrollida litsentsi omava isiku tegevuse vastavust &otilde;igusaktidele. </eesti>
+<inglise>(6) The Land Board has the right, at any time, to verify the conformity of the activities of a person holding a licence with legislation. </inglise>
+<eesti>(7) Kui litsentsi v&auml;ljaandmise aluseks olnud asjaolud on muutunud, on litsentsi omav isik kohustatud viivitamatult teatama litsentsi v&auml;ljaandjale toimunud muudatustest ja esitama vastavad dokumendid. </eesti>
+<inglise>(7) If the circumstances which were the bases for the issue of a licence have changed, the person holding the licence is required to notify the issuer of the licence immediately of the changes and submit the corresponding documents. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 17. </eesti>
+<inglise>&sect; 17. </inglise>
+<eesti>Katastrim&otilde;&otilde;distamine </eesti>
+<inglise>Cadastral survey </inglise>
+<eesti>(1) Katastrim&otilde;&otilde;distamisel peavad katastri&uuml;ksuse piiripunktid olema seotud riikliku v&otilde;i kohaliku m&otilde;&otilde;distamise p&otilde;hiv&otilde;rguga. </eesti>
+<inglise>(1) In a cadastral survey, the location of boundary points of the cadastral unit shall be connected to the control points of the national or local geodetic network. </inglise>
+<eesti>P&otilde;hiv&otilde;rgu punktide puudumisel tuleb v&auml;hemalt kaks piiripunkti siduda looduses tunnetatavate p&uuml;siobjektidega nii, et k&otilde;ikide piiripunktide asukohad oleksid taastatavad. </eesti>
+<inglise>If no geodetic network control points exist, the location of at least two boundary points shall be connected to permanent objects perceivable in the field such that the location of all boundary points can be restored. </inglise>
+<eesti>(2) Katastrim&otilde;&otilde;distamisi teostatakse ja kontrollitakse Vabariigi Valitsuse poolt kehtestatud korras. </eesti>
+<inglise>(2) Cadastral surveys shall be carried out and monitored pursuant to the procedure established by the Government of the Republic. </inglise>
+<eesti>&sect; 18. </eesti>
+<inglise>&sect; 18. </inglise>
+<eesti>Katastri&uuml;ksuse sihtotstarbe m&auml;&auml;ramine </eesti>
+<inglise>Determination of intended use of cadastral unit </inglise>
+<eesti>(1) Katastri&uuml;ksuse registreerimisel peab katastripidaja katastris fikseerima katastri&uuml;ksuse k&otilde;lvikute pindalad ja sihtotstarbe v&otilde;i sihtotstarbed. </eesti>
+<inglise>(1) Upon registration of a cadastral unit, the cadastral registrar shall document the areas of the land use types and the intended use or uses thereof in the cadastre. </inglise>
+<eesti>(2) Katastri&uuml;ksuse sihtotstarve m&auml;&auml;ratakse planeerimis- ja ehitusseaduses nimetatud &uuml;ldplaneeringuga hajaasustuses ja detailplaneeringuga v&otilde;i &uuml;ldplaneeringuga tiheasustuses v&otilde;i maakorraldusseaduse (RT I 1995, 14, 169) kohase maakorralduskavaga hajaasustuses, kui &uuml;ldplaneering puudub. </eesti>
+<inglise>(2) The intended use of a cadastral unit shall be determined by the comprehensive plan in a low density area and the detailed plan or comprehensive plan in a high density area as specified in the Planning and Building Act or, in the absence of a comprehensive plan for a low density area, by a land readjustment plan in accordance with the Land Readjustment Act (RT I 1995, 14, 169). </inglise>
+
+<eesti>22.07.95 - RT I 1995, 59, 1006; 30.04.96 j&otilde;ust. 07.06.96 - RT I 1996, 36, 738) </eesti>
+<inglise>(14.06.95 entered into force 22.07.95 - RT I 1995, 59, 1006; 30.04.96 entered into force 07.06.96 - RT I 1996, 36, 738) </inglise>
+<eesti>(3) Sihtotstarvete liigid ja m&auml;&auml;ramise alused kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(3) The categories of intended use and bases for their determination shall be established by the Government of the Republic. </inglise>
+<eesti>&sect; 19. </eesti>
+<inglise>&sect; 19. </inglise>
+<eesti>Katastri&uuml;ksuse sihtotstarbe muutmine </eesti>
+<inglise>Change of intended use of cadastral unit </inglise>
+<eesti>(1) Katastri&uuml;ksuse sihtotstarbe muutmine toimub vastavalt planeerimis- ja ehitusseadusele. </eesti>
+<inglise>(1) The intended use of a cadastral unit shall be changed in accordance with the Planning and Building Act. </inglise>
+<eesti>(14.06.95 j&otilde;ust. 22.07.95 - RT I 1995, 59, 1006) </eesti>
+<inglise>(14.06.95 entered into force 22.07.95 - RT I 1995, 59, 1006) </inglise>
+<eesti>(Senised 2.-4. l&otilde;ige t&uuml;histatud - 14.06.95 j&otilde;ust. 22.07.95 - RT I 1995, 59, 1006) </eesti>
+<inglise>(Previous subsections (2) -(4) repealed - 14.06.95 entered into force 22.07.95 - RT I 1995, 59, 1006) </inglise>
+<eesti>(2) Katastri&uuml;ksuse v&otilde;i tema osade sihtotstarbe muudatustest on kohaliku omavalitsuse t&auml;itevorgan kohustatud &uuml;he kuu jooksul kirjalikult informeerima katastripidajat. </eesti>
+<inglise>(2) Executive bodies of local governments are required to inform the cadastral registrar of changes in the intended use of a cadastral unit or a part thereof in writing within one month. </inglise>
+<eesti>&sect; 19 (1). </eesti>
+<inglise>&sect; 19 (1). </inglise>
+<eesti>Katastri&uuml;ksuse kasutamise kitsenduste selgitamine </eesti>
+<inglise>Ascertainment of restrictions on use of cadastral units </inglise>
+<eesti>(1) Katastri&uuml;ksuse kasutamise kitsenduste (edaspidi kitsendused) selgitamine on kitsendusi p&otilde;hjustavate objektide asukoha m&auml;&auml;ramine nende registreerimiseks katastris. </eesti>
+<inglise>(1) Ascertainment of restrictions on the use of a cadastral unit (hereinafter restrictions) is the determination of location of objects which give rise to restrictions in order to register such objects in the cadastre. </inglise>
+<eesti>Kitsenduste selgitamiseks tellib kitsendusi p&otilde;hjustava objekti omanik katastrim&otilde;&otilde;distamise, mis teostatakse Vabariigi Valitsuse poolt kehtestatud korras. </eesti>
+<inglise>In order to ascertain the restrictions, the owner of an object which gives rise to restrictions shall order a cadastral survey which shall be performed pursuant to the procedure established by the Government of the Republic. </inglise>
+<eesti>(2) Kitsendusi p&otilde;hjustava objekti tekkimisel v&otilde;i katastris registreeritud kitsendusi p&otilde;hjustava objekti asukoha muutmisel teostab kitsendusi p&otilde;hjustava objekti omanik k&auml;esoleva paragrahvi 1. l&otilde;ikes s&auml;testatud toimingu kolme kuu jooksul kinnisomandi kitsenduse tekkimisest v&otilde;i kitsendusi p&otilde;hjustava objekti asukoha muutmisest arvates. </eesti>
+<inglise>(2) If an object which gives rise to restrictions is created or if the location of an object which gives rise to restrictions and is registered in the cadastre changes, the owner of the object which gives rise to restrictions shall perform the act provided for in subsection (1) of this section within three months as of the creation of the restriction on immovable property ownership or the change in the location of the object which gives rise to restrictions. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>L&otilde;pps&auml;tted </eesti>
+<inglise>Final Provisions </inglise>
+<eesti>&sect; 20. </eesti>
+<inglise>&sect; 20. </inglise>
+<eesti>Katastripidamine maareformi ajal </eesti>
+<inglise>Maintenance of cadastre during land reform </inglise>
+<eesti>(1) Kuni riigi omandis oleva maa katastrisse kandmiseni on linna- ja vallavalitsused kohustatud esitama katastripidajale andmeid nende halduspiirides asuva riigi omandis oleva maa kasutamise kohta. </eesti>
+<inglise>(1) City governments and rural municipality governments are required to submit data pertaining to the use of land in state ownership which is located within their administrative borders to the cadastral registrar until such land is entered in the cadastre. </inglise>
+<eesti>(2) Maareformi ajal v&otilde;ib katastrikaardi alusena kasutada Eesti p&otilde;hikaarti, ortofotosid ning olemasolevaid asulaplaane m&otilde;&otilde;tkavas 1: 2000 ning muid sobivaid plaane ja kaarte. </eesti>
+<inglise>(2) The base map of Estonia, orthophotos and existing settlement plans on a scale of 1: 2000 and other appropriate plans and maps may be used as the basis for a cadastral map during land reform. </inglise>
+<eesti>Eelmises lauses nimetatud kaartide, plaanide ja ortofotode kasutamise korra ja tasum&auml;&auml;rad kehtestab keskkonnaminister. </eesti>
+<inglise>The procedure for the use of the maps, plans and orthophotos specified in the preceding sentence and the charges payable for their use shall be established by the Minister of the Environment. </inglise>
+<eesti>(13.06.2000 j&otilde;ust. 16.07.2000 - RT I 2000, 54, 347) </eesti>
+<inglise>(13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347) </inglise>
+<eesti>(3) (Kehtetu - 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(3) (Repealed -15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(4) Maareformi ajal toimub &otilde;igusvastaselt v&otilde;&otilde;randatud maa tagastamiseks v&otilde;i erastamiseks katastri&uuml;ksuse moodustamine vastavat litsentsi omava isiku poolt. </eesti>
+<inglise>(4) During land reform, the formation of cadastral units for the return of unlawfully expropriated land or for the privatisation of land shall be carried out by a person holding a corresponding licence. </inglise>
+<eesti>K&auml;esoleva paragrahvi 5. ja 5 (1). l&otilde;ikes s&auml;testatud juhtudel v&otilde;ib katastri&uuml;ksuse moodustada ka kohaliku omavalitsuse volitatud esindaja. </eesti>
+<inglise>In the cases provided for in subsections (5) and (5 (1)) of this section, cadastral units may also be formed by authorised representatives of local governments. </inglise>
+<eesti>Vastava tellimuse esitab riigi kulul tagastatava &otilde;igusvastaselt v&otilde;&otilde;randatud maa osas maavanem v&otilde;i tema volitatud esindaja, muu tagastatava maa osas maa tagastamise &otilde;igustatud subjekt, ostuees&otilde;igusega erastatava maa osas vastavalt kokkuleppele kas erastamise korraldaja, tema volitatud isik v&otilde;i maa erastamise &otilde;igustatud subjekt, muu erastatava maa osas erastamise korraldaja v&otilde;i tema volitatud isik. </eesti>
+<inglise>The corresponding order shall be submitted by a county governor or his or her authorised representative in the case of unlawfully expropriated land to be returned at the expense of the state, by the entitled subject for the return of land in the case of other land to be returned, by the organiser of privatisation, a person authorised thereby or the entitled subject for the privatisation of land, by agreement of the parties, in the case of land privatised with the right of pre-emption, and by the organiser of privatisation or a person authorised thereby in the case of other land to be privatised. </inglise>
+<eesti>&Otilde;igusvastaselt v&otilde;&otilde;randatud maa tagastamisel ja maa ostuees&otilde;igusega erastamisel registreeritakse katastri&uuml;ksus valla- v&otilde;i linnavalitsuse volitatud esindaja kirjaliku avalduse alusel, muudel maa erastamise juhtudel erastamise korraldaja v&otilde;i tema volitatud esindaja kirjaliku avalduse alusel. </eesti>
+<inglise>Upon the return of unlawfully expropriated land and the privatisation of land with the right of pre-emption, a cadastral unit is registered on the basis of a written application by an authorised representative of the rural municipality or city government, and in other cases of the privatisation of land, a cadastral unit is registered on the basis of a written application by the organiser of privatisation or a person authorised thereby. </inglise>
+<eesti>(13.06.2000 j&otilde;ust. 16.07.2000 - RT I 2000, 54, 347) </eesti>
+<inglise>(13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347) </inglise>
+<eesti>(5) Maa tagastamisel, erastamisel, munitsipaalomandisse andmisel ja riigi omandisse j&auml;tmisel v&otilde;ib katastri&uuml;ksusi moodustada plaani- ja kaardimaterjali alusel ilma katastrim&otilde;&otilde;distamiseta. </eesti>
+<inglise>(5) Upon the return, privatisation, transfer into municipal ownership or retention in state ownership of land, cadastral units may be formed on the basis of desk surveys without cadastral surveys. </inglise>
+<eesti>Maa ostuees&otilde;igusega erastamisel v&otilde;ib kasutada ka Vabariigi Valitsuse kehtestatud n&otilde;uetele vastavaid olemasolevaid plaane (krundiplaan vms). </eesti>
+<inglise>Upon privatisation with the right of pre-emption, existing plans (lot plans, etc.) which comply with the requirements established by the Government of the Republic may be used. </inglise>
+<eesti>Katastri&uuml;ksus moodustatakse katastripidaja m&auml;&auml;ratud ning vajadusel linna- v&otilde;i vallavalitsusega koosk&otilde;lastatud plaani- v&otilde;i kaardimaterjalil (krundiplaan, krundijaotusplaan, maadearvestusplaan, fotoplaan, ortofoto, digitaalkaart v&otilde;i muu). </eesti>
+<inglise>A cadastral unit is formed on the basis of a desk survey prepared on the basis of plans and maps (lot plan, allotment plan, land recording plan, photoplan, orthophoto, digital map, etc.) specified by the cadastral registrar and, where necessary, approved by the rural municipality or city government. </inglise>
+<eesti>Sobiva plaani- v&otilde;i kaardimaterjaliga varustab kohalikku omavalitsust katastripidaja. </eesti>
+<inglise>The cadastral registrar shall provide the local government with an appropriate desk survey. </inglise>
+<eesti>Maa tagastamisel v&otilde;i erastamisel m&auml;&auml;rab kohalik omavalitsus plaanil v&otilde;i kaardil maa&uuml;ksuse piiri ja pindala ning tema volitatud esindaja n&auml;itab maa taotlejale plaanil v&otilde;i kaardil k&auml;tte maa&uuml;ksuse piirid ning seaduses s&auml;testatud juhtudel koostab piiriprotokolli. </eesti>
+<inglise>Upon the return or privatisation of land, the local government shall define the boundaries and area of the land unit in the desk survey, and the authorised representative of the local government shall indicate the boundaries of the land unit to the applicant for land on the desk survey and, in the cases provided by law, prepare a boundary report. </inglise>
+<eesti>Maa riigi omandisse j&auml;tmisel koostab katastri&uuml;ksuse plaani taotleja v&otilde;i tema volitatud esindaja. </eesti>
+<inglise>Upon the retention in state ownership of land, the plan of a cadastral unit shall be prepared by the applicant or the authorised representative thereof. </inglise>
+<eesti>Riigimetsamaa, riigi omandisse j&auml;&auml;vate veekogude aluse maa ning riigi omandis olevate teede ja raudteede aluse maa riigi omandisse j&auml;tmisel piiriprotokolli ei koostata. </eesti>
+<inglise>If state forest land, land under bodies of water in state ownership and land under roads and railways in state ownership is retained in state ownership, a boundary report shall not be prepared. </inglise>
+<eesti>Maa munitsipaalomandisse andmisel koostab katastri&uuml;ksuse plaani taotleja. </eesti>
+<inglise>Upon the transfer into state ownership of land, the plan of a cadastral unit shall be prepared by the applicant. </inglise>
+
+<eesti>16.07.2000 - RT I 2000, 54, 347; 15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347; 15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(5 (1)) Kui isiku kasutuses oleva maa&uuml;ksuse piiri muudetakse v&otilde;i maa&uuml;ksuse piir m&auml;&auml;ratakse vastavalt Eesti Vabariigi maareformi seaduse (RT 1991, 34, 426; RT I 1996, 41, 796) &sect; 7 5. l&otilde;ikele, paragrahv 9 9. l&otilde;ikele, paragrahv 10 3. l&otilde;ikele v&otilde;i paragrahv 22 (1) 6. l&otilde;ikele, koostab kohaliku omavalitsuse volitatud esindaja v&otilde;i vannutatud maam&otilde;&otilde;tja v&otilde;i vastavat litsentsi omav isik looduses piiriprotokolli, millele kirjutavad alla maa taotleja ja piirinaabrid. </eesti>
+<inglise>(5 (1)) If the boundaries of a land unit in the use of a person are amended or the boundaries of a land unit are determined pursuant to subsections 7 (5), 9 (9), 10 (3) or 22 (1) (6) of the Land Reform Act (RT 1991, 34, 426; RT I 1996, 41, 796), an authorised representative of the local government, a sworn land surveyor or a person with a corresponding licence shall prepare a boundary report in the field which shall be signed by the applicant for land and the adjacent neighbours. The signatures of the adjacent neighbours shall be attested to by the person who compiles the boundary report. </inglise>
+<eesti>Piirinaabrite allkirjad t&otilde;estab piiriprotokolli koostaja. Kohalik omavalitsus teatab maa taotlejale ja piirinaabritele piiriprotokolli koostamise aja ja koha. </eesti>
+<inglise>The local government shall inform the applicant for land and the adjacent neighbours of the date and location of compilation of the boundary report. </inglise>
+<eesti>Piiriprotokollis kirjeldatakse piiri ja piiripunkte ning nende asukohti p&uuml;siobjektide suhtes. </eesti>
+<inglise>The boundary, boundary points and their location in relation to permanent objects shall be described in the boundary report. </inglise>
+<eesti>Maa taotleja lisab piiriprotokollile maa&uuml;ksusel paiknevate ehitiste loetelu ning kirjaliku kinnituse, et k&otilde;ik maat&uuml;kil paiknevad ehitised kuuluvad temale, v&otilde;i kokkuleppe hoonestus&otilde;iguse seadmise kohta. </eesti>
+<inglise>The applicant for land shall add to the boundary report a list of structures located on the unit of land together with a written confirmation that all the structures located on the unit of land belong to the applicant or an agreement pertaining to the establishment of superficies. </inglise>
+<eesti>Kui maa taotleja on ehitiste koosseisu ja omandi&otilde;iguse kohta esitanud tegelikkusele mittevastavaid andmeid, kannab ta vajalike korrektuuride tegemisega seotud kulud. </eesti>
+<inglise>If an applicant for land submits false information concerning structures or the right of ownership, the applicant shall bear the costs associated with making the necessary corrections. </inglise>
+<eesti>Piiriprotokolli koostamise eest tasub isik, kelle n&otilde;udel piiriprotokoll koostati, kui ei lepita kokku teisiti. </eesti>
+<inglise>A boundary report shall be paid for by the person at whose request it is compiled, unless otherwise agreed. </inglise>
+<eesti>Piiriprotokolli koostamise eest juhul, kui piiriprotokolli koostamise n&otilde;ue tuleneb seadusest, tasub isik, kelle omandisse antavat katastri&uuml;ksust moodustatakse, muudel juhtudel tasub piiriprotokolli koostamise eest isik, kelle n&otilde;udel piiriprotokoll koostati, kui ei lepita kokku teisiti. </eesti>
+<inglise>In the cases where the requirement to prepare a boundary report arises from law, the person into whose ownership the cadastral unit being formed is to be transferred shall pay for the preparation of the boundary report; in other cases, a boundary report shall be paid for by the person upon whose request the boundary report is prepared, unless agreed otherwise. </inglise>
+<eesti>Kui piiriprotokolli koostamisele kutsutud isik ei ilmu v&otilde;i keeldub piiriprotokollile alla kirjutamast, loetakse katastri&uuml;ksus moodustatuks kohaliku omavalitsuse m&auml;&auml;ratud piirides. </eesti>
+<inglise>If the person who requests the preparation of a boundary report fails to appear or refuses to sign the boundary report, the cadastral unit is deemed to be formed within the boundaries determined by the local government. </inglise>
+
+<eesti>16.03.97 - RT I 1997, 16, 261; 13.06.2000 j&otilde;ust. 16.07.2000 - RT I 2000, 54, 347) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261; 13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347) </inglise>
+<eesti>(5 (2)) Kui moodustatav katastri&uuml;ksus piirneb maaga, kus katastri&uuml;ksus on moodustamata, on piirinaabriks vastava maat&uuml;ki tagastamise v&otilde;i erastamise &otilde;igustatud subjekt, nimetatud isiku puudumisel kohalik omavalitsus. </eesti>
+<inglise>(5 (2)) If a cadastral unit to be formed borders on land where cadastral units have not been formed, the entitled subject for the return or privatisation of such plot of land is deemed to be an adjacent neighbour; in the absence of such a person, the local government is deemed to be an adjacent neighbour. </inglise>
+<eesti>(13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261) </inglise>
+<eesti>(5 (3)) Aiandus- v&otilde;i suvila&uuml;histu v&auml;lispiir peab olema seotud riikliku v&otilde;i kohaliku m&otilde;&otilde;distamise p&otilde;hiv&otilde;rguga. </eesti>
+<inglise>(5 (3)) The external boundary of a gardening association or cottage association shall be connected to the national or local geodetic network. </inglise>
+<eesti>Maa&uuml;ksused registreeritakse katastris vastavalt &uuml;histu kinnitatud krundijaotusplaanile. </eesti>
+<inglise>Land units shall be registered in the cadastre pursuant to the allotment plans approved by the associations. </inglise>
+<eesti>Maa taotleja v&otilde;i piirinaabri v&otilde;i &uuml;histu n&otilde;udel koostatakse piiriprotokoll vastavalt k&auml;esoleva paragrahvi l&otilde;ikele 5 (1). </eesti>
+<inglise>A boundary report shall be compiled at the request of an applicant for land, adjacent neighbour or association pursuant to subsection (5 (1)) of this section. </inglise>
+<eesti>(13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261) </inglise>
+<eesti>(5 (4)) Katastri&uuml;ksuse m&otilde;&otilde;distamisel on aluseks k&auml;esoleva paragrahvi 5. l&otilde;ikes nimetatud katastri&uuml;ksuse moodustamise plaan v&otilde;i kaart ja 5 (1). l&otilde;ikes nimetatud piiriprotokoll. </eesti>
+<inglise>(5 (4)) A survey of a cadastral unit shall be based on a desk survey for formation of the cadastral unit specified in sub-section (5) of this section and a boundary report specified in clause (5 (1)) of this section. </inglise>
+<eesti>Kui katastri&uuml;ksuse m&otilde;&otilde;distamisel selgub, et plaanil olev piir ja piiriprotokolliga m&auml;&auml;ratud piir ei lange kokku, v&otilde;etakse aluseks piiriprotokolliga m&auml;&auml;ratud piir. </eesti>
+<inglise>If, upon the survey of a cadastral unit, it becomes evident that the boundary on the desk survey and the boundary determined by the boundary report are not identical, the cadastral unit shall be formed on the basis of the boundary determined by the boundary report. </inglise>
+<eesti>(13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261) </inglise>
+<eesti>(5 (5)) Katastri&uuml;ksuse moodustamine plaani- ja kaardimaterjali alusel toimub Vabariigi Valitsuse kehtestatud korras. </eesti>
+<inglise>(5 (5)) Formation of cadastral units based on desk surveys shall be carried out pursuant to the procedure established by the Government of the Republic. </inglise>
+<eesti>Nimetatud korra kehtestab Vabariigi Valitsus kolme n&auml;dala jooksul, alates k&auml;esoleva seaduse j&otilde;ustumisest. </eesti>
+<inglise>Such procedure shall be established by the Government of the Republic within three weeks after the entry into force of this Act. </inglise>
+<eesti>Katastri&uuml;ksuse registreerimisel maakatastris ja kinnistusraamatus lisatakse kandele m&auml;rge "Katastri&uuml;ksus moodustatud plaani alusel". </eesti>
+<inglise>Upon registration of such cadastral unit in the land cadastre and the land register, a notation "Cadastral unit formed on the basis of a plan" shall be added to the entry. </inglise>
+<eesti>(13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261) </inglise>
+<eesti>(6) &Otilde;igusvastaselt v&otilde;&otilde;randatud maa tagastamisel, riigi- ja munitsipaalmaa katastrisse kandmisel fikseeritakse k&otilde;lvikute pinnad k&auml;esoleva paragrahvi 2. l&otilde;ikes nimetatud kaartide v&otilde;i plaanide alusel, korrigeerides vajaduse korral k&otilde;lvikute seisu looduses toimunud muudatusi arvestades. </eesti>
+<inglise>(6) Upon the return of unlawfully expropriated land or the entry of state and municipal land in the cadastre, the areas of land use types shall be determined on the basis of maps and plans specified in subsection (2) of this section and, where necessary, the status of land use types shall be corrected based on changes which have occurred in the field. </inglise>
+<eesti>(7) &Otilde;igusvastaselt v&otilde;&otilde;randatud maa tagastamisel v&otilde;i ostuees&otilde;igusega erastamisel kehtib k&auml;esoleva seaduse paragrahv 18 2. l&otilde;ikes nimetatud kavade puudumisel katastri&uuml;ksuse ja tema koostisosade senine sihtotstarve. </eesti>
+<inglise>(7) In the absence of the plans specified in subsection 18 (2) of this Act, the former intended use of a cadastral unit and its parts applies upon the return of unlawfully expropriated land or privatisation of land with the right of pre-emption. </inglise>
+<eesti>(30.04.96 j&otilde;ust. 07.06.96 - RT I 1996, 36, 738) </eesti>
+<inglise>(30.04.96 entered into force 07.06.96 - RT I 1996, 36, 738) </inglise>
+<eesti>(8) K&auml;esoleva paragrahvi 5. l&otilde;ikes nimetatud maa&uuml;ksuse plaanile kantakse kaitse alla v&otilde;etud kitsendusi p&otilde;hjustava objekti asukoht ja piirid. </eesti>
+<inglise>(8) The location and boundaries of objects placed under protection which give rise to restrictions shall be marked on the plans of land units specified in subsection (5) of this section. </inglise>
+<eesti>(9) K&auml;esoleva paragrahvi 1. l&otilde;ikes s&auml;testatud kohustuse t&auml;itmist finantseeritakse riigieelarvest. </eesti>
+<inglise>(9) Compliance with the requirements provided for in subsection (1) of this section is financed from the state budget. </inglise>
+<eesti>(13.02.97 j&otilde;ust. 16.03.97 - RT I 1997, 16, 261) </eesti>
+<inglise>(13.02.97 entered into force 16.03.97 - RT I 1997, 16, 261) </inglise>
+<eesti>(10) Hajaasustusega aladel asuvate plaani- ja kaardimaterjali alusel moodustatud riigi omandis olevate katastri&uuml;ksuste jagamisel on lubatud m&otilde;&otilde;distada ainult olemasolevast katastri&uuml;ksusest eraldatav osa. </eesti>
+<inglise>(10) Upon the division of cadastral units which are in state ownership, formed on the basis of a desk survey and located in low-density areas, only the part of land to be severed from the existing cadastral unit shall be surveyed. </inglise>
+<eesti>(13.06.2000 j&otilde;ust. 16.07.2000 - RT I 2000, 54, 347) </eesti>
+<inglise>(13.06.2000 entered into force 16.07.2000 - RT I 2000, 54, 347) </inglise>
+<eesti>(11) Katastripidajal on &otilde;igus plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse plaani asemel edastada kinnistusametile ka katastripidaja pitsati ja allkirjaga t&otilde;estatud v&auml;ljav&otilde;te katastrikaardist. </eesti>
+<inglise>(11) Instead of the plan of a cadastral unit formed on the basis of a desk survey, the cadastral registrar has the right to send an extract of the cadastral map certified by the seal and signature of the cadastral registrar to the land registry. </inglise>
+<eesti>V&auml;ljav&otilde;te peab sisaldama samav&auml;&auml;rset informatsiooni katastri&uuml;ksuse plaaniga. </eesti>
+<inglise>The extract shall contain information equivalent to the information in the cadastral plan. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(12) Kui katastrim&otilde;&otilde;distamise teel moodustatud katastri&uuml;ksuse katastris registreerimisel selgub, et sellega piirneva ning katastris registreeritud plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piirid katastrikaardil ei lange kokku v&otilde;i, vastupidi, m&auml;&auml;rab katastripidaja katastri&uuml;ksuse registreerimiseks lubatud vea suuruse tulenevalt katastri aluskaardist, kuid viga ei v&otilde;i olla suurem kui 50 meetrit katastri aluskaardi situatsioonist p&otilde;hiv&otilde;rgu suhtes, kusjuures looduses piirim&auml;rkidega t&auml;histatud piiri ei muudeta. </eesti>
+<inglise>(12) If, upon the registration in the cadastre of a cadastral unit formed by a cadastral survey, it becomes evident that the boundaries of a bordering cadastral unit which has been formed on the basis of a desk survey and which is registered in the cadastre do not coincide on the cadastral map with the boundaries of the cadastral unit being registered, or vice versa, the cadastral registrar shall determine the size of the error permitted upon the registration of the cadastral unit according to the map on which the cadastral map is based, but the error shall not be greater than 50 metres from the situation on the map on which the cadastral map is based with regard to the geodetic network, and boundaries marked with boundary markers in the field shall not be changed. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>(13) Kui katastrim&otilde;&otilde;distamise teel moodustatud katastri&uuml;ksuse katastris registreerimisel selgub, et sellega piirneva ning katastris registreeritud plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piirid looduses ei lange kokku v&otilde;i, vastupidi, ning on tuvastatav, et plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piiride m&auml;&auml;ramisel on eksitud, v&otilde;etakse aluseks katastrim&otilde;&otilde;distamisel m&auml;&auml;ratud piir. </eesti>
+<inglise>(13) If, upon the registration in the cadastre of a cadastral unit formed by a cadastral survey, it becomes evident that the boundaries of a bordering cadastral unit which has been formed on the basis of a desk survey and which is registered in the cadastre do not coincide in the field with the boundaries of the cadastral unit being registered, or vice versa, and if it can be ascertained that a mistake has been made upon determination of the boundaries of the cadastral unit formed on the basis of a desk survey, the cadastral unit shall be formed on the basis of the boundary determined in the cadastral survey. </inglise>
+<eesti>Plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piiride muudatus kantakse m&otilde;&otilde;distamisandmete alusel katastrikaardile, olemasolevaid katastri&uuml;ksuse plaane ei muudeta ning edaspidi on katastri&uuml;ksuse piiride asukohta t&otilde;endavaks ametlikuks dokumendiks katastripidaja poolt t&otilde;estatud v&auml;ljav&otilde;te katastrikaardist. </eesti>
+<inglise>The change to the boundaries of the cadastral unit formed on the basis of a desk survey shall be entered, on the basis of survey data, on the cadastral map, the existing cadastral plans shall not be amended and an extract of the cadastral map certified by the cadastral registrar shall henceforth be the official document certifying the location of the boundaries of the cadastral unit. </inglise>
+<eesti>(14) Plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piiride looduses t&auml;histamine, samuti looduses piirim&auml;rkidega t&auml;histatud piiri taastamine toimub katastrim&otilde;&otilde;distamise teel katastri&uuml;ksuse plaani v&otilde;i piiriprotokolli alusel. </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) (14) The boundaries of a cadastral unit formed on the basis of a desk survey shall be marked in the field and a boundary marked with boundary markers in the field shall be restored in the course of a cadastral survey on the basis of a cadastral plan or a boundary report. </inglise>
+<eesti>Katastripidaja poolt t&otilde;estatud katastrikaardi v&auml;ljav&otilde;tte alusel plaani- ja kaardimaterjali alusel moodustatud katastri&uuml;ksuse piiride looduses t&auml;histamisel v&otilde;i looduses piirim&auml;rkidega t&auml;histatud piiride taastamisel arvestatakse k&auml;esoleva paragrahvi 12. l&otilde;ikes s&auml;testatud lubatud veaga. </eesti>
+<inglise>Upon the marking in the field of boundaries of a cadastral unit formed on the basis of a desk survey according to an extract of the cadastral map certified by the cadastral registrar or upon the restoration of boundaries marked with boundary markers in the field, the permitted error provided for in subsection (12) of this section shall be taken into account. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 20 (1). </eesti>
+<inglise>&sect; 20 (1). </inglise>
+<eesti>Tehingu &otilde;iend </eesti>
+<inglise>Certified statement of transaction </inglise>
+<eesti>(1) Notar on kohustatud k&uuml;mne p&auml;eva jooksul p&auml;rast ehitise kui vallasasja v&otilde;i selle osa v&otilde;&otilde;randamise tehingu t&otilde;estamist esitama katastripidajale tehingu &otilde;iendi. </eesti>
+<inglise>(1) A notary is required to submit a certified statement of transaction to the cadastral registrar within ten days as of the notarisation of a transaction for transfer of a structure as a movable or a part thereof. </inglise>
+<eesti>(2) Tehingu &otilde;iendis peavad olema j&auml;rgmised andmed: </eesti>
+<inglise>(2) A certified statement of transaction shall contain the following information: </inglise>
+<eesti>1) notariaalregistri number; </eesti>
+<inglise>1) the number in the notarial register; </inglise>
+<eesti>2) tehingu liik (ost-m&uuml;&uuml;k, vahetus, kinge v&otilde;i muu); </eesti>
+<inglise>2) the type of transaction (purchase or sale, exchange, gift or other); </inglise>
+<eesti>3) tehinguobjekti asukoht; </eesti>
+<inglise>3) the location of the object of the transaction; </inglise>
+<eesti>4) tehinguobjekti liik (ehitis, ehitise reaalosa); </eesti>
+<inglise>4) the type of object of the transaction (structure, physical share of structure); </inglise>
+<eesti>5) tehinguobjekti omandiosa suurus; </eesti>
+<inglise>5) the share in the ownership of the object of the transaction; </inglise>
+<eesti>6) tehinguobjekti pindala; </eesti>
+<inglise>6) the area of the object of the transaction; </inglise>
+<eesti>7) ehitiste loetelu ja kasutusotstarve; </eesti>
+<inglise>7) a list of structures and the intended use thereof; </inglise>
+<eesti>8) andmed koormatiste olemasolu kohta; </eesti>
+<inglise>8) information concerning the existence of encumbrances; </inglise>
+<eesti>9) tehingu sooritamise kuup&auml;ev; </eesti>
+<inglise>9) the date of entry into the transaction; </inglise>
+<eesti>10) tehinguhind, selle puudumisel tehinguv&auml;&auml;rtus; </eesti>
+<inglise>10) the price of the transaction or, in the absence thereof, the transaction value; </inglise>
+<eesti>11) andmed tehingu poolte kohta (isiku liik, tehingu osapoolte arv). </eesti>
+<inglise>11) information concerning the parties to the transaction (type of person, number of parties to the transaction). </inglise>
+<eesti>(3) Kui notari poolt koostatud tehingu &otilde;iendil puuduvad k&auml;esoleva paragrahvi 2. l&otilde;ikes nimetatud andmed v&otilde;i andmetes on vead, on katastripidajal &otilde;igus n&otilde;uda puuduvaid andmeid v&otilde;i andmete parandusi notarilt. </eesti>
+<inglise>(3) If data specified in subsection (2) of this section are missing from a certified statement of transaction prepared by a notary or if the data contains errors, the cadastral registrar has the right to request the missing data from or correction of the data by the notary. </inglise>
+<eesti>(4) K&auml;esolevas paragrahvis nimetatud tehingu &otilde;iendi vormi ja selle koostamise ning esitamise korra kehtestab justiitsminister. </eesti>
+<inglise>(4) The format of the certified statement of transaction specified in this section and the procedure for the completion and submission thereof shall be established by the Minister of Justice. </inglise>
+<eesti>(15.11.2000 j&otilde;ust. 18.12.2000 - RT I 2000, 92, 598) </eesti>
+<inglise>(15.11.2000 entered into force 18.12.2000 - RT I 2000, 92, 598) </inglise>
+<eesti>&sect; 21. </eesti>
+<inglise>&sect; 21. </inglise>
+<eesti>Katastri automatiseeritud andmet&ouml;&ouml;tlusele &uuml;leviimine </eesti>
+<inglise>Computerisation of cadastre </inglise>
+<eesti>(1) Katastri registrite ja katastrikaartide pidamine viiakse &uuml;le automatiseeritud andmet&ouml;&ouml;tlusele. </eesti>
+<inglise>(1) The maintenance of cadastral registrars and cadastral maps shall be computerised. </inglise>
+<eesti>(2) Katastri automatiseeritud andmet&ouml;&ouml;tlusele &uuml;leviimise korra kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(2) The procedure for computerisation of the cadastre shall be established by the Government of the Republic. </inglise>
+<eesti>&sect; 22. </eesti>
+<inglise>&sect; 22. </inglise>
+<eesti>Vastutus maakasutuse n&otilde;uete ja maakatastri pidamise korra rikkumise eest </eesti>
+<inglise>Liability for violation of land use requirements and procedure for maintenance of cadastre </inglise>
+<eesti>(1) Lisaks karistustele, mida v&otilde;idakse haldus&otilde;iguserikkumiste seadustiku ja kriminaalkoodeksi j&auml;rgi kohaldada maakasutuse n&otilde;udeid v&otilde;i maakatastri pidamise korda rikkunud f&uuml;&uuml;siliste isikute suhtes, kehtestatakse juriidiliste isikute sellealaste &otilde;iguserikkumiste eest neile j&auml;rgmine haldusvastutus: </eesti>
+<inglise>(1) In addition to punishments that can be imposed on natural persons for the violation of land use requirements or violation of the procedure for maintenance of the cadastre pursuant to the Code of Administrative Offences and the Criminal Code, the following administrative liability is established for legal persons in the case of such violations: </inglise>
+<eesti>1) maat&uuml;ki omavolilise kasutamise v&otilde;i maakasutamis&otilde;iguse omavolilise loovutamise eest m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>1) a fine of up to 100 000 kroons is imposed for the unauthorised use of a plot of land or for the unauthorised assignment of the right to use a plot of land; </inglise>
+<eesti>2) maakasutuse &otilde;iguse alusel kasutatava maa t&auml;htajaks &uuml;le andmata j&auml;tmise v&otilde;i selle sihip&auml;raseks kasutamiseks k&otilde;lblikku seisukorda viimise kohustuste t&auml;itmata j&auml;tmise eest m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>2) a fine of up to 100 000 kroons is imposed for failure to transfer land used pursuant to a right of use of land by the due date therefor or for failure to make a plot of land suitable for its intended use; </inglise>
+<eesti>3) kinnitatud planeeringu v&otilde;i kohaliku omavalitsusorgani otsusega v&otilde;i muude &otilde;igusaktidega m&auml;&auml;ratud maakasutuse sihtotstarbest omavolilise k&otilde;rvalekaldumise eest m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>3) a fine of up to 100 000 kroons is imposed for unauthorised deviation from the intended land use determined by an adopted plan, a decision of a local government or other legislation; </inglise>
+<eesti>4) maakasutuse piirim&auml;rkide rikkumise, h&auml;vitamise v&otilde;i omavolilise teisaldamise eest m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>4) a fine of up to 100 000 kroons is imposed for damage, destruction or unauthorised removal of boundary markers; </inglise>
+<eesti>5) kohaliku (linnade v&otilde;i valdade) v&otilde;i riikliku plaanilise, k&otilde;rguselise ja gravimeetrilise v&otilde;rgu m&auml;rkide h&auml;vitamise, rikkumise v&otilde;i omavolilise teisaldamise eest m&auml;&auml;ratakse rahatrahv kuni 100 000 krooni; </eesti>
+<inglise>5) a fine of up to 100 000 kroons is imposed for damage, destruction or unauthorised removal of local (city or rural municipality) or state basic network marks, altitudinal network marks or gravimetric network marks; </inglise>
+<eesti>6) maakatastri pidamise korra rikkumise eest m&auml;&auml;ratakse rahatrahv kuni 10 000 krooni; </eesti>
+<inglise>6) a fine of up to 10 000 kroons is imposed for violation of the procedure for maintenance of the cadastre; </inglise>
+<eesti>7) muude maakasutuse n&otilde;uete rikkumise eest m&auml;&auml;ratakse rahatrahv kuni 10 000 krooni. </eesti>
+<inglise>7) a fine of up to 10 000 kroons is imposed for violation of other land use requirements. </inglise>
+<eesti>(2) Kui f&uuml;&uuml;siline isik, tegutsedes juriidilise isiku nimel v&otilde;i huvides, rikkus k&auml;esoleva paragrahvi 1. l&otilde;ikes loetletud maakasutuse n&otilde;udeid v&otilde;i maakatastri pidamise korda, v&otilde;ib selle &otilde;iguserikkumise eest kohaldada samaaegselt vastutust nii s&uuml;&uuml;dlasest f&uuml;&uuml;silisele isikule kui ka juriidilisele isikule. </eesti>
+<inglise>(2) If a natural person, acting in the name or interest of a legal person, violates land use requirements or the procedure for maintenance of the cadastre referred to in subsection (1) of this section, liability for the same offence may be applied concurrently to the offending natural person and the offending legal person. </inglise>
+<eesti>Sealjuures karistuse m&auml;&auml;ramisel s&uuml;&uuml;dlasest f&uuml;&uuml;silisele isikule (kui teda ei v&otilde;eta kriminaalvastutusele) l&auml;htutakse haldus&otilde;iguserikkumiste seadustiku paragrahvides 39 v&otilde;i 46-49 etten&auml;htud sanktsioonidest, juriidilise isiku puhul aga k&auml;esoleva paragrahvi 1. l&otilde;ikes s&auml;testatud sanktsioonidest. </eesti>
+<inglise>Punishment shall be imposed on the offending natural person (if such person is not held criminally liable) based on the sanctions prescribed in &sect; 39 or &sect;&sect; 46-49 of the Code of Administrative Offences or, in the case of a legal person, on sanctions provided for in subsection (1) of this section. </inglise>
+<eesti>(3) Juriidilise isiku poolt k&auml;esoleva paragrahvi 1. l&otilde;ikes nimetatud &otilde;iguserikkumiste asjade arutamise ja neile karistuse m&auml;&auml;ramise &otilde;igus on Riigi Maa-ameti peadirektoril ja tema poolt selleks volitatud ametiisikutel. </eesti>
+<inglise>(3) The Director General of the Land Board and officials authorised by him or her have the right to hear matters concerning offences committed by legal persons specified in subsection (1) of this section and to impose punishments for such offences. </inglise>
+<eesti>(4) K&auml;esoleva paragrahvi 1. l&otilde;ikes loetletud juriidiliste isikute &otilde;iguserikkumiste kohta on protokolli koostamise &otilde;igus Riigi Maa-ameti peadirektoril ja tema poolt selleks volitatud ametiisikutel. </eesti>
+<inglise>(4) The Director General of the Land Board and officials authorised by him or her have the right to prepare reports concerning offences committed by legal persons provided for in subsection (1) of this section. </inglise>
+<eesti>Protokollis tuuakse &auml;ra selle koostamise aeg ja koht; asutuse nimi ja aadress, kelle nimel protokoll koostatakse; protokolli koostanud isiku ametinimetus, ees- ja perekonnanimi; haldus&otilde;iguserikkujaks olnud juriidilise isiku nimetus ja aadress; tema p&auml;deva esindaja ees- ja perekonnanimi ning ametikoht; haldus&otilde;iguserikkumise koht, aeg ja kirjeldus, viide k&auml;esoleva paragrahvi 1. l&otilde;ike punktile, mis n&auml;eb ette vastutuse selle haldus&otilde;iguserikkumise eest; haldus&otilde;iguserikkuja esindaja seletus ja vajadusel muud andmed. </eesti>
+<inglise>A report shall set out the date on which and the place where the report is prepared, the name and address of the agency on behalf of which the report is prepared; the title, given name and surname of the person who prepares the report; the name and address of the legal person who committed the administrative offence; the given name, surname and official title of the representative of the offender; the place, time and description of the administrative offence; reference to subsection (1) of this section which prescribes liability for the administrative offence; the explanation of the representative of the administrative offender; and other information if necessary. </inglise>
+<eesti>Protokollile kirjutavad alla selle koostanud isik ja haldus&otilde;iguserikkuja esindaja. </eesti>
+<inglise>The report shall be signed by the person who prepared the report and the representative of the administrative offender. </inglise>
+<eesti>Kui haldus&otilde;iguserikkuja esindaja keeldub protokollile alla kirjutamast, tehakse sellesse vastav kanne. </eesti>
+<inglise>If the representative of the administrative offender refuses to sign the report, this shall be noted in the report. </inglise>
+<eesti>Protokollile lisatakse haldus&otilde;iguserikkuja esindaja kirjalikud m&auml;rkused protokolli kohta, samuti protokollile allakirjutamisest keeldumise kohta. </eesti>
+<inglise>Written comments of the representatives of the administrative offender on the report and the refusal to sign the report shall be annexed to the report. </inglise>
+<eesti>(5) K&auml;esoleva paragrahvi 1. l&otilde;ikes loetletud juriidiliste isikute haldus&otilde;iguserikkumiste asjades v&otilde;ivad sama paragrahvi 3. l&otilde;ikes nimetatud ametiisikud algatada menetlust kolme aasta kestel rikkumise toimumise p&auml;evast arvates, kuid hiljemalt 2 kuu jooksul selle avastamise p&auml;evast arvates. </eesti>
+<inglise>(5) Officials specified in subsection (3) of this section may commence proceedings in matters concerning administrative offences committed by legal persons set out in subsection (1) of this section within three years after the date of the offence, but not later than two months after the date on which the offence is discovered. </inglise>
+<eesti>Karistuse v&otilde;ib m&auml;&auml;rata kuue kuu jooksul rikkumise avastamise p&auml;evast arvates. </eesti>
+<inglise>Punishments may be imposed within six months after the date on which the offence is discovered. </inglise>
+<eesti>(6) Menetlus k&auml;esoleva paragrahvi 1. l&otilde;ikes loetletud juriidiliste isikute haldus&otilde;iguserikkumiste asjades, kaasa arvatud karistuste m&auml;&auml;ramine, nende vaidlustamine ja j&otilde;ustunud halduskaristuse otsuste t&auml;itmine toimub analoogiliselt haldus&otilde;iguserikkumiste seadustikus s&auml;testatud menetluskorrale, kusjuures arvestatakse t&auml;itemenetluse seadustiku ja halduskohtumenetluse seadustiku norme. </eesti>
+<inglise>(6) Proceedings in matters concerning administrative offences committed by legal persons set out in subsection (1) of this section, including imposition of punishments, contestation of punishments and implementation of rulings for administrative punishments which have entered into force shall be carried out similarly to the procedure for proceedings provided for in the Code of Administrative Offences, whereupon the rules of the Code of Enforcement Procedure and the Code of Administrative Court Procedure shall be taken into consideration. </inglise>
+<eesti>(7) Kui maakasutuse n&otilde;uete v&otilde;i maakatastri pidamise korra rikkumisega kaasneb ka varaline kahju, h&uuml;vitatakse see tsiviilkorras. </eesti>
+<inglise>(7) If a violation of land use requirements or the procedure for maintenance of the land cadastre brings about damage to property, such damage shall be compensated for by way of civil proceedings. </inglise>
+<eesti>&sect; 23. </eesti>
+<inglise>&sect; 23. </inglise>
+<eesti>Muudatused haldus&otilde;iguserikkumiste seadustikus </eesti>
+<inglise>Amendment of Code of Administrative Offences </inglise>
+<eesti>Haldus&otilde;iguserikkumiste seadustikus (RT 1992, 29, 369; 1993, 7, 103; RT I 1993, 33, 539; 44, 637; 62, 891; 72/73, 1019; 1994, 1, 5; 12, 202; 23, 385; 24, 391; 28, 424 ja 427; 34, 532 ja 534; 39, 620; 46, 773; 48, 789; 50, 845) tehakse j&auml;rgmised muudatused: </eesti>
+<inglise>The Code of Administrative Offences (RT 1992, 29, 369; 1993, 7, 103; RT I 1993, 33, 539; 44, 637; 62, 891; 72/73, 1019; 1994, 1, 5; 12, 202; 23, 385; 24, 391; 28, 424 and 427; 34, 532 and 534; 39, 620; 46, 773; 48, 789; 50, 845) is amended as follows: </inglise>
+<eesti>1) paragrahvides 39 ja 46 asendatakse s&otilde;nad "kuni viiek&uuml;mne p&auml;evapalga" s&otilde;nadega "kuni kahesaja p&auml;evapalga"; </eesti>
+<inglise>1) in &sect;&sect; 39 and 46, the words "up to fifty days' wages" are substituted by the words "up to two hundred days' wages"; </inglise>
+<eesti>2) muudetakse paragrahv 47 ja s&otilde;nastatakse see j&auml;rgmiselt: </eesti>
+<inglise>2) section 47 is amended and worded as follows: </inglise>
+<eesti>"Paragrahv 47. </eesti>
+<inglise>"Section 47. </inglise>
+<eesti>Omavoliline k&otilde;rvalekaldumine maakasutuse sihtotstarbest </eesti>
+<inglise>Unauthorised deviation from intended land use </inglise>
+<eesti>Kinnitatud planeeringu v&otilde;i kohaliku omavalitsusorgani otsusega v&otilde;i muude &otilde;igusaktidega m&auml;&auml;ratud maakasutuse sihtotstarbest omavolilise k&otilde;rvalekaldumise eest - m&auml;&auml;ratakse rahatrahv kuni kahesaja p&auml;evapalga ulatuses." </eesti>
+<inglise>A fine of up to two hundred days' wages shall be imposed for unauthorised deviation from the intended land use determined by an approved plan, a decision of a local government or other legislation." </inglise>
+<eesti>; </eesti>
+<inglise>; </inglise>
+<eesti>3) asendatakse paragrahvis 48 s&otilde;nad "kuni kolmek&uuml;mne p&auml;evapalga" s&otilde;nadega "kuni kahesaja p&auml;evapalga"; </eesti>
+<inglise>3) in &sect; 48, the words "up to thirty days' wages" are substituted by the words "up to two hundred days' wages"; </inglise>
+<eesti>4) muudetakse paragrahv 48 (1) ja s&otilde;nastatakse see j&auml;rgmiselt: </eesti>
+<inglise>4) section 481 is amended and worded as follows: </inglise>
+<eesti>"Paragrahv 48 (1). </eesti>
+<inglise>"Section 48 (1). </inglise>
+<eesti>Geodeetilise v&otilde;rgu m&auml;rkide kahjustamine </eesti>
+<inglise>Damage of geodetic network marks </inglise>
+<eesti>Kohaliku (linnade v&otilde;i valdade) v&otilde;i riikliku plaanilise, k&otilde;rguselise ja gravimeetrilise v&otilde;rgu m&auml;rkide h&auml;vitamise, rikkumise v&otilde;i omavolilise teisaldamise eest - m&auml;&auml;ratakse rahatrahv kuni kahesaja p&auml;evapalga ulatuses." </eesti>
+<inglise>A fine of up to two hundred days' wages shall be imposed for damage, destruction or unauthorised removal of local (city or rural municipality) or state basic network marks, altitudinal network marks or gravimetric network marks." </inglise>
+<eesti>; </eesti>
+<inglise>; </inglise>
+<eesti>5) muudetakse paragrahv 49 ja s&otilde;nastatakse see j&auml;rgmiselt: </eesti>
+<inglise>5) section 49 is amended and worded as follows: </inglise>
+<eesti>"Paragrahv 49. </eesti>
+<inglise>"Section 49. </inglise>
+<eesti>Maakatastri pidamise korra rikkumine </eesti>
+<inglise>Violation of procedure for maintenance of land cadastre </inglise>
+<eesti>Maakatastri pidamise korra rikkumise eest - m&auml;&auml;ratakse rahatrahv kuni kahesaja p&auml;evapalga ulatuses." </eesti>
+<inglise>A fine of up to two hundred days' wages shall be imposed for violation of the procedure for maintenance of the land cadastre." </inglise>
+<eesti>&sect; 24. </eesti>
+<inglise>&sect; 24. </inglise>
+<eesti>Kriminaalkoodeksi paragrahvi 154 (2) muutmine </eesti>
+<inglise>Amendment of &sect; 154 (2) of Criminal Code </inglise>
+<eesti>Kriminaalkoodeksi (RT 1992, 20, 288; 1993, 7, 103; RT I 1993, 33, 539 ja 43, 620; 1994, 12, 202; 16, 290; 24, 391; 30, 466; 39, 620) paragrahv 154 (2) muudetakse ja s&otilde;nastatakse j&auml;rgmiselt: </eesti>
+<inglise>Section 154 (2) of the Criminal Code (RT 1992, 20, 288; 1993, 7, 103; RT I 1993, 33, 539 and 43, 620; 1994, 12, 202; 16, 290; 24, 391; 30, 466; 39, 620) is amended and worded as follows: </inglise>
+<eesti>"Paragrahv 154 (2). </eesti>
+<inglise>"Section 154 (2). </inglise>
+<eesti>Maakasutuse n&otilde;uete v&otilde;i maakatastri pidamise korra rikkumine </eesti>
+<inglise>Violation of land use requirements or procedure for maintenance of cadastral register </inglise>
+<eesti>(1) Maa ja mulla kaitse v&otilde;i maakasutuse muude n&otilde;uete v&otilde;i maakatastri pidamise korra rikkumise eest, kui sellega p&otilde;hjustati oluline kahju v&otilde;i kui s&uuml;&uuml;dlase suhtes oli samasuguse rikkumise eest kohaldatud distsiplinaar- v&otilde;i halduskaristust, - karistatakse rahatrahvi v&otilde;i arestiga. </eesti>
+<inglise>(1) Violation of the requirements for the protection of land and soil or other land use requirements, or violation of the procedure for maintenance of the land cadastre, if such violation causes material damage or if a disciplinary or administrative punishment has been imposed on the offender for a similar offence, is punishable by a fine or detention. </inglise>
+<eesti>(2) Sama teo eest, kui sellega p&otilde;hjustati suur kahju v&otilde;i muu raske tagaj&auml;rg, - karistatakse rahatrahvi v&otilde;i arestiga v&otilde;i vabadusekaotusega kuni kahe aastani." </eesti>
+<inglise>(2) The same acts, if they cause major damage or result in other serious consequences, are punishable by a fine or detention or up to two years' imprisonment." </inglise>
+<eesti>&sect; 25. </eesti>
+<inglise>&sect; 25. </inglise>
+<eesti>Muudatused teistes &otilde;igusaktides </eesti>
+<inglise>Amendment of other legislation </inglise>
+<eesti>(1) Tunnistatakse kehtetuks Eesti NSV maakoodeksi (ENSV Teataja 1970, 33, lisa; 1980, 39, 568; 1981, 25, 359; 1983, 12, 146; 1984, 16, 180; 49, 577; 1985, 27, 452; 1988, 25, 295; RT I 1993, 72/73, 1021, 1994, 13, 231 ja 24, 391) paragrahvid 5-7, 91, 92, 57-59, 106, 111-113, 118-120, 122-127, 132-136, 147, 148, 154-169, 171-173, 177, 179, 180, 187-197, 199-201 ja 226-227. </eesti>
+<inglise>(1) Sections 5-7, 91, 92, 57-59, 106, 111-113, 118-120, 122-127, 132-136, 147, 148, 154-169, 171-173, 177, 179, 180, 187-197, 199-201 and 226-227 of the Land Code of the Estonian SSR (ENSV Teataja (2) 1970, 33, Appendix; 1980, 39, 568; 1981, 25, 359; 1983, 12, 146; 1984, 16, 180; 49, 577; 1985, 27, 452; 1988, 25, 295; RT I 1993, 72/73, 1021, 1994, 13, 231 and 24, 391) are repealed. </inglise>
+<eesti>(2) Eesti Vabariigi riigil&otilde;ivuseadust (RT 1990, 11, 118; RT I 1993, 66, 935; 1994, 14, 247; 46, 773; 49, 805) muudetakse ja t&auml;iendatakse j&auml;rgmiselt: </eesti>
+<inglise>(2) The Republic of Estonia State Fees Act (RT 1990, 11, 118; RT I 1993, 66, 935; 1994, 14, 247; 46, 773; 49, 805) is amended as follows: </inglise>
+<eesti>1) paragrahvi 2 t&auml;iendatakse uue punktiga 17 (1) j&auml;rgmises s&otilde;nastuses: </eesti>
+<inglise>1) clause 17 (1)) is added to &sect; 2 worded as follows: </inglise>
+<eesti>"17 (1)) maakatastri v&auml;ljav&otilde;tete eest;"; </eesti>
+<inglise>"17 (1)) for extracts from the land cadastre;"; </inglise>
+<eesti>2) lisa 1 t&auml;iendatakse uue punktiga 7 (1) j&auml;rgmiselt: </eesti>
+<inglise>2) clause 7 (1)) is added to Annex 1 worded as follows: </inglise>
+<eesti>"7 (1). </eesti>
+<inglise>"7 (1). </inglise>
+<eesti>Maakatastri v&auml;ljav&otilde;tetelt: </eesti>
+<inglise>For extracts from the land cadastre: </inglise>
+<eesti>1) v&auml;ljav&otilde;tete tegemine maakatastri registrist - 30 krooni iga lehek&uuml;lje eest; </eesti>
+<inglise>1) 30 kroons per page shall be paid for the making of extracts from the register of the land cadastre; </inglise>
+<eesti>2) v&auml;ljav&otilde;tete eest katastri&uuml;ksuse plaanist ja katastrikaartidest: </eesti>
+<inglise>2) for extracts from the cadastre plan or cadastre maps: </inglise>
+<eesti>- formaadi A4 iga lehek&uuml;lje eest 50 krooni; - formaadi A3 iga lehek&uuml;lje eest 75 krooni; - formaadis, mis on suurem kui A3, tuleb tasuda 4 krooni ruutdetsimeetrilt." </eesti>
+<inglise>50 kroons shall be paid for each A4-format page; 75 kroons shall be paid for each A3-format page; and 4 kroons per square decimetre shall be paid in case of formats larger than A3." </inglise>
+<eesti>&sect; 26. </eesti>
+<inglise>&sect; 26. </inglise>
+<eesti>Seaduse j&otilde;ustumine </eesti>
+<inglise>Entry into force of Act </inglise>
+<eesti>(1) K&auml;esolev seadus j&otilde;ustub Riigi Teatajas avaldamisele j&auml;rgneval p&auml;eval, v&auml;lja arvatud k&auml;esoleva seaduse paragrahv 3, mis j&otilde;ustub 1995. aasta 1. jaanuaril. </eesti>
+<inglise>(1) This Act enters into force on the date following its publication in the Riigi Teataja, with the exception of &sect; 3 of this Act which enters into force on 1 January 1995. </inglise>
+<eesti>(2) K&auml;esoleva seaduse j&otilde;ustumise p&auml;evaks alustatud katastrit&ouml;&ouml;d viiakse l&otilde;pule lepingu s&otilde;lmimise ajal kehtinud tingimustel ja registreeritakse katastripidaja poolt kuni 1995. aasta 15. aprillini. </eesti>
+<inglise>(2) Cadastral work commenced by the date of entry into force of this Act shall be completed under the conditions which were in force at the time the contract was entered into, and shall be registered by the cadastral registrar until 15 April 1995. (1) RT = Riigi Teataja = State Gazette </inglise>

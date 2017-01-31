@@ -1,0 +1,49 @@
+<inglise> COMMISSION DECISION of 3 June 1992 </inglise>
+<eesti> KOMISJONI OTSUS 92/341/EM&Uuml;, kohalike Animo &uuml;ksuste otsingu kohta arvuti abil 3. juuni 1992 </eesti>
+<inglise> relating to the computer retrieval of local Animo units </inglise>
+<eesti> EUROOPA &Uuml;HENDUSTE KOMISJON, </eesti>
+<inglise> (92/341/EEC) THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa Majandus&uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to the Treaty establishing the European Economic Community, Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 91/628/EEC (2), and in particular Article 20 (3) thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 26. juuni 1990. aasta direktiivi 90/425/EM&Uuml;, milles k&auml;sitletakse &uuml;hendusesiseses kaubanduses teatavate elusloomade ja toodete suhtes seoses siseturu v&auml;ljakujundamisega kohaldatavaid veterinaar- ja zootehnilisi kontrolle, (1) viimati muudetud direktiiviga 91/628/EM&Uuml;, (2) eriti selle artikli 20 l&otilde;iget 3, ning arvestades, et: </eesti>
+<inglise> Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3) and on 21 February 1992, Decision 92/175/EEC establishing the list and identity of the units of the Animo computerized network (4); </inglise>
+<eesti> komisjon v&otilde;ttis 19. juulil 1991 vastu otsuse 91/398/EM&Uuml; veterinaarasutusi &uuml;hendava arvutiv&otilde;rgu (Animo) kohta (3) ning 21. veebruaril 1992 otsuse 92/175/EM&Uuml;, millega n&auml;hakse ette arvutiv&otilde;rgu Animo &uuml;ksuste nimekiri ja identifitseerimine; (4) </eesti>
+<inglise> Whereas, in order to ensure the smooth operation of the Animo network, provision should be made for a computerized system allowing the unit of destination to be identified via the postal destinations; </inglise>
+<eesti> arvutiv&otilde;rgu Animo sujuva toimimise tagamiseks tuleb ette n&auml;ha arvutis&uuml;steem, mis v&otilde;imaldab sihtkoha &uuml;ksusi identifitseerida postiaadresside abil; </eesti>
+<inglise> Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee, </inglise>
+<eesti> k&auml;esoleva otsusega etten&auml;htud meetmed on koosk&otilde;las alalise veterinaarkomitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS DECISION: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA OTSUSE. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Each Member State shall, before 15 June 1992, transmit to the Commission, in computerized form as shown in the Annex, a list of postal destinations in alphabetical order. </inglise>
+<eesti> Iga liikmesriik edastab enne 15. juunit 1992 komisjonile lisas esitatud elektroonilises vormis postiaadresside loetelu t&auml;hestikulises j&auml;rjekorras. </eesti>
+<inglise> Each postal destination shall be accompanied by the identification number of the local unit corresponding to it. </inglise>
+<eesti> Igale postiaadressile lisatakse sellele vastava kohaliku &uuml;ksuse identifitseerimisnumber. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> On the basis of the data transmitted by the Member States in accordance with paragraph 1, the Commission shall establish, in computerized form to be integrated in the application software as defined in the fourth indent of Article 2 (2) of Decision 91/398/EEC, a repertory showing, for the Community as a whole, the postal destinations accompanied by the identification number of the local units and shall transmit this repertory to the Member States. </inglise>
+<eesti> Liikmesriikide vastavalt l&otilde;ikele 1 edastatud andmete alusel koostab komisjon elektroonilises vormis rakendustarkvarasse integreeritava registri, nagu on m&auml;&auml;ratletud otsuse 91/398/EM&Uuml; artikli 2 l&otilde;ike 2 neljandas taandes, koondades postiaadressid kogu &uuml;henduses koos kohalike &uuml;ksuste identifitseerimisnumbriga, ning edastab k&otilde;nealuse registri liikmesriikidele. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The repertory referred to in paragraph 2 shall be regularly updated by the Commission in the light of data transmitted by the Member States. </inglise>
+<eesti> Liikmesriikide edastatud andmeid silmas pidades ajakohastab komisjon korrap&auml;raselt l&otilde;ikes 2 osutatud registrit. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> This Decision is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev otsus on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 3 June 1992. For the Commission </inglise>
+<eesti> Br&uuml;ssel, 3. juuni 1992. </eesti>
+<inglise> Ray MAC SHARRY Member of the Commission </inglise>
+<eesti> Komisjoni nimel komisjoni liige Ray MAC SHARRY </eesti>
+<inglise> ANNEX </inglise>
+<eesti> LISA </eesti>
+<inglise> Description of the format of the record on which the information required for computer retrieval of local Animo units is to be entered </inglise>
+<eesti> Kohalike Animo &uuml;ksuste arvuti abil otsimiseks vajalikke andmeid sisaldava registri vormi kirjeldus </eesti>
+<inglise> Support characteristics: Diskette in 3,5 inch format with a capacity of 720 K or 1,44 MB. </inglise>
+<eesti> Andmekandja omadused: 3,5 -tolline ketas mahuga 720 K v&otilde;i 1,44 MB </eesti>
+<inglise> File in ASCII format. </inglise>
+<eesti> fail ASCII-kujul </eesti>
+ 

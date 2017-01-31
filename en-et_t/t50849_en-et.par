@@ -1,0 +1,711 @@
+<inglise> DIRECTIVE 96/92/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 1996 concerning common rules for the internal market in electricity </inglise>
+<eesti> EUROOPA PARLAMENDI JA N&Otilde;UKOGU DIREKTIIV 96/92/E&Uuml; elektri siseturu &uuml;hiseeskirjade kohta 19. detsember 1996 </eesti>
+<inglise> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, </inglise>
+<eesti> EUROOPA PARLAMENT JA EUROOPA LIIDU N&Otilde;UKOGU, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, and in particular Article 57 (2), Article 66 and Article 100a thereof, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, eriti selle artikli 57 l&otilde;iget 2 ning artikleid 66 ja 100a, </eesti>
+<inglise> Having regard to the proposal from the Commission (1), </inglise>
+<eesti> v&otilde;ttes arvesse komisjoni ettepanekut, (1) </eesti>
+<inglise> Having regard to the opinion of the Economic and Social Committee (2), </inglise>
+<eesti> v&otilde;ttes arvesse majandus- ja sotsiaalkomitee arvamust, (2) </eesti>
+<inglise> Acting in accordance with the procedure laid down in Article 189b of the Treaty (3), </inglise>
+<eesti> toimides asutamislepingu artiklis 189b etten&auml;htud korras (3) ning arvestades, et: </eesti>
+<inglise> (1) Whereas it is important to adopt measures to ensure the smooth running of the internal market; whereas the internal market is to comprise an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured; </inglise>
+<eesti> 1) on vaja v&otilde;tta vastu v&otilde;tta meetmed siseturu t&otilde;rgeteta toimimiseks; siseturg h&otilde;lmab sisepiirideta territooriumi, kus on tagatud kaupade, isikute, teenuste ja kapitali vaba liikumine; </eesti>
+<inglise> (2) Whereas the completion of a competitive electricity market is an important step towards completion of the internal energy market; </inglise>
+<eesti> 2) konkurentsile rajatud elektrituru v&auml;ljakujundamine on oluline samm energia siseturu l&otilde;plikul moodustamisel; </eesti>
+<inglise> (3) Whereas the provisions of this Directive should not affect the full application of the Treaty, in particular the provisions concerning the internal market and competition; </inglise>
+<eesti> 3) k&auml;esoleva direktiivi s&auml;tted ei tohiks m&otilde;jutada asutamislepingu, eelk&otilde;ige selle siseturgu ja konkurentsi reguleerivate s&auml;tete t&auml;ielikku kohaldamist; </eesti>
+<inglise> (4) Whereas establishment of the internal market in electricity is particularly important in order to increase efficiency in the production, transmission and distribution of this product, while reinforcing security of supply and the competitiveness of the European economy and respecting environmental protection; </inglise>
+<eesti> 4) elektri siseturu loomine on eriti t&auml;htis elektri tootmise, &uuml;lekandmise ja jaotamise t&otilde;hususe suurendamiseks, tugevdades samal ajal tarnekindlust ning Euroopa majanduse konkurentsiv&otilde;imet ja kaitstes keskkonda; </eesti>
+<inglise> (5) Whereas the internal market in electricity needs to be established gradually, in order to enable the industry to adjust in a flexible and ordered manner to its new environment and to take account of the different ways in which electricity systems are organized at present; </inglise>
+<eesti> 5) elektri siseturu rajamine peab toimuma j&auml;rk-j&auml;rgult, et t&ouml;&ouml;stus v&otilde;iks uute oludega paindlikult ja kaalutletult kohaneda ning v&otilde;tta arvesse praegust elektris&uuml;steemide erinevat korraldust; </eesti>
+<inglise> (6) Whereas the establishment of the internal market in the electricity sector must favour the interconnection and interoperability of systems; </inglise>
+<eesti> 6) elektri siseturu loomine peab soodustama v&otilde;rkude &uuml;hendamist ja koostalitlusv&otilde;imet; </eesti>
+<inglise> (7) Whereas Council Directive 90/547/EEC of 29 October 1990 on the transit of electricity through transmission grids (4) and Council Directive 90/377/EEC of 29 June 1990 concerning a Community procedure to improve the transparency of gas and electricity prices charged to industrial end-users (5), provide for a first phase for the completion of the internal market in electricity; </inglise>
+<eesti> 7) n&otilde;ukogu 29. oktoobri 1990. aasta direktiiv 90/547/EM&Uuml; elektri edastamise kohta v&otilde;rkude kaudu (4) ja n&otilde;ukogu 29. juuni 1990. aasta direktiiv 90/377/EM&Uuml; &uuml;henduse protseduurireeglite kohta t&ouml;&ouml;stuslikele l&otilde;pptarbijatele m&auml;&auml;ratud gaasi- ja elektrihindade l&auml;bipaistvuse parandamiseks (5) n&auml;evad ette esimese etapi elektri siseturu v&auml;ljakujundamisel; </eesti>
+<inglise> (8) Whereas it is now necessary to take further measures with a view to establishing the internal market in electricity; </inglise>
+<eesti> 8) elektri siseturu loomiseks on n&uuml;&uuml;d vaja v&otilde;tta t&auml;iendavaid meetmeid; </eesti>
+<inglise> (9) Whereas, in the internal market, electricity undertakings must be able to operate, without prejudice to compliance with public service obligations, with a view to achieving a competitive market in electricity; </inglise>
+<eesti> 9) siseturul peavad elektriettev&otilde;tjad saama toimida konkurentsile rajatud elektrituru loomise eesm&auml;rgil, ilma et see piiraks avaliku teenindamise kohustuste t&auml;itmist; </eesti>
+<inglise> (10) Whereas Member States, because of the structural differences in the Member States, currently have different systems for regulating the electricity sector; </inglise>
+<eesti> 10) struktuuriliste erinevuste t&otilde;ttu on liikmesriikides praegu erinevad elektrisektori reguleerimise s&uuml;steemid; </eesti>
+<inglise> (11) Whereas, in accordance with the principle of subsidiarity, general principles providing for a framework must be established at Community level, but their detailed implementation should be left to Member States, thus allowing each Member State to choose the regime which corresponds best to its particular situation; </inglise>
+<eesti> 11) vastavalt subsidiaarsusp&otilde;him&otilde;ttele tuleb &uuml;henduse tasandil kehtestada s&uuml;steemi &uuml;ldp&otilde;him&otilde;tted, aga nende &uuml;ksikasjaline rakendamine j&auml;tta liikmesriikidele, v&otilde;imaldades neil valida korra, mis k&otilde;ige paremini vastab nende erioludele; </eesti>
+<inglise> (12) Whereas, whatever the nature of the prevailing market organization, access to the system must be open in accordance with this Directive and must lead to equivalent economic results in the States and hence to a directly comparable level of opening-up of markets and to a directly comparable degree of access to electricity markets; </inglise>
+<eesti> 12) olenemata valitseva turukorralduse laadist peab vastavalt k&auml;esolevale direktiivile juurdep&auml;&auml;s v&otilde;rgule olema vaba ning viima liikmesriikides samav&auml;&auml;rsete majandustulemusteni ja seega otseselt v&otilde;rreldava turgude avatuse tasemeni ning otseselt v&otilde;rreldava elektriturule p&auml;&auml;su astmeni; </eesti>
+<inglise> (13) Whereas for some Member States the imposition of public service obligations may be necessary to ensure security of supply and consumer and environmental protection, which, in their view, free competition, left to itself, cannot necessarily guarantee; </inglise>
+<eesti> 13) m&otilde;nes liikmesriigis v&otilde;ib olla vajalik avaliku teenindamise kohustuste kehtestamine, et tagada tarnekindlus ning tarbija- ja keskkonnakaitse, mida vaba konkurents nende riikide arvates iseenesest ei pruugi tingimata tagada; </eesti>
+<inglise> (14) Whereas long-term planning may be one means of carrying out those public service obligations; </inglise>
+<eesti> 14) pikaajaline planeerimine v&otilde;ib olla &uuml;ks nende avaliku teenindamise kohustuste t&auml;itmise vahend; </eesti>
+<inglise> (15) Whereas the Treaty lays down specific rules with regard to restrictions on the free movement of goods and on competition; </inglise>
+<eesti> 15) asutamislepingus s&auml;testatakse kaupade vaba liikumise ja konkurentsi piiranguid k&auml;sitlevad erieeskirjad; </eesti>
+<inglise> (16) Whereas Article 90 (1) of the Treaty, in particular, obliges the Member States to respect these rules with regard to public undertakings and undertakings which have been granted special or exclusive rights; </inglise>
+<eesti> 16) asutamislepingu artikli 90 l&otilde;ikes 1 kohustatakse liikmesriike eriti j&auml;rgima neid eeskirju riigi osalusega &auml;ri&uuml;hingute puhul ning nende ettev&otilde;tjate osas, kellele on antud eri- ja ainu&otilde;igused; </eesti>
+<inglise> (17) Whereas Article 90 (2) of the Treaty subjects undertakings entrusted with the operation of services of general economic interest to these rules, under specific conditions; </inglise>
+<eesti> 17) vastavalt asutamislepingu artikli 90 l&otilde;ikele 2 kohaldatakse k&otilde;nealuseid eeskirju eritingimuste alusel nende ettev&otilde;tjate suhtes, kellele on antud &uuml;lesanne osutada &uuml;ldist majandushuvi esindavaid teenuseid; </eesti>
+<inglise> (18) Whereas the implementation of this Directive will have an impact on the activities of such undertakings; </inglise>
+<eesti> 18) k&auml;esoleva direktiivi rakendamine m&otilde;jutab selliste ettev&otilde;tjate tegevust; </eesti>
+<inglise> (19) Whereas the Member States, when imposing public service obligations on the undertakings of the electricity sector, must therefore respect the relevant rules of the Treaty as interpreted by the Court of Justice; </inglise>
+<eesti> 19) seet&otilde;ttu peavad liikmesriigid elektrisektori ettev&otilde;tjatele avaliku teenindamise kohustusi pannes j&auml;rgima asutamislepingu asjakohaseid eeskirju vastavalt Euroopa Kohtu t&otilde;lgendusele; </eesti>
+<inglise> (20) Whereas, in establishing the internal market in electricity, full account should be taken of the Community objective of economic and social cohesion, particularly in sectors such as the infrastructures, national or intra-Community, which are used for the transmission of electricity; </inglise>
+<eesti> 20) elektri siseturu rajamisel tuleks t&auml;ielikult arvesse v&otilde;tta &uuml;henduse majandusliku ja sotsiaalse &uuml;htekuuluvuse eesm&auml;rki eelk&otilde;ige sellistes sektorites nagu riigi- v&otilde;i &uuml;hendusesisesed infrastruktuurid, mida kasutatakse elektri &uuml;lekandmiseks; </eesti>
+<inglise> (21) Whereas Decision No 1254/96/EC of the European Parliament and of the Council of 5 June 1996 laying down a series of guidelines for trans-European energy networks (6) has contributed to the development of integrated infrastructures for the transmission of electricity; </inglise>
+<eesti> 21) Euroopa Parlamendi ja n&otilde;ukogu 5. juuni 1996. aasta otsus nr 1254/96/E&Uuml;, milles s&auml;testatakse suunised &uuml;leeuroopaliste energiav&otilde;rkude jaoks, (6) on soodustanud elektri &uuml;lekandmise integreeritud infrastruktuuride v&auml;ljaarendamist; </eesti>
+<inglise> (22) Whereas it is therefore necessary to establish common rules for the production of electricity and the operation of electricity transmission and distribution systems; </inglise>
+<eesti> 22) seet&otilde;ttu on vajalik kehtestada elektri tootmise ning &uuml;lekande- ja jaotusv&otilde;rkude toimimise &uuml;hiseeskirjad; </eesti>
+<inglise> (23) Whereas there are two systems which may be applied for opening up the production market, an authorization procedure or a tendering procedure, and these must operate in accordance with objective, transparent and non-discriminatory criteria; </inglise>
+<eesti> 23) on olemas kaks s&uuml;steemi, mida v&otilde;ib kohaldada tootmisturu avamiseks, nimelt kinnitamismenetlus ja pakkumismenetlus, ja need peavad toimima vastavalt objektiivsetele, selgetele ja arusaadavatele ning mittediskrimineerivatele kriteeriumidele; </eesti>
+<inglise> (24) Whereas the position of autoproducers and independent producers needs to be taken into consideration within this framework; </inglise>
+<eesti> 24) selles raamistikus on vaja v&otilde;tta arvesse oma tarbeks tootjate ja s&otilde;ltumatute tootjate olukorda; </eesti>
+<inglise> (25) Whereas each transmission system must be subject to central management and control in order to ensure the security, reliability and efficiency of the system in the interests of producers and their customers; whereas a transmission system operator should therefore be designated and entrusted with the operation, maintenance, and, if necessary, development of the system; whereas the transmission system operator must behave in an objective, transparent and non-discriminatory manner; </inglise>
+<eesti> 25) iga &uuml;lekandev&otilde;rk peab alluma keskjuhatusele ja -kontrollile, et tootjate ja nende klientide huvides tagada tema kindlus, usaldusv&auml;&auml;rsus ja t&otilde;husus; seet&otilde;ttu tuleks m&auml;&auml;rata &uuml;lekandev&otilde;rgu operaator ja usaldada talle v&otilde;rgu kasutamine, hooldamine ja vajaduse korral arendamine; &uuml;lekandev&otilde;rgu operaator peab k&auml;ituma objektiivsel, selgel ja arusaadaval ning mittediskrimineerival viisil; </eesti>
+<inglise> (26) Whereas the technical rules for the operation of transmission systems and direct lines must be transparent and must ensure interoperability; </inglise>
+<eesti> 26) &uuml;lekandev&otilde;rkude ja otseliinide kasutamise tehnilised eeskirjad peavad olema selged ja arusaadavad ning tagama koostalitlusv&otilde;ime; </eesti>
+<inglise> (27) Whereas objective and non-discriminatory criteria must be established for the dispatching of power stations; </inglise>
+<eesti> 27) elektrijaamade dispet&scaron;juhtimise jaoks tuleb kehtestada objektiivsed ja mittediskrimineerivad kriteeriumid; </eesti>
+<inglise> (28) Whereas, for reasons of environmental protection, priority may be given to the production of electricity from renewable sources; </inglise>
+<eesti> 28) keskkonnakaitse p&otilde;hjustel v&otilde;ib eelistada elektri tootmist taastuvatest energiaallikatest; </eesti>
+<inglise> (29) Whereas, at the distribution level, customers located in a given area may be granted supply rights and a manager must be designated to manage, maintain and, if necessary, develop each distribution system; </inglise>
+<eesti> 29) jaotustasandil v&otilde;ib teatavas piirkonnas asuvatele klientidele anda tarnimis&otilde;iguse ning tuleb m&auml;&auml;rata vastutav isik, kes kasutaks, hooldaks ja vajaduse korral arendaks iga jaotusv&otilde;rku; </eesti>
+<inglise> (30) Whereas, in order to ensure transparency and non-discrimination, the transmission function of vertically integrated undertakings should be operated independently from the other activities; </inglise>
+<eesti> 30) l&auml;bipaistvuse ja mittediskrimineerimise tagamiseks tuleks vertikaalselt integreeritud ettev&otilde;tjate &uuml;lekandefunktsiooni hoida teistest tegevustest s&otilde;ltumatuna; </eesti>
+<inglise> (31) Whereas a single buyer must operate separately from the generation and distribution activities of vertically integrated undertakings; whereas the flow of information between the single buyer activities and these generation and distribution activities needs to be restricted; </inglise>
+<eesti> 31) &uuml;ksikostja peab tegutsema vertikaalselt integreeritud ettev&otilde;tjate tootmis- ja jaotustegevusest eraldi; &uuml;ksikostja tegevuse ja nimetatud tootmis- ja jaotustegevuste vahelist infovoogu on vaja piirata; </eesti>
+<inglise> (32) Whereas the accounts of all integrated electricity undertakings should provide for maximum transparency, in particular to identify possible abuses of a dominant position, consisting for example in abnormally high or low tariffs or in discriminatory practices relating to equivalent transactions; whereas, to this end, the accounts must be separate for each activity; </inglise>
+<eesti> 32) k&otilde;ikide integreeritud elektriettev&otilde;tjate raamatupidamine peaks tagama maksimaalse l&auml;bipaistvuse, et eelk&otilde;ige kindlaks m&auml;&auml;rata v&otilde;imalikku valitseva seisundi kuritarvitamist, n&auml;iteks ebatavaliselt k&otilde;rgeid v&otilde;i madalaid hindu v&otilde;i diskrimineerivaid tegevusi v&otilde;rdv&auml;&auml;rsete tehingute puhul; selleks peab iga tegevuse kohta olema eraldi raamatupidamisarvestus; </eesti>
+<inglise> (33) Whereas it is also necessary to provide for access by the competent authorities to the internal accounts of undertakings with due regard for confidentiality; </inglise>
+<eesti> 33) samuti on vaja s&auml;testada p&auml;devate asutuste juurdep&auml;&auml;s ettev&otilde;tjatesisesele raamatupidamisele, tagades n&otilde;uetekohase konfidentsiaalsuse; </eesti>
+<inglise> (34) Whereas, owing to the diversity of structures and the special characteristics of systems in Member States, there should be different options for system access operating in accordance with objective, transparent and non-discriminatory criteria; </inglise>
+<eesti> 34) v&otilde;ttes arvesse liikmesriikide s&uuml;steemide struktuurilist mitmekesisust ja eriomadusi, tuleks v&otilde;rgule juurdep&auml;&auml;suks ette n&auml;ha erinevaid v&otilde;imalusi, mille suhtes kohaldataks objektiivseid, l&auml;bipaistvaid ja mittediskrimineerivaid kriteeriume; </eesti>
+<inglise> (35) Whereas provision should be made for authorizing the construction and use of direct lines; </inglise>
+<eesti> 35) tuleks s&auml;testada otseliinide ehitamise ja kasutamise lubamine; </eesti>
+<inglise> (36) Whereas provision must be made for safeguards and dispute settlement procedures; </inglise>
+<eesti> 36) tuleb s&auml;testada kaitseklauslid ja vaidluste lahendamise kord; </eesti>
+<inglise> (37) Whereas any abuse of a dominant position or any predatory behaviour should be avoided; </inglise>
+<eesti> 37) tuleks v&auml;ltida turgu valitseva seisundi kuritarvitamist ja turuvallutuslikku k&auml;itumist; </eesti>
+<inglise> (38) Whereas, as some Member States are liable to experience special difficulties in adjusting their systems, provision should be made for recourse to transitional regimes or derogations, especially for the operation of small isolated systems; </inglise>
+<eesti> 38) kuna m&otilde;nes liikmesriigis v&otilde;ivad nende v&otilde;rkude kohandamisega kaasneda erilised raskused, tuleks eelk&otilde;ige v&auml;ikeste isoleeritud v&otilde;rkude osas ette n&auml;ha &uuml;leminekure&zcaron;iimi v&otilde;i erandite kasutamine; </eesti>
+<inglise> (39) Whereas this Directive constitutes a further phase of liberalization; whereas, once it has been put into effect, some obstacles to trade in electricity between Member States will nevertheless remain in place; whereas, therefore, proposals for improving the operation of the internal market in electricity may be made in the light of experience; whereas the Commission should therefore report to the Council and the European Parliament on the application of this Directive, </inglise>
+<eesti> 39) k&auml;esolev direktiiv on j&auml;rgmine etapp turgude liberaliseerimisel; selle j&otilde;ustumisel s&auml;ilivad liikmesriikide vahel siiski teatavad takistused elektriga kauplemisel; saadud kogemuste p&otilde;hjal tuleks teha ettepanekuid elektri siseturu toimimise parandamiseks; seet&otilde;ttu peab komisjon Euroopa Parlamendile ja n&otilde;ukogule k&auml;esoleva direktiivi kohaldamise kohta aru andma, </eesti>
+<inglise> HAVE ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> CHAPTER I </inglise>
+<eesti> I PEAT&Uuml;KK </eesti>
+<inglise> Scope and definitions </inglise>
+<eesti> Reguleerimisala ja m&otilde;isted </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> This Directive establishes common rules for the generation, transmission and distribution of electricity. </inglise>
+<eesti> K&auml;esolevas direktiivis kehtestatakse elektri tootmise, &uuml;lekandmise ja jaotamise &uuml;hiseeskirjad. </eesti>
+<inglise> It lays down the rules relating to the organization and functioning of the electricity sector, access to the market, the criteria and procedures applicable to calls for tender and the granting of authorizations and the operation of systems. </inglise>
+<eesti> Selles s&auml;testatakse elektrisektori korralduse ja toimimise, turulep&auml;&auml;su, pakkumiskutsete suhtes kohaldatavate kriteeriumide ja korra, lubade v&auml;ljastamise ja v&otilde;rkude toimimise eeskirjad. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> For the purposes of this Directive: </inglise>
+<eesti> K&auml;esolevas direktiivis kasutatakse j&auml;rgmisi m&otilde;isteid: </eesti>
+<inglise> 1. 'generation' shall mean the production of electricity; </inglise>
+<eesti> 1) tootmine - elektri tootmine; </eesti>
+<inglise> 2. 'producer' shall mean a natural or legal person generating electricity; </inglise>
+<eesti> 2) tootja - elektrit tootev f&uuml;&uuml;siline v&otilde;i juriidiline isik; </eesti>
+<inglise> 3. 'autoproducer' shall mean a natural or legal person generating electricity essentially for his own use; </inglise>
+<eesti> 3) oma tarbeks tootja - elektrit peamiselt oma tarbeks tootev f&uuml;&uuml;siline v&otilde;i juriidiline isik; </eesti>
+<inglise> 4. 'independent producer' shall mean: </inglise>
+<eesti> 4) s&otilde;ltumatu tootja - </eesti>
+<inglise> (a) a producer who does not carry out electricity transmission or distribution functions in the territory covered by the system where he is established; </inglise>
+<eesti> a) tootja, kes ei teosta elektri &uuml;lekandmist v&otilde;i jaotamist selle v&otilde;rgu territooriumil, kuhu ta kuulub; </eesti>
+<inglise> (b) in Member States in which vertically integrated undertakings do not exist and where a tendering procedure is used, a producer corresponding to the definition of point (a), who may not be exclusively subject to the economic precedence of the interconnected system; </inglise>
+<eesti> b) liikmesriikides, kus ei ole vertikaalselt integreeritud ettev&otilde;tjaid ja kus kasutatakse pakkumismenetlust, punkti a m&auml;&auml;ratlusele vastav tootja, kelle suhtes ei v&otilde;i kohaldada &uuml;ksnes &uuml;hendatud v&otilde;rgu majanduslikku t&auml;htsusj&auml;rjestust; </eesti>
+<inglise> 5. 'transmission' shall mean the transport of electricity on the high-voltage interconnected system with a view to its delivery to final customers or to distributors; </inglise>
+<eesti> 5) &uuml;lekandmine - elektri &uuml;lekanne &uuml;hendatud k&otilde;rgepingev&otilde;rgu kaudu l&otilde;pptarbijatele v&otilde;i jaotajatele; </eesti>
+<inglise> 6. 'distribution' shall mean the transport of electricity on medium-voltage and low-voltage distribution systems with a view to its delivery to customers; </inglise>
+<eesti> 6) jaotamine - elektri &uuml;lekanne klientidele kesk- ja madalpinge jaotusv&otilde;rkude kaudu; </eesti>
+<inglise> 7. 'customers' shall mean wholesale or final customers of electricity and distribution companies; </inglise>
+<eesti> 7) kliendid - elektri hulgim&uuml;&uuml;jad v&otilde;i l&otilde;pptarbijad ja jaotusettev&otilde;tjad; </eesti>
+<inglise> 8. 'wholesale customers' shall mean any natural or legal persons, if the Member States recognize their existence, who purchase or sell electricity and who do not carry out transmission, generation or distribution functions inside or outside the system where they are established; </inglise>
+<eesti> 8) hulgim&uuml;&uuml;jad - liikmesriigi poolt tunnustatud f&uuml;&uuml;silised v&otilde;i juriidilised isikud, kes ostavad v&otilde;i m&uuml;&uuml;vad elektrit, kuid ei tegele elektri &uuml;lekandmise, tootmise ega jaotamisega selle v&otilde;rgu sees v&otilde;i v&auml;ljaspool seda v&otilde;rku, kuhu nad kuuluvad; </eesti>
+<inglise> 9. 'final customer' shall mean a customer buying electricity for his own use; </inglise>
+<eesti> 9) l&otilde;pptarbija - klient, kes ostab elektrit oma tarbeks; </eesti>
+<inglise> 10. 'interconnectors' shall mean equipment used to link electricity systems; </inglise>
+<eesti> 10) v&otilde;rkudevahelised &uuml;hendused - seadmed, mida kasutatakse elektriv&otilde;rkude sidumiseks; </eesti>
+<inglise> 11. 'interconnected system' shall mean a number of transmission and distribution systems linked together by means of one or more interconnectors; </inglise>
+<eesti> 11) &uuml;hendatud v&otilde;rk - omavahel &uuml;he v&otilde;i mitme s&uuml;steemidevahelise &uuml;hendusega seotud &uuml;lekande- ja jaotusv&otilde;rgud; </eesti>
+<inglise> 12. 'direct line' shall mean an electricity line complementary to the interconnected system; </inglise>
+<eesti> 12) otseliin - &uuml;hendatud v&otilde;rku t&auml;iendav elektriliin; </eesti>
+<inglise> 13. 'economic precedence' shall mean the ranking of sources of electricity supply in accordance with economic criteria; </inglise>
+<eesti> 13) majanduslik t&auml;htsusj&auml;rjestus - elektritarneallikate j&auml;rjestamine majanduskriteeriumide alusel; </eesti>
+<inglise> 14. 'ancillary services' shall mean all services necessary for the operation of a transmission or distribution system; </inglise>
+<eesti> 14) abiteenused - k&otilde;ik &uuml;lekande- v&otilde;i jaotusv&otilde;rgu toimimiseks vajalikud teenused; </eesti>
+<inglise> 15. 'system user' shall mean any natural or legal person supplying to, or being supplied by, a transmission or distribution system; </inglise>
+<eesti> 15) v&otilde;rgukasutaja - f&uuml;&uuml;siline v&otilde;i juriidiline isik, kes tarnib elektrit &uuml;lekande- v&otilde;i jaotusv&otilde;rku v&otilde;i kellele tarnitakse elektrit &uuml;lekande- v&otilde;i jaotusv&otilde;rgu kaudu; </eesti>
+<inglise> 16. 'supply' shall mean the delivery and/or sale of electricity to customers; </inglise>
+<eesti> 16) tarnimine - elektri tarnimine ja/v&otilde;i m&uuml;&uuml;k klientidele; </eesti>
+<inglise> 17. 'integrated electricity undertaking' shall mean a vertically or horizontally integrated undertaking; </inglise>
+<eesti> 17) integreeritud elektriettev&otilde;tja - vertikaalselt v&otilde;i horisontaalselt integreeritud ettev&otilde;tja; </eesti>
+<inglise> 18. 'vertically integrated undertaking' shall mean an undertaking performing two or more of the functions of generation, transmission and distribution of electricity; </inglise>
+<eesti> 18) vertikaalselt integreeritud ettev&otilde;tja - ettev&otilde;tja, kes t&auml;idab kaht v&otilde;i enamat j&auml;rgmist &uuml;lesannet: elektri tootmine, &uuml;lekandmine ja jaotamine; </eesti>
+<inglise> 19. 'horizontally integrated undertaking' shall mean an undertaking performing at least one of the functions of generation for sale, or transmission or distribution of electricity, and another non-electricity activity; </inglise>
+<eesti> 19) horisontaalselt integreeritud ettev&otilde;tja - ettev&otilde;tja, kes t&auml;idab elektri m&uuml;&uuml;giks tootmisest, &uuml;lekandmisest ja jaotamisest v&auml;hemalt &uuml;ht funktsiooni ning lisaks tegutseb v&auml;ljaspool elektrisektorit; </eesti>
+<inglise> 20. 'tendering procedure' shall mean the procedure through which planned additional requirements and replacement capacity are covered by supplies from new or existing generating capacity; </inglise>
+<eesti> 20) pakkumismenetlus - menetlus, mille puhul kavandatud lisavajadused ja asendusv&otilde;imsus kaetakse tarnetega uuest v&otilde;i olemasolevast tootmisv&otilde;imsusest; </eesti>
+<inglise> 21. 'long-term planning' shall mean the planning of the need for investment in generation and transmission capacity on a long-term basis, with a view to meeting the demand for electricity of the system and securing supplies to customers; </inglise>
+<eesti> 21) pikaajaline planeerimine - tootmis- ja &uuml;lekandev&otilde;imsuse vajaduse pikaajaline planeerimine, et rahuldada v&otilde;rgu n&otilde;udlus elektri j&auml;rele ja tagada tarned klientidele; </eesti>
+<inglise> 22. 'single buyer' shall mean any legal person who, within the system where he is established, is responsible for the unified management of the transmission system and/or for centralized electricity purchasing and selling; </inglise>
+<eesti> 22) &uuml;ksikostja - juriidiline isik, kes v&otilde;rgus, kuhu ta kuulub, vastutab &uuml;lekandev&otilde;rgu &uuml;htse majandamise ja/v&otilde;i elektri tsentraliseeritud ostu ja m&uuml;&uuml;gi eest; </eesti>
+<inglise> 23. 'small isolated system' shall mean any system with consumption of less than 2500 GWh in the year 1996, where less than 5 % of annual consumption is obtained through interconnection with other systems. </inglise>
+<eesti> 23) v&auml;ike isoleeritud v&otilde;rk - mis tahes v&otilde;rk, kus 1966. aastal on tarbimine alla 2500 GWh ja v&auml;hem kui 5% aastasest tarbimisest on p&auml;rit &uuml;hendatud v&otilde;rgust. </eesti>
+<inglise> CHAPTER II </inglise>
+<eesti> II peat&uuml;kk </eesti>
+<inglise> General rules for the organization of the sector </inglise>
+<eesti> Sektori korralduse &uuml;ldeeskirjad </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall ensure, on the basis of their institutional organization and with due regard for the principle of subsidiarity, that, without prejudice to paragraph 2, electricity undertakings are operated in accordance with the principles of this Directive, with a view to achieving a competitive market in electricity, and shall not discriminate between these undertakings as regards either rights or obligations. </inglise>
+<eesti> Liikmesriigid tagavad oma institutsioonilise korra alusel ja subsidiaarsusp&otilde;him&otilde;tet arvesse v&otilde;ttes, ilma et see piiraks l&otilde;ike 2 kohaldamist, elektriettev&otilde;tjate tegevuse koosk&otilde;las k&auml;esoleva direktiivi p&otilde;him&otilde;tetega konkurentsiv&otilde;imelise elektrituru saavutamise eesm&auml;rgil ning nende v&otilde;rdsed &otilde;igused ja kohustused. </eesti>
+<inglise> The two approaches to system access referred to in Articles 17 and 18 must lead to equivalent economic results and hence to a directly comparable level of opening-up of markets and to a directly comparable degree of access to electricity markets. </inglise>
+<eesti> M&otilde;lemad artiklites 17 ja 18 nimetatud l&auml;henemised v&otilde;rgule juurdep&auml;&auml;sule peavad viima liikmesriikides samav&auml;&auml;rsete majandustulemusteni ja seega otseselt v&otilde;rreldava turgude avatuse tasemeni ning otseselt v&otilde;rreldava elektriturule p&auml;&auml;su astmeni. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Having full regard to the relevant provisions of the Treaty, in particular Article 90, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including security of supply, regularity, quality and price of supplies and to environmental protection. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad asutamislepingu asjakohaseid s&auml;tteid, eriti artiklit 90 arvesse v&otilde;ttes ja &uuml;ldist majandushuvi silmas pidades kehtestada elektriettev&otilde;tjatele avaliku teenindamise kohustused, mis v&otilde;ivad olla seotud kindlusega, sealhulgas tarnekindlusega, tarnete regulaarsuse, kvaliteedi ja hinnaga ning keskkonnakaitsega. </eesti>
+<inglise> Such obligations must be clearly defined, transparent, non-discriminatory and verifiable; they, and any revision thereof, shall be published and notified to the Commission by Member States without delay. </inglise>
+<eesti> Kohustused peavad olema selgelt m&auml;&auml;ratletud, l&auml;bipaistvad, mittediskrimineerivad ja kontrollitavad; liikmesriigid peavad kohustused ja nende l&auml;bivaatamise tulemused avaldama ja nendest komisjonile viivitamata teatama. </eesti>
+<inglise> As a means of carrying out the abovementioned public service obligations, Member States which so wish may introduce the implementation of long-term planning. </inglise>
+<eesti> Eespool nimetatud avaliku teenindamise kohustuste t&auml;itmise vahendina v&otilde;ivad liikmesriigid soovi korral rakendada pikaajalist planeerimist. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States may decide not to apply the provisions of Articles 5, 6, 17, 18 and 21 insofar as the application of these provisions would obstruct the performance, in law or in fact, of the obligations imposed on electricity undertakings in the general economic interest and insofar as the development of trade would not be affected to such an extent as would be contrary to the interests of the Community. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad otsustada artiklite 5, 6, 17, 18 ja 21 s&auml;tteid mitte kohaldada, kui nende s&auml;tete kohaldamine juriidiliselt v&otilde;i faktiliselt takistaks elektriettev&otilde;tjatele pandud &uuml;ldist majandushuvi esindavate kohustuste t&auml;itmist, tingimusel et kauplemise arengut ei m&otilde;jutata sellisel m&auml;&auml;ral, mis oleks vastuolus &uuml;henduse huvidega. </eesti>
+<inglise> The interests of the Community include, inter alia, competition with regard to eligible customers in accordance with this Directive and Article 90 of the Treaty. </inglise>
+<eesti> &Uuml;henduse huvid h&otilde;lmavad muu hulgas ka konkurentsi klientide vahel, kes vastavad k&auml;esoleva direktiivi ja asutamislepingu artikli 90 tingimustele. </eesti>
+<inglise> CHAPTER III </inglise>
+<eesti> III PEAT&Uuml;KK </eesti>
+<inglise> Generation </inglise>
+<eesti> Tootmine </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> For the construction of new generating capacity, Member States may choose between an authorization procedure and/or a tendering procedure. </inglise>
+<eesti> Uue tootmisv&otilde;imsuse ehitamiseks v&otilde;ivad liikmesriigid valida kinnitamismenetluse ja /v&otilde;i pakkumismenetluse vahel. </eesti>
+<inglise> Authorization and tendering must be conducted in accordance with objective, transparent and non-discriminatory criteria. </inglise>
+<eesti> Neid menetlusi rakendatakse objektiivsete, l&auml;bipaistvate ja mittediskrimineerivate kriteeriumide alusel. </eesti>
+<inglise> Article 5 </inglise>
+<eesti> Artikkel 5 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Where they opt for the authorization procedure, Member States shall lay down the criteria for the grant of authorizations for the construction of generating capacity in their territory. </inglise>
+<eesti> Kui liikmesriigid valivad kinnitamismenetluse, n&auml;evad nad ette lubade v&auml;ljastamise kriteeriumid tootmisv&otilde;imsuse ehitamiseks nende territooriumil. </eesti>
+<inglise> These criteria may relate to: </inglise>
+<eesti> Need kriteeriumid v&otilde;ivad olla seotud: </eesti>
+<inglise> (a) the safety and security of the electricity system, installations and associated equipment; </inglise>
+<eesti> a) elektriv&otilde;rgu ja -seadmete nendega seotud varustuse turvalisuse ja kindlusega; </eesti>
+<inglise> (b) protection of the environment; </inglise>
+<eesti> b) keskkonnakaitsega; </eesti>
+<inglise> (c) land use and siting; </inglise>
+<eesti> c) maakasutuse ja asukohaga; </eesti>
+<inglise> (d) use of public ground; </inglise>
+<eesti> d) sotsiaalmaa kasutusega; </eesti>
+<inglise> (e) energy efficiency; </inglise>
+<eesti> e) energiat&otilde;hususega; </eesti>
+<inglise> (f) the nature of the primary sources; </inglise>
+<eesti> f) primaarenergiaallikate laadiga; </eesti>
+<inglise> (g) characteristics particular to the applicant, such as technical, economic and financial capabilities; </inglise>
+<eesti> g) taotleja eriomadustega, nagu tehnilise, majandus- ja finantssuutlikkusega; </eesti>
+<inglise> (h) the provisions of Article 3. </inglise>
+<eesti> h) artikli 3 s&auml;tetega. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The detailed criteria and procedures shall be made public. </inglise>
+<eesti> &Uuml;ksikasjalikud kriteeriumid ja menetlused avalikustatakse. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Applicants shall be informed of the reasons, which must be objective and non-discriminatory, for any refusal to grant an authorization; the reasons must be well founded and duly substantiated; they shall be forwarded to the Commission for information. </inglise>
+<eesti> Taotlejaid teavitatakse loa v&auml;ljastamisest keeldumise p&otilde;hjustest, mis peavad olema objektiivsed ja mittediskrimineerivad ning h&auml;sti ja n&otilde;uetekohaselt p&otilde;hjendatud; keeldumise p&otilde;hjused edastatakse komisjonile teadmiseks. </eesti>
+<inglise> Appeal procedures must be made available to the applicant. </inglise>
+<eesti> Edasikaebemenetlused peavad olema taotlejale k&auml;ttesaadavad. </eesti>
+<inglise> Article 6 </inglise>
+<eesti> Artikkel 6 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Where they opt for the tendering procedure, Member States or any competent body designated by the Member State concerned shall draw up an inventory of new means of production, including replacement capacity, on the basis of the regular estimate referred to in paragraph 2. </inglise>
+<eesti> Pakkumismenetluse valimise korral koostavad liikmesriigid v&otilde;i asjaomase liikmesriigi m&auml;&auml;ratud p&auml;dev asutus l&otilde;ikes 2 nimetatud korrap&auml;rase hinnangu alusel uute tootmisvahendite loetelu, h&otilde;lmates ka asendusv&otilde;imsust. </eesti>
+<inglise> The inventory shall take account of the need for interconnection of systems. </inglise>
+<eesti> Loetelus v&otilde;etakse arvesse v&otilde;rkude &uuml;hendamise vajadust. </eesti>
+<inglise> The requisite capacity shall be allocated by means of a tendering procedure in accordance with the procedure laid down in this Article. </inglise>
+<eesti> N&otilde;utav v&otilde;imsus jaotatakse pakkumismenetluse teel k&auml;esolevas artiklis s&auml;testatud korras. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The transmission system operator or any other competent authority designated by the Member State concerned shall draw up and publish under State supervision, at least every two years, a regular estimate of the generating and transmission capacity which is likely to be connected to the system, of the need for interconnectors with other systems, of potential transmission capacity and of the demand for electricity. </inglise>
+<eesti> &Uuml;lekandev&otilde;rgu operaator v&otilde;i kes tahes muu asjaomase liikmesriigi m&auml;&auml;ratud p&auml;dev asutus koostab ja avaldab riikliku j&auml;relevalve all v&auml;hemalt iga kahe aasta tagant korrap&auml;rase hinnangu v&otilde;rguga t&otilde;en&auml;oliselt &uuml;hendatava tootmis- ja &uuml;lekandev&otilde;imsuse, v&otilde;rkudevaheliste &uuml;henduste vajaduse, v&otilde;imaliku &uuml;lekandev&otilde;imsuse ja elektrin&otilde;udluse kohta. </eesti>
+<inglise> The estimate shall cover a period defined by each Member State. </inglise>
+<eesti> Hinnang h&otilde;lmab iga liikmesriigi m&auml;&auml;ratletud ajavahemikku. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Details of the tendering procedure for means of production shall be published in the Official Journal of the European Communities at least six months prior to the closing date for tenders. </inglise>
+<eesti> Tootmisvahendite pakkumismenetluse &uuml;ksikasjad avaldatakse Euroopa &Uuml;henduste Teatajas v&auml;hemalt kuus kuud enne pakkumiste esitamise t&auml;htaega. </eesti>
+<inglise> The tender specifications shall be made available to any interested undertaking established in the territory of a Member State so that it has sufficient time in which to submit a tender. </inglise>
+<eesti> Pakkumistingimused tehakse k&auml;ttesaadavaks k&otilde;igile liikmesriigi territooriumil tegutsevatele ettev&otilde;tjatele, et neil oleks k&uuml;llaldaselt aega pakkumise esitamiseks. </eesti>
+<inglise> The tender specifications shall contain a detailed description of the contract specifications and of the procedure to be followed by all tenderers and an exhaustive list of criteria governing the selection of tenderers and the award of the contract. </inglise>
+<eesti> Pakkumistingimused sisaldavad lepingutingimuste ja k&otilde;igi pakkujate poolt j&auml;rgitava korra &uuml;ksikasjalikku kirjeldust ning pakkujate valikut ja lepingu s&otilde;lmimist reguleerivate kriteeriumide t&auml;ielikku loetelu. </eesti>
+<inglise> These specifications may also relate to the fields referred to in Articles 5 (1). </inglise>
+<eesti> Need tingimused v&otilde;ivad olla seotud ka artikli 5 l&otilde;ikes 1 nimetatud valdkondadega. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> In invitations to tender for the requisite generating capacity, consideration must also be given to electricity supply offers with long-term guarantees from existing generating units, provided that additional requirements can be met in this way. </inglise>
+<eesti> N&otilde;utavat tootmisv&otilde;imsust k&auml;sitlevate pakkumiskutsete puhul tuleb arvesse v&otilde;tta ka pikaajalise garantiiga elektritarnepakkumisi olemasolevatelt tootmis&uuml;ksustelt, tingimusel et need v&otilde;imaldavad t&auml;iendavaid n&otilde;udeid t&auml;ita. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Member States shall designate an authority or a public body or a private body independent of electricity generation, transmission and distribution activities to be responsible for the organization, monitoring and control of the tendering procedure. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad elektri tootmisest, &uuml;lekandmisest ja jaotamisest s&otilde;ltumatu ametiasutuse, avaliku v&otilde;i eraasutuse vastutavaks pakkumismenetluse korralduse, j&auml;relevalve ja kontrolli eest. </eesti>
+<inglise> This authority or body shall take all necessary steps to ensure confidentiality of the information contained in the tenders. </inglise>
+<eesti> See asutus v&otilde;tab k&otilde;ik vajalikud meetmed pakkumistes sisalduva informatsiooni konfidentsiaalsuse tagamiseks. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> However, it must be possible for autoproducers and independent producers to obtain authorization, on the basis of objective, transparent and non-discriminatory criteria as laid down in Articles 4 and 5, in Member States which have opted for the tendering procedure. </inglise>
+<eesti> Pakkumismenetluse valinud liikmesriikides peab oma tarbeks tootjatel ja s&otilde;ltumatutel tootjatel siiski olema v&otilde;imalik saada luba objektiivsete, l&auml;bipaistvate ja mittediskrimineerivate kriteeriumide alusel, nagu on s&auml;testatud artiklites 4 ja 5. </eesti>
+<inglise> CHAPTER IV </inglise>
+<eesti> IV PEAT&Uuml;KK </eesti>
+<inglise> Transmission system operation </inglise>
+<eesti> &Uuml;lekandev&otilde;rgu kasutamine </eesti>
+<inglise> Article 7 </inglise>
+<eesti> Artikkel 7 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall designate or shall require undertakings which own transmission systems to designate, for a period of time to be determined by Member States having regard to considerations of efficiency and economic balance, a system operator to be responsible for operating, ensuring the maintenance of, and, if necessary, developing the transmission system in a given area and its interconnectors with other systems, in order to guarantee security of supply. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad v&otilde;i kohustavad, et &uuml;lekandev&otilde;rke omavad ettev&otilde;tjad m&auml;&auml;raksid liikmesriikide poolt kindlaksm&auml;&auml;ratavaks ajavahemikuks t&otilde;husust ja majanduslikku tasakaalu silmas pidades v&otilde;rguoperaatori, kes tarnekindluse tagamiseks vastutaks &uuml;lekandev&otilde;rgu kasutamise, selle hoolduse tagamise ja vajaduse korral selle &uuml;lekandev&otilde;rgu ning teiste v&otilde;rkude &uuml;henduste arendamise eest k&otilde;nealuses piirkonnas. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall ensure that technical rules establishing the minimum technical design and operational requirements for the connection to the system of generating installations, distribution systems, directly connected consumers' equipment, interconnector circuits and direct lines are developed and published. </inglise>
+<eesti> Liikmesriigid tagavad, et koostatakse ja avaldatakse tehnilised eeskirjad, millega kehtestatakse tootmisseadmete, jaotusv&otilde;rkude, otse &uuml;hendatud tarbijate seadmete, v&otilde;rkudevaheliste &uuml;henduste ja otseliinide v&otilde;rku &uuml;hendamise kavandamist ja kasutamist k&auml;sitlevad tehnilised miinimumn&otilde;uded. </eesti>
+<inglise> These requirements shall ensure the interoperability of systems and shall be objective and non-discriminatory. </inglise>
+<eesti> Tehnilised eeskirjad tagavad v&otilde;rkude koostalitlusv&otilde;ime ning on objektiivsed ja mittediskrimineerivad. </eesti>
+<inglise> They shall be notified to the Commission in accordance with Article 8 of Council Directive 83/189/EEC of 28 March 1983 laying down a procedure for the provision of information in the field of technical standards and regulations (7). </inglise>
+<eesti> Nendest teatatakse komisjonile vastavalt n&otilde;ukogu 28. m&auml;rtsi 1983. aasta direktiivi 83/189/EM&Uuml; (milles on s&auml;testatud tehnilisi standardeid ja norme k&auml;sitleva teabe esitamise kord) artiklile 8. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The system operator shall be responsible for managing energy flows on the system, taking into account exchanges with other interconnected systems. </inglise>
+<eesti> V&otilde;rguoperaator vastutab v&otilde;rgu energiavoogude juhtimise eest, v&otilde;ttes arvesse energia vahetust teiste &uuml;hendatud v&otilde;rkudega. </eesti>
+<inglise> To that end, the system operator shall be responsible for ensuring a secure, reliable and efficient electricity system and, in that context, for ensuring the availability of all necessary ancillary services. </inglise>
+<eesti> Selleks vastutab v&otilde;rguoperaator kindla, usaldusv&auml;&auml;rse ja t&otilde;husa elektriv&otilde;rgu ja sellega seoses k&otilde;igi vajalike abiteenuste k&auml;ttesaadavuse tagamise eest. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> The system operator shall provide to the operator of any other system with which its system is interconnected sufficient information to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system. </inglise>
+<eesti> V&otilde;rguoperaator annab iga teise tema v&otilde;rguga &uuml;hendatud v&otilde;rgu operaatorile piisavat teavet, et tagada &uuml;hendatud v&otilde;rgu kindel ja t&otilde;hus kasutus, koordineeritud areng ja koostalitlusv&otilde;ime. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The system operator shall not discriminate between system users or classes of system users, particularly in favour of its subsidiaries or shareholders. </inglise>
+<eesti> V&otilde;rguoperaator ei diskrimineeri v&otilde;rgukasutajaid v&otilde;i kasutajar&uuml;hmi &uuml;ksteise suhtes ega oma t&uuml;tarettev&otilde;tjate v&otilde;i osanike/aktsion&auml;ride kasuks. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> Unless the transmission system is already independent from generation and distribution activities, the system operator shall be independent at least in management terms from other activities not relating to the transmission system. </inglise>
+<eesti> Kui &uuml;lekandev&otilde;rk ei ole veel tootmis- ja jaotus&uuml;lesannetest s&otilde;ltumatu, on v&otilde;rguoperaator v&auml;hemalt juhtimise osas s&otilde;ltumatu teistest &uuml;lekandev&otilde;rguga mitteseotud &uuml;lesannetest. </eesti>
+<inglise> Article 8 </inglise>
+<eesti> Artikkel 8 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The transmission system operator shall be responsible for dispatching the generating installations in its area and for determining the use of interconnectors with other systems. </inglise>
+<eesti> &Uuml;lekandev&otilde;rgu operaator vastutab tootmisseadmete dispet&scaron;juhtimise eest oma piirkonnas ning v&otilde;rkudevaheliste &uuml;henduste kasutuse kindlaksm&auml;&auml;ramise eest. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Without prejudice to the supply of electricity on the basis of contractual obligations, including those which derive from the tendering specifications, the dispatching of generating installations and the use of interconnectors shall be determined on the basis of criteria which may be approved by the Member State and which must be objective, published and applied in a non-discriminatory manner which ensures the proper functioning of the internal market in electricity. </inglise>
+<eesti> Ilma et see piiraks elektritarneid lepinguliste, sealhulgas pakkumistingimustest tulenevate kohustuste alusel, m&auml;&auml;ratakse tootmisseadmete dispet&scaron;juhtimine ja v&otilde;rkudevaheliste &uuml;henduste kasutus kindlaks objektiivsete avaldatud kriteeriumide alusel, mille liikmesriik v&otilde;ib heaks kiita ja mida tuleb kohaldada mittediskrimineerival viisil, mis tagab elektri siseturu n&otilde;uetekohase toimimise. </eesti>
+<inglise> They shall take into account the economic precedence of electricity from available generating installations of interconnector transfers and the technical constraints on the system. </inglise>
+<eesti> Neis kriteeriumides v&otilde;etakse arvesse kasutusel olevatest tootmisseadmetest l&auml;htuvate v&otilde;i v&otilde;rkudevaheliste &uuml;henduste kaudu toimuvate elektriedastuste majanduslikku t&auml;htsusj&auml;rjestust ning v&otilde;rgu tehnilisi piiranguid. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> A Member State may require the system operator, when dispatching generating installations, to give priority to generating installations using renewable energy sources or waste or producing combined heat and power. </inglise>
+<eesti> Liikmesriik v&otilde;ib n&otilde;uda, et v&otilde;rguoperaator annaks tootmisseadmete dispet&scaron;juhtimisel ees&otilde;iguse nendele tootmisseadmetele, mis kasutavad taastuvaid energiaallikaid v&otilde;i j&auml;&auml;tmeid v&otilde;i toodavad nii soojust kui elektrit. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> A Member State may, for reasons of security of supply, direct that priority be given to the dispatch of generating installations using indigenous primary energy fuel sources, to an extent not exceeding in any calendar year 15 % of the overall primary energy necessary to produce the electricity consumed in the Member State concerned. </inglise>
+<eesti> Liikmesriik v&otilde;ib tarnekindluse huvides m&auml;&auml;rata, et dispet&scaron;juhtimisel antaks ees&otilde;igus nendele tootmisseadmetele, mis kasutavad omamaiseid primaarenergia k&uuml;tuseallikaid, kuid ainult sel m&auml;&auml;ral, mis &uuml;helgi kalendriaastal ei &uuml;leta 15% asjaomases liikmesriigis tarbitava elektri tootmiseks vajaliku primaarenergia kogum&auml;&auml;rast. </eesti>
+<inglise> Article 9 </inglise>
+<eesti> Artikkel 9 </eesti>
+<inglise> The transmission system operator must preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its business. </inglise>
+<eesti> &Uuml;lekandev&otilde;rgu operaator peab s&auml;ilitama t&ouml;&ouml;&uuml;lesannete t&auml;itmisel saadud tundliku &auml;riteabe konfidentsiaalsuse. </eesti>
+<inglise> CHAPTER V </inglise>
+<eesti> V PEAT&Uuml;KK </eesti>
+<inglise> Distribution system operation </inglise>
+<eesti> Jaotusv&otilde;rgu kasutamine </eesti>
+<inglise> Article 10 </inglise>
+<eesti> Artikkel 10 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States may impose on distribution companies an obligation to supply customers located in a given area. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad teha jaotusettev&otilde;tjatele kohustuseks tarnimise teatava piirkonna klientidele. </eesti>
+<inglise> The tariff for such supplies may be regulated, for instance to ensure equal treatment of the customers concerned. </inglise>
+<eesti> Selliste tarnete tariifid v&otilde;ib reguleerida, et tagada n&auml;iteks asjaomaste klientide v&otilde;rdne kohtlemine. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall designate or shall require undertakings which own or are responsible for distribution systems to designate a system operator to be responsible for operating, ensuring the maintenance of and, if necessary, developing the distribution system in a given area and its interconnectors with other systems. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad v&otilde;i kohustavad jaotusv&otilde;rke omavaid v&otilde;i nende eest vastutavaid ettev&otilde;tjaid m&auml;&auml;rama v&otilde;rguoperaatori, kes vastutab jaotusv&otilde;rgu kasutamise, selle hoolduse tagamise ja vajaduse korral jaotusv&otilde;rgu ning selle v&otilde;rkudevaheliste &uuml;henduste arendamise eest asjaomases piirkonnas. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States shall ensure that the system operator acts in accordance with Articles 11 and 12. </inglise>
+<eesti> Liikmesriigid tagavad v&otilde;rguoperaatori tegevuse vastavuse artiklitele 11 ja 12. </eesti>
+<inglise> Article 11 </inglise>
+<eesti> Artikkel 11 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The distribution system operator shall maintain a secure, reliable and efficient electricity distribution system in its area, with due regard for the environment. </inglise>
+<eesti> Jaotusv&otilde;rgu operaator tagab oma piirkonnas kindla, usaldusv&auml;&auml;rse ja t&otilde;husa elektrijaotusv&otilde;rgu, p&ouml;&ouml;rates n&otilde;uetekohast t&auml;helepanu keskkonnakaitsele. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> In any event, it must not discriminate between system users or classes of system users, particularly in favour of its subsidiaries or shareholders. </inglise>
+<eesti> Jaotusv&otilde;rgu operaator ei tohi mingil juhul diskrimineerida v&otilde;rgukasutajaid v&otilde;i kasutajar&uuml;hmi &uuml;ksteise suhtes ega oma t&uuml;tarettev&otilde;tjate v&otilde;i osanike kasuks. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> A Member state may require the distribution system operator, when dispatching generating installations, to give priority to generating installations using renewable energy sources or waste or producing combined heat and power. </inglise>
+<eesti> Liikmesriik v&otilde;ib n&otilde;uda, et jaotusv&otilde;rgu operaator annaks tootmisseadmete dispet&scaron;juhtimisel ees&otilde;iguse nendele tootmisseadmetele, mis kasutavad taastuvaid energiaallikaid v&otilde;i j&auml;&auml;tmeid v&otilde;i toodavad nii soojust kui elektrit. </eesti>
+<inglise> Article 12 </inglise>
+<eesti> Artikkel 12 </eesti>
+<inglise> The distribution system operator must preserve the confidentiality of commercially sensitive information obtained in the course of carrying out its business. </inglise>
+<eesti> Jaotusv&otilde;rgu operaator peab s&auml;ilitama t&ouml;&ouml;&uuml;lesannete t&auml;itmisel saadud tundliku &auml;riteabe konfidentsiaalsuse. </eesti>
+<inglise> CHAPTER IV </inglise>
+<eesti> IV PEAT&Uuml;KK </eesti>
+<inglise> Unbundling and transparency of accounts </inglise>
+<eesti> Eristamine ja raamatupidamise l&auml;bipaistvus </eesti>
+<inglise> Article 13 </inglise>
+<eesti> Artikkel 13 </eesti>
+<inglise> Member States or any competent authority they designate as well as the dispute settlement authorities referred to in Article 20 (3) shall have right of access to the accounts of generation, transmission or distribution undertakings which they need to consult in carrying out their checks. </inglise>
+<eesti> Liikmesriikidel v&otilde;i nende m&auml;&auml;ratud p&auml;devatel asutustel, sealhulgas artikli 20 l&otilde;ikes 3 nimetatud vaidlusi lahendavatel asutustel on &otilde;igus l&auml;bi vaadata tootmis-, &uuml;lekande- v&otilde;i jaotusettev&otilde;tjate raamatupidamist, kui neil on seda kontrolli tegemiseks vaja. </eesti>
+<inglise> Article 14 </inglise>
+<eesti> Artikkel 14 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall take the necessary steps to ensure that the accounts of electricity undertakings are kept in accordance with paragraphs 2 to 5. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad vajalikud meetmed, et tagada elektriettev&otilde;tjate raamatupidamise vastavus k&auml;esoleva artikli l&otilde;igetele 2-5. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Electricity undertakings, whatever their system of ownership or legal form, shall draw up, submit to audit and publish their annual accounts in accordance with the rules of national law concerning the annual accounts of limited liability companies adopted pursuant to the fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 54 (3) (g) of the Treaty on the annual accounts of certain types of companies (8). Undertakings which are not legally obliged to publish their annual accounts shall keep a copy of these at the disposal of the public in their head office. </inglise>
+<eesti> Elektriettev&otilde;tjad peavad olenemata nende omandivormist v&otilde;i &otilde;iguslikust vormist koostama, esitama kontrollimiseks ja avaldama oma raamatupidamise aastaaruanded koosk&otilde;las siseriiklike &otilde;igusnormidega piiratud vastutusega &auml;ri&uuml;hingu raamatupidamise aastaaruannete kohta, mis on vastu v&otilde;etud vastavalt n&otilde;ukogu 25. juuli 1978. aasta neljandale direktiivile 78/660/EM&Uuml;, mis p&otilde;hineb asutamislepingu artikli 54 l&otilde;ike 3 punktil g ja k&auml;sitleb teatavat liiki &auml;ri&uuml;hingute raamatupidamise aastaaruandeid. (8) Ettev&otilde;tjad, kellel ei ole seaduslikku kohustust oma raamatupidamise aastaaruandeid avaldada, peavad hoidma nende koopiad oma peakontoris avalikkusele k&auml;ttesaadavana. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Integrated electricity undertakings shall, in their internal accounting, keep separate accounts for their generation, transmission and distribution activities, and, where appropriate, consolidated accounts for other, non-electricity activities, as they would be required to do if the activities in question were carried out by separate undertakings, with a view to avoiding discrimination, cross-subsidization and distortion of competition. </inglise>
+<eesti> Diskrimineerimise, ristsubsideerimise ja konkurentsi moonutamise v&auml;ltimiseks peavad integreeritud elektriettev&otilde;tjatesiseses raamatupidamises olema eraldi aruanded elektri tootmise, &uuml;lekandmise ja jaotamise kohta ning vajaduse korral konsolideeritud aastaaruanded elektrisektoriv&auml;lise tegevuse kohta nii, nagu neilt n&otilde;utaks juhul, kui k&otilde;nealuse tegevusega oleksid h&otilde;ivatud eri ettev&otilde;tjad. </eesti>
+<inglise> They shall include a balance sheet and a profit and loss account for each activity in notes to their accounts. </inglise>
+<eesti> Sisemine raamatupidamine peab raamatupidamisaruannete lisades sisaldama iga tegevuse bilanssi ja kasumiaruannet. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Undertakings shall specify in notes to the annual accounts the rules for the allocation of assets and liabilities and expenditure and income which they follow in drawing up the separate accounts referred to in paragraph 3. </inglise>
+<eesti> Raamatupidamise aastaaruannete lisades t&auml;psustavad ettev&otilde;tjad eeskirjad, mis k&auml;sitlevad varade ja kohustuste ning kulude ja tulude jaotamist ja mida nad j&auml;rgivad l&otilde;ikes 3 nimetatud eraldi aruannete koostamisel. </eesti>
+<inglise> These rules may be amended only in exceptional cases. </inglise>
+<eesti> Neid eeskirju v&otilde;ib muuta ainult erandjuhtudel. </eesti>
+<inglise> Such amendments must be mentioned in the notes and must be duly substantiated. </inglise>
+<eesti> Muudatused peavad olema aastaaruannete lisades nimetatud ja n&otilde;uetekohaselt p&otilde;hjendatud. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The annual accounts shall indicate in notes any transaction of a certain size conducted with affiliated undertakings, within the meaning of Article 41 of the seventh Council Directive 83/349/EEC of 13 June 1983 based on Article 54 (3) (g) of the Treaty on consolidated accounts (9), or with associated undertakings, within the meaning of Article 33 (1) thereof, or, with undertakings which belong to the same shareholders. </inglise>
+<eesti> Raamatupidamise aastaaruannete lisades esitatakse k&otilde;ik sidusettev&otilde;tjatega sooritatud olulised tehingud asutamislepingu artikli 54 l&otilde;ike 3 punktil g p&otilde;hineva konsolideeritud aastaaruandeid k&auml;sitleva n&otilde;ukogu 13. juuni 1983. aasta seitsmenda direktiivi 83/349/EM&Uuml; artikli 41 t&auml;henduses (9) v&otilde;i &uuml;hisettev&otilde;tjatega sooritatud olulised tehingud selle direktiivi artikli 33 l&otilde;ike 1 t&auml;henduses v&otilde;i samadele osanikele/aktsion&auml;ridele kuuluvate ettev&otilde;tjatega sooritatud olulised tehingud; </eesti>
+<inglise> Article 15 </inglise>
+<eesti> Artikkel 15 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States which designate as a single buyer a vertically integrated electricity undertaking or part of a vertically integrated electricity undertaking shall lay down provisions requiring the single buyer to operate separately from the generation and distribution activities of the integrated undertaking. </inglise>
+<eesti> Liikmesriigid, kes m&auml;&auml;ravad &uuml;ksikostjaks vertikaalselt integreeritud elektriettev&otilde;tja v&otilde;i osa sellest, s&auml;testavad n&otilde;ude, et &uuml;ksikostja tegutseks integreeritud ettev&otilde;tja tootmis- ja jaotustegevusest eraldi. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall ensure that there is no flow of information between the single buyer activities of vertically integrated electricity undertakings and their generation and distribution activities, except for the information necessary to conduct the single buyer responsibilities. </inglise>
+<eesti> Liikmesriigid tagavad, et mingit informatsiooni ei liigu vertikaalselt integreeritud elektriettev&otilde;tjate &uuml;ksikostja tegevuse ja nende ettev&otilde;tjate tootmis- ja jaotustegevuse vahel, &uuml;ksikostja kohustuste t&auml;itmiseks vajalik teave v&auml;lja arvatud. </eesti>
+<inglise> CHAPTER VII </inglise>
+<eesti> VII PEAT&Uuml;KK </eesti>
+<inglise> Organization of access to the system </inglise>
+<eesti> V&otilde;rgule juurdep&auml;&auml;su korraldamine </eesti>
+<inglise> Article 16 </inglise>
+<eesti> Artikkel 16 </eesti>
+<inglise> For the organization of access to the system, Member States may choose between the procedures referred to in Article 17 and/or in Article 18. </inglise>
+<eesti> V&otilde;rgule juurdep&auml;&auml;su korraldamiseks v&otilde;ivad liikmesriigid valida &uuml;he artiklis 17 ja/v&otilde;i 18 kirjeldatud menetlustest. </eesti>
+<inglise> Both sets of procedure shall operate in accordance with objective, transparent and non-discriminatory criteria. </inglise>
+<eesti> M&otilde;lemat menetlust rakendatakse objektiivsete, l&auml;bipaistvate ja mittediskrimineerivate kriteeriumide alusel. </eesti>
+<inglise> Article 17 </inglise>
+<eesti> Artikkel 17 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> In the case of negotiated access to the system, Member States shall take the necessary measures for electricity producers and, where Member States authorize their existence, supply undertakings and eligible customers either inside or outside the territory covered by the system to be able to negotiate access to the system so as to conclude supply contracts with each other on the basis of voluntary commercial agreements. </inglise>
+<eesti> L&auml;bir&auml;&auml;kimistel p&otilde;hineva v&otilde;rgule juurdep&auml;&auml;su korral v&otilde;tavad liikmesriigid vajalikud meetmed, et v&otilde;rgu territooriumil v&otilde;i sellest v&auml;ljaspool paiknevad elektritootjad ja, kui liikmesriigid nende olemasolu lubavad, tarneettev&otilde;tjad ja tingimustele vastavad kliendid v&otilde;iksid v&otilde;rgule juurdep&auml;&auml;su saamiseks l&auml;bir&auml;&auml;kimisi pidada, et s&otilde;lmida &uuml;ksteisega vabatahtlikel kaubanduslepetel p&otilde;hinevaid tarnelepinguid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Where an eligible customer is connected to the distribution system, access to the system must be the subject of negotiation with the relevant distribution system operator and, if necessary, with the transmission system operator concerned. </inglise>
+<eesti> Kui tingimustele vastav klient &uuml;hendatakse jaotusv&otilde;rku, tuleb v&otilde;rgule juurdep&auml;&auml;su saamiseks pidada l&auml;bir&auml;&auml;kimisi vastava jaotusv&otilde;rgu operaatoriga ja vajaduse korral asjaomase &uuml;lekandev&otilde;rgu operaatoriga. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> To promote transparency and facilitate negotiations for access to the system, system operators must publish, in the first year following implementation of this Directive, an indicative range of prices for use of the transmission and distribution systems. </inglise>
+<eesti> L&auml;bipaistvuse soodustamiseks ja v&otilde;rgule juurdep&auml;&auml;su l&auml;bir&auml;&auml;kimiste h&otilde;lbustamiseks peavad v&otilde;rguoperaatorid esimesel k&auml;esoleva direktiivi rakendamise j&auml;rgsel aastal avaldama &uuml;lekande- ja jaotusv&otilde;rkude kasutamise taotlushinnad. </eesti>
+<inglise> As far as possible, the indicative prices published for subsequent years should be based on the average price agreed in negotiations in the previous 12-month period. </inglise>
+<eesti> J&auml;rgnevate aastate kohta avaldatud taotlushinnad peaksid niipalju kui v&otilde;imalik p&otilde;hinema viimase 12 kuu jooksul l&auml;bir&auml;&auml;kimistel kokkulepitud keskmisel hinnal. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Member States may also opt for a regulated system of access procedure, giving eligible customers a right of access, on the basis of published tariffs for the use of transmission and distribution systems, that is at least equivalent, in terms of access to the system, to the other procedures for access referred to in this Chapter. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad valida ka reguleeritud juurdep&auml;&auml;sumenetluse, millega antakse tingimustele vastavatele klientidele &uuml;lekande- ja jaotusv&otilde;rkude kasutuse avaldatud tariifidel p&otilde;hinev v&otilde;rkudele juurdep&auml;&auml;su &otilde;igus, mis v&otilde;rgule juurdep&auml;&auml;su osas on v&auml;hemalt samav&auml;&auml;rne muude k&auml;esolevas peat&uuml;kis nimetatud juurdep&auml;&auml;sumenetluste vastavate tingimustega. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The operator of the transmission or distribution system concerned may refuse access where he lacks the necessary capacity. </inglise>
+<eesti> Asjaomane &uuml;lekande- v&otilde;i jaotusv&otilde;rgu operaator v&otilde;ib vajaliku v&otilde;imsuse puudumise korral v&otilde;rgule juurdep&auml;&auml;sust keelduda. </eesti>
+<inglise> Duly substantiated reasons must be given for such refusal, in particular having regard to Article 3. </inglise>
+<eesti> Keeldumise korral tuleb esitada n&otilde;uetekohased p&otilde;hjendused eelk&otilde;ige artiklit 3 arvesse v&otilde;ttes. </eesti>
+<inglise> Article 18 </inglise>
+<eesti> Artikkel 18 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> In the case of the single buyer procedure, Member States shall designate a legal person to be the single buyer within the territory covered by the system operator. </inglise>
+<eesti> &Uuml;ksikostja menetluse korral m&auml;&auml;ravad liikmesriigid juriidilise isiku, kes on &uuml;ksikostja territooriumil, mida h&otilde;lmab v&otilde;rguoperaator. </eesti>
+<inglise> Member States shall take the necessary measures for: </inglise>
+<eesti> Liikmesriigid v&otilde;tavad k&otilde;ik vajalikud meetmed, et: </eesti>
+<inglise> (i) the publication of a non-discriminatory tariff for the use of the transmission and distribution system; </inglise>
+<eesti> i) avaldada &uuml;lekande- ja jaotusv&otilde;rgu kasutuse mittediskrimineeriv tariif; </eesti>
+<inglise> (ii) eligible customers to be free to conclude supply contracts to cover their own needs with producers and, where Member States authorize their existence, with supply undertakings outside the territory covered by the system; </inglise>
+<eesti> ii) tingimustele vastavad kliendid v&otilde;iksid oma tarbe rahuldamiseks s&otilde;lmida tarnelepinguid tootjatega ning, kui liikmesriigid nende olemasolu lubavad, tarneettev&otilde;tjatega v&auml;ljaspool v&otilde;rgu territooriumi; </eesti>
+<inglise> (iii) eligible customers to be free to conclude supply contracts to cover their own needs with producers inside the territory covered by the system; </inglise>
+<eesti> iii) tingimustele vastavad kliendid v&otilde;iksid oma tarbe rahuldamiseks s&otilde;lmida tarnelepinguid tootjatega v&otilde;rgu territooriumil; </eesti>
+<inglise> (iv) independent producers to negotiate access to the system with the transmission and distribution systems operators so as to conclude supply contracts with eligible customers outside the system, on the basis of a voluntary commercial agreement. </inglise>
+<eesti> iv) s&otilde;ltumatud tootjad peaksid v&otilde;rgule juurdep&auml;&auml;su saamiseks l&auml;bir&auml;&auml;kimisi &uuml;lekande- ja jaotusv&otilde;rgu operaatoritega, et s&otilde;lmida vabatahtlikel kaubanduslepetel p&otilde;hinevaid tarnelepinguid tingimustele vastavate klientidega, kes asuvad v&otilde;rgust v&auml;ljaspool. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The single buyer may be obliged to purchase the electricity contracted by an eligible customer from a producer inside or outside the territory covered by the system at a price which is equal to the sale price offered by the single buyer to eligible customers minus the price of the published tariff referred to in paragraph 1 (i). </inglise>
+<eesti> &Uuml;ksikostja v&otilde;ib olla kohustatud ostma elektrit, mida tingimustele vastav klient on tellinud v&otilde;rguga h&otilde;lmatud territooriumil v&otilde;i sellest v&auml;ljaspool asuvalt tootjalt hinnaga, mis on v&otilde;rdne &uuml;ksikostja poolt tingimustele vastavatele klientidele pakutava m&uuml;&uuml;gihinnaga, millest on lahutatud l&otilde;ike 1 punktis i nimetatud avaldatud tariif. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> If the purchase obligation under paragraph 2 is not imposed on the single buyer, Member States shall take the necessary measures to ensure that the supply contracts referred to in paragraph 1 (ii) and (iii) are implemented either via access to the system on the basis of the published tariff referred to in paragraph 1 (i) or via negotiated access to the system according to the conditions of Article 17. </inglise>
+<eesti> Kui &uuml;ksikostja suhtes ei kohaldata l&otilde;ike 1 kohast ostukohustust, v&otilde;tavad liikmesriigid k&otilde;ik vajalikud meetmed tagamaks, et l&otilde;ike 1 punktides ii ja iii nimetatud tarnelepingud t&auml;idetakse kas v&otilde;rgule juurdep&auml;&auml;su kaudu l&otilde;ike 1 punktis i nimetatud avaldatud tariifi alusel v&otilde;i l&auml;bir&auml;&auml;kimistel p&otilde;hineva v&otilde;rgule juurdep&auml;&auml;su kaudu vastavalt artikli 17 tingimustele. </eesti>
+<inglise> In the latter case, there would be no obligation for the single buyer to publish a non-discriminatory tariff for the use of the transmission and distribution system. </inglise>
+<eesti> Viimati nimetatud juhul ei oleks &uuml;ksikostjal kohustust avaldada &uuml;lekande- ja jaotusv&otilde;rgu kasutamise mittediskrimineerivat tariifi. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> The single buyer may refuse access to the system and may refuse to purchase electricity from eligible customers where he lacks the necessary transmission or distribution capacity. </inglise>
+<eesti> &Uuml;ksikostja v&otilde;ib keelduda v&otilde;rgule juurdep&auml;&auml;sust ja elektri ostmisest tingimustele vastavatelt klientidelt, kui tal puudub vajalik &uuml;lekande- v&otilde;i jaotusv&otilde;imsus. </eesti>
+<inglise> Duly substantiated reasons must be given for such refusal, in particular having regard to Article 3. </inglise>
+<eesti> Keeldumise korral tuleb esitada n&otilde;uetekohased p&otilde;hjendused eelk&otilde;ige artiklit 3 arvesse v&otilde;ttes. </eesti>
+<inglise> Article 19 </inglise>
+<eesti> Artikkel 19 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall take the necessary measures to ensure an opening of their electricity markets, so that contracts under the conditions stated in Articles 17 and 18 can be concluded at least up to a significant level, to be notified to the Commission on an annual basis. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad vajalikud meetmed oma elektriturgude avamiseks, nii et artiklites 17 ja 18 ette n&auml;htud tingimuste kohaseid lepinguid v&otilde;iks s&otilde;lmida v&auml;hemalt teatava olulise tasemeni, millest igal aastal tuleb komisjonile teatada. </eesti>
+<inglise> The share of the national market shall be calculated on the basis of the Community share of electricity consumed by final consumers consuming more than 40 GWh per year (on a consumption site basis and including autoproduction). </inglise>
+<eesti> Siseriikliku turu osa arvutatakse, v&otilde;ttes aluseks &uuml;henduse osa &uuml;le 40 GWh aastas tarbivate l&otilde;pptarbijate poolt tarbitud elektrist (elektri tarbimise koha alusel ja oma tarbeks tootmine kaasa arvatud). </eesti>
+<inglise> The average Community share shall be calculated by the Commission on the basis of information regularly provided to it by Member States. </inglise>
+<eesti> Komisjon arvutab &uuml;henduse keskmise osa liikmesriikide poolt talle korrap&auml;raselt antud teabe alusel. </eesti>
+<inglise> The Commission shall publish this average Community share defining the degree of market opening in the Official Journal of the European Communities before November each year, with all appropriate information clarifying the calculation. </inglise>
+<eesti> Komisjon avaldab &uuml;henduse keskmise osa ja m&auml;&auml;ratleb turgude avanemise astme Euroopa &Uuml;henduste Teatajas enne iga aasta novembrit koos k&otilde;igi asjakohaste arvutust selgitavate andmetega. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The share of the national market referred to in paragraph 1 will be increased progressively over a period of six years. </inglise>
+<eesti> L&otilde;ikes 1 nimetatud siseriikliku turu osa suurendatakse j&auml;rk-j&auml;rgult kuue aasta jooksul. </eesti>
+<inglise> This increase will be calculated by reducing the Community consumption threshold of 40 GWh, referred to in paragraph 1 from 40 GWh to a level of 20 GWh annual electricity consumption three years after the entry into force of this Directive and to a level of 9 GWh annual electricity consumption six years after the entry into force of this Directive. </inglise>
+<eesti> Selleks alandatakse kolm aastat p&auml;rast k&auml;esoleva direktiivi j&otilde;ustumist l&otilde;ikes 1 nimetatud &uuml;henduse tarbimisk&uuml;nnist 40 GWh aastase elektritarbimistasemeni 20 GWh ja kuus aastat p&auml;rast k&auml;esoleva direktiivi j&otilde;ustumist tasemeni 9 GWh. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States shall specify those customers inside their territory representing the shares as specified in paragraphs 1 and 2 which have the legal capacity to contract electricity in accordance with Articles 17 and 18, given that all final consumers consuming more than 100 GWh per year (on a consumption site basis and including autoproduction) must be included in the above category. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad kindlaks oma territooriumil olevad kliendid, kes esindavad l&otilde;igetes 1 ja 2 t&auml;psustatud turuosa ning kellel on &otilde;igus- ja teov&otilde;ime s&otilde;lmida elektrit k&auml;sitlevaid lepinguid vastavalt artiklitele 17 ja 18, tingimusel et &uuml;le 100 GWh aastas tarbivad l&otilde;pptarbijad (elektri tarbimise koha alusel ja oma tarbeks tootmine kaasa arvatud) l&uuml;litatakse eespool nimetatud kategooria hulka. </eesti>
+<inglise> Distribution companies, if not already specified as eligible customers under this paragraph, shall have the legal capacity to contract under the conditions of Articles 17 and 18 for the volume of electricity being consumed by their customers designated as eligible within their distribution system, in order to supply those customers. </inglise>
+<eesti> Jaotusettev&otilde;tjatel, keda k&auml;esoleva l&otilde;ike kohaselt ei ole veel tunnistatud tingimustele vastavateks klientideks, on &otilde;igus- ja teov&otilde;ime s&otilde;lmida vastavalt artiklites 17 ja 18 etten&auml;htud tingimustele lepinguid sellise elektrimahu kohta, mida tarbivad nende jaotusv&otilde;rgus tingimustele vastavaks tunnistatud kliendid, et tagada tarnimine k&otilde;nealustele klientidele. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Member States shall publish by 31 January each year the criteria for the definition of eligible customers which are able to conclude contracts under the conditions stated in Articles 17 and 18. </inglise>
+<eesti> Liikmesriigid avaldavad iga aasta 31. jaanuariks kriteeriumid tingimustele vastavate klientide m&auml;&auml;ratlemiseks, kes v&otilde;ivad s&otilde;lmida lepinguid artiklites 17 ja 18 ette n&auml;htud tingimuste alusel. </eesti>
+<inglise> This information, together with all other appropriate information to justify the fulfilment of market opening under paragraph 1, shall be sent to the Commission to be published in the Official Journal of the European Communities. </inglise>
+<eesti> Need andmed koos kogu &uuml;lej&auml;&auml;nud asjakohase teabega, millega p&otilde;hjendatakse l&otilde;ikes 1 nimetatud turgude avanemist, saadetakse komisjonile avaldamiseks Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> The Commission may request a Member State to modify its specifications, as mentioned in paragraph 3, if they create obstacles to the correct application of this Directive as regards the smooth functioning of the internal market in electricity. </inglise>
+<eesti> Komisjon v&otilde;ib taotleda, et liikmesriik muudaks l&otilde;ikes 3 nimetatud n&otilde;udeid, kui need loovad takistusi k&auml;esoleva direktiivi &otilde;igele kohaldamisele elektri siseturu ladusa toimimise osas. </eesti>
+<inglise> If the Member State concerned does not comply with this request within a period of three months, a final decision shall be taken in accordance with Procedure I of Article 2 of Council Decision 87/373/EEC of 13 July 1987 laying down the procedures for the exercise of implementing powers conferred on the Commission (10). </inglise>
+<eesti> Kui asjaomane liikmesriik ei ole seda taotlust kolme kuu jooksul t&auml;itnud, tehakse l&otilde;plik otsus vastavalt n&otilde;ukogu 13. juuli 1987. aasta otsuse 87/373/EM&Uuml; (millega kehtestatakse komisjoni rakendusvolituste kasutamise menetlus) artiklis 2 nimetatud I menetlusele. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> To avoid imbalance in the opening of electricity markets during the period referred to in Article 26: </inglise>
+<eesti> Tasakaalustamatuse v&auml;ltimiseks elektriturgude avanemisel artiklis 26 nimetatud ajavahemikul: </eesti>
+<inglise> (a) contracts for the supply of electricity under the provisions of Articles 17 and 18 with an eligible customer in the system of another Member State shall not be prohibited if the customer is considered as eligible in both systems involved; </inglise>
+<eesti> a) ei keelata artiklitele 17 ja 18 vastavate elektritarnelepingute s&otilde;lmimist m&otilde;ne teise liikmesriigi s&uuml;steemi kuuluva tingimustele vastava kliendiga, kui klient vastab m&otilde;lema asjassepuutuva s&uuml;steemi tingimustele; </eesti>
+<inglise> (b) in cases where transactions as described in subparagraph (a) are refused because of the customer being eligible only in one of the two systems, the Commission may oblige, taking into account the situation in the market and the common interest, the refusing party to execute the requested electricity supply at the request of the Member State where the eligible customer is located. </inglise>
+<eesti> b) juhtudel kui l&otilde;ikes a kirjeldatud tehingutest keeldutakse seet&otilde;ttu, et klient vastab vaid &uuml;he s&uuml;teemi tingimustele, v&otilde;ib komisjon turuolukorda ja &uuml;ldisi huve arvesse v&otilde;ttes ning tingimustele vastava kliendi asukohaliikmesriigi taotlusel kohustada keelduvat poolt soovitud elektritarnet t&auml;itma. </eesti>
+<inglise> In parallel with the procedure and the timetable provided for in Article 26, and not later than after half of the period provided for in that Article, the Commission shall review the application of subparagraph (b) of the first subparagraph on the basis of market developments taking into account the common interest. </inglise>
+<eesti> Paralleelselt artiklis 26 etten&auml;htud menetluse ja ajakavaga ning hiljemalt selles artiklis etten&auml;htud t&auml;htaja esimese poole m&ouml;&ouml;dumisel vaatab komisjon turu arengut ja &uuml;ldisi huve arvesse v&otilde;ttes l&auml;bi esimese l&otilde;igu punkti b kohaldamise. </eesti>
+<inglise> In the light of experience gained, the Commission shall evaluate this situation and report on possible imbalance in the opening of electricity markets with regard to this paragraph. </inglise>
+<eesti> Komisjon hindab olukorda saadud kogemuste p&otilde;hjal ja esitab aruande v&otilde;imalikust k&auml;esoleva l&otilde;igu s&auml;tetega seotud tasakaalustamatusest elektriturgude avanemisel. </eesti>
+<inglise> Article 20 </inglise>
+<eesti> Artikkel 20 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall take the necessary measures to enable: </inglise>
+<eesti> Liikmesriik v&otilde;tab vajalikud meetmed, et: </eesti>
+<inglise> (i) independent producers and autoproducers to negotiate access to the system so as to supply their own premises and subsidiaries in the same Member State or in another Member State by means of the interconnected system; </inglise>
+<eesti> i) s&otilde;ltumatud tootjad ja oma tarbeks tootjad v&otilde;iksid pidada l&auml;bir&auml;&auml;kimisi v&otilde;rgule juurdep&auml;&auml;su saamiseks, et &uuml;hendatud v&otilde;rgu kaudu tarnida elektrit samas v&otilde;i teises liikmesriigis asuvatele oma rajatistele ja t&uuml;tarettev&otilde;tjatele; </eesti>
+<inglise> (ii) producers located outside the territory covered by the system to conclude a supply contract following a call for tender for new generating capacity, and to have access to the system to perform the contract. </inglise>
+<eesti> ii) v&auml;ljaspool v&otilde;rgu territooriumi asuvad tootjad v&otilde;iksid uut tootmisv&otilde;imsust k&auml;sitleva pakkumiskutse j&auml;rel s&otilde;lmida tarnelepingu ja lepingu t&auml;itmiseks v&otilde;rku p&auml;&auml;seda. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall ensure that the parties negotiate in good faith and that none of them abuses its negotiating position by preventing the successful outcome of negotiations. </inglise>
+<eesti> Liikmesriigid tagavad, et pooled peavad l&auml;bir&auml;&auml;kimisi heas usus ja keegi neist ei kuritarvita l&auml;bir&auml;&auml;kimistel oma seisundit ega takista l&auml;bir&auml;&auml;kimiste &otilde;nnestumist. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States shall designate a competent authority, which must be independent of the parties, to settle disputes relating to the contracts and negotiations in question. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad pooltest s&otilde;ltumatu p&auml;deva asutuse, kes lahendab k&otilde;nesolevate lepingute ja l&auml;bir&auml;&auml;kimistega seotud vaidlused. </eesti>
+<inglise> In particular, this authority must settle disputes concerning contracts, negotiations and refusal of access or refusal to purchase. </inglise>
+<eesti> See asutus peab eelk&otilde;ige lahendama vaidlused, mis on seotud lepingute ja l&auml;bir&auml;&auml;kimistega ning juurdep&auml;&auml;sust v&otilde;i ostmisest keeldumisega. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> In the event of cross-border disputes, the dispute settlement authority shall be the dispute settlement authority covering the system of the single buyer or the system operator which refuses use of, or access to, the system. </inglise>
+<eesti> Piiri&uuml;lesed vaidlused lahendab see vaidluste lahendamise asutus, kelle v&otilde;rku kuulub v&otilde;rgu kasutamisest v&otilde;i sellele juurdep&auml;&auml;sust keeldunud &uuml;ksikostja v&otilde;i v&otilde;rguoperaator. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Recourse to this authority shall be without prejudice to the exercise of rights of appeal under Community law. </inglise>
+<eesti> Selle asutuse poole p&ouml;&ouml;rdumine ei piira &uuml;henduse &otilde;iguse alusel kaebe&otilde;iguse kasutamist. </eesti>
+<inglise> Article 21 </inglise>
+<eesti> Artikkel 21 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall take measures under the procedures and rights referred to in Articles 17 and 18 to enable: </inglise>
+<eesti> Liikmesriigid v&otilde;tavad artiklites 17 ja 18 nimetatud korras ja &otilde;iguste kohaselt meetmeid, et </eesti>
+<inglise> - all electricity producers and electricity supply undertakings, where Member States authorize their existence, established within their territory to supply their own premises, subsidiaries and eligible customers through a direct line; </inglise>
+<eesti> - v&otilde;imaldada k&otilde;igil nende territooriumil asuvatel elektritootjatel ja elektritarneettev&otilde;tjatel, kui liikmesriigid nende olemasolu lubavad, tarnida otseliini kaudu elektrit oma rajatistele ja t&uuml;tarettev&otilde;tjatele ning tingimustele vastavatele klientidele; </eesti>
+<inglise> - any eligible customer within their territory to be supplied through a direct line by a producer and supply undertakings, where such suppliers are authorized by Member States. </inglise>
+<eesti> - iga nende territooriumil asuv tingimustele vastav klient v&otilde;iks otseliini kaudu saada elektrit tootjalt ja tarneettev&otilde;tjatelt, kui neil tarnijatel on liikmesriikide luba. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall lay down the criteria for the grant of authorizations for the construction of direct lines in their territory. </inglise>
+<eesti> Liikmesriigid s&auml;testavad kriteeriumid, mille alusel toimub lubade andmine otseliinide ehitamiseks nende territooriumil. </eesti>
+<inglise> These criteria must be objective and non-discriminatory. </inglise>
+<eesti> Need kriteeriumid peavad olema objektiivsed ja mittediskrimineerivad. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The possibility of supplying electricity through a direct line as referred to in paragraph 1 shall not affect the possibility of contracting electricity in accordance with Articles 17 and 18. </inglise>
+<eesti> L&otilde;ikes 1 nimetatud v&otilde;imalus tarnida elektrit otseliini kaudu ei m&otilde;juta v&otilde;imalust elektritarnelepingute s&otilde;lmimiseks vastavalt artiklitele 17 ja 18. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Member States may make authorization to construct a direct line subject either to the refusal of system access on the basis, as appropriate, of Article 17 (5) or Article 18 (4) or to the opening of a dispute settlement procedure under Article 20. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad ette n&auml;ha, et otseliini ehitusloa saamine eeldab kas v&otilde;rgule juurdep&auml;&auml;sust keeldumist vastavalt kas artikli 17 l&otilde;ike 5 v&otilde;i artikli 18 l&otilde;ike 4 alusel v&otilde;i vaidluste lahendamise menetluse algatamist vastavalt artiklile 20. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Member States may refuse to authorize a direct line if the granting of such an authorization would obstruct the provisions of Article 3. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad keelduda otseliini ehitusloa andmisest, kui sellise loa andmine takistaks artikli 3 s&auml;tete kohaldamist. </eesti>
+<inglise> Duly substantiated reasons must be given for such refusal. </inglise>
+<eesti> Sellist keeldumist tuleb n&otilde;uetekohaselt p&otilde;hjendada. </eesti>
+<inglise> Article 22 </inglise>
+<eesti> Artikkel 22 </eesti>
+<inglise> Member States shall create appropriate and efficient mechanisms for regulation, control and transparency so as to avoid any abuse of dominant position, in particular to the detriment of consumers, and any predatory behaviour. </inglise>
+<eesti> Liikmesriigid seavad sisse asjakohased ja t&otilde;husad menetlused reguleerimise, kontrolli ja l&auml;bipaistvuse tagamiseks, et v&auml;ltida eriti tarbijaid kahjustavat turgu valitseva seisundi kuritarvitamist ja turuvallutuslikku k&auml;itumist. </eesti>
+<inglise> These mechanisms shall take account of the provisions of the Treaty, and in particular Article 86 thereof. </inglise>
+<eesti> Nendes menetlustes v&otilde;etakse arvesse asutamislepingu s&auml;tteid, eriti selle artiklit 86. </eesti>
+<inglise> CHAPTER VIII </inglise>
+<eesti> VIII PEAT&Uuml;KK </eesti>
+<inglise> Final provisions </inglise>
+<eesti> L&otilde;pps&auml;tted </eesti>
+<inglise> Article 23 </inglise>
+<eesti> Artikkel 23 </eesti>
+<inglise> In the event of a sudden crisis in the energy market and where the physical safety or security of persons, apparatus or installations or system integrity is threatened, a Member State may temporarily take the necessary safeguard measures. </inglise>
+<eesti> Kui energiaturul tekib &auml;kiline kriis ja kui seatakse ohtu isikute, seadmete v&otilde;i rajatiste ohutus v&otilde;i turvalisus v&otilde;i v&otilde;rgu puutumatus, v&otilde;ib liikmesriik v&otilde;tta vajalikke ajutisi kaitsemeetmeid. </eesti>
+<inglise> Such measures must cause the least possible disturbance in the functioning of the internal market and must not be wider in scope than is strictly necessary to remedy the sudden difficulties which have arisen. </inglise>
+<eesti> Need meetmed peavad v&otilde;imalikult v&auml;he h&auml;irima siseturu toimimist ega tohi olla laiema ulatusega, kui on v&auml;ltimatult vaja ootamatult tekkinud raskuste k&otilde;rvaldamiseks. </eesti>
+<inglise> The Member State concerned shall without delay notify these measures to the other Member States, and to the Commission, which may decide that the Member State concerned must amend or abolish such measures, insofar as they distort competition and adversely affect trade in a manner which is at variance with the common interest. </inglise>
+<eesti> Asjaomane liikmesriik teatab nendest meetmetest viivitamata teistele liikmesriikidele ja komisjonile, kes v&otilde;ib otsustada, et see liikmesriik peab neid meetmeid muutma v&otilde;i need t&uuml;histama, kui need moonutavad konkurentsi ja m&otilde;jutavad kaubandust viisil, mis on &uuml;histe huvidega vastuolus. </eesti>
+<inglise> Article 24 </inglise>
+<eesti> Artikkel 24 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Those Member States in which commitments or guarantees of operation given before the entry into force of this Directive may not be honoured on account of the provisions of this Directive may apply for a transitional regime which may be granted to them by the Commission, taking into account, amongst other things, the size of the system concerned, the level of interconnection of the system and the structure of its electricity industry. </inglise>
+<eesti> Need liikmesriigid, kus enne k&auml;esoleva direktiivi j&otilde;ustumist v&otilde;etud kohustusi v&otilde;i antud tegevusgarantiisid ei tohi k&auml;esoleva direktiivi s&auml;tete t&otilde;ttu t&auml;ita, v&otilde;ivad taotleda &uuml;leminekukorda, mille komisjon v&otilde;ib neile anda, v&otilde;ttes muu hulgas arvesse asjaomase v&otilde;rgu suurust, selle &uuml;hendamise m&auml;&auml;ra ning elektrit&ouml;&ouml;stuse struktuuri. </eesti>
+<inglise> The Commission shall inform the Member States of those applications before it takes a decision, taking into account respect for confidentiality. </inglise>
+<eesti> Komisjon teatab enne otsuse tegemist nendest taotlustest liikmesriikidele, v&otilde;ttes arvesse konfidentsiaalsuskohustust. </eesti>
+<inglise> This decision shall be published in the Official Journal of the European Communities. </inglise>
+<eesti> Otsus avaldatakse Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The transitional regime shall be of limited duration and shall be linked to expiry of the commitments or guarantees referred to in paragraph 1. </inglise>
+<eesti> &Uuml;leminekukorra kehtimise aeg on piiratud ning seotud l&otilde;ikes 1 nimetatud kohustuste v&otilde;i garantiide t&auml;htajaga. </eesti>
+<inglise> The transitional regime may cover derogations from Chapter IV, VI and VII of this Directive. </inglise>
+<eesti> &Uuml;leminekukord v&otilde;ib h&otilde;lmata erandeid k&auml;esoleva direktiivi IV, VI ja VII peat&uuml;kist. </eesti>
+<inglise> Applications for a transitional regime must be notified to the Commission no later than one year after the entry into force of this Directive. </inglise>
+<eesti> &Uuml;leminekukorra taotlustest tuleb komisjonile teatada hiljemalt &uuml;ks aasta p&auml;rast k&auml;esoleva direktiivi j&otilde;ustumist. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States which can demonstrate, after the Directive has been brought into force, that there are substantial problems for the operation of their small isolated systems, may apply for derogations from the relevant provisions of Chapter IV, V, VI, VII, which may be granted to them by the Commission. </inglise>
+<eesti> Liikmesriigid, kes p&auml;rast k&auml;esoleva direktiivi j&otilde;ustamist suudavad t&otilde;endada, et nende v&auml;ikeste isoleeritud v&otilde;rkude t&ouml;&ouml;s on olulisi probleeme, v&otilde;ivad taotleda erandeid IV, V, VI ja VII peat&uuml;ki vastavatest s&auml;tetest ja komisjon v&otilde;ib need erandid neile anda. </eesti>
+<inglise> The latter shall inform the Member States of those applications prior to taking a decision, taking into account respect for confidentiality. </inglise>
+<eesti> Komisjon teatab enne otsuse tegemist nendest taotlustest liikmesriikidele, v&otilde;ttes arvesse konfidentsiaalsuskohustust. </eesti>
+<inglise> This decision shall be published in the Official Journal of the European Communities. </inglise>
+<eesti> Otsus avaldatakse Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> This paragraph shall also be applicable to Luxembourg. </inglise>
+<eesti> K&auml;esolevat l&otilde;iget kohaldatakse ka Luksemburgi suhtes. </eesti>
+<inglise> Article 25 </inglise>
+<eesti> Artikkel 25 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The Commission shall submit a report to the Council and the European Parliament, before the end of the first year following entry into force of this Directive, on harmonization requirements which are not linked to the provisions of this Directive. </inglise>
+<eesti> Komisjon esitab enne k&auml;esoleva direktiivi j&otilde;ustumisele j&auml;rgneva aasta l&otilde;ppu Euroopa Parlamendile ja n&otilde;ukogule aruande &uuml;htlustamisn&otilde;uete kohta, mis ei ole seotud k&auml;esoleva direktiivi s&auml;tetega. </eesti>
+<inglise> If necessary, the Commission shall attach to the report any harmonization proposals necessary for the effective operation of the internal market in electricity. </inglise>
+<eesti> Vajaduse korral lisab komisjon aruandele &uuml;htlustamist k&auml;sitlevad ettepanekud, mis on vajalikud elektri siseturu t&otilde;rgeteta toimimiseks. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The Council and the European Parliament shall give their views on such proposals within two years of their submission. </inglise>
+<eesti> N&otilde;ukogu ja Euroopa Parlament avaldavad ettepanekute kohta oma arvamuse kahe aasta jooksul alatest nende esitamisest. </eesti>
+<inglise> Article 26 </inglise>
+<eesti> Artikkel 26 </eesti>
+<inglise> The Commission shall review the application of this Directive and submit a report on the experience gained on the functioning of the internal market in electricity and the implementation of the general rules mentioned in Article 3 in order to allow the European Parliament and the Council, in the light of experience gained, to consider, in due time, the possibility of a further opening of the market which would be effective nine years after the entry into force of the Directive taking into account the coexistence of systems referred to in Articles 17 and 18. </inglise>
+<eesti> Komisjon vaatab k&auml;esoleva direktiivi kohaldamise l&auml;bi ja esitab aruande elektri siseturu toimimisel ja artiklis 3 nimetatud &uuml;ldeeskirjade rakendamisel saadud kogemuste kohta, et Euroopa Parlament ja n&otilde;ukogu v&otilde;iksid saadud kogemuste p&otilde;hjal &otilde;igeaegselt kaaluda v&otilde;imalust turgude edasiseks avamiseks, mis hakkaks kehtima &uuml;heksa aastat p&auml;rast k&auml;esoleva direktiivi j&otilde;ustumist, v&otilde;ttes arvesse artiklites 17 ja 18 nimetatud v&otilde;rkude &uuml;heaegset olemasolu. </eesti>
+<inglise> Article 27 </inglise>
+<eesti> Artikkel 27 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 19 February 1999. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi j&auml;rgimiseks vajalikud &otilde;igusnormid hiljemalt 19. veebruaril 1999. </eesti>
+<inglise> They shall forthwith inform the Commission thereof. </inglise>
+<eesti> Liikmesriigid teatavad sellest viivitamata komisjonile. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Belgium, Greece and Ireland may, due to the specific technical characteristics of their electricity systems, have an additional period of respectively 1 year, 2 years and 1 year to apply the obligations ensuing from this Directive. </inglise>
+<eesti> Belgia, Kreeka ja Iirimaa v&otilde;ivad oma elektriv&otilde;rkude spetsiifiliste tehniliste omaduste t&otilde;ttu saada vastavalt &uuml;he, kahe ja &uuml;he aasta pikkuse lisat&auml;htaja k&auml;esolevast direktiivist tulenevate kohustuste t&auml;itmiseks. </eesti>
+<inglise> These Member States, when making use of this option, shall inform the Commission thereof. </inglise>
+<eesti> Nimetatud v&otilde;imaluse kasutamise korral teatavad k&otilde;nealused liikmesriigid sellest komisjonile. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need meetmed vastu v&otilde;tavad, lisavad nad nendesse meetmetesse v&otilde;i nende meetmete ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The methods of making such reference shall be laid down by Member States. </inglise>
+<eesti> Sellise viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> Article 28 </inglise>
+<eesti> Artikkel 28 </eesti>
+<inglise> This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev direktiiv j&otilde;ustub kahek&uuml;mnendal p&auml;eval p&auml;rast selle avaldamist Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> Article 29 </inglise>
+<eesti> Artikkel 29 </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 19 December 1996. </inglise>
+<eesti> Br&uuml;ssel, 19. detsember 1996 </eesti>
+<inglise> For the European Parliament </inglise>
+<eesti> Euroopa Parlamendi nimel </eesti>
+<inglise> The President </inglise>
+<eesti> president </eesti>
+<inglise> K. H&Auml;NSCH </inglise>
+<eesti> K. H&Auml;NSCH </eesti>
+<inglise> For the Council </inglise>
+<eesti> N&otilde;ukogu nimel </eesti>
+<inglise> The President </inglise>
+<eesti> eesistuja </eesti>
+<inglise> S. BARRETT </inglise>
+<eesti> S. BARRETT </eesti>
+<inglise> (1) OJ No C 65, 14.3.1992, p. 4 and OJ No C 123, 4.5.1994, p. 1. </inglise>
+<eesti> (1) E&Uuml;T C 65, 14.03.1992, lk 4, ja E&Uuml;T C 123, 4.05.1994, lk 1. </eesti>
+<inglise> (2) OJ No C 73, 15.3.1993, p. 31. </inglise>
+<eesti> (2) E&Uuml;T C 73, 15.03.1993, lk 31. </eesti>
+<inglise> (3) Opinion of the European Parliament of 17 November 1993 (OJ No C 329, 6.12.1993, p. 150). </inglise>
+<eesti> (3) Euroopa Parlamendi 17. novembri 1993. aasta arvamus (E&Uuml;T C 329, 6.12.1993, lk 150). </eesti>
+<inglise> Council common position of 25 July 1996 (OJ No C 315, 24.10.1996, p. 18) and Decision of the European Parliament of 11 December 1996 (not yet published in the Official Journal). </inglise>
+<eesti> N&otilde;ukogu 25. juuli 1996. aasta &uuml;hisseisukoht (E&Uuml;T C 315, 24.10.1996, lk 18) ja Euroopa Parlamendi 11. detsembri 1996. aasta otsus (Euroopa &Uuml;henduste Teatajas seni avaldamata). </eesti>
+<inglise> Council Decision of 19 December 1996. </inglise>
+<eesti> N&otilde;ukogu 19. detsembri 1996. aasta otsus. </eesti>
+<inglise> (4) OJ No L 313, 13.11.1990, p. 30. Directive as last amended by Commission Decision 95/162/EC (OJ No L 107, 12.5.1995, p. 53). </inglise>
+<eesti> (4) E&Uuml;T L 313, 13.11.1990, lk 30. Direktiivi on viimati muudetud komisjoni otsusega 95/162/E&Uuml; (E&Uuml;T L 107, 12.05.1995, lk 53). </eesti>
+<inglise> (5) OJ No L 185, 17.7.1990, p. 16. Directive as last amended by Commission Directive 93/87/EEC (OJ No L 277, 10.11.1993, p. 32). </inglise>
+<eesti> (5) E&Uuml;T L 185, 17.07.1990, lk 16. Direktiivi on viimati muudetud komisjoni direktiiviga 93/87/EM&Uuml; (E&Uuml;T L 277, 10.11.1993, lk 32). </eesti>
+<inglise> (6) OJ No L 161, 29.6.1996, p. 147. </inglise>
+<eesti> (6) E&Uuml;T L 161, 29.06.1996, lk 147. </eesti>
+<inglise> (7) OJ No L 109, 26.4.1983, p. 8. Directive as last amended by the 1994 Act of Accession. </inglise>
+<eesti> (7) E&Uuml;T L 109, 26.04.1983, lk 8. Direktiivi on viimati muudetud 1994. aasta &uuml;hinemisaktiga. </eesti>
+<inglise> (8) OJ No L 222, 14.8.1978, p. 11. Directive as last amended by the 1994 Act of Accession. </inglise>
+<eesti> (8) E&Uuml;T L 222, 14.08.1978, lk 11. Direktiivi on viimati muudetud 1994. aasta &uuml;hinemisaktiga. </eesti>
+<inglise> (9) OJ No L 193, 18.7.1983, p. 1. Directive as last amended by the 1994 Act of Accession. </inglise>
+<eesti> (9) E&Uuml;T L 193, 18.07.1983, lk 1. Direktiivi on viimati muudetud 1994. aasta &uuml;hinemisaktiga. </eesti>
+<inglise> (10) OJ No L 197, 18.7.1987, p. 33. </inglise>
+<eesti> (10) E&Uuml;T L 197, 18.07.1987, lk 33. </eesti>
+ 

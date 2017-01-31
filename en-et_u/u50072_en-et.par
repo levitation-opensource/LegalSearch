@@ -1,0 +1,496 @@
+<inglise> Commission Directive 98/53/EC of 16 July 1998 laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs (Text with EEA relevance) </inglise>
+<eesti> KOMISJONI DIREKTIIV 98/53/E&Uuml;, millega s&auml;testatakse prooviv&otilde;tu- ja anal&uuml;&uuml;simeetodid teatavate saasteainete sisalduse ametlikuks kontrolliks toiduainetes 16. juuli 1998 (EMPs kohaldatav tekst) </eesti>
+<inglise> THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> EUROOPA &Uuml;HENDUSTE KOMISJON, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to Council Directive 85/591/EEC of 20 December 1985 concerning the introduction of Community methods of sampling and analysis for the monitoring of foodstuffs intended for human consumption (1), and in particular Article 1 thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 20. detsembri 1985. aasta direktiivi 85/591/EM&Uuml; &uuml;henduse prooviv&otilde;tu- ja anal&uuml;&uuml;simeetodite kohta inimtarbimiseks etten&auml;htud toiduainete kontrollimisel, (1) eriti selle artiklit 1, ning arvestades, et: </eesti>
+<inglise> Whereas Commission Regulation (EC) No 1525/98 of 16 July 1998, amending Commission Regulation (EC) No 194/97 setting maximum levels for certain contaminants in foodstuffs (2) fixes maximum limits for aflatoxins in certain foodstuffs; </inglise>
+<eesti> komisjoni 16. juuli 1998. aasta m&auml;&auml;rusega (E&Uuml;) nr 1525/98 (millega muudetakse komisjoni m&auml;&auml;rust (E&Uuml;) nr 194/97, millega s&auml;testatakse teatavate saasteainete piirm&auml;&auml;rad toiduainetes) (2) m&auml;&auml;ratakse kindlaks aflatoksiinide piirnormid teatavates toiduainetes; </eesti>
+<inglise> Whereas Council Directive 93/99/EEC of 29 October 1993 on the subject of additional measures concerning the official control of foodstuffs (3) introduces a system of quality standards for laboratories entrusted by the Member States with the official control of foodstuffs; </inglise>
+<eesti> n&otilde;ukogu 29. oktoobri 1993. aasta direktiiviga 93/99/EM&Uuml; toiduainete ametlikku kontrolli k&auml;sitlevate lisameetmete kohta (3) kehtestatakse kvaliteedistandardite s&uuml;steem laborite jaoks, millele liikmesriigid on usaldanud toiduainete ametliku kontrolli; </eesti>
+<inglise> Whereas sampling plays a crucial part in the precision of the determination of the levels of the aflatoxins which are very heterogeneously distributed in a lot; </inglise>
+<eesti> partiis harilikult v&auml;ga eba&uuml;htlaselt jaotunud aflatoksiinide sisalduse m&auml;&auml;ramise t&auml;psus s&otilde;ltub oluliselt proovide v&otilde;tmisest; </eesti>
+<inglise> Whereas it seems necessary to fix general criteria which the method of analysis has to comply with in order to ensure that laboratories, in charge of the control, use methods of analysis with comparable levels of performance; </inglise>
+<eesti> on vaja kindlaks m&auml;&auml;rata &uuml;ldtingimused, millele anal&uuml;&uuml;simeetod peab vastama ning millega tagatakse, et kontrolliga tegelevate laborite kasutatavad meetodid on v&otilde;rreldavad; </eesti>
+<inglise> Whereas the provisions for the sampling and methods of analysis have been drawn up on the basis of present knowledge and they may be adapted to take account of advances in scientific and technological knowledge; </inglise>
+<eesti> prooviv&otilde;ttu ja anal&uuml;&uuml;simeetodeid k&auml;sitlevad s&auml;tted on koostatud praeguste teadmiste alusel ning neid v&otilde;ib kohandada vastavalt teaduse ja tehnika edusammudele; </eesti>
+<inglise> Whereas the methods of sampling used currently by the competent authorities largely differ in the Member States; whereas the competent authorities in certain Member States are not in a position to apply all the provisions of this Directive in a short time; whereas it is, therefore, necessary to provide a suitable period to apply these provisions; </inglise>
+<eesti> praegu erinevad p&auml;devate asutuste kasutatavad prooviv&otilde;tumeetodid liikmesriigiti m&auml;rgatavalt; teatavate liikmesriikide p&auml;devad asutused ei ole suutelised k&otilde;iki k&auml;esoleva direktiivi s&auml;tteid kiiresti kohaldama; seet&otilde;ttu on k&otilde;nealuste s&auml;tete kohaldamiseks vaja ette n&auml;ha sobiv ajavahemik; </eesti>
+<inglise> Whereas Member States will have to modify their methods of sampling gradually in order to comply with the provisions laid down in the Annexes to this Directive by the time the Directive has to be applied; whereas it is, therefore, appropriate to examine regularly with the Member States the application of these provisions; </inglise>
+<eesti> liikmesriigid peavad oma prooviv&otilde;tumeetodeid j&auml;rk-j&auml;rgult muutma, et need vastaksid k&auml;esoleva direktiivi kohaldamise t&auml;htajaks direktiivi lisas etten&auml;htud s&auml;tetele; seet&otilde;ttu on kohane kontrollida korrap&auml;raselt koos liikmesriikidega k&otilde;nealuste s&auml;tete kohaldamist; </eesti>
+<inglise> Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Foodstuffs, </inglise>
+<eesti> k&auml;esoleva direktiiviga etten&auml;htud meetmed on koosk&otilde;las alalise toiduainekomitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> The Member States shall take all measures necessary to ensure that the sampling for the official control of the levels of aflatoxins in foodstuffs is carried out in accordance with the methods described in Annex I of this Directive. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad k&otilde;ik vajalikud meetmed, et tagada, et proovid toiduainete aflatoksiinisisalduse ametliku kontrolli jaoks v&otilde;etakse vastavalt k&auml;esoleva direktiivi I lisas kirjeldatud meetoditele. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> The Member States shall take all measures necessary to ensure that sample preparation and methods of analyses used for the official control of the levels of aflatoxins in foodstuffs comply with the criteria described in Annex II of this Directive. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad k&otilde;ik vajalikud meetmed, tagamaks, et toiduainete aflatoksiinisisalduse ametliku kontrolli k&auml;igus valmistatavad proovid ja kasutatavad anal&uuml;&uuml;simeetodid vastavad k&auml;esoleva direktiivi II lisas kirjeldatud kriteeriumidele. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> The Member States shall, not later than 31 December 2000, bring into force the laws, regulations or administrative provisions necessary to comply with the provisions of this Directive. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi s&auml;tete j&auml;rgimiseks vajalikud &otilde;igusnormid hiljemalt 31. detsembril 2000. </eesti>
+<inglise> They shall forthwith notify the Commission thereof. </inglise>
+<eesti> Nad teatavad sellest viivitamata komisjonile. </eesti>
+<inglise> When Member States adopt these provisions, the provisions shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. </inglise>
+<eesti> Kui liikmesriigid need normid vastu v&otilde;tavad, lisavad nad nendesse normidesse v&otilde;i nende normide ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The procedure for such reference shall be adopted by Member States. </inglise>
+<eesti> Viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev direktiiv j&otilde;ustub 20. p&auml;eval p&auml;rast selle avaldamist Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 16 July 1998. </inglise>
+<eesti> Br&uuml;ssel, 16. juuli 1998 </eesti>
+<inglise> For the Commission Franz FISCHLER Member of the Commission </inglise>
+<eesti> Komisjoni nimel komisjoni liige Franz FISCHLER </eesti>
+<inglise> (1) OJ L 372, 31.12.1985, p. 50. </inglise>
+<eesti> (1) E&Uuml;T L 372, 31.12.1985, lk 50. </eesti>
+<inglise> (2) See page 43 of this Official Journal. </inglise>
+<eesti> (2) E&Uuml;T L 201, 17.07.1998, lk 43. </eesti>
+<inglise> (3) OJ L 290, 24.11.1993, p. 14. </inglise>
+<eesti> (3) E&Uuml;T L 290, 24.11.1993, lk 14. </eesti>
+<inglise> ANNEX I </inglise>
+<eesti> I LISA </eesti>
+<inglise> Methods of sampling for official checking control of the levels of aflatoxins in certain foodstuffs </inglise>
+<eesti> Prooviv&otilde;tumeetodid teatavate toiduainete aflatoksiinisisalduse ametlikuks kontrolliks </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Purpose and scope </inglise>
+<eesti> Eesm&auml;rk ja rakendusala </eesti>
+<inglise> Samples intended for official checking of the levels of aflatoxin content in foodstuffs shall be taken according to the methods described below. </inglise>
+<eesti> Toiduainete aflatoksiinisisalduse ametlikuks kontrolliks etten&auml;htud proovid v&otilde;etakse vastavalt allpool kirjeldatud meetoditele. </eesti>
+<inglise> Aggregate samples thus obtained shall be considered as representative of the lots. </inglise>
+<eesti> Selliselt saadud koondproove k&auml;sitatakse asjaomaste partiide puhul t&uuml;&uuml;pilistena. </eesti>
+<inglise> Compliance with maximum limits laid down in Commission Regulation (EC) No 1525/98 shall be established on the basis of the levels determined in the laboratory samples. </inglise>
+<eesti> Komisjoni m&auml;&auml;rusega (E&Uuml;) nr 1525/98 lubatud piirm&auml;&auml;rade j&auml;rgimine tehakse kindlaks laboriproovides m&auml;&auml;ratud sisalduste alusel. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Definitions </inglise>
+<eesti> M&otilde;isted </eesti>
+<inglise> Lot: an identifiable quantity of a food commodity delivered at one time and determined by the official to have common characteristics, such as origin, variety, type of packing, packer, consignor or markings. </inglise>
+<eesti> Partii - samal ajal tarnitud eristatav toidukauba kogus, mille puhul ametnik on kindlaks teinud j&auml;rgmised &uuml;hised omadused: p&auml;ritolu, sort, pakkimisviis, pakkija, saatja v&otilde;i m&auml;rgistused. </eesti>
+<inglise> Sublot: designated part of a large lot in order to apply the sampling method on that designated part. </inglise>
+<eesti> Osapartii - teatav suure partii osa, mille puhul kohaldatakse prooviv&otilde;tumeetodit. </eesti>
+<inglise> Each sublot must be physically separate and identifiable. </inglise>
+<eesti> Iga osapartii peab olema f&uuml;&uuml;siliselt eraldatud ja kindlakstehtav. </eesti>
+<inglise> Incremental sample: a quantity of material taken from a single place in the lot or sublot. </inglise>
+<eesti> Valim - partii v&otilde;i osapartii &uuml;hest kohast v&otilde;etud materjalikogus. </eesti>
+<inglise> Aggregate sample: the combined total of all the incremental samples taken from the lot or sublot. </inglise>
+<eesti> Koondproov - k&otilde;igi partiist v&otilde;i osapartiist v&otilde;etud valimite koguhulk. </eesti>
+<inglise> Laboratory sample: sample intended for the laboratory (= subsample). </inglise>
+<eesti> Laboriproov - labori jaoks etten&auml;htud proov (= osaproov). </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> General provisions </inglise>
+<eesti> &Uuml;lds&auml;tted </eesti>
+<inglise> 3.1. </inglise>
+<eesti> 3.1. </eesti>
+<inglise> Personnel </inglise>
+<eesti> Personal </eesti>
+<inglise> Sampling shall be performed by an authorised person as specified by the Member States. </inglise>
+<eesti> Proove v&otilde;tab selleks liikmesriikide &otilde;igusaktide kohaselt volitatud isik. </eesti>
+<inglise> 3.2. </inglise>
+<eesti> 3.2. </eesti>
+<inglise> Material to be sampled </inglise>
+<eesti> Materjal, millest proovid v&otilde;etakse </eesti>
+<inglise> Each lot which is to be examined must be sampled separately. </inglise>
+<eesti> Igast uuritavast partiist tuleb v&otilde;tta eraldi proovid. </eesti>
+<inglise> In accordance with the specific provisions in point 5 of this Annex, large lots should be subdivided into sublots to be sampled separately. </inglise>
+<eesti> Vastavalt k&auml;esoleva lisa punkti 5 eris&auml;tetele tuleb suured partiid jaotada osapartiideks, millest v&otilde;etakse eraldi proovid. </eesti>
+<inglise> 3.3. </inglise>
+<eesti> 3.3. </eesti>
+<inglise> Precautions to be taken </inglise>
+<eesti> Ettevaatusabin&otilde;ud </eesti>
+<inglise> In the course of sampling and preparation of the laboratory samples precautions must be taken to avoid any changes which would affect the aflatoxin content, adversely affect the analytical determination or make the aggregate samples unrepresentative. </inglise>
+<eesti> Laboriproovide v&otilde;tmise ja valmistamise k&auml;igus tuleb v&otilde;tta ettevaatusabin&otilde;ud, et v&auml;ltida muutusi, mis v&otilde;ivad m&otilde;jutada aflatoksiinisisaldust, anal&uuml;&uuml;situlemusi v&otilde;i koondproovide t&uuml;&uuml;pilisust. </eesti>
+<inglise> 3.4. </inglise>
+<eesti> 3.4. </eesti>
+<inglise> Incremental samples </inglise>
+<eesti> Valimid </eesti>
+<inglise> As far as possible incremental samples should be taken at various places distributed throughout the lot or sublot. </inglise>
+<eesti> V&otilde;imaluse korral tuleks valimid v&otilde;tta &uuml;htlaselt kogu partii v&otilde;i osapartii eri kohtadest. </eesti>
+<inglise> Departure from this procedure must be recorded in the record provided for in 3.8. </inglise>
+<eesti> K&otilde;rvalekaldumine sellest reeglist tuleb m&auml;rkida punktis 3.8 etten&auml;htud protokolli. </eesti>
+<inglise> 3.5. </inglise>
+<eesti> 3.5. </eesti>
+<inglise> Preparation of the aggregate sample and the laboratory samples (subsamples) </inglise>
+<eesti> Koondproovi ja laboriproovide (osaproovide) valmistamine </eesti>
+<inglise> The aggregate sample is made up by uniting and sufficiently mixing the incremental samples. </inglise>
+<eesti> Koondproov saadakse valimite piisava segamise teel. </eesti>
+<inglise> After mixing, the aggregate sample must be divided into equal subsamples in accordance with the specific provisions of point 5 of this Annex. </inglise>
+<eesti> P&auml;rast segamist tuleb koondproov jaotada v&otilde;rdseteks osaproovideks vastavalt k&auml;esoleva lisa punkti 5 eris&auml;tetele. </eesti>
+<inglise> The mixing is necessary to ensure that each subsample contains portions of the whole lot or sublot. </inglise>
+<eesti> Segamine on vajalik selle tagamiseks, et iga osaproov sisaldab osi kogu partiist v&otilde;i osapartiist. </eesti>
+<inglise> 3.6. </inglise>
+<eesti> 3.6. </eesti>
+<inglise> Replicate samples </inglise>
+<eesti> Paralleelsed proovid </eesti>
+<inglise> The replicate samples for enforcement, trade (defence) and referee purposes are to be taken from the homogenised laboratory sample, unless this conflicts with Member States' rules on sampling. </inglise>
+<eesti> Tingimusel, et see on koosk&otilde;las liikmesriikide prooviv&otilde;tueeskirjadega, v&otilde;etakse homogeniseeritud laboriproovist paralleelsed proovid, mis on ette n&auml;htud eeskirjade t&auml;itmise tagamiseks, kaubanduse kaitseks ja v&otilde;rdlemiseks. </eesti>
+<inglise> 3.7. </inglise>
+<eesti> 3.7. </eesti>
+<inglise> Packaging and transmission of laboratory samples </inglise>
+<eesti> Laboriproovide pakkimine ja vedu </eesti>
+<inglise> Each laboratory sample shall be placed in a clean, inert container offering adequate protection from contamination and against damage in transit. </inglise>
+<eesti> Iga laboriproov asetatakse puhtasse inertsest materjalist pakendisse, mis tagab, et proov on saastumise ja veo ajal tekkida v&otilde;ivate vigastuste eest piisavalt kaitstud. </eesti>
+<inglise> All necessary precautions shall be taken to avoid any change in composition of the laboratory sample which might arise during transportation or storage. </inglise>
+<eesti> Veo v&otilde;i ladustamise ajal laboriproovi koostises tekkida v&otilde;ivate muutuste v&auml;ltimiseks v&otilde;etakse k&otilde;ik vajalikud ettevaatusabin&otilde;ud. </eesti>
+<inglise> 3.8. </inglise>
+<eesti> 3.8. </eesti>
+<inglise> Sealing and labelling of laboratory samples </inglise>
+<eesti> Laboriproovide pitseerimine ja m&auml;rgistamine </eesti>
+<inglise> Each sample taken for official use shall be sealed at the place of sampling and identified following the Member State's regulations. </inglise>
+<eesti> Iga ametlikuks kasutamiseks v&otilde;etud proov pitseeritakse prooviv&otilde;tukohas ja m&auml;rgistatakse vastavalt siseriiklikele eeskirjadele. </eesti>
+<inglise> A record must be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst. </inglise>
+<eesti> Iga prooviv&otilde;tu kohta tuleb t&auml;ita protokoll, mis v&otilde;imaldab iga partiid &uuml;heselt kindlaks teha ja kuhu m&auml;rgitakse prooviv&otilde;tu aeg ja koht ning muu lisateave, mis v&otilde;ib m&auml;&auml;rajale abiks olla. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Explanatory provisions </inglise>
+<eesti> Selgitavad s&auml;tted </eesti>
+<inglise> 4.1. </inglise>
+<eesti> 4.1. </eesti>
+<inglise> Different types of lots </inglise>
+<eesti> Eri t&uuml;&uuml;pi partiid </eesti>
+<inglise> Food commodities may be traded in bulk, containers, or individual packings (sacks, bags, retail packings, etc.). </inglise>
+<eesti> Toidukaupu v&otilde;ib turustada lahtiselt, konteinerites v&otilde;i &uuml;ksikpakendites (kaubakotid, m&uuml;&uuml;gipakendid jms). </eesti>
+<inglise> The sampling procedure can be applied to all the different forms in which the commodities are put on the market. </inglise>
+<eesti> Prooviv&otilde;tumeetodit saab kohaldada kauba turustamise k&otilde;igi vormide puhul. </eesti>
+<inglise> Without prejudice to the specific provisions as laid down in point 5 of this Annex, the following formula can be used as a guide for the sampling of lots traded in individual packings (sacks, bags, retail packings, etc.): </inglise>
+<eesti> Ilma et see piiraks k&auml;esoleva lisa punkti 5 eris&auml;tete kohaldamist, v&otilde;ib &uuml;ksikpakenditena (kaubakotid, m&uuml;&uuml;gipakendid jms) turustatavatest partiidest proovide v&otilde;tmise suunisena kasutada j&auml;rgmist valemit: </eesti>
+<inglise> Sampling frequency (SF) = Weight of the lot x weight of the incremental sample / Weight of the aggregate sample x weight of individual packing </inglise>
+<eesti> Proovide v&otilde;tmise sagedus (PVS) = partii mass &times; valimi mass / koondproovi mass &times; &uuml;ksikpakendi mass </eesti>
+<inglise> - Weight: in kg </inglise>
+<eesti> - Mass: kilogrammides </eesti>
+<inglise> Sampling frequency (SF): every nth sack or bag from which an incremental sample must be taken (decimal figures should be rounded to the nearest whole number). </inglise>
+<eesti> Proovide v&otilde;tmise sagedus (PVS): iga... (arv). kott, millest valim v&otilde;etakse (k&uuml;mnendkohad tuleks &uuml;mardada l&auml;hima t&auml;isarvuni). </eesti>
+<inglise> 4.2. </inglise>
+<eesti> 4.2. </eesti>
+<inglise> Weight of the incremental sample </inglise>
+<eesti> L&auml;hteproovi mass </eesti>
+<inglise> The weight of the incremental sample should be about 300 grams, unless otherwise defined in point 5 of this Annex. </inglise>
+<eesti> Kui k&auml;esoleva lisa punktis 5 ei ole m&auml;&auml;ratletud teisiti, peaks valimi mass olema ligikaudu 300 grammi. </eesti>
+<inglise> In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing. </inglise>
+<eesti> M&uuml;&uuml;gipakendites partiide puhul s&otilde;ltub valimi mass m&uuml;&uuml;gipakendi massist. </eesti>
+<inglise> 4.3. </inglise>
+<eesti> 4.3. </eesti>
+<inglise> Number of incremental samples for lots of less than 15 tonnes </inglise>
+<eesti> Valimite arv v&auml;iksemate kui 15tonniste partiide puhul </eesti>
+<inglise> The number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100, unless otherwise defined in point 5 of this Annex. The figures in the following table may be used to determine the number of incremental samples to be taken. </inglise>
+<eesti> Kui k&auml;esoleva lisa punktis 5 ei ole m&auml;&auml;ratletud teisiti, s&otilde;ltub v&otilde;etavate valimite arv partii massist ning on v&auml;hemalt 10 ja k&otilde;ige rohkem 100. </eesti>
+<inglise> Table 1: Number of incremental samples to be taken depending on the weight of the lot </inglise>
+<eesti> V&otilde;etavate valimite arvu m&auml;&auml;ramiseks v&otilde;ib kasutada j&auml;rgmist tabelit. </eesti>
+<inglise> Lot weight (tonnes) No of incremental samples </inglise>
+<eesti> Tabel 1. </eesti>
+<inglise> &le; 0,1 10 &gt; 0,1 - &le; 0,2 15 &gt; 0,2 - &le; 0,5 20 &gt; 0,5 - &le; 1,0 30 &gt; 1,0 - &le; 2,0 40 &gt; 2,0 - &le; 5,0 60 &gt; 5,0 - &le; 10,0 80 &gt; 10,0 - &le; 15,0 100 </inglise>
+<eesti> S&otilde;ltuvalt partii massist v&otilde;etavate valimite arv </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Specific provisions </inglise>
+<eesti> Eris&auml;tted </eesti>
+<inglise> 5.1. </inglise>
+<eesti> 5.1. </eesti>
+<inglise> General survey of the sampling procedure for groundnuts, nuts, dried fruit and cereals </inglise>
+<eesti> Prooviv&otilde;tumeetodi &uuml;ldine &uuml;levaade maap&auml;hklite, p&auml;hklite, kuivatatud puuvilja ja teravilja puhul </eesti>
+<inglise> 5.2. </inglise>
+<eesti> Tabel 2. </eesti>
+<inglise> Groundnuts, pistachios and Brazil nuts </inglise>
+<eesti> Partiide jaotamine osapartiideks s&otilde;ltuvalt tootest ja partii massist </eesti>
+<inglise> Dried figs </inglise>
+<eesti> * S&otilde;ltuvalt partii massist? vt k&auml;esoleva lisa punkt 4.3 v&otilde;i 5.3. </eesti>
+<inglise> Cereals (lots (3) 50 tonnes) </inglise>
+<eesti> 5.2. Maap&auml;hklid, pistaatsiap&auml;hklid ja brasiilia p&auml;hklid </eesti>
+<inglise> 5.2.1. </inglise>
+<eesti> Kuivatatud viigimarjad </eesti>
+<inglise> Sampling procedure </inglise>
+
+<eesti> 5.2.1. </eesti>
+<inglise> - On condition that the sublot can be separated physically, each lot must be subdivided into sublots following Table 2 at point 5.1. </inglise>
+<eesti> Prooviv&otilde;tumeetod - Kui osapartiid on v&otilde;imalik f&uuml;&uuml;siliselt eraldada, tuleb iga partii jaotada osapartiideks vastavalt tabelile 2 punktis 5.1. </eesti>
+<inglise> Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %, </inglise>
+<eesti> V&otilde;ttes arvesse, et partii mass ei ole alati osapartiide massi t&auml;iskordne, v&otilde;ib osapartii mass &uuml;letada etten&auml;htud massi kuni 20%. </eesti>
+<inglise> - each sublot must be sampled separately, </inglise>
+<eesti> - Igast osapartiist tuleb v&otilde;tta eraldi proovid. </eesti>
+<inglise> - number of incremental samples: 100. In the case of lots under 15 tonnes, the number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100 (see point 4.3), </inglise>
+<eesti> - Valimite arv: 100. V&auml;iksemate kui 15tonniste partiide puhul s&otilde;ltub v&otilde;etavate valimite arv partii massist ning on v&auml;hemalt 10 ja k&otilde;ige rohkem 100 (vt punkt 4.3). </eesti>
+<inglise> - weight of the aggregate sample = 30 kg which has to be mixed and to be divided into three equal subsamples of 10 kg before grinding (this division into three subsamples is not necessary in the case of groundnuts, nuts and dried fruit intended for further sorting or other physical treatment, however, this will depend upon the availability of equipment which is able to homogenise a 30 kg sample). </inglise>
+<eesti> - Koondproovi mass = 30 kg, mis tuleb kokku segada ja jagada enne peenestamist kolmeks v&otilde;rdseks 10kilogrammiseks osaprooviks (kolmeks osaprooviks ei ole koondproovi vaja jagada maap&auml;hklite, p&auml;hklite ja kuivatatud puuvilja puhul, mis on ette n&auml;htud hilisemaks sorteerimiseks v&otilde;i muuks f&uuml;&uuml;siliseks t&ouml;&ouml;tlemiseks, ning kui on olemas seadmed, mis v&otilde;imaldavad homogeniseerida 30kilogrammist proovi). </eesti>
+<inglise> In cases where the aggregate sample weights are under 10 kg, the aggregate sample must not be divided into three subsamples, </inglise>
+<eesti> Kui koondproovi mass on alla 10 kg, ei pea seda jagama kolmeks osaprooviks. </eesti>
+<inglise> - laboratory sample: a subsample of 10 kg (each subsample must be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II), </inglise>
+<eesti> - Laboriproov: 10kilogrammine osaproov (iga osaproov tuleb eraldi peenestada ja hoolikalt segada t&auml;ieliku homogeniseerumise tagamiseks vastavalt II lisa s&auml;tetele). </eesti>
+<inglise> - if it is not possible to carry out the method of sampling described above because of the commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented. </inglise>
+<eesti> - Kui eespool kirjeldatud prooviv&otilde;tumeetodi kasutamine on partii kahjustamise kaubanduslike tagaj&auml;rgede t&otilde;ttu (seoses pakkimismeetodiga, transpordivahendiga vms) v&otilde;imatu, v&otilde;ib kohaldada alternatiivset prooviv&otilde;tumeetodit, tingimusel et see on v&otilde;imalikult t&uuml;&uuml;piline ning et kogu meetod kirjeldatakse ja dokumenteeritakse. </eesti>
+<inglise> 5.2.2. </inglise>
+<eesti> 5.2.2. </eesti>
+<inglise> Acceptance of a lot or sublot </inglise>
+<eesti> Partii v&otilde;i osapartii heakskiitmine </eesti>
+<inglise> - For groundnuts, nuts and dried fruit subjected to a sorting or other physical treatment: </inglise>
+<eesti> - Maap&auml;hklite, p&auml;hklite ja kuivatatud puuvilja puhul, mis on ette n&auml;htud sorteerimiseks v&otilde;i muud laadi f&uuml;&uuml;siliseks t&ouml;&ouml;tlemiseks: </eesti>
+<inglise> - acceptance if the aggregate sample or the average of the subsamples conforms to the maximum limit, </inglise>
+<eesti> - kiidetakse partii heaks, kui koondproov v&otilde;i osaproovide keskmine vastab lubatud piirm&auml;&auml;rale, </eesti>
+<inglise> - rejection if the aggregate sample or the average of the subsamples exceeds the maximum limit, </inglise>
+<eesti> - ei kiideta partiid heaks, kui koondproov v&otilde;i osaproovide keskmine &uuml;letab lubatud piirm&auml;&auml;ra, </eesti>
+<inglise> - for groundnuts, nuts, dried fruit and cereals intended for direct human consumption: </inglise>
+<eesti> - otseselt inimtoiduks m&otilde;eldud maap&auml;hklite, p&auml;hklite, kuivatatud puuvilja ja teravilja puhul: </eesti>
+<inglise> - acceptance if none of the subsamples exceeds the maximum limit, </inglise>
+<eesti> - kiidetakse partii heaks, kui &uuml;kski osaproov ei &uuml;leta lubatud piirm&auml;&auml;ra, </eesti>
+<inglise> - rejection if one or more of the subsamples exceeds the maximum limit, </inglise>
+<eesti> - ei kiideta partiid heaks, kui &uuml;ks v&otilde;i mitu osaproovi &uuml;letab lubatud piirm&auml;&auml;ra, </eesti>
+<inglise> - where the aggregate sample is under 10 kg: </inglise>
+<eesti> - kui koondproov on alla 10 kg: </eesti>
+<inglise> - acceptance if the aggregate sample conforms to the maximum limit, </inglise>
+<eesti> - kiidetakse partii heaks, kui koondproov vastab lubatud piirm&auml;&auml;rale, </eesti>
+<inglise> - rejection if the aggregate sample exceeds the maximum limit. </inglise>
+<eesti> - ei kiideta partiid heaks, kui koondproov &uuml;letab lubatud piirm&auml;&auml;ra. </eesti>
+<inglise> 5.3. </inglise>
+<eesti> 5.3. </eesti>
+<inglise> Nuts other than groundnuts, pistachios and Brazil nuts </inglise>
+<eesti> P&auml;hklid, v.a maap&auml;hklid, pistaatsiap&auml;hklid ja brasiilia p&auml;hklid </eesti>
+<inglise> Dried fruit other than figs </inglise>
+<eesti> Kuivatatud puuvili, v.a viigimarjad </eesti>
+<inglise> Cereals (lots under 50 tonnes) </inglise>
+<eesti> Teravili (partiid &lt; 50 tonni) </eesti>
+<inglise> 5.3.1. </inglise>
+<eesti> 5.3.1. </eesti>
+<inglise> Sampling procedure </inglise>
+<eesti> Prooviv&otilde;tumeetod </eesti>
+<inglise> For these products, the sampling procedure laid down in point 5.2.1 may be applied. </inglise>
+<eesti> Nende toodete puhul v&otilde;ib kohaldada punktis 5.2 s&auml;testatud prooviv&otilde;tumeetodit. </eesti>
+<inglise> However, taking into account the low incidence of contamination for these products and/or the newer forms of packaging in which products can be traded, simpler sampling methods may be applied. </inglise>
+<eesti> V&otilde;ttes arvesse k&otilde;nealuste toodete harva saastumist ja/v&otilde;i uuemaid pakkimismeetodeid toodete turustamisel, v&otilde;ib kohaldada ka lihtsamaid prooviv&otilde;tumeetodeid. </eesti>
+<inglise> For cereal lots under 50 tonnes, a sampling plan consisting of, depending on the lot weight, 10 to 100 incremental samples each of 100 grams, resulting in an aggregate sample of 1 to 10 kg may be used. The figures in the following table can be used to determine the number of incremental samples to be taken. </inglise>
+<eesti> Alla 50tonniste teraviljapartiide puhul v&otilde;ib kasutada prooviv&otilde;tumeetodit, mille k&auml;igus v&otilde;etakse partii massist s&otilde;ltuvalt 10-100 l&auml;hteproovi massiga 100 g, mis annab koondproovi massiks 1-10 kg. </eesti>
+<inglise> Table 3: Number of incremental samples to be taken depending on the weight of the lot of cereals </inglise>
+<eesti> V&otilde;etavate valimite arvu m&auml;&auml;ramiseks v&otilde;ib kasutada j&auml;rgmist tabelit. </eesti>
+<inglise> Lot weight (tonnes) No of incremental samples </inglise>
+<eesti> Tabel 3. </eesti>
+<inglise> &le; 1 10 &gt;1 - &le; 3 20 &gt;3 - &le; 10 40 &gt;10 - &le; 20 60 &gt;20 - &le; 50 100 </inglise>
+<eesti> S&otilde;ltuvalt teraviljapartii massist v&otilde;etavate valimite arv </eesti>
+<inglise> 5.3.2. </inglise>
+<eesti> 5.3.2. </eesti>
+<inglise> Acceptance of a lot or sublot </inglise>
+<eesti> Partii v&otilde;i osapartii heakskiitmine </eesti>
+<inglise> See point 5.2.2. </inglise>
+<eesti> Vt punkt 5.2.2. </eesti>
+<inglise> 5.4. </inglise>
+<eesti> 5.4. </eesti>
+<inglise> Milk </inglise>
+<eesti> Piim </eesti>
+<inglise> 5.4.1. </inglise>
+<eesti> 5.4.1. </eesti>
+<inglise> Sampling procedure </inglise>
+<eesti> Prooviv&otilde;tumeetod </eesti>
+<inglise> Sampling in accordance with Commission Decision 91/180/EEC of 14 February 1991 laying down certain methods of analysis and testing of raw milk and heat-treated milk (1): </inglise>
+<eesti> Proovid v&otilde;etakse vastavalt komisjoni 14. veebruari 1991. aasta otsusele 91/180/EM&Uuml; (millega s&auml;testatakse teatavad toorpiima ja kuumt&ouml;&ouml;deldud piima anal&uuml;&uuml;si- ja kontrollimeetodid): (1) </eesti>
+<inglise> - number of incremental samples: minimum 5, </inglise>
+<eesti> - valimite arv: v&auml;hemalt 5, </eesti>
+<inglise> - weight of aggregate sample: minimum 0,5 kg or litres. </inglise>
+<eesti> - koondproovi mass: v&auml;hemalt 0,5 kg v&otilde;i liitrit. </eesti>
+<inglise> 5.4.2. </inglise>
+<eesti> 5.4.2. </eesti>
+<inglise> Acceptance of a lot or sublot </inglise>
+<eesti> Partii v&otilde;i osapartii heakskiitmine </eesti>
+<inglise> - Acceptance if the aggregate sample conforms to the maximum limit, </inglise>
+<eesti> - Partii kiidetakse heaks, kui koondproov vastab lubatud piirm&auml;&auml;rale, </eesti>
+<inglise> - rejection if the aggregate sample exceeds the maximum limit. </inglise>
+<eesti> - partiid ei kiideta heaks, kui koondproov &uuml;letab lubatud piirm&auml;&auml;ra. </eesti>
+<inglise> 5.5. </inglise>
+<eesti> 5.5. </eesti>
+<inglise> Derived products and compound foods </inglise>
+<eesti> Tooted ja liittoiduained </eesti>
+<inglise> 5.5.1. </inglise>
+<eesti> 5.5.1. </eesti>
+<inglise> Milk products </inglise>
+<eesti> Piimatooted. </eesti>
+<inglise> 5.5.1.1. </inglise>
+<eesti> 5.5.1.1. </eesti>
+<inglise> Sampling procedure </inglise>
+<eesti> Prooviv&otilde;tumeetod </eesti>
+<inglise> Sampling in accordance with Commission Directive 87/524/EEC of 6 October 1987 laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products (2). </inglise>
+<eesti> Proovid v&otilde;etakse vastavalt komisjoni 6. oktoobri 1987. aasta direktiivile 87/524/EM&Uuml; (milles s&auml;testatakse &uuml;henduse prooviv&otilde;tumeetodid keemilise anal&uuml;&uuml;si jaoks kauas&auml;ilivate piimatoodete kontrollimisel). (2) </eesti>
+<inglise> Number of incremental samples: minimum 5. </inglise>
+<eesti> Valimite arv: v&auml;hemalt 5. </eesti>
+<inglise> For the other milk products an equivalent method of sampling is used. </inglise>
+<eesti> Teiste piimatoodete puhul kasutatakse samav&auml;&auml;rset prooviv&otilde;tumeetodit. </eesti>
+<inglise> 5.5.1.2. </inglise>
+<eesti> 5.5.1.2. </eesti>
+<inglise> Acceptance of a lot or sublot </inglise>
+<eesti> Partii v&otilde;i osapartii heakskiitmine </eesti>
+<inglise> - Acceptance if the aggregate sample conforms to the maximum limit, </inglise>
+<eesti> - Partii kiidetakse heaks, kui koondproov vastab lubatud piirm&auml;&auml;rale, </eesti>
+<inglise> - rejection if the aggregate sample exceeds the maximum limit. </inglise>
+<eesti> - partiid ei kiideta heaks, kui koondproov &uuml;letab lubatud piirm&auml;&auml;ra. </eesti>
+<inglise> 5.5.2. </inglise>
+<eesti> 5.5.2. </eesti>
+<inglise> Other derived products with very small particle weight, i.e. flour, fig paste, peanut butter (homogeneous distribution of aflatoxin contamination) </inglise>
+<eesti> Muud v&auml;ga v&auml;ikeste osakestega tooted, nt jahu, viigimarjapasta, maap&auml;hkliv&otilde;i (aflatoksiinisaaste jaotub homogeenselt) </eesti>
+<inglise> 5.5.2.1. </inglise>
+<eesti> 5.5.2.1. </eesti>
+<inglise> Sampling procedure </inglise>
+<eesti> Prooviv&otilde;tumeetod </eesti>
+<inglise> - Number of incremental samples: 100. For lots of under 50 tonnes the number of incremental samples should be 10 to 100, depending on the lot weight (see Table 3 at point 5.3.1 of this Annex), </inglise>
+<eesti> - Valimite arv: 100. Alla 50tonniste partiide puhul peaks valimite arv s&otilde;ltuvalt partii massist olema 10-100 (vt tabel 3 k&auml;esoleva lisa punktis 5.3.1). </eesti>
+<inglise> - the weight of the incremental sample should be about 100 grams. </inglise>
+<eesti> - Valimi mass peaks olema ligikaudu 100 grammi. </eesti>
+<inglise> In the case of lots in retail packing, the weight of the incremental sample depends on the weight of the retail packing, </inglise>
+<eesti> M&uuml;&uuml;gipakendis partiide puhul s&otilde;ltub valimi mass m&uuml;&uuml;gipakendi massist. </eesti>
+<inglise> - weight of aggregate sample = 1-10 kg sufficiently mixed. </inglise>
+<eesti> - Koondproovi mass = 1-10 kg, piisavalt segatud. </eesti>
+<inglise> 5.5.2.2. </inglise>
+<eesti> 5.5.2.2. </eesti>
+<inglise> Number of samples to be taken </inglise>
+<eesti> V&otilde;etavate proovide arv </eesti>
+<inglise> - The number of aggregate samples to be taken depends on the lot weight. </inglise>
+<eesti> - V&otilde;etavate koondproovide arv s&otilde;ltub partii massist. </eesti>
+<inglise> The division of large lots into sublots must be done as defined for cereals under point 5.2, </inglise>
+<eesti> Suured partiid tuleb jaotada osapartiideks, nagu see on m&auml;&auml;ratletud teravilja puhul punktis 5.2. </eesti>
+<inglise> - each sublot must be sampled separately. </inglise>
+<eesti> - Igast osapartiist tuleb v&otilde;tta eraldi proovid. </eesti>
+<inglise> 5.5.2.3 Acceptance of a lot or sublot </inglise>
+<eesti> 5.5.2.3. Partii v&otilde;i osapartii heakskiitmine </eesti>
+<inglise> - Acceptance if the aggregate sample conforms to the maximum limit, </inglise>
+<eesti> - Partii kiidetakse heaks, kui koondproov vastab lubatud piirm&auml;&auml;rale, </eesti>
+<inglise> - rejection if the aggregate sample exceeds the maximum limit. </inglise>
+<eesti> - partiid ei kiideta heaks, kui koondproov &uuml;letab lubatud piirm&auml;&auml;ra. </eesti>
+<inglise> 5.6. </inglise>
+<eesti> 5.6. </eesti>
+<inglise> Other derived products with a relatively large particle size (heterogeneous distribution of aflatoxin contamination) </inglise>
+<eesti> Muud suhteliselt suurte osakestega tooted (aflatoksiinisaaste jaotub heterogeenselt) </eesti>
+<inglise> Sampling procedure and acceptance as defined at points 5.2 and 5.3 of this Annex for the raw agricultural product. </inglise>
+<eesti> Prooviv&otilde;tmine ja partiide heakskiitmine vastavalt k&auml;esoleva lisa punktidele 5.2 ja 5.3 t&ouml;&ouml;tlemata p&otilde;llumajandussaaduse puhul. </eesti>
+<inglise> (1) OJ L 93, 13.4.1991, p. 1. </inglise>
+<eesti> (1) E&Uuml;T L 93, 13.04.1991, lk 1. </eesti>
+<inglise> (2) OJ L 306, 28.10.1987, p. 24. </inglise>
+<eesti> (2) E&Uuml;T L 306, 28.10.1987, lk 24. </eesti>
+<inglise> ANNEX II </inglise>
+<eesti> II LISA </eesti>
+<inglise> Sample preparation and criteria for methods of analysis used in official checking of the levels of aflatoxins in certain foodstuffs </inglise>
+<eesti> Proovide valmistamine ja kasutatavate anal&uuml;&uuml;simeetodite kriteeriumid teatavate toiduainete aflatoksiinisisalduse ametliku kontrolli jaoks </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Introduction </inglise>
+<eesti> Sissejuhatus </eesti>
+<inglise> 1.1. </inglise>
+<eesti> 1.1. </eesti>
+<inglise> Precautions </inglise>
+<eesti> Ettevaatusabin&otilde;ud </eesti>
+<inglise> Daylight should be excluded as much as possible during the procedure, since aflatoxin gradually breaks down under the influence of ultra-violet light. </inglise>
+<eesti> V&otilde;imaluse korral tuleks anal&uuml;&uuml;si k&auml;igus v&auml;ltida p&auml;evavalgust, kuna ultraviolettvalguse m&otilde;jul laguneb aflatoksiin j&auml;rk-j&auml;rgult. </eesti>
+<inglise> As the distribution of aflatoxin is extremely non-homogeneous, samples should be prepared - and especially homogenised - with extreme care. </inglise>
+<eesti> Kuna aflatoksiin jaotub &auml;&auml;rmiselt heterogeenselt, tuleks proovid valmistada ja eelk&otilde;ige homogeniseerida &auml;&auml;rmiselt hoolikalt. </eesti>
+<inglise> All the material received by the laboratory is to be used for the preparation of test material. </inglise>
+<eesti> Katsematerjali valmistamiseks tuleb &auml;ra kasutada kogu laborisse saabuv materjal. </eesti>
+<inglise> 1.2. </inglise>
+<eesti> 1.2. </eesti>
+<inglise> Calculation of proportion of shell/kernel of whole nuts </inglise>
+<eesti> Tervete p&auml;hklite koorte ja tuumade suhte arvutamine </eesti>
+<inglise> The limits fixed for aflatoxins in Commission Regulation (EC) No 1525/98 apply to the edible part. </inglise>
+<eesti> Komisjoni m&auml;&auml;ruses (E&Uuml;) nr 1525/98 kindlaksm&auml;&auml;ratud aflatoksiinide piirnorme kohaldatakse s&ouml;&ouml;dava osa suhtes. </eesti>
+<inglise> The level of aflatoxins in the edible part can be determined by: </inglise>
+<eesti> Aflatoksiinisisaldust s&ouml;&ouml;davas osas saab m&auml;&auml;rata j&auml;rgmiselt: </eesti>
+<inglise> - shelling samples of nuts 'in shell' and the level of aflatoxins is directly determined in the edible part, </inglise>
+<eesti> - koorega p&auml;hklite proovidest eraldatakse koored ja m&auml;&auml;ratakse s&ouml;&ouml;dava osa aflatoksiinisisaldus, </eesti>
+<inglise> - homogenise the nuts 'in shell' by taking them through the sample preparation procedure. </inglise>
+<eesti> - koorega p&auml;hklid homogeniseeritakse proovivalmistamismeetodit kasutades. </eesti>
+<inglise> The sampling and analytical procedure must estimate the weight of nut kernel in the aggregate sample. </inglise>
+<eesti> Prooviv&otilde;tu- ja anal&uuml;&uuml;simeetodiga tuleb m&auml;&auml;rata p&auml;hklituumade mass koondproovis. </eesti>
+<inglise> The weight of nut kernel in the aggregate sample is estimated after establishing a suitable factor for the proportion of nut shell to nut kernel in whole nuts. </inglise>
+<eesti> P&auml;hklituumade mass koondproovis m&auml;&auml;ratakse p&auml;rast seda, kui on kindlaks m&auml;&auml;ratud sobiv tegur p&auml;hklikoorte ja p&auml;hklituumade suhte leidmiseks tervetes p&auml;hklites. </eesti>
+<inglise> This proportion is used to ascertain the amount of kernel in the bulk sample taken through the sample preparation and analysis procedure. </inglise>
+<eesti> K&otilde;nealuse suhte abil m&auml;&auml;ratakse kindlaks p&auml;hklituumade kogus v&otilde;etud koondproovis proovivalmistamis- ja anal&uuml;&uuml;simeetodit kasutades. </eesti>
+<inglise> Approximately 100 whole nuts are taken at random separately from the lot or are to be put aside from each aggregate sample. </inglise>
+<eesti> Partiist v&otilde;i igast koondproovist v&otilde;etakse eraldi juhuslikult umbes 100 tervet p&auml;hklit. </eesti>
+<inglise> The ratio may, for each laboratory sample, be obtained by weighing the whole nuts, shelling and re-weighing the shell and kernel portions. </inglise>
+<eesti> Suhte saamiseks iga laboriproovi puhul kaalutakse terved p&auml;hklid, seej&auml;rel kooritakse need ning kaalutakse koored ja tuumad uuesti. </eesti>
+<inglise> However, the proportion of shell to kernel may be established by the laboratory from a number of samples and so can be assumed for future analytical work. </inglise>
+<eesti> Koorte ja tuumade suhte v&otilde;ib teatava arvu proovide p&otilde;hjal kindlaks m&auml;&auml;rata ka labor ning seda v&otilde;ib kasutada hilisemate anal&uuml;&uuml;side puhul. </eesti>
+<inglise> But if a particular laboratory sample is found to be in contravention of any limit, the proportion should be determined for that sample using the approximately 100 nuts that have been set aside. </inglise>
+<eesti> Kui konkreetse laboriproovi puhul leitakse, et see on kindlaksm&auml;&auml;ratud piirnormidega vastuolus, m&auml;&auml;ratakse suhe k&otilde;nealuse proovi puhul proovist v&otilde;etud ligikaudu 100 p&auml;hkli alusel. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Treatment of the sample as received in the laboratory </inglise>
+<eesti> Laborisse saabunud proovi t&ouml;&ouml;tlemine </eesti>
+<inglise> Finely grind and mix thoroughly each laboratory sample using a process that has been demonstrated to achieve complete homogenisation. </inglise>
+<eesti> Iga laboriproov jahvatatakse peeneks ja segatakse hoolikalt, kasutades sealjuures meetodit, mis tagab t&auml;ieliku homogeniseerumise. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Subdivision of samples for enforcement and defence purposes </inglise>
+<eesti> Proovide jagamine eeskirjade t&auml;itmise tagamiseks ja kaitse eesm&auml;rgil </eesti>
+<inglise> The replicate samples for enforcement, trade (defence) and referee purposes shall be taken from the homogenised material unless this conflicts with Member States' rules on sampling. </inglise>
+<eesti> Tingimusel, et see on koosk&otilde;las liikmesriikide prooviv&otilde;tueeskirjadega, v&otilde;etakse homogeniseeritud materjalist paralleelsed proovid, mis on ette n&auml;htud eeskirjade t&auml;itmise tagamiseks, kaubanduse kaitseks ja v&otilde;rdlemiseks. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Method of analysis to be used by the laboratory and laboratory control requirements </inglise>
+<eesti> Labori kasutatav anal&uuml;&uuml;simeetod ja labori kontrollimise n&otilde;uded </eesti>
+<inglise> 4.1. </inglise>
+<eesti> 4.1. </eesti>
+<inglise> Definitions </inglise>
+<eesti> M&otilde;isted </eesti>
+<inglise> A number of the most commonly used definitions that the laboratory will be required to use are given below: </inglise>
+<eesti> J&auml;rgnevalt esitatakse m&otilde;ned enim kasutatavad m&otilde;isted, mida labor peab kasutama. K&otilde;ige sagedamini kasutatavad t&auml;psusparameetrid on korratavus ja reprodutseeritavus. </eesti>
+<inglise> The most commonly quoted precision parameters are repeatability and reproducibility. r = repeatability, the value below which the absolute difference between two single test results obtained under repeatability conditions (i.e. same sample, same operator, same apparatus, same laboratory and short interval of time) may be expected to lie within a specific probability (typically 95 %) and hence r = 2,8 x sr sr = Standard deviation, calculated from results generated under repeatability conditions </inglise>
+<eesti> r = korratavus - n&auml;itaja, millest allpool korratavatel tingimustel (s.t sama proov, sama m&auml;&auml;raja, samad seadmed, sama laboratoorium, sama aeg) l&auml;bi viidud kahe &uuml;ksikkatse tulemuste absoluutne erinevus j&auml;&auml;b teatava t&otilde;en&auml;osuse piiresse (harilikult 95%), ja seega r = 2,8 &times; s <hi rend="sub"> r </hi>. s <hi rend="sub"> r </hi> = standardh&auml;lve, arvutatakse korratavuse tingimustel saadud tulemuste p&otilde;hjal. </eesti>
+<inglise> RSDr= relative standard deviation, calculated from results generated under repeatability conditions [ (sr/x) x 100 ], where x is the average of results over all laboratories and samples </inglise>
+<eesti> RSD <hi rend="sub"> r </hi> = suhteline standardh&auml;lve, arvutatakse korratavuse tingimustel saadud tulemuste p&otilde;hjal [ (s <hi rend="sub"> r </hi> /x) &times; 100 ], kus x on k&otilde;igi laborite ja proovide keskmine. </eesti>
+<inglise> R = reproducibility, the value below which the absolute difference between single test results obtained under reproducibility conditions (i.e. on identical material obtained by operators in different laboratories, using the standardised test method) may be expected to lie within a certain probability (typically 95 %): R = 2,8 sR </inglise>
+<eesti> R = reprodutseeritavus - n&auml;itaja, millest allpool reprodutseeritavuse tingimustel (s.t sama katsematerjal, eri laborid, eri sooritajad, eri seadmed, standardmeetod) l&auml;bi viidud &uuml;ksikkatsete tulemuste absoluutne erinevus j&auml;&auml;b teatava t&otilde;en&auml;osuse piiresse (harilikult 95%); R = 2,8 &times; s <hi rend="sub"> R </hi> </eesti>
+<inglise> sR = Standard deviation, calculated from results generated under reproducibility conditions </inglise>
+<eesti> s <hi rend="sub"> R </hi> = standardh&auml;lve, arvutatakse reprodutseeritavuse tingimustel saadud tulemuste p&otilde;hjal. </eesti>
+<inglise> RSDR = relative standard deviation, calculated from results generated under reproducibility conditions [ (sR/x) x 100 ] </inglise>
+<eesti> RSD <hi rend="sub"> R </hi> = suhteline standardh&auml;lve, arvutatakse reprodutseeritavuse tingimustel saadud tulemuste p&otilde;hjal [ (s <hi rend="sub"> R </hi> /x) &times; 100 ]. </eesti>
+<inglise> 4.2. </inglise>
+<eesti> 4.2. </eesti>
+<inglise> General requirements </inglise>
+<eesti> &Uuml;ldn&otilde;uded </eesti>
+<inglise> Methods of analysis used for food control purposes must comply whenever possible with the provisions of points 1 and 2 of the Annex to Council Directive 85/591/EEC. </inglise>
+<eesti> Toiduainete kontrolliks kasutatavad anal&uuml;&uuml;simeetodid peavad v&otilde;imaluse korral vastama n&otilde;ukogu direktiivi 85/591/EM&Uuml; lisa punktide 1 ja 2 s&auml;tetele. </eesti>
+<inglise> 4.3. </inglise>
+<eesti> 4.3. </eesti>
+<inglise> Specific requirements </inglise>
+<eesti> Erin&otilde;uded </eesti>
+<inglise> Where no specific methods for the determination of aflatoxin levels in foodstuffs are prescribed at Community level, laboratories may select any method provided the selected method meets the following criteria: </inglise>
+<eesti> Kui toiduainete aflatoksiinisisalduse m&auml;&auml;ramiseks ei ole &uuml;henduse tasemel ette n&auml;htud erimeetodeid, v&otilde;ivad laborid valida mis tahes meetodi, tingimusel et valitud meetod vastab j&auml;rgmistele tingimustele: </eesti>
+<inglise> - Values to apply to both B1 and sum of B1+B2+G1+G2, </inglise>
+<eesti> RSD <hi rend="sub"> r </hi> t&auml;psuse arvutamiseks v&otilde;ib korrutada RSD <hi rend="sub"> R </hi> t&auml;psuse vastava kontsentratsiooni juures 0,66 -ga. </eesti>
+<inglise> - if sum of individual aflatoxins B1+B2+G1+G2 are to be reported, then response of each to the analytical system must be either known or equivalent, </inglise>
+<eesti> M&auml;rkused: - V&auml;&auml;rtusi kohaldatakse nii B <hi rend="sub"> 1 </hi> kui ka summa B <hi rend="sub"> 1 </hi> +B <hi rend="sub"> 2 </hi> +G <hi rend="sub"> 1 </hi> +G <hi rend="sub"> 2 </hi> puhul. </eesti>
+<inglise> - the detection limits of the methods used are not stated as the precision values are given at the concentrations of interest, </inglise>
+<eesti> - Kui tuleb dokumenteerida &uuml;ksikute aflatoksiinide summa B1+B2+G1+G2, peavad k&otilde;ikide aflatoksiinide reaktsioonid anal&uuml;&uuml;sis&uuml;steemi puhul olema teada v&otilde;i samav&auml;&auml;rsed. </eesti>
+<inglise> - the precision values are calculated from the Horwitz equation, i. </inglise>
+<eesti> - Kasutatavate meetodite avastamispiire ei ole m&auml;rgitud, kuna on esitatud t&auml;psusv&auml;&auml;rtused iga vaadeldava kontsentratsiooni puhul. </eesti>
+<inglise> e.: </inglise>
+<eesti> - T&auml;psusv&auml;&auml;rtused arvutatakse Horwitzi v&otilde;rrandist, s.t: </eesti>
+<inglise> RSDR = 2 (1-0,5 logC) </inglise>
+<eesti> RSD <hi rend="sub"> R </hi> = 2 <hi rend="sup"> (1-0,5 logC) </hi> </eesti>
+<inglise> where: </inglise>
+<eesti> kus: </eesti>
+<inglise> - RSDR is the relative standard deviation calculated from results generated under reproducibility conditions [ (SR/x) x 100 ] </inglise>
+<eesti> - RSD <hi rend="sub"> R </hi> on suhteline standardh&auml;lve, mis arvutatakse reprodutseeritavuse tingimustel saadud tulemuste p&otilde;hjal [ (S <hi rend="sub"> R </hi> /x) x 100 ] </eesti>
+<inglise> - C is the concentration ratio (i. e. 1 = 100 g/100 g, 0,001 = 1 000 mg/kg). </inglise>
+<eesti> - C on kontsentratsiooni m&auml;&auml;r (s.t 1 = 100 g/100 g, 0,001 = 1000 mg/kg). </eesti>
+<inglise> This is a generalised precision equation which has been found to be independant of analyse and matrix but solely dependent on concentration for most routine methods of analysis. </inglise>
+<eesti> K&otilde;nealune valem on &uuml;ldine t&auml;psusv&otilde;rrand, mille puhul on leitud, et see on enim kasutatavate anal&uuml;&uuml;simeetodite puhul s&otilde;ltumatu anal&uuml;&uuml;dist ja maatriksist, s&otilde;ltudes &uuml;ksnes kontsentratsioonist. </eesti>
+<inglise> 4.4. </inglise>
+<eesti> 4.4. </eesti>
+<inglise> Recovery calculation </inglise>
+<eesti> Saagise arvutamine </eesti>
+<inglise> The analytical result is to be reported corrected or uncorrected for recovery. </inglise>
+<eesti> Anal&uuml;&uuml;situlemus tuleb esitada saagise suhtes korrigeeritud v&otilde;i korrigeerimata kujul. </eesti>
+<inglise> The manner of reporting and the level of recovery must be reported. </inglise>
+<eesti> Tulemuse esitamise viis ja saagise m&auml;&auml;r tuleb teatada. </eesti>
+<inglise> 4.5. </inglise>
+<eesti> 4.5. </eesti>
+<inglise> Laboratory quality standards </inglise>
+<eesti> Laborite kvaliteedin&otilde;uded </eesti>
+<inglise> Laboratories must comply with Council Directive 93/99/EEC. </inglise>
+<eesti> Laborid peavad vastama n&otilde;ukogu direktiivis 93/99/EM&Uuml; s&auml;testatule. </eesti>
+ 

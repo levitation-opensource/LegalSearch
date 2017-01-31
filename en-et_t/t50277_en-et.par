@@ -1,0 +1,51 @@
+<inglise> COMMISSION DECISION of 28 July 1999 on the basic parameters for the command-and-control and signalling subsystem relating to the trans-European high-speed rail system </inglise>
+<eesti> KOMISJONI OTSUS &uuml;leeuroopalise kiirraudteev&otilde;rgustiku kontrolli ja signaalimise alas&uuml;steemi p&otilde;hiparameetrite kohta 28. juuli 1999 </eesti>
+<inglise> (notified under document number C(1999) 2475) </inglise>
+<eesti> (avaldatud numbri all K(1999) 2475) </eesti>
+<inglise> (Text with EEA relevance) </inglise>
+<eesti> (EMPs kohaldatav tekst) </eesti>
+<inglise> (1999/569/EC) </inglise>
+<eesti> (1999/569/E&Uuml;) </eesti>
+<inglise> THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> EUROOPA &Uuml;HENDUSTE KOMISJON, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to Council Directive 96/48/EC of 23 July 1996 on the interoperability of the trans-European high-speed rail system(1), and in particular Article 21 thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 23. juuli 1996. aasta direktiivi 96/48/E&Uuml; &uuml;leeuroopalise kiirraudteev&otilde;rgustiku koostalitlusv&otilde;ime kohta, (1) eriti selle artiklit 21, </eesti>
+<inglise> (1) Whereas, the problem of the frequency and of the radiation intensity of the spot ground-to-train transmission interface, known as Eurobalise, was raised by Sweden at the meeting held on 10 July 1997 of the Committee set up under Article 21 of Directive 96/48/EC; </inglise>
+<eesti> ning arvestades, et: 1) direktiivi 96/48/E&Uuml; artikli 21 alusel loodud komitee 10. juuli 1997. aasta koosolekul t&otilde;statas Rootsi k&uuml;simuse Eurobalise'i nime all tuntud pinnas-rong &uuml;lekandeliidese sageduse ja kiirgustugevuse kohta; </eesti>
+<inglise> (2) Whereas, the European Association for Railway Interoperability (AEIF) confirmed, during the session held on 16 October 1997, that the Eurobalise interface is a basic parameter for the command-and-control and signalling subsystem; </inglise>
+<eesti> 2) Raudtee Koostalitlusv&otilde;ime Euroopa Assotsiatsioon (AEIF) kinnitas oma 16. oktoobri 1997. aasta istungil, et Eurobalise on kontrolli ja signaalimise alas&uuml;steemi p&otilde;hiparameeter; </eesti>
+<inglise> (3) Whereas the AEIF presented an analysis at the Committee meeting held on 19 February 1998 and several Member States requested that the situation be summed up in terms of all of the radio frequencies needed for the command-and-control and signalling subsystem; </inglise>
+<eesti> 3) AEIF esitas komitee 19. veebruari 1998. aastal toimunud koosolekul anal&uuml;&uuml;si ning mitmed liikmesriigid taotlesid, et tehtaks &uuml;levaade k&otilde;ikidest kontrolli ja signaalimise alas&uuml;steemi jaoks vajalikest raadiosagedustest; </eesti>
+<inglise> (4) Whereas there is a need to avoid any interference with the frequency band for the ECPT PR 27 radio equipment (see ERC Decision of 7 March 1996), while at the same time retaining the same level of telepowering; </inglise>
+<eesti> 4) on vaja v&auml;ltida CEPT (Euroopa Postside ja Telekommunikatsiooni Administratsioonide Konverents) PR 27 t&uuml;&uuml;pi raadioseadmete poolt kasutatava sagedusala h&auml;irimist (vt Euroopa Raadiosidekomitee (ERC) 7. m&auml;rtsi 1996. aasta otsus), s&auml;ilitades samal ajal kaugv&otilde;imsusjuhtimise endise taseme; </eesti>
+<inglise> (5) Whereas there is an urgent need to lay down the value for the Eurobalise spot interface and the GSM-R ground-to-train radio in order not to jeopardise the planning of ERTMS project tests, which in turn would cause delays that would adversely affect the placing in service of several lines within the trans-European high-speed network; </inglise>
+<eesti> 5) on vaja kiiresti m&auml;&auml;rata Eurobalise'i punkt&uuml;lekandeliidese ja raudtee GSM pinnas-rong raadioside kasutatavad sagedused, et mitte ohustada Euroopa raudteeliikluse juhtimiss&uuml;steemi projektide katsetamist, mille hilinemine v&otilde;ib negatiivselt m&otilde;jutada &uuml;leeuroopalise kiirraudteev&otilde;rgustiku mitmete liinide kasutuselev&otilde;ttu; </eesti>
+<inglise> (6) Whereas this Decision has no impact on signalling systems already in service, provided that they have not been brought back into service following a reorganisation; whereas the AEIF will have to take account of the existing system when drafting the "command-and-control and signalling" technical specification for interoperability (TSI); </inglise>
+<eesti> 6) k&auml;esolev otsus ei m&otilde;juta juba kasutusel olevaid signaalimiss&uuml;steeme, v&auml;lja arvatud juhul, kui need on p&auml;rast &uuml;mberkorraldamist uuesti kasutusele v&otilde;etud; AEIF peab kontrolli ja signaalimise tehniliste koostalitlusn&otilde;uete (TSI) koostamisel arvesse v&otilde;tma olemasolevat s&uuml;steemi; </eesti>
+<inglise> (7) Whereas Recommendation T/R 25-09 E (Chester 1990, revised at Budapest 1995) related to reserved railway frequencies in the 900 MHz band; whereas the decision by the ECPT Working Group on FM related to Eurobalise (Tallinn 1998) and the updating of Recommandation 70/03 resulting therefrom; </inglise>
+<eesti> 7) soovituses T/R 25-09 E (Chester 1990, l&auml;bi vaadatud Budapestis 1995) k&auml;sitletakse raudteesidele 900 MHz sagedusel eraldatud sagedusalasid; CEPT FM t&ouml;&ouml;r&uuml;hm on teinud Eurobalise'i kohta otsuse (Tallinn 1998) ning selle alusel on soovitust 70/03 ajakohastatud; </eesti>
+<inglise> (8) Whereas the provisions of this Decision are in keeping with the opinion of the Committee on Directive 96/48/EC, </inglise>
+<eesti> 8) k&auml;esolevas otsuse s&auml;tted on koosk&otilde;las direktiivi 96/48/E&Uuml; alusel loodud komitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS DECISION: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA OTSUSE. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> The frequency used to telepower (downlink) Eurobalise-type beacons shall be 27095 MHz and the radiation intensity at 10 metres shall be less than 42 dB&gt;ISO_7&gt;&igrave;&gt;ISO_1&gt;A/m. </inglise>
+<eesti> Eurobalise'i t&uuml;&uuml;pi signaalide kaugv&otilde;imsusjuhtimisel (downlink) kasutatakse sagedust 27095 MHz ning kiirgustugevus 10 meetri pealt m&otilde;&otilde;detuna peab olema alla 42 dB&mgr;A/m. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> The frequency bands used for GSM-R radio links shall be 876-880 MHz for the train-to-ground link and 921/925 MHz for the ground-to-train link. </inglise>
+<eesti> Raudtee GSM raadioliinide sagedusalad on vahemikus 876-880 MHz rong-pinnas liinide puhul ning 921/925 MHz pinnas-rong liinide puhul. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> This Decision is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev otsus on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 28 July 1999. </inglise>
+<eesti> Br&uuml;ssel, 28. juuli 1999 </eesti>
+<inglise> For the Commission Neil KINNOCK Member of the Commission </inglise>
+<eesti> Komisjoni nimel komisjoni liige Neil KINNOCK </eesti>
+<inglise> (1) OJ L 235, 17.9.1996, p. 6. </inglise>
+<eesti> (1) E&Uuml;T L 235, 17.09.1996, lk 6. </eesti>
+ 

@@ -1,0 +1,520 @@
+<eesti>Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika (1) </eesti>
+<inglise>Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator (1) </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;rus nr 411 </eesti>
+<inglise>Regulation No. 411 of the Government of the Republic of 8 December 2000 </inglise>
+<eesti>(RT I 2000, 94, 606), </eesti>
+<inglise>(RT1 I 2000, 94, 606), </inglise>
+<eesti>j&otilde;ustunud 15. detsembril 2000. a., </eesti>
+<inglise>entered into force 15 December 2000, </inglise>
+<eesti>muudetud j&auml;rgmise m&auml;&auml;rusega: </eesti>
+<inglise>amended by the following Regulation: </inglise>
+<eesti>03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 197. </eesti>
+<inglise>03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 197. </inglise>
+<eesti>M&auml;&auml;rus kehtestatakse "Telekommunikatsiooniseaduse" (RT I 2000, 18, 116; 78, 495) &sect; 53 l&otilde;ike 6 alusel. </eesti>
+<inglise>The Regulation is established on the basis of subsection 78 (6) of the Telecommunications Act (RT I 2000, 18, 116). </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>Metoodika &uuml;ldp&otilde;him&otilde;tted </eesti>
+<inglise>General Methodology Principles </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>M&auml;&auml;ruse reguleerimisala </eesti>
+<inglise>Scope of application of Regulation </inglise>
+<eesti>(1) M&auml;&auml;rusega kehtestatakse kulude omistamise ja kulude arvestamise metoodika telefoni-, p&uuml;siliini- v&otilde;i sidumisteenuse turul olulise turuj&otilde;uga ettev&otilde;tjast &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori poolt, kes osutab telefoni-, p&uuml;siliini- v&otilde;i sidumisteenust. </eesti>
+<inglise>(1) The Regulation establishes the methodology of cost allocation and cost accounting in the market of telephone, leased lines and interconnection services by public telecommunications network operators with significant market power who provide the telephone, leased line or interconnection service. </inglise>
+<eesti>(2) M&auml;&auml;rus rakendub telefoni-, p&uuml;siliini- v&otilde;i sidumisteenuse turul "Telekommunikatsiooniseaduse" &sect; 8 kohaselt Sideameti poolt olulise turuj&otilde;uga ettev&otilde;tjaks (edaspidi OTE) tunnistatud &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori suhtes. </eesti>
+<inglise>(2) The Regulation applies to public telecommunications network operators who have been declared as undertakings with significant market power by the Estonian National Communications Board pursuant to &sect; 8 of the Telecommunications Act in the telephone, leased line or interconnection services market. </inglise>
+<eesti>(3) K&auml;esolev OTE poolt kulude arvestamise ja kulude omistamise metoodika (edaspidi metoodika) on koosk&otilde;las Euroopa Komisjoni soovitustega. (2) </eesti>
+<inglise>(3) This methodology for cost accounting and cost allocation by the undertaking with significant market power (hereinafter methodology) is in conformity with the recommendations of the European Commission. (2) </inglise>
+<eesti>(4) Metoodika n&otilde;uded p&otilde;hinevad OTE erinevate &auml;rivaldkondade kulude arvestamise lahususel. </eesti>
+<inglise>(4) The requirements of the methodology are based on the accounting separation principle of various business lines of an undertaking with significant market power. </inglise>
+<eesti>Aruandluss&uuml;steemis peavad olema eristatud OTE erinevad &auml;rivaldkonnad, mis on defineeritud m&auml;&auml;ruse &sect; 2 l&otilde;ikes 4, sealhulgas tuleb ka eristada erinevaid kuluelemente seoses erinevate tegevustega, tagades transferthindade selguse ja kulup&otilde;hisuse. </eesti>
+<inglise>The accounting system must distinguish between different business lines of an undertaking with significant market power which are defined in subsection 2 (4) of this Regulation; also cost components associated with various activities must be distinguished in order to guarantee the transparency and cost-orientation of transfer prices. </inglise>
+<eesti>(5) Lisaks metoodika n&otilde;uetele tuleb OTE-l arvestada ka "Telekommunikatsiooniseaduse" &sect; 51 l&otilde;ike 7 alusel Vabariigi Valitsuse kehtestatud p&uuml;siliini- ja sidumisteenuse tasude arvestamise metoodikat ja selle p&otilde;him&otilde;tteid. </eesti>
+<inglise>(5) An undertaking with significant market power shall, in addition to the requirements of the methodology, observe the methodology and principles of calculating leased line and interconnection service charges established in subsection 51 (7) of the Telecommunications Act by the Government of the Republic. </inglise>
+<eesti>(6) Metoodikas on toodud OTE kuluarvestuss&uuml;steemi v&auml;ljat&ouml;&ouml;tamise &uuml;ldp&otilde;him&otilde;tted. </eesti>
+<inglise>(6) The methodology provides the general principles for establishing the cost accounting system of an undertaking with significant market power. </inglise>
+<eesti>Kulude omistamist puudutavate spetsiifiliste k&uuml;simuste &uuml;le peab otsustama OTE, konsulteerides vajaduse korral Sideametiga. </eesti>
+<inglise>Specific issues in cost allocation shall be decided by the undertaking with significant market power who shall consult with the Estonian National Communications Board, if necessary. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>M&otilde;isted </eesti>
+<inglise>Definitions </inglise>
+<eesti>(1) &Uuml;lekandev&otilde;rk kuluarvestuse t&auml;henduses on telekommunikatsiooniv&otilde;rgu osa, mis &uuml;hendab telefonijaamu v&otilde;i juurdep&auml;&auml;suv&otilde;rke ning mis algab signaali algatajale l&auml;hima telefoniv&otilde;rgus&otilde;lme tarbijaliidese v&auml;ljundis ja l&otilde;peb sama telefoniv&otilde;rgu signaali l&otilde;petava telefoniv&otilde;rgus&otilde;lme tarbijaliidese v&auml;ljundis v&otilde;i sidumispunktis. </eesti>
+<inglise>(1) For the purposes of cost accounting, a transmission network is the part of the telecommunications network which connects exchanges or local access networks and which starts at the output of the subscriber interface of the telephone network node closest to the signal originating exchange and ends at the output of the subscriber interface of the signal terminating exchange of the same network or at the interconnection point. </inglise>
+<eesti>Tarbijaliidese tehniline m&otilde;iste on s&auml;testatud "Telekommunikatsiooniseaduse" &sect; 4 l&otilde;ike 5 alusel kehtestatud &otilde;igusaktis. </eesti>
+<inglise>The technical definition of the subscriber interface is provided for in the legislation established on the basis of subsection 4 (5) of the Telecommunications Act. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 197) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 197) </inglise>
+<eesti>(2) Eriteenuste v&otilde;rk t&auml;hendab k&auml;esolevas m&auml;&auml;ruses mitte-&uuml;ldkasutatavat telekommunikatsiooniv&otilde;rku, mida kasutatakse eriteenuste osutamiseks ja millele esitatakse erin&otilde;udeid, nagu t&auml;iendavad turvan&otilde;uded, t&auml;iendavad operatiivsusn&otilde;uded jms ning millel on piiratud kasutus&otilde;igus. </eesti>
+<inglise>(2) For the purposes of this Regulation, special service network means a non-public telecommunications network which is used for providing special services and which is governed by specific requirements, such as additional security requirements, additional operational requirements, etc. and which has restricted right of use. </inglise>
+<eesti>(3) Faktooring on suunatud teenuste m&uuml;&uuml;jatele ning p&otilde;hineb v&otilde;lan&otilde;uete, mille makset&auml;htaeg ei ole veel saabunud, teatud tasu eest loovutamisel finantseerimisasutusele. </eesti>
+<inglise>(3) Factoring means assigning debt securities the payment of which is not yet due to a financial institution for a certain fee, and is meant for service providers. </inglise>
+<eesti>(4) Omistatavad kulud t&auml;hendavad k&auml;esolevas m&auml;&auml;ruses otsekulusid, otseselt omistatavaid kulusid ja kaudselt omistatavaid kulusid. </eesti>
+<inglise>(4) Allocated costs are, for the purposes of this Regulation, direct costs, directly attributable costs and indirectly attributable costs. </inglise>
+<eesti>(5) Teenuse osutamine tarbijale (edaspidi jaem&uuml;&uuml;k) kui &auml;rivaldkond k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on telefoniteenuse osutamine tarbijale. </eesti>
+<inglise>(5) For the purposes of this Regulation, provision of services to the subscriber (hereinafter retail) as a business line is the provision of the telephone service to users. </inglise>
+<eesti>Sellele valdkonnale omistatavad kulud sisaldavad &uuml;lekandev&otilde;rgu ja juurdep&auml;&auml;suv&otilde;rgu kasutamise transferthindu, samuti tarbijaga seotud turunduse ja arvelduskulusid. </eesti>
+<inglise>The costs allocated to retail include transfer charges related to the use of core network and local access network, and the marketing and billing costs associated with the subscriber. </inglise>
+<eesti>(6) &Auml;rivaldkonnad k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on &uuml;lekandev&otilde;rguga seotud teenuste osutamine, juurdep&auml;&auml;suv&otilde;rguga seotud teenuste osutamine, teenuste osutamine tarbijale ja muud tegevused. </eesti>
+<inglise>(6) For the purposes of this Regulation, business lines mean provision of services in connection with core network, local access network, provision of services to the subscribers (hereinafter retail) and other activities. </inglise>
+<eesti>(7) Telekommunikatsiooniv&otilde;rgu l&otilde;pp-punkt (edaspidi l&otilde;pp-punkt) on telekommunikatsiooniv&otilde;rgu f&uuml;&uuml;siliselt m&auml;&auml;ratletav punkt, kus on telekommunikatsiooniteenuse kasutajale loodud juurdep&auml;&auml;s v&otilde;i v&otilde;imalus juurdep&auml;&auml;suks telekommunikatsiooniv&otilde;rgule. </eesti>
+<inglise>(7) A telecommunications network termination point (hereinafter termination point) is a physically defined telecommunications network point where users of telecommunications services are provided or can be provided with access to the telecommunications network </inglise>
+<eesti>(8) Juurdep&auml;&auml;suv&otilde;rk kuluarvestuse t&auml;henduses on telekommunikatsiooniv&otilde;rgu osa l&otilde;pp-punkti ja sellele l&auml;hima telefonijaama vahel. </eesti>
+<inglise>(8) Local access network for the purposes of cost accounting means the part of a telecommunications network between a termination point and the closest exchange. </inglise>
+<eesti>Juurdep&auml;&auml;suv&otilde;rk algab telefoniv&otilde;rgu l&otilde;pp-punktis asuva jaotusseadme tarbijapoolsetelt klemmidelt ja l&otilde;peb l&otilde;pp-punktile l&auml;hima telefoniv&otilde;rgus&otilde;lme tarbijaliidese v&auml;ljundklemmidel. </eesti>
+<inglise>Local access network starts at the subscriber's distribution frame of the terminal point of the telephone network and ends at the output of the subscriber's interface of the telephone network node closest to the terminal point. </inglise>
+<eesti>Jaotusseadme tehniline m&otilde;iste on s&auml;testatud "Telekommunikatsiooniseaduse" &sect; 4 l&otilde;ike 5 alusel kehtestatud &otilde;igusaktis. </eesti>
+<inglise>The technical definition of the distribution frame is provided for in the legislation established on the basis of subsection 4 (5) of the Telecommunications Act. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 197) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 197) </inglise>
+<eesti>(9) Kuluk&auml;itur on p&otilde;hjuslik tegur, mis m&otilde;jutab kulusid. </eesti>
+<inglise>(9) Driver is a causal factor which affects costs. </inglise>
+<eesti>Kuluk&auml;iturid jagunevad mahup&otilde;histeks ja tegevusp&otilde;histeks. </eesti>
+<inglise>Drivers are volume or activity based. </inglise>
+<eesti>(10) Kulukogum (cost pool) on kulude grupp, mille k&auml;itumise m&auml;&auml;rab &uuml;ks ja sama kuluk&auml;itur. </eesti>
+<inglise>(10) Cost pool is a group of costs the behaviour of which is determined by one and the same driver. </inglise>
+<eesti>(11) Kuluarvestus jooksevhindades (current cost accounting - CCA) on kuluarvestusbaas kiiresti muutuva majanduskeskkonna jaoks, kui kuluarvestus ajaloolistes hindades (historical cost accounting - HCA) ei anna adekvaatseid tulemusi. </eesti>
+<inglise>(11) Current Cost Accounting (CCA) is a cost base used for a fast changing economic environment if the historical cost accounting (HCA) fails to give adequate results. </inglise>
+<eesti>(12) Muud tegevused on &auml;rivaldkond, kuhu kuuluvad k&otilde;ik &uuml;lej&auml;&auml;nud teenused, mis ei ole seotud &uuml;lekandev&otilde;rgus, juurdep&auml;&auml;suv&otilde;rgus ega jaem&uuml;&uuml;gis osutatavate teenustega. </eesti>
+<inglise>(12) Other activities means the business line which covers all other services which are not services provided in core network business, local access network business or retail business. </inglise>
+<eesti>(13) Transferthind ehk &uuml;lekandmishind on arvestuslik hind teenuse osutamise eest ettev&otilde;ttesiseselt &uuml;helt majandus&uuml;ksuselt teisele majandus&uuml;ksusele. </eesti>
+<inglise>(13) Transfer price or transfer value is an accountable value for providing a service within an undertaking by one economic unit to another economic unit. </inglise>
+<eesti>(14) V&otilde;rguseadmed on telekommunikatsiooniv&otilde;rgu osad: &uuml;lekandes&uuml;steem koos selle juurde kuuluvate l&uuml;litusseadmetega, muud abis&uuml;steemid ja rajatised, mis v&otilde;imaldavad telekommunikatsiooniv&otilde;rgu kindlaksm&auml;&auml;ratud l&otilde;pp-punktide ja sidumispunktide vahel elektriliste v&otilde;i elektromagnetiliste signaalide edastamist kaabli kaudu, raadio, optiliste v&otilde;i muude vahenditega. </eesti>
+<inglise>(14) Network component means parts of the telecommunications network: transmission system including switching equipment and other support systems and facilities which enable the transmission of electrical or electromagnetic signals between the defined network termination points or interconnection points by way of a cable, by radio, optical or other means. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Kulude omistamine </eesti>
+<inglise>Allocation of costs </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Kulude omistamise p&otilde;him&otilde;tted </eesti>
+<inglise>Principles of allocation of costs </inglise>
+<eesti>(1) Kulude omistamise protsess peab p&otilde;hinema kulude p&otilde;hjusliku seose anal&uuml;&uuml;sil, mille alusel peab kulud omistama nendele teenustele ja toodetele, mis on p&otilde;hjustanud nende kulude tekkimise. </eesti>
+<inglise>(1) The process of cost allocation shall be based on the analysis of cost causation whereby the costs must be attributed to those services and products which have caused such costs. </inglise>
+<eesti>Selleks peab kasutusele v&otilde;tma tegevusp&otilde;hise kuluarvestuse (activity based costing - ABC) printsiibid, mille n&auml;ide on toodud lisas 6. (2) P&otilde;hjuslikkuse n&otilde;ue kulude omistamisel n&otilde;uab OTE-lt kohase ja detailse kulude jaotamise metoodika kehtestamist oma kuluarvestuss&uuml;steemis, milleks on vaja: </eesti>
+<inglise>The activity based costing (ABC) methodology must be used therefor; an example of that is given in Annex 6. (2) The cost causation requirement in cost allocation requires that the undertaking with significant market power establish a relevant and detailed cost allocation methodology in its cost accounting system whereby the undertaking with significant market power is required to: </inglise>
+<eesti>1) iga kulu- ja tuluartikli ning kapitali kasutuse omistamise anal&uuml;&uuml;si; </eesti>
+<inglise>1) perform cost allocation of every item of revenue, cost and capital employed; </inglise>
+<eesti>2) k&auml;ituri m&auml;&auml;ratlemist, mis on aluseks kulude omistamisel; </eesti>
+<inglise>2) determine the driver which is the basis for cost allocation: </inglise>
+<eesti>3) m&auml;&auml;ratletud k&auml;ituri kasutamist kuluartiklite omistamisel; </eesti>
+<inglise>3) use the determined driver in cost allocation; </inglise>
+<eesti>4) kulude, mida ei ole v&otilde;imalik p&otilde;hjuslikkuse seosest l&auml;htuvalt omistada, koondamist eraldi kulukogumisse. </eesti>
+<inglise>4) collect the costs which cannot be allocated according to the principle of causation, in separate cost pools. </inglise>
+<eesti>(3) Kulude omistamisel peab j&auml;lgima kolme p&otilde;hiprintsiipi: </eesti>
+<inglise>(3) Three main principles must be observed in cost allocation: </inglise>
+<eesti>1) selgus: OTE peab avaldama t&auml;iendatud versiooni oma kulude omistamise metoodikast, kui selles tehakse olulisi muudatusi. </eesti>
+<inglise>1) transparency: the operator must publish a revised version of its cost allocation methodology when relevant changes are made thereto. </inglise>
+<eesti>OTE teavitab muudatuste tegemisest Sideametit v&auml;hemalt 10 kalendrip&auml;eva ette; </eesti>
+<inglise>The undertaking with significant market power shall inform the Estonian National Communications Board at least 10 days in advance of the making of the changes. </inglise>
+<eesti>2) j&auml;rjepidevus: samu omistamise p&otilde;him&otilde;tteid tuleb kasutada aastast aastasse. </eesti>
+<inglise>2) consistency: the same allocation principles must be used each year. </inglise>
+<eesti>Kui tehakse muudatusi, peab OTE &uuml;mber arvestama ka eelneva aasta aruanded uute p&otilde;him&otilde;tete alusel; </eesti>
+<inglise>If changes are made, the undertaking with significant market power must calculate the accounts of the previous year according to the new principles; </inglise>
+<eesti>3) olulisus: spetsiaalsete omistamisp&otilde;him&otilde;tete kasutamine ei ole vajalik, kui nende kasutamisest tulenev m&otilde;ju v&auml;ljundile ei ole oluline. </eesti>
+<inglise>3) relevance: the use of special cost allocation principles is not necessary if the effect of those principles on output is not relevant. </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Kulude liigitamine </eesti>
+<inglise>Classification of costs </inglise>
+<eesti>(1) Kulud jagunevad mitme toote ja teenuse vahel. </eesti>
+<inglise>(1) Costs are shared between different products and services. </inglise>
+<eesti>Iga kuluartikkel kuulub &uuml;hte j&auml;rgmistest kategooriatest: </eesti>
+<inglise>Each item of cost belongs to one of the following categories: </inglise>
+<eesti>1) operatiivkulud ehk otsesed kulud (direct and directly attributable costs) on kulud, mida saab otse ja &uuml;heselt seostada mingi teenuse v&otilde;i tootega ning mis on kajastatud OTE aruandluss&uuml;steemis mingi toote v&otilde;i teenuse tootmiskuludena; 2) kaudselt omistatavad kulud (edaspidi kaudkulud) ehk tootmise &uuml;ldkulud (indirectly attributable costs), mille kohta kasutatakse ka terminit pool-otsekulud (semidirect costs), mille hulka kuuluvad ka &uuml;hiskulud (joint costs), on kulud, mida saab siduda teenuse v&otilde;i tootega, kasutades vastavat kuluk&auml;iturit; </eesti>
+<inglise>1) direct and directly attributable costs are costs which can be directly and unambiguously attributed to a service or product and which are specified in the accounting system of the undertaking with significant market power as costs incurred in the production of a certain product or service; 2) indirectly attributable costs, also called semidirect costs, including joint costs are costs which can be related to a service or product by way of a driver. </inglise>
+<eesti>3) adresseerimatud kulud (edaspidi &uuml;ldkulud) (unattributable costs) on kulud, mida ei saa toote v&otilde;i teenusega seostada ei otseselt ega kaudselt, mist&otilde;ttu neid kulusid ei saa omistada toodetele v&otilde;i teenustele p&otilde;hjuslikkuse seose alusel. </eesti>
+<inglise>3) unattributable costs are costs which cannot be attributed to a product or service directly or indirectly, and therefor those costs cannot be allocated to products or services on the basis of the cost causation principle. </inglise>
+<eesti>&Uuml;ldkulud tuleb kuluaruandes selgelt identifitseerida ja esitada sama aruande eraldi kirjetel. </eesti>
+<inglise>Unattributable costs must be clearly identified in the statement of costs and shall be presented in different entries of the same accounts. </inglise>
+<eesti>(2) &Uuml;ldkulude omistamiseks toodetele ning teenustele kasutatakse peamiselt j&auml;rgmisi meetodeid: </eesti>
+<inglise>(2) The following methods are mainly used for allocating unattributable costs to products and services. </inglise>
+<eesti>1) brutotulu meetod - k&auml;ibe alusel omistamine, kus &uuml;ldkulud omistatakse teenustele vastavalt mingi teenuse k&auml;ibeosa proportsioonile koguk&auml;ibes; </eesti>
+<inglise>1) gross income method is the allocation on the basis of turnover where unattributable costs are allocated to services on the basis of the share of the turnover of a certain service in the total turnover; </inglise>
+<eesti>2) netotulu meetod - &uuml;ldkulud omistatakse toodetele ja teenustele vastavalt mingi teenuse panusele netotulusse; </eesti>
+<inglise>2) net income method where unattributable costs are allocated to products and services on the basis of the share of a service in the net income; </inglise>
+<eesti>3) jaotatavate kulude meetod - &uuml;ldkulud omistatakse jaotatavate kuludega* samas proportsioonis. </eesti>
+<inglise>3) attributable cost method where unattributable costs are allocated in the same proportion as the attributable costs*. </inglise>
+<eesti>(3) Detailsete ja l&auml;bipaistvate teenuste omahinna kalkuleerimiseks peab k&auml;esoleva paragrahvi l&otilde;ike 1 punktis 2 nimetatud kaudkulusid omistama ABC p&otilde;him&otilde;tetest l&auml;htuvalt. </eesti>
+<inglise>(3) For the calculation of the cost value of detailed and transparent services, the indirectly attributable costs specified in clause (1) 2) of this section must be allocated on the basis of ABC principles. </inglise>
+<eesti>ABC-l p&otilde;hineva kaudkulude omistamise printsiibid on toodud lisas 6. </eesti>
+<inglise>The ABC principles of allocating indirectly attributable costs are set out in Annex 6. </inglise>
+<eesti>(4) K&auml;esoleva paragrahvi l&otilde;ike 1 punktis 3 nimetatud &uuml;ldkulud peab omistama k&auml;esoleva paragrahvi l&otilde;ike 2 punktis 3 esitatud jaotatavate kulude meetodil. </eesti>
+<inglise>(4) The unattributable costs specified in clause (1) 3) of this section shall be allocated on the basis of the attributed cost method specified in clause (2) 3) of this section. </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Kulude omistamise protsess </eesti>
+<inglise>Process of cost allocation </inglise>
+<eesti>(1) Kulude omistamisel peab l&auml;htuma lisas 1 toodud kulude omistamise etappidest, mida v&otilde;ib vajaduse korral detailiseerida. </eesti>
+<inglise>(1) The allocation of costs shall be based on the stages of cost allocation set out in Annex 1, which, if necessary, can be further specified. </inglise>
+<eesti>(2) Kuluarvestuslik informatsioon, mis sisaldub kulu- ja finantsaruannetes, tuleb jaotada operatiivkulusid ja kapitalikulusid puudutavaks informatsiooniks ning raamatupidamiskirjeteks. </eesti>
+<inglise>(2) Cost accounting information which is contained in cost accounting and financial reports must be divided into operating costs, capital cost and accounting entries. </inglise>
+<eesti>(3) Kulusid peab omistama j&auml;rgmiselt: </eesti>
+<inglise>(3) Costs must be allocated as follows: </inglise>
+<eesti>1) telekommunikatsiooniteenustele omistatakse kulud, mida saab otseselt siduda konkreetse telekommunikatsiooniteenusega; </eesti>
+<inglise>1) costs that can be directly associated with particular telecommunications services shall be allocated to such services; </inglise>
+<eesti>2) v&otilde;rgukomponentidele omistatakse kulud, mis seonduvad mitme teenusega, mis k&otilde;ik kasutavad antud v&otilde;rgukomponenti ning seet&otilde;ttu ei saa neid otse konkreetsele teenusele kanda; </eesti>
+<inglise>2) costs that are associated with several services all of which use the particular network component and therefor cannot be attributed directly to a particular service shall be allocated to network components; </inglise>
+<eesti>3) seotud funktsioonidele omistatakse erinevate funktsioonide t&auml;itmiseks sooritatavate tegevuste kulud, mis on vajalikud teenuse osutamiseks; </eesti>
+<inglise>3) costs of activities performed in connection with various functions which are necessary for the provision of services shall be allocated to the related functions; </inglise>
+<eesti>4) muudele funktsioonidele omistatakse erinevate tegevuste kulud, mis ei ole seotud konkreetse teenuse osutamisega, kuid on olulised ettev&otilde;tte edasiseks funktsioneerimiseks. </eesti>
+<inglise>4) costs of various activities which are not related to the provision of particular services but are important for the operations of the undertaking shall be allocated to other functions. </inglise>
+<eesti>(4) Kulude omistamine toimub j&auml;rgmiselt: </eesti>
+<inglise>(4) Costs are allocated as follows: </inglise>
+<eesti>1) muude funktsioonide t&auml;itmisega seotud kulude omistamine seotud funktsioonidele, v&otilde;rgukomponentidele ja teenustele; </eesti>
+<inglise>1) costs related to the performance of other functions are allocated across related functions, network components and services; </inglise>
+<eesti>2) seotud funktsioonide t&auml;itmisega tekkinud kulude omistamine v&otilde;rgukomponentidele ja teenustele; </eesti>
+<inglise>2) costs related to the performance of related functions are allocated across network components and services; </inglise>
+<eesti>3) v&otilde;rgukomponentide kulude ja teenuste otsekulude omistamine teenustele; </eesti>
+<inglise>3) network component costs and direct service costs are allocated to services; </inglise>
+<eesti>4) erinevate teenuste kulude omistamine neljale &auml;rivaldkonnale - &uuml;lekandev&otilde;rgu&auml;rile, juurdep&auml;&auml;suv&otilde;rgu&auml;rile, jaem&uuml;&uuml;gile ja muudele tegevustele. </eesti>
+<inglise>4) various service costs are allocated to the four business lines - core network, local access network, retail and other activities. </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Operatiivkulude liigitus </eesti>
+<inglise>Classification of operating costs </inglise>
+<eesti>(1) Operatiivkulude liigitus on j&auml;rgmine: </eesti>
+<inglise>(1) The classification of operating costs is the following: </inglise>
+<eesti>1) amortisatsioon; </eesti>
+<inglise>1) depreciation; </inglise>
+<eesti>2) varustamise, paigaldamise ja hoolduskulud; </eesti>
+<inglise>2) supply, installation and maintenance costs; </inglise>
+<eesti>3) v&otilde;rgu planeerimis- ja arenduskulud; </eesti>
+<inglise>3) network planning and development costs; </inglise>
+<eesti>4) v&otilde;rgu juhtimiskulud; </eesti>
+<inglise>4) network management costs; </inglise>
+<eesti>5) marketingi- ja m&uuml;&uuml;gikulud; </eesti>
+<inglise>5) marketing and sales costs; </inglise>
+<eesti>6) faktooringu- ja inkassokulud; </eesti>
+<inglise>6) factoring and collection costs; </inglise>
+<eesti>7) operaatorteenuse kulud; </eesti>
+<inglise>7) operator services costs; </inglise>
+<eesti>8) teatmike v&auml;ljaandmisega seotud kulud; </eesti>
+<inglise>8) directory services costs; </inglise>
+<eesti>9) maksed teistele operaatoritele; </eesti>
+<inglise>9) payments to other operators; </inglise>
+<eesti>10) muud operatiivkulud. </eesti>
+<inglise>10) other operating costs. </inglise>
+<eesti>(2) Lisas 2 kajastatakse eespool nimetatud operatiivkulusid, kohustuslikke meetodeid nende omistamiseks ja valdkondi, kuhu neid peab omistama. </eesti>
+<inglise>(2) Annex 2 contains the operating costs specified above, obligatory methods for cost allocation, and business lines which must be used in cost allocation. </inglise>
+<eesti>Toodud jaotust v&otilde;ib vajaduse korral t&auml;iendada ja all-liigendada. </eesti>
+<inglise>If necessary, the classification may be supplemented and further subdivided. </inglise>
+<eesti>3. peat&uuml;kk </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>Kapitali hind ja kapitali kasutuse omistamine </eesti>
+<inglise>Cost of Capital and Allocation of Capital Employed </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Kapitali hinna arvestamine </eesti>
+<inglise>Capital cost calculation </inglise>
+<eesti>(1) Kapitali hinda peab kohaldama vastavalt kapitali kasutusele v&otilde;rgukomponentides ja muudes seotud varades. </eesti>
+<inglise>(1) For capital cost calculation, the capital cost must be adjusted to the capital employed in network components and other related assets. </inglise>
+<eesti>(2) OTE kapitali kaalutud keskmine hind peegeldab v&otilde;rgukomponentidesse ja muudesse seotud varadesse investeeritud fondide alternatiivkulu j&auml;rgmiselt: </eesti>
+<inglise>(2) The weighted average cost of capital (WACC) of the undertaking with significant market power reflects the alternative cost of funds invested in network components and other related assets as follows: </inglise>
+<eesti>1) v&otilde;&otilde;rkapitali kaalutud keskmine hind; </eesti>
+<inglise>1) weighted average cost of foreign capital; </inglise>
+<eesti>2) omakapitali kaalutud keskmine hind kui omanike n&otilde;utav tulunorm investeeringute eest ettev&otilde;ttesse antud riskitaseme juures; </eesti>
+<inglise>2) weighted average cost of equity as measured by the returns that shareholders require in order to invest in the network of the undertaking given the associated risks; </inglise>
+<eesti>3) v&otilde;&otilde;rkapitali ja omakapitali proportsioonid kogukapitalis. </eesti>
+<inglise>3) the share of foreign capital and equity in total capital. </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Kapitali hinna arvutamine </eesti>
+<inglise>Calculation of cost of capital </inglise>
+<eesti>(1) WACC-i arvutamine on kohustuslik kapitali hindamiseks erinevate v&otilde;rgukomponentide ja muude seotud varade jaoks, eesm&auml;rgiga tuletada tulum&auml;&auml;ra, mida tahetakse saada sidumisteenuse tasude kaudu. </eesti>
+<inglise>(1) The calculation of WACC is obligatory for calculating the cost of capital for different network components and other related assets in order to determine the return that needs to be recovered through interconnection charges. </inglise>
+<eesti>(2) Omades &sect; 7 l&otilde;ikes 2 toodud informatsiooni, saab leida ettev&otilde;tte kapitali kaalutud keskmise hinna (weighted average cost of capital - WACC) valemiga: </eesti>
+<inglise>(2) Having the information given in subsection 7 (2) of this section, the weighted average cost of capital (WACC) of an undertaking can be calculated using the following formula: </inglise>
+<eesti>WACC = r <hi rend="sub"> e </hi> &times;E/(D+E) &times;1/(1-T <hi rend="sub"> d </hi>) &times;d <hi rend="sub"> v </hi> +r <hi rend="sub"> d </hi> &times;D/(D+E) &times;(1-T), </eesti>
+<inglise>WACC = r <hi rend="sub"> e </hi> &times;E/(D+E) &times;1/(1-T <hi rend="sub"> d </hi>) &times;d <hi rend="sub"> v </hi> +r <hi rend="sub"> d </hi> &times;D/(D+E) &times;(1-T), </inglise>
+<eesti>kus: </eesti>
+<inglise>where: </inglise>
+<eesti>r <hi rend="sub"> e </hi> on omakapitali hind (%); </eesti>
+<inglise>r <hi rend="sub"> e </hi> is cost of equity (%); </inglise>
+<eesti>r <hi rend="sub"> d </hi> on v&otilde;&otilde;rkapitali hind (%); </eesti>
+<inglise>r <hi rend="sub"> d </hi> is cost of foreign capital (%); </inglise>
+<eesti>E on omakapitali maht (EEK); </eesti>
+<inglise>E is volume of equity (EEK); </inglise>
+<eesti>D on v&otilde;&otilde;rkapitali maht (EEK); </eesti>
+<inglise>D is volume of foreign capital (EEK); </inglise>
+<eesti>T on tulumaksum&auml;&auml;r (%); </eesti>
+<inglise>T is income tax rate (%); </inglise>
+<eesti>T <hi rend="sub"> d </hi> on tulumaks dividendidelt (%); </eesti>
+<inglise>T <hi rend="sub"> d </hi> is income tax paid on dividends (%); </inglise>
+<eesti>d <hi rend="sub"> v </hi> on dividendide v&auml;ljamaksekordaja. </eesti>
+<inglise>d <hi rend="sub"> v </hi> is dividend payment coefficient. </inglise>
+<eesti>(3) WACC-i formeerimisel v&otilde;ib vajadusel olla ka rohkem tegureid. </eesti>
+<inglise>(3) In formulating WACC, there may be more factors. </inglise>
+<eesti>Erinevate tegevuste eest n&otilde;utakse erinevaid riskipreemiaid, mis peegeldub erinevates omakapitali hindades r <hi rend="sub"> e </hi>, isegi siis, kui finantsstruktuur on sama. </eesti>
+<inglise>Different risk premiums are required for various activities and this is reflected in different cost of equity r <hi rend="sub"> e </hi> even if the financial structure is the same. </inglise>
+<eesti>Oluliste erinevuste puhul riskiastmes valdkonniti tuleb kasutada erinevat WACC-i. </eesti>
+<inglise>If the risk classes are considerably different in different business lines, different WACC must be used. </inglise>
+<eesti>Sidumisteenuse puhul kasutatakse teenust osutava ettev&otilde;tte &uuml;ldist kapitali hinda. </eesti>
+<inglise>For interconnection services, the overall cost of capital of the undertaking providing the service shall be used. </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Kapitali jaotamine </eesti>
+<inglise>Allocation of capital </inglise>
+<eesti>Hinna kujundamise eesm&auml;rgil peab kasutama kapitali kvartali kaalutud keskmist n&auml;itajat, mitte kapitali kasutuse m&auml;&auml;ra mingil ajahetkel. </eesti>
+<inglise>The weighted average capital cost for the quarter must be used in price formation as opposed to the capital employed rate at a certain moment of time. </inglise>
+<eesti>Lisas 3 kirjeldatakse kapitalikasutuse kohustuslikke omistamise meetodeid, mida OTE v&otilde;ib vastavalt vajadusele all-liigendada. </eesti>
+<inglise>Annex 3 describes the obligatory methods of allocation of capital employed, the undertaking with significant market power may further subdivide the methods. </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>Jooksevhindades kuluarvestuse aruandlus </eesti>
+<inglise>Current Cost Accounting </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Amortisatsioon ja jooksevhindades kuluarvestus </eesti>
+<inglise>Depreciation and current cost accounting </inglise>
+<eesti>(1) Amortisatsiooni hindamine ja omistamine sisaldab kolme olulist faktorit: </eesti>
+<inglise>(1) Assessment of depreciation and allocation thereof contains three important factors: </inglise>
+<eesti>1) tulutoovate varade maksumust; </eesti>
+<inglise>1) the cost of assets that yield a profit; </inglise>
+<eesti>2) varade oodatava majanduslikult kasuliku kasutusea kestust; </eesti>
+<inglise>2) the expected length of economically favourable exploitation of assets; </inglise>
+<eesti>3) vara prognoositavat j&auml;&auml;kv&auml;&auml;rtust majanduslikult kasuliku kasutusea l&otilde;ppemisel. </eesti>
+<inglise>3) the expected residual value of assets at the end of the period of economically favourable exploitation. </inglise>
+<eesti>(2) "Telekommunikatsiooniseaduse" &sect; 51 l&otilde;ikes 7 nimetatud tulevastest pikaajalistest keskmistest lisanduvatest kuludest (LRAIC) l&auml;htuval metoodikal p&otilde;hinev kuluarvestuss&uuml;steem kasutab tegevustel baseeruvat jooksevkulude omistamist. </eesti>
+<inglise>(2) The cost accounting system based on LRAIC specified in subsection 51 (7) of the Telecommunications Act uses current cost accounting based on activities. </inglise>
+<eesti>Varasid hinnatakse turuv&auml;&auml;rtuses ning amortisatsiooni ja kapitali kasutust kajastatakse jooksevhindades. </eesti>
+<inglise>The assets are assessed in market value and the depreciation and capital employed is expressed in current value. </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Varade v&auml;&auml;rtuse hindamine </eesti>
+<inglise>Valuation of assets </inglise>
+<eesti>(1) Varade v&auml;&auml;rtuse hindamisel peab l&auml;htuma j&auml;rgmistest p&otilde;him&otilde;tetest: </eesti>
+<inglise>(1) The following principles must be adhered to in the valuation of assets: </inglise>
+<eesti>1) puhas asendusv&auml;&auml;rtus (net replacement cost) on kulu, mis tuleb teha vara asendamiseks teise varaga, mis on samade omaduste ja eaga. </eesti>
+<inglise>1) net replacement cost is the expense that must be borne when the asset is replaced by another asset of equal character and age. </inglise>
+<eesti>Kui vara ei saa asendada samasugusega, tuleb kalkuleerida kaasaegse samav&auml;&auml;rse vara (modern equivalent asset - MEA) v&auml;&auml;rtus, mille korral asendusvara funktsioneerib samal tasemel, aga v&otilde;ib uue tehnoloogia t&otilde;ttu omada tunduvalt suuremat erinevust hinnas; </eesti>
+<inglise>If the asset cannot be replaced by an equal asset, the value of modern equivalent asset (MEA) must be calculated; in such case the replacement asset has the same functionality but due to more modern technology may considerably differ in value; </inglise>
+<eesti>2) vara loobumisv&auml;&auml;rtus (deprival value - DV) v&auml;ljendab OTE vara taastamisv&auml;&auml;rtust, milleks on kas vara majanduslik v&otilde;i puhas realiseerimisv&auml;&auml;rtus (net realisable value - NRV), olenevalt sellest, milline neist on suurem; </eesti>
+<inglise>2) deprival value (DV) expresses the recovery value of the assets of the undertaking with significant market power, which is either the economic value or net realisable value (NRV), whichever is the greater; </inglise>
+<eesti>3) vara majanduslik v&auml;&auml;rtus (economic value - EV) arvutatakse varast saadavate tulevaste rahavoogude n&uuml;&uuml;disv&auml;&auml;rtusena. </eesti>
+<inglise>3) economic value (EV) is calculated as the current value of future money flows deriving from the assets. </inglise>
+<eesti>(2) Vara hindamismeetodi reegel on j&auml;rgmine: </eesti>
+<inglise>(2) The rule for the valuation method is the following: </inglise>
+<eesti>1) kui EV on suurem kui NRV, siis OTE hoiab vara kasutuses edasi; 2) kui NRV on suurem kui EV, siis ettev&otilde;te m&uuml;&uuml;b vara kohe. </eesti>
+<inglise>1) if EV is bigger than NRV, the undertaking with significant market power shall continue to employ the assets; </inglise>
+<eesti>(3) Vara loobumisv&auml;&auml;rtus on kas majanduslik v&auml;&auml;rtus v&otilde;i puhas realiseerimisv&auml;&auml;rtus, olenevalt sellest, milline neist on suurem. </eesti>
+<inglise>2) if NRV is bigger than EV, the undertaking with significant market power shall immediately sell the assets. (3) Deprival value is ether the economic value or net realisable value, whichever is the greater. </inglise>
+<eesti>Vara jooksevkulu on madalaim puhtast asendusv&auml;&auml;rtusest v&otilde;i vara loobumisv&auml;&auml;rtusest. </eesti>
+<inglise>Current cost of assets is the smallest of the net replacement value or deprival value. </inglise>
+<eesti>K&auml;esolevas paragrahvis kirjeldatud varade hindamise etapid on toodud lisas 4. </eesti>
+<inglise>The stages of valuation of assets set out in this section are specified in Annex 4. </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Kohandused jooksva kuluaruandluse raames </eesti>
+<inglise>Adjustments to current cost accounting </inglise>
+<eesti>(1) Jooksevhindades kuluaruandlusel on j&auml;rgmised kontseptsioonid: </eesti>
+<inglise>(1) The current cost accounting is based on the following concepts: </inglise>
+<eesti>1) k&auml;ibekapitali s&auml;ilitamine (operating capital maintenance - OCM) arvestab OTE l&uuml;hiajalist likviidsust. </eesti>
+<inglise>1) operating capital maintenance (OCM) requires the short-run liquidity of the undertaking with significant market power. </inglise>
+<eesti>Kapitali teenindamine sellise l&auml;henemise korral n&otilde;uab OTE-lt l&uuml;hiajalise likviidsuse sama suurt olemasolu perioodi l&otilde;pus, kui oli perioodi alguses; </eesti>
+<inglise>In this approach, the servicing of capital requires that the undertaking with significant market power have as much liquidity at the end of the period as at the beginning of the period; </inglise>
+<eesti>2) finantskapitali s&auml;ilitamine (financial capital maintenance - FCM) arvestab, et OTE finantskapitali on s&auml;ilitatud jooksevhindade alusel. </eesti>
+<inglise>2) financial capital maintenance (FCM) requires that the financial capital of the undertaking with significant market power be maintained in current price terms. </inglise>
+<eesti>Eeldatakse kapitali s&auml;ilitamist nii, et perioodi l&otilde;pul on aktivaomanike vara samal tasemel kui perioodi alguses. </eesti>
+<inglise>Capital is assumed to be maintained so that the shareholder's funds are the same at the end of the period as compared to the beginning of the period. </inglise>
+<eesti>(2) &Uuml;leminek t&auml;ielikult jaotatavatelt ajaloolistelt kuludelt (t&auml;isomahinna meetod) "Telekommunikatsiooniseaduse" &sect; 51 l&otilde;ikes 7 nimetatud LRAIC metoodikale, mis on aluseks p&uuml;siliini- ja sidumisteenuse tasum&auml;&auml;rade m&auml;&auml;ramisele, n&otilde;uab varade hindamist nende turuv&auml;&auml;rtuses, see t&auml;hendab jooksevkulude leidmist. </eesti>
+<inglise>(2) Transition from fully distributed historic cost (full cost price method) to the LRAIC methodology specified in subsection 51 (7) of the Telecommunications Act, which is the basis for determining leased line and interconnections service charges, requires that the assets are valued at their market value, i.e. current costs are calculated. </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>K&auml;ibekapitali s&auml;ilitamise peamised kohandused </eesti>
+<inglise>Main adjustments to operating capital maintenance </inglise>
+<eesti>(1) OCM kontseptsioon l&auml;htub OTE tootliku v&otilde;imsuse s&auml;ilitamisest. </eesti>
+<inglise>(1) The OCM concept presumes that the production capacity of the undertaking with significant market power is maintained. </inglise>
+<eesti>Oluline on p&otilde;hivarade &uuml;mberhindamine jooksevhindadesse. </eesti>
+<inglise>It is important that the fixed assets are revalued into current cost. </inglise>
+<eesti>T&auml;nu &uuml;mberhindlusele on vajalikud t&auml;iendavad kohandused, et &uuml;mber arvestada amortisatsioonisummad. </eesti>
+<inglise>Due to the revaluation, additional adjustments are necessary for restating depreciation costs. </inglise>
+<eesti>(2) OCM puhul hinnatakse &uuml;mber varade raamatupidamislikud brutov&auml;&auml;rtused, arvestades spetsiifilisi varade hinnamuutusi ja muutusi tehnoloogias. </eesti>
+<inglise>(2) In OCM, the gross book value of assets is revalued to take account of specific changes in the price of assets and changes in technology. </inglise>
+<eesti>&Uuml;ks v&otilde;imalus varade jooksva v&auml;&auml;rtuse arvutamiseks on spetsiaalsete hinnaindeksite kohaldamine olemasolevatele varade raamatupidamislikele brutov&auml;&auml;rtustele. </eesti>
+<inglise>One way of calculating the current cost of assets is to apply specific price indices to the existing gross book value of assets. </inglise>
+<eesti>(3) Kasutades OCM metoodikat tasum&auml;&auml;rade tuletamisel, kujuneb n&otilde;utava tulu suurus j&auml;rgmiste komponentide summana (vastavalt v&otilde;rguseadmete kasutusmahu alusel): kapitalikulud, operatiivkulud, jooksev amortisatsioon ja proportsioon &uuml;ldkuludest ehk hinnalisand &uuml;ldkulude katteks. </eesti>
+<inglise>(3) By using the OCM method for determining charges, the requested revenue is a total of the following components (on the basis of the volume of use of the network equipment): capital cost, operating costs, current depreciation and share of unattributable costs or a mark-up for covering unattributable costs. </inglise>
+<eesti>(4) Aastane amortisatsioonisumma on arvutatud uute varahinnangute (v&auml;&auml;rtus jooksevhinnas ja majanduslik eluiga) alusel. </eesti>
+<inglise>(4) The depreciation charge for the year is calculated on the basis of new asset valuations (current value and economic life-time). </inglise>
+<eesti>See tagab p&otilde;hivarade jooksevkulu &otilde;ige kajastamise. </eesti>
+<inglise>This ensures that the current cost of fixed assets is correctly calculated. </inglise>
+<eesti>T&auml;iendav amortisatsioon (supplementary depreciation) on ajaloolise amortisatsiooni ja jooksva kuluamortisatsiooni vahe. </eesti>
+<inglise>Supplementary depreciation is the difference between historical depreciation and current cost depreciation. </inglise>
+<eesti>See v&otilde;ib olla nii positiivne kui ka negatiivne, s&otilde;ltuvalt sellest, kas vara v&auml;&auml;rtus kasvab v&otilde;i kahaneb. </eesti>
+<inglise>It may be positive or negative depending on whether the value of assets is rising or falling. </inglise>
+<eesti>Lisas 5 on toodud k&auml;esolevas paragrahvis nimetatud varade &uuml;mberhindamine. </eesti>
+<inglise>Annex 5 describes the revaluation of assets specified in this section. </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>Finantskapitali s&auml;ilitamise peamised kohandused </eesti>
+<inglise>Main adjustments to financial capital maintenance </inglise>
+<eesti>(1) FCM puhul toimub varade &uuml;mberhindamine, t&auml;iendava amortisatsiooni ja mahaj&auml;&auml;muse leidmine vastavalt &sect;-le 13, v&otilde;ttes eraldi arvesse kasu v&otilde;i kahju, mis tekib vara spetsiifilise inflatsiooni t&otilde;ttu, ning aktivaomanike varale m&otilde;juvat &uuml;ldist inflatsiooni. </eesti>
+<inglise>(1) In the case of FCM, the revaluation of assets, the calculation of supplementary depreciation and backlog takes place in accordance with section 13, whereas the profit and loss which derives from the asset specific inflation and the overall inflation which affects the shareholders' funds are separately taken into account. </inglise>
+<eesti>(2) Aktivaomanike fondide v&auml;&auml;rtus muutub &uuml;ldise inflatsiooni alusel. </eesti>
+<inglise>(2) The value of shareholders' funds changes due to the overall inflation. </inglise>
+<eesti>FCM v&otilde;tab seda muutust arvesse. </eesti>
+<inglise>FCM accounts for such change. </inglise>
+<eesti>Aktivaomanike fondide v&auml;&auml;rtuse muutus on tingitud asjaolust, et &uuml;mberhinnatavate varade turuhinnad ei pruugi j&auml;lgida &uuml;ldist inflatsiooni v&otilde;i ei tee seda samal m&auml;&auml;ral. </eesti>
+<inglise>The change in the value of shareholders' funds is due to the fact that the market prices of revaluated assets need not reflect the overall inflation or reflect it in a different amount. </inglise>
+<eesti>(3) Kasutades FCM metoodikat, kujuneb n&otilde;utava tulu suurus j&auml;rgmiste komponentide summana: kapitalikulud, operatiivkulud, jooksev amortisatsioon ja hinnalisand &uuml;ldkulude katteks, millest peab lahutama kasumi v&otilde;i millele peab liitma kahjumi, mis tekib varaspetsiifilise ja &uuml;ldinflatsiooni vahest (vt lisa 7). </eesti>
+<inglise>(3) By using the FCM method, the requested revenue is a total of the following components: capital cost, operating costs, current depreciation and mark-up to cover unattributable costs, less the revenue or plus the loss which is due from the difference between the asset specific inflation and the general inflation (see Annex 7). </inglise>
+<eesti>(4) OCM kontseptsiooni puhul v&otilde;ib ilmneda, et tasum&auml;&auml;rad alahindavad v&otilde;i &uuml;lehindavad tegelikult vajalikku teenitavat tulu, mist&otilde;ttu peab OTE kasutama FCM kapitali s&auml;ilitamise kontseptsiooni. </eesti>
+<inglise>(4) In OCM concept, it may occur that charge rates incorporate insufficient or excess returns into the revenue actually necessary, therefor the undertaking with significant market power must use the FCM concept. </inglise>
+<eesti>(5) Jooksvat kuluarvestust peab rakendama olemasolevat ajaloolist kuluarvestuss&uuml;steemi aluseks v&otilde;ttes. </eesti>
+<inglise>(5) Current cost accounting shall be used on the basis of historical cost accounting system. </inglise>
+<eesti>Uut kuluarvestuss&uuml;steemi peab rakendama etappide kaupa, kus esmalt hinnatakse &uuml;mber k&otilde;ik &uuml;lekandev&otilde;rgu varad. </eesti>
+<inglise>The new cost accounting system must be applied in stages, whereas all assets of the local access network must be revaluated first. </inglise>
+<eesti>5. peat&uuml;kk </eesti>
+<inglise>Chapter 5 </inglise>
+<eesti>Tulude omistamine </eesti>
+<inglise>Cost Allocation </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>Tulu telekommunikatsiooniteenustega seotud tegevustest </eesti>
+<inglise>Revenue received from activities related to telecommunications services </inglise>
+<eesti>(1) Tulud, mida teenitakse telekommunikatsiooniteenuste m&uuml;&uuml;gist, on otse omistatavad teenustele, millega seoses nad tekkisid. </eesti>
+<inglise>(1) Revenue received from the sale of telecommunications services is directly attributable to services to which they relate. </inglise>
+<eesti>(2) Kui tulusid ei ole v&otilde;imalik otse omistada, tuleb need omistada p&otilde;hjuslikkuse seose alusel. </eesti>
+<inglise>(2) If direct allocation of revenues is not possible, the allocation must be based on causation principle. </inglise>
+<eesti>Telekommunikatsiooniteenuste osutamisest saadava tulu omistamine OTE p&otilde;hilistele &auml;rivaldkondadele on toodud summaarselt lisas 8. </eesti>
+<inglise>The allocation of revenue received from the provision of telecommunications services to the principal businesses of the undertaking with significant market power is set out in Annex 8. </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>Muu tulu k&auml;sitlemine </eesti>
+<inglise>Other revenue </inglise>
+<eesti>(1) L&auml;htudes p&otilde;hjuslikust seosest, tuleb mitte-telefoniteenuste osutamisest saadavad tulud vastandada nende tegevustega, millega seoses nad tekkisid. </eesti>
+<inglise>(1) In accordance with the causation principle, the revenue received from the provision of non-telephony services must be allocated to the activities to which they relate. </inglise>
+<eesti>Seda tulu peab kajastama "muude tegevuste" all. </eesti>
+<inglise>This revenue must be recorded under "other activities". </inglise>
+<eesti>(2) Mitte-telefoniteenuste tulusid ja kulusid peab kajastama j&auml;rjepidevuse p&otilde;him&otilde;tet arvestades. </eesti>
+<inglise>(2) The revenues and costs of non-telephony services must be treated consistently. </inglise>
+<eesti>(3) Sissetulekut p&otilde;hivara investeeringutelt tuleb omistada samuti nagu investeeringuid, millega seoses nad tekkisid. </eesti>
+<inglise>(3) Income from fixed asset investments must be allocated in the same way as the investments to which they relate. </inglise>
+<eesti>Sissetulek p&otilde;hivarainvesteeringutelt tuleb omistada juurdep&auml;&auml;suv&otilde;rgule, &uuml;lekandev&otilde;rgule v&otilde;i jaem&uuml;&uuml;gile, kui nendega seotud investeeringuid on sel viisil omistatud. </eesti>
+<inglise>Income from fixed assets investments must be allocated to local access network, core network or retail if the related investments are allocated in this way. * Include directly and indirectly attributable costs. </inglise>
+<eesti>* Sisaldavad otseselt ja kaudselt omistatavaid kulusid. </eesti>
+<inglise>(1) RT = Riigi Teataja = State Gazette </inglise>
+<eesti>(1) Direktiiv 97/33/EC 30.06.1997. a ("Interconnection Directive") </eesti>
+<inglise>(1) Directive 97/33/EC 30.06.97, ("Interconnection Directive") </inglise>
+<eesti>(2) </eesti>
+<inglise>(2) </inglise>
+<eesti>1) C(1997) 3148 15.10.1997. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>1) C(1997) 3148 15.10.1997 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 1 - Interconnection Pricing" koos lisadega); </eesti>
+<inglise>Part 1 - Interconnection Pricing" together with Annexes); </inglise>
+<eesti>2) C(1998) 195 08.01.1998. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>2) C(1998) 195 08.01.1998 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 1 - Interconnection Pricing"); </eesti>
+<inglise>Part 1 - Interconnection Pricing"); </inglise>
+<eesti>3) C(1998) 960 08.04.1998. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>3) C(1998) 960 08.04.1998 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 2 - Accounting separation and cost accounting" koos lisadega). </eesti>
+<inglise>Part 2 - Accounting separation and cost accounting" together with Annexes); </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 1 </eesti>
+<inglise>Annex 1 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Kulude omistamise protsessi t&uuml;&uuml;pskeem </eesti>
+<inglise>Process of Allocation of Costs </inglise>
+<eesti>(vt RT I 2000, 94, 606) </eesti>
+<inglise>(see RT I 2000, 94, 606) </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 2 </eesti>
+<inglise>Annex 2 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Operatiivkulude omistamise meetodid </eesti>
+<inglise>Methods of Allocating Operating Costs </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 3 </eesti>
+<inglise>Annex 3 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Kapitali kasutuse omistamise meetodid </eesti>
+<inglise>Methods of Allocating Capital Employed </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 197) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 197) </inglise>
+<eesti>* Telefonijaamad on defineeritud "Telekommunikatsiooniseaduse" (RT I 2000, 18, 116) &sect; 4 l&otilde;ike 5 ja &sect; 7 l&otilde;ike 2 alusel kehtestatud m&auml;&auml;ruses </eesti>
+<inglise>* Exchanges are defined in the Regulation established on the basis of subsection 4 (5) and subsection 7 (2) of the Telecommunications Act (RT I 2000, 18, 116) </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 4 </eesti>
+<inglise>Annex 4 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Varade hindamise etapid </eesti>
+<inglise>Valuation of Assets </inglise>
+<eesti>(vt RT I 2000, 94, 606) </eesti>
+<inglise>(see RT I 2000, 94, 606) </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 5 </eesti>
+<inglise>Annex 5 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Varade &uuml;mberhindamine </eesti>
+<inglise>Revaluation of Assets </inglise>
+<eesti>N&auml;ide </eesti>
+<inglise>Example </inglise>
+<eesti>Vara ostetakse 10 000 krooni eest. </eesti>
+<inglise>An asset is bought at 10 000 kroons. </inglise>
+<eesti>Vara eeldatav eluiga on 4 aastat. </eesti>
+<inglise>The expected life of the asset is 4 years. </inglise>
+<eesti>Lihtsustamiseks eeldatakse vara lineaarset amortiseerimist. </eesti>
+<inglise>For reasons of simplification, the asset is considered to undergo linear depreciation. </inglise>
+<eesti>Tabelis 3 eeldatakse veel, et vara asendusv&auml;&auml;rtus langeb 10% aastas. </eesti>
+<inglise>In Table 3, it is presumed that the replacement cost of the asset decreases 10% per year. </inglise>
+<eesti>Tabelis 4 aga eeldatakse vara asendusv&auml;&auml;rtuse 5%-list kasvu aastas. </eesti>
+<inglise>In Table 4, it is presumed that the replacement cost of the asset increases 5% per year. </inglise>
+<eesti>Asenduskulu langeb 10% aastas </eesti>
+<inglise>Replacement cost falling by 10% per annum </inglise>
+<eesti>Asenduskulu t&otilde;useb 5% aastas </eesti>
+<inglise>Replacement cost rising by 5% per annum </inglise>
+<eesti>(vt RT I 2000, 94, 606) </eesti>
+<inglise>(see RT I 2000, 94, 606) </inglise>
+<eesti>Seletus: </eesti>
+<inglise>Explanation: </inglise>
+<eesti>- Jooksevkulu on vara asendamise puhaskulu, s.t jooksevkulu <hi rend="sub"> i </hi> = jooksevkulu <hi rend="sub"> i-1 </hi> &times;0, 9 (teises tabelis korrutatud 1,05 -ga). </eesti>
+<inglise>- Current cost is the gross replacement cost of the asset, i.e. current cost <hi rend="sub"> i </hi> = current cost <hi rend="sub"> i-1 </hi> &times; 0,9 (multiplied by 1.05 in Table 2) </inglise>
+<eesti>- Jooksevkulu (vara asendamise kulu) amortisatsioon on tuletatud kui bruto asenduskulu jagatud vara elueaga, s.t jooksevkulu / 4. </eesti>
+<inglise>- Current cost (asset replacement cost) depreciation is derived as the gross replacement cost divided by the asset life, i.e. current cost / 4. </inglise>
+<eesti>- Ajalooline amortisatsioon on v&otilde;rdne soetusmaksumus jagatud kasutusajaga, s.t 10 000 / 4. </eesti>
+<inglise>- Historical cost depreciation is the original acquisition cost divided by time of use, i.e. 10 000 / 4. </inglise>
+<eesti>- T&auml;iendav amortisatsioon on lisanduv amortisatsioon, mis on saadud varade &uuml;mberhindamise tulemusena (seda v&otilde;ib ka tuletada jooksevkulu amortisatsioon, s.t vara asenduskulu amortisatsioon lahutatud ajalooline kuluamortisatsioon). </eesti>
+<inglise>- Supplementary depreciation is the additional depreciation charged as a result of revaluing the asset (it can also be derived as current cost depreciation, i.e. asset replacement cost less historical cost depreciation). </inglise>
+<eesti>- Kumulatiivne amortisatsioon on asenduskulu amortisatsiooni summa k&auml;esoleval perioodil, pluss ajaloolise amortisatsiooni kumulatiivne summa eelneva perioodi l&otilde;puks ja liita t&auml;iendav amortisatsioon eelneva perioodi l&otilde;puks (kui eelnevaid perioode on n&auml;iteks kaks, siis t&auml;iendav amortisatsioon eelneva perioodi l&otilde;puks = t&auml;iendav amortisatsioon eelneval perioodil &times;2). </eesti>
+<inglise>Cumulative depreciation is the sum of cumulative current cost depreciation for the current period, plus cumulative historical depreciation as at the end of the previous period and plus supplementary depreciation at the end of the previous period (if there are two previous periods, the supplementary depreciation at the end of the previous period = the supplementary depreciation for the previous period &times; 2). </inglise>
+<eesti>Selgitus arvutamise kohta on toodud tabelis 4, kus nooled n&auml;itavad arvutusprotsessi suunda. </eesti>
+<inglise>An explanation to the calculation is set out in Table 4, whereas the arrows indicate the sequence of calculation. </inglise>
+<eesti>- "N&otilde;utav" amortisatsioon on kumulatiivne amortisatsioon, mis on arvutatud antud varade jooksevhinna p&otilde;hjal - teisis&otilde;nu on see kumulatiivne vara amortisatsioon k&auml;esolevaks hetkeks, mis on arvutatud tegeliku asenduskulu p&otilde;hjal antud hetkel (l&auml;htutakse tegelikust turusituatsioonist). </eesti>
+<inglise>- "Required" depreciation is the cumulative depreciation that is calculated on the basis of the current cost of the asset - put another way, it is the cumulative asset depreciation at the moment which is calculated on the basis of the actual replacement cost as at the moment (the actual market situation is taken into account). </inglise>
+<eesti>Matemaatiliselt v&auml;ljendab seda valem: jooksevkulu amortisatsioon &times;n, kus n on vara kasutatud aastate arv antud hetkeks. </eesti>
+<inglise>Expressed in mathematical terms by the formula: current cost depreciation &times; n where n is the number of years the asset has been used for the time being. </inglise>
+<eesti>- Mahaj&auml;&auml;mus amortisatsioonis on vahe n&otilde;utava amortisatsiooni ja kumulatiivse amortisatsiooni vahel. </eesti>
+<inglise>- Backlog depreciation is the difference between required depreciation and cumulative depreciation. </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 6 </eesti>
+<inglise>Annex 6 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>Tegevusp&otilde;hise kuluarvestuse (activity based costing) printsiipide n&auml;ide </eesti>
+<inglise>Example concerning activity based costing principles </inglise>
+<eesti>Tegevusp&otilde;hise kuluarvestuse raames omistatakse tootmise &uuml;ldkulud (kaudkulud): </eesti>
+<inglise>In activity based costing, indirectly attributable costs are allocated to: </inglise>
+<eesti>I tegevustele; </eesti>
+<inglise>I activities; </inglise>
+<eesti>II teenustele. </eesti>
+<inglise>II services. </inglise>
+<eesti>Esimene etapp koosneb j&auml;rgmistest sammudest: </eesti>
+<inglise>The first stage consists of the following steps: </inglise>
+<eesti>1) homogeensete kulukogumite loomine; </eesti>
+<inglise>1) formation of homogeneous cost pools; </inglise>
+<eesti>2) kulukogumi m&auml;&auml;rade leidmine, mille k&auml;igus kulukogumi kulude maht omistatakse sobiva kuluk&auml;ituri mahuga ning saadakse kulukogumi m&auml;&auml;r. </eesti>
+<inglise>2) determination of cost pool rates whereby the volume of costs of a cost pool are allocated to the volume of an appropriate driver and the cost pool rate is arrived at. </inglise>
+<eesti>Teise etapi k&auml;igus omistatakse kulukogumid teenustele, mille aluseks v&otilde;etakse kulukogumi m&auml;&auml;r ja ressursside hulk kasutatuna iga teenuse poolt. </eesti>
+<inglise>In the second stage, cost pools are allocated to services, whereas the cost pool rate and the amount of resources used for each service is used as the basis. </inglise>
+<eesti>Kehtib seos: </eesti>
+<inglise>There is a correlation: </inglise>
+<eesti>Kaudkulu = kulukogumi m&auml;&auml;r &times; kuluk&auml;ituri maht. </eesti>
+<inglise>Indirectly attributable costs = cost pool rate &times; volume of driver. </inglise>
+<eesti>Vabariigi Valitsuse 8. detsembri 2000. a m&auml;&auml;ruse nr 411 "Telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodika" lisa 7 </eesti>
+<inglise>Annex 7 to Regulation No. 411 of the Government of the Republic of 8 December 2000 Methodology for Cost Accounting and Cost Allocation by Telecommunications Network Operator </inglise>
+<eesti>N&auml;ide &sect; 12, &sect; 13 ja &sect; 14 toodud n&otilde;utava tulu komponentide OCM ja FCM metoodika alusel leidmiseks </eesti>
+<inglise>Example Concerning Determination of Requested Revenue Components According to OCM and FCM Methods as Set Out in Sections 12, 13 and 14 </inglise>
+<eesti>Kui kasutada OCM metoodikat tasum&auml;&auml;rade tuletamisel, siis n&otilde;utava tulu suurus toote/teenuse kohta vastavalt v&otilde;rguseadmete kasutusmahule kujuneb nagu j&auml;rgnevate komponentide summa: </eesti>
+<inglise>By using the OCM method for determining charges, the requested revenue per product/service on the basis of the volume of use of the network components is a sum of the following components: </inglise>
+<eesti>kapitalikulud + operatiivkulud + jooksev amortisatsioon + hinnalisand &uuml;ldkulude katteks = n&otilde;utav tulu </eesti>
+<inglise>capital cost + operating costs + current depreciation + mark-up for covering unattributable costs = requested revenue. </inglise>
+<eesti>Kui kasutada FCM metoodikat, siis n&otilde;utava tulu suurus toote/teenuse kohta vastavalt v&otilde;rguseadmete kasutusmahule kujuneb nagu j&auml;rgmiste komponentide summa: </eesti>
+<inglise>By using the FCM method, the requested revenue per product/service on the basis of the volume of use of the network components is a sum of the following components: </inglise>
+<eesti>kapitalikulud + operatiivkulud + jooksev amortisatsioon + hinnalisand &uuml;ldkulude katteks - kasum/(-) kahjum varaspetsiifilise inflatsiooni ja &uuml;ldinflatsiooni vahest = n&otilde;utav tulu, </eesti>
+<inglise>capital cost + operating costs + current depreciation + mark-up for covering unattributable costs - profit/(-) loss of the difference of asset specific inflation and general inflation = requested revenue, </inglise>
+<eesti>kus: </eesti>
+<inglise>where: </inglise>
+<eesti>jooksev amortisatsioon = ajalooline amortisatsioon + t&auml;iendav amortisatsioon </eesti>
+<inglise>current depreciation = historical depreciation + supplementary depreciation </inglise>
+<eesti>kapitalikulud = kapitali kasutus &times; WACC </eesti>
+<inglise>capital cost = capital employed &times; WACC </inglise>

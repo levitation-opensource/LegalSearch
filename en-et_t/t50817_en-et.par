@@ -1,0 +1,111 @@
+<inglise> COMMISSION REGULATION (EEC) No 2334/83 of 11 August 1983 on the classification of goods falling within subheading 90.28 A II a) of the Common Customs Tariff </inglise>
+<eesti> KOMISJONI M&Auml;&Auml;RUS (EM&Uuml;) nr 2334/83 kaupade klassifitseerimise kohta &uuml;hise tollitariifistiku alamrubriiki 90.28 A II a 11. august 1983 </eesti>
+<inglise> THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> EUROOPA &Uuml;HENDUSTE KOMISJON, </eesti>
+<inglise> Having regard to the Treaty establishing the European Economic Community, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa Majandus&uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to Council Regulation (EEC) No 97/69 of 16 January 1969 on measures to be taken for uniform application of the Common Customs Tariff nomenclature (1), as last amended by the Act of Accession of Greece, and in particular Article 3 thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 16. jaanuari 1969. aasta m&auml;&auml;rust (EM&Uuml;) nr 97/69 &uuml;hise tollitariifistiku nomenklatuuri &uuml;htseks kohaldamiseks v&otilde;etavate meetmete kohta, (1) viimati muudetud Kreeka &uuml;hinemisaktiga, eriti selle artiklit 3, ning arvestades, et: </eesti>
+<inglise> Whereas, in order to ensure uniform application of the Common Customs Tariff nomenclature, provision must be made for the classification of electronic integrators which: </inglise>
+<eesti> tuleb vastu v&otilde;tta s&auml;tted, et tagada &uuml;hise tollitariifistiku nomenklatuuri &uuml;htne kohaldamine elektrooniliste integraatorite klassifitseerimisel, millega </eesti>
+<inglise> - with the aid of incorporated detectors and electronic counters, compare, with the data stored in the program, the results of analysis (detect and evaluate the peak heights and areas, determine the number of peaks and the extent of the peak areas) which they receive in the form of analogue electrical signals from external analyzers such as chromatographs or spectrometers, </inglise>
+<eesti> - nendesse paigaldatud detektorite ja elektrooniliste loendurite abil v&otilde;rreldakse programmis s&auml;ilitatavaid andmeid ja anal&uuml;&uuml;situlemusi (piikide k&otilde;rguste ja pindalade tuvastamine ja hindamine, piikide arvu ja piigipindalade ulatuse kindlaksm&auml;&auml;ramine), mida need seadmed saavad elektriliste analoogsignaalide kujul v&auml;lisanal&uuml;saatoritelt, nagu kromatograafidelt v&otilde;i spektromeetritelt, </eesti>
+<inglise> - process the findings of this comparison, converted into digital electrical signals, in incorporated microprocessors, </inglise>
+<eesti> - t&ouml;&ouml;tatakse &uuml;mber nimetatud v&otilde;rdluse tulemusi, mis seadmetesse paigaldatud mikroprotsessorite abil on muudetud elektrilisteks digitaalsignaalideks, </eesti>
+<inglise> - print out the results of analyses in the form of either a report or a graph, and </inglise>
+<eesti> - tr&uuml;kitakse anal&uuml;&uuml;situlemused kas aruande v&otilde;i graafikuna ja mis </eesti>
+<inglise> - consist essentially of the following parts: </inglise>
+<eesti> - koosnevad peamiselt j&auml;rgmistest osadest: </eesti>
+<inglise> 1. an alphanumeric keyboard for program and data input and intermediate result inquiry; </inglise>
+<eesti> 1. t&auml;htnumbriline klaviatuur programmi ja andmete sisestamiseks ning vahevaatluste tulemuste k&uuml;simiseks; </eesti>
+<inglise> 2. a keyboard for program input and apparatus operation; </inglise>
+<eesti> 2. klaviatuur programmi sisestamiseks ja seadmete t&ouml;&ouml; juhtimiseks; </eesti>
+<inglise> 3. an analogue-to-digital converter for conversion of analogue input signals into digital signals; </inglise>
+<eesti> 3. analoog-digitaalmuundur analoogsisendsignaalide digitaalsignaalideks muutmiseks; </eesti>
+<inglise> 4. electronic amplifiers (input amplifiers, logarithmic amplifiers, integrated amplifiers) for signal amplification; </inglise>
+<eesti> 4. elektroonilised v&otilde;imendid (sisendv&otilde;imendid, logaritmv&otilde;imendid, integraalv&otilde;imendid) signaali v&otilde;imendamiseks; </eesti>
+<inglise> 5. a unit for data and program storage; </inglise>
+<eesti> 5. andmete ja programmide salvesti; </eesti>
+<inglise> 6. electronic detectors for the ascertainment and evaluation of peak heights and areas; </inglise>
+<eesti> 6. elektroonilised detektorid piikide k&otilde;rguste ja pindalade kindlakstegemiseks ja hindamiseks; </eesti>
+<inglise> 7. electronic counters to determine the number of peaks and the extent of peak areas; </inglise>
+<eesti> 7. elektroonilised loendurid piikide arvu ja piigipindalade ulatuse kindlaksm&auml;&auml;ramiseks; </eesti>
+<inglise> 8. microprocessors to calculate the cardinal points (beginning of peak, end of peak and top of peak); </inglise>
+<eesti> 8. mikroprotsessorid kardinaalpunktide (piigi algus, l&otilde;pp ja tipp) arvutamiseks; </eesti>
+<inglise> 9. a power supply; and </inglise>
+<eesti> 9. toiteallikas; ning </eesti>
+<inglise> 10. a thermal printer and curve plotter for data output; </inglise>
+<eesti> 10. termoprinter ja k&otilde;veraplotter andmete v&auml;ljastamiseks; </eesti>
+<inglise> Whereas, the Common Customs Tariff annexed to Council Regulation (EEC) No 950/68 (2), as last amended by Regulation (EEC) No 3000/82 (3), includes under heading No 85.22 electrical appliances and apparatus, having individual functions, not falling within any other heading of Chapter 85, and under heading No 90.28 electrical measuring, checking, analyzing or automatically controlling instruments and apparatus; </inglise>
+<eesti> n&otilde;ukogu m&auml;&auml;rusele (EM&Uuml;) nr 950/68, (2) viimati muudetud m&auml;&auml;rusega (EM&Uuml;) nr 3000/82, (3) lisatud &uuml;hise tollitariifistiku rubriiki 85.22 kuuluvad eriotstarbelised elektrilised seadmed, mis ei kuulu grupi 85 &uuml;hegi teise rubriigi alla, ja rubriiki 90.28 elektrilised m&otilde;&otilde;te-, kontrolli-, anal&uuml;&uuml;si- v&otilde;i automaatkontrolliinstrumendid ja -aparaadid; </eesti>
+<inglise> Whereas these two headings must be taken into consideration in classifying the aformentioned instruments; </inglise>
+<eesti> eespool nimetatud instrumentide klassifitseerimisel tuleb arvesse v&otilde;tta kahte nimetatud rubriiki; </eesti>
+<inglise> Whereas pursuant to Note 5 (a) to Chapter 90, heading No 90.28 includes instruments or apparatus for measuring or checking electrical quantities; whereas the comparison of analytical results (converted to electrical quantities with pre-programmed data constitutes a measuring operation; </inglise>
+<eesti> grupi 90 m&auml;rkuse 5 punkti a kohaselt h&otilde;lmab rubriik 90.28 elektriliste suuruste m&otilde;&otilde;tmise ja kontrolli instrumente v&otilde;i aparaate; elektrilisteks suurusteks &uuml;mberarvestatud anal&uuml;&uuml;situlemuste v&otilde;rdlemine eelprogrammeeritud andmetega on m&otilde;&otilde;tmistoiming; </eesti>
+<inglise> Whereas Section XVI, which includes heading No 85.22, does cover articles falling within Chapter 90; </inglise>
+<eesti> XVI jaotis, millesse rubriik 85.22 kuulub, ei h&otilde;lma gruppi 90 kuuluvaid kaupu; </eesti>
+<inglise> Whereas the aforementioned electronic instruments cannot, therefore, fall within heading No 85.22, but must be classified under heading No 90.28 and, by virtue of Additional Note 2 to Chapter 90, under subheading 90.28 A II a); </inglise>
+<eesti> eespool nimetatud elektroonilised instrumendid ei saa seet&otilde;ttu kuuluda rubriiki 85.22, vaid tuleb klassifitseerida rubriiki 90.28 ning vastavalt grupi 90 t&auml;iendavale m&auml;rkusele 2 alamrubriiki 90.28 A II a; </eesti>
+<inglise> Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee on Common Customs Tariff Nomenclature, </inglise>
+<eesti> k&auml;esoleva m&auml;&auml;rusega etten&auml;htud meetmed on koosk&otilde;las &uuml;hise tollitariifistiku nomenklatuuri komitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS REGULATION: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA M&Auml;&Auml;RUSE. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> Electronic integrators which: </inglise>
+<eesti> Elektroonilised integraatorid, millega </eesti>
+<inglise> - with the aid of incorporated detectors and electronic counters, compare, with the data stored in the program, the results of analysis (detect and evaluate the peak heights and areas, determine the number of peaks and the extent of peak areas) which they receive in the form of analogue electrical signals from external analyzers such as chromatographs or spectrometers, - process the findings of the comparison, converted into digital electrical signals, in incorporated microprocessors, </inglise>
+<eesti> - nendesse paigaldatud detektorite ja elektrooniliste loendurite abil v&otilde;rreldakse programmis s&auml;ilitatavaid andmeid ja anal&uuml;&uuml;situlemusi (piikide k&otilde;rguste ja pindalade tuvastamine ja hindamine, piikide arvu ja piigipindalade ulatuse kindlaksm&auml;&auml;ramine), mida need seadmed saavad elektriliste analoogsignaalide kujul v&auml;lisanal&uuml;saatoritelt, nagu kromatograafidelt v&otilde;i spektromeetritelt, </eesti>
+<inglise> - print out the results of analyses in the form of either a report or graph, and - consist essentially of the following parts: </inglise>
+<eesti> - t&ouml;&ouml;tatakse &uuml;mber nimetatud v&otilde;rdluse tulemusi, mis seadmetesse paigaldatud mikroprotsessorite abil on muudetud elektrilisteks digitaalsignaalideks, </eesti>
+<inglise> 1. an alphanumeric keyboard for program and data input and intermediate result inquiry; </inglise>
+<eesti> - tr&uuml;kitakse anal&uuml;&uuml;situlemused kas aruande v&otilde;i graafikuna ja mis </eesti>
+<inglise> 2. a keyboard for program input and apparatus operation; </inglise>
+<eesti> - koosnevad peamiselt j&auml;rgmistest osadest: </eesti>
+<inglise> 3. an analogue-to-digital converter for the conversion of analogue input signals into digital signals; 4. electronic amplifiers (input amplifiers, logarithmic amplifiers, integrated amplifiers) for signal amplification; </inglise>
+<eesti> 1. t&auml;htnumbriline klaviatuur programmi ja andmete sisestamiseks ning vahevaatluste tulemuste k&uuml;simiseks; 2. klaviatuur programmi sisestamiseks ja seadmete t&ouml;&ouml; juhtimiseks; 3. analoog-digitaalmuundur analoogsisendsignaalide digitaalsignaalideks muutmiseks; 4. elektroonilised v&otilde;imendid (sisendv&otilde;imendid, logaritmv&otilde;imendid, integraalv&otilde;imendid) signaali v&otilde;imendamiseks; 5. andmete ja programmide salvesti; </eesti>
+<inglise> 5. a unit for data and program storage; 6. electronic detectors for the ascertainment and evaluation of peak heights and areas; </inglise>
+<eesti> 6. elektroonilised detektorid piikide k&otilde;rguste ja pindalade kindlakstegemiseks ja hindamiseks; </eesti>
+<inglise> 7. electronic counters to determine the number of peaks and the extent of peak areas; </inglise>
+<eesti> 7. elektroonilised loendurid piikide arvu ja piigipindalade ulatuse kindlaksm&auml;&auml;ramiseks; </eesti>
+<inglise> 8. microprocessors to calculate the cardinal points (beginning, end and top of peaks); </inglise>
+<eesti> 8. mikroprotsessorid kardinaalpunktide (piigi algus, l&otilde;pp ja tipp) arvutamiseks; </eesti>
+<inglise> 9. a power supply, and </inglise>
+<eesti> 9. toiteallikas ning </eesti>
+<inglise> 10. a thermal printer and curve plotter for data output; </inglise>
+<eesti> 10. termoprinter ja k&otilde;veraplotter andmete v&auml;ljastamiseks, </eesti>
+<inglise> shall be classified in the Common Customs Tariff under subheading: </inglise>
+<eesti> klassifitseeritakse &uuml;hise tollitariifistiku alamrubriiki: </eesti>
+<inglise> 90.28 Electrical measuring, checking, analyzing or automatically controlling instruments and apparatus: </inglise>
+<eesti> 90.28 Elektrilised m&otilde;&otilde;te-, kontrolli-, anal&uuml;&uuml;si- v&otilde;i automaatkontrolliinstrumendid ja -aparaadid: </eesti>
+<inglise> A. Electronic instruments and apparatus: </inglise>
+<eesti> A. Elektroonilised instrumendid ja aparaadid: </eesti>
+<inglise> II. </inglise>
+<eesti> II. </eesti>
+<inglise> Other: </inglise>
+<eesti> Muud: </eesti>
+<inglise> a) Telecommunications (cross-talk meters, gain measuring instruments, nepermeters, distortion factor meters, psophometers and the like); </inglise>
+<eesti> a) Sidevahendid (&uuml;lekoste m&otilde;&otilde;dikud, v&otilde;imenduse m&otilde;&otilde;teriistad, neepermeetrid, moonutusteguri m&otilde;&otilde;dikud, psofomeetrid ja muud samalaadsed); </eesti>
+<inglise> For measuring or detecting ionizing radiation; </inglise>
+<eesti> Ioniseeriva kiirguse m&otilde;&otilde;tmiseks v&otilde;i tuvastamiseks; </eesti>
+<inglise> Other measuring apparatus with self-balancing recording device; </inglise>
+<eesti> Muud isebalansseeriva salvestusseadisega m&otilde;&otilde;teaparaadid; </eesti>
+<inglise> Other apparatus for measuring electrical quantities. </inglise>
+<eesti> Muud elektriliste suuruste m&otilde;&otilde;tmise aparaadid. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev m&auml;&auml;rus j&otilde;ustub 21. p&auml;eval p&auml;rast selle avaldamist Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> This Regulation shall be binding in its entirety and directly applicable in all Member States. </inglise>
+<eesti> K&auml;esolev m&auml;&auml;rus on tervikuna siduv ja vahetult kohaldatav k&otilde;ikides liikmesriikides. </eesti>
+<inglise> Done at Brussels, 11 August 1983. </inglise>
+<eesti> Br&uuml;ssel, 11. august 1983 </eesti>
+<inglise> For the Commission &Eacute;tienne DAVIGNON Vice-President </inglise>
+<eesti> Komisjoni nimel asepresident &Eacute;tienne DAVIGNON </eesti>
+<inglise> (1) OJ No L 14, 21.1.1969, p. 1. </inglise>
+<eesti> (1) E&Uuml;T L 14, 21.01.1969, lk 1. </eesti>
+<inglise> (2) OJ No L 172, 22.7.1968, p. 1. </inglise>
+<eesti> (2) E&Uuml;T L 172, 22.07.1968, lk 1. </eesti>
+<inglise> (3) OJ No L 318, 15.11.1982, p. 1. </inglise>
+<eesti> (3) E&Uuml;T L 318, 15.11.1982, lk 1. </eesti>
+ 

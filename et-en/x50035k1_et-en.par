@@ -1,0 +1,582 @@
+<eesti>P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika (1) </eesti>
+<inglise>Cost Accounting Methodology for Leased Line and Interconnection Service Charges (1) </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;rus nr 397 </eesti>
+<inglise>Regulation No. 397 of the Government of the Republic of 4 December 2000 </inglise>
+<eesti>(RT I 2000, 94, 605), </eesti>
+<inglise>(RT (3) I 2000, 94, 605), </inglise>
+<eesti>j&otilde;ustunud 15. detsembril 2000. a., </eesti>
+<inglise>entered into force 15 December 2000, </inglise>
+<eesti>muudetud j&auml;rgmiste m&auml;&auml;rustega: </eesti>
+<inglise>amended by the following Regulations: </inglise>
+<eesti>18.12.2001 j&otilde;ust.24.12.2001 - RT I 2001, 99, 637; </eesti>
+<inglise>18.12.2001 entered into force 24.12.2001 - RT I 2001, 99, 637; </inglise>
+<eesti>03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200. </eesti>
+<inglise>03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200. </inglise>
+<eesti>M&auml;&auml;rus kehtestatakse "Telekommunikatsiooniseaduse" (RT I 2000, 18, 116; 78, 495) &sect; 51 l&otilde;ike 7 alusel. </eesti>
+<inglise>The Regulation is established pursuant to subsection 51 (7) of the Telecommunications Act (RT I 2000, 18, 116; 78, 495). </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>&Uuml;ldosa </eesti>
+<inglise>General </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>M&auml;&auml;ruse reguleerimisala </eesti>
+<inglise>Scope of application of Regulation </inglise>
+<eesti>(1) M&auml;&auml;rusega kehtestatakse p&uuml;siliini- v&otilde;i sidumisteenuse turul olulise turuj&otilde;uga &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori poolt rakendatavate p&uuml;siliini- v&otilde;i sidumisteenuse tasude arvestamise metoodika. </eesti>
+<inglise>(1) This Regulation establishes the cost accounting methodology of leased line and interconnection service charges used by public telecommunications network operators with significant market power in the leased line or interconnection services market. </inglise>
+<eesti>(2) M&auml;&auml;rus rakendub p&uuml;siliini- v&otilde;i sidumisteenuste turul "Telekommunikatsiooniseaduse" &sect; 8 kohaselt Sideameti poolt olulise turuj&otilde;uga ettev&otilde;tjaks tunnistatud &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori (edaspidi OTE) suhtes. </eesti>
+<inglise>(2) This Regulation applies to public telecommunications network operators who have been declared as undertakings with significant market power by the Communications Board pursuant to &sect; 8 of the Telecommunications Act in the leased line or interconnection services market. </inglise>
+<eesti>(3) OTE p&uuml;siliini- ja sidumisteenuse tasude arvestuse metoodika baseerub Euroopa Komisjoni soovituste (2) p&otilde;him&otilde;tetel, mis tagavad p&uuml;siliini- ja sidumisteenuse tasude l&auml;bipaistvuse ja kulup&otilde;hisuse. </eesti>
+<inglise>(3) Cost accounting methodology for leased line and interconnection charges of the undertaking with significant market power is based on the principles recommended by the European Commission (2) the purpose of which is to ensure the transparency and cost-orientation of the charges of the leased line and interconnection service. </inglise>
+<eesti>(4) OTE peab t&otilde;estama, et tema poolt rakendatud p&uuml;siliini- ja sidumisteenuse tasud on arvestatud objektiivsete kriteeriumide alusel ning on l&auml;bipaistvad ja kulup&otilde;hised. </eesti>
+<inglise>(4) An undertaking with significant market power is required to prove that the charges established by the undertaking for leased line and interconnection services are based on objective criteria and respect the principles of transparency and cost orientation. </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>M&otilde;isted </eesti>
+<inglise>Definitions </inglise>
+<eesti>(1) Sidumisteenus k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on telekommunikatsiooniteenus, mis seisneb kahe telekommunikatsiooniv&otilde;rgu vastastikuses sidumises ja nende v&otilde;rkude vahel signaalide suunamises, kommuteerimises v&otilde;i edastamises. </eesti>
+<inglise>(1) For the purposes of this Regulation, an interconnection service is a telecommunication service which consists of interconnection of two telecommunications networks and the routing, switching or transmission of signals between such telecommunications networks. </inglise>
+<eesti>(2) Sidumispunkt k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on telekommunikatsiooniv&otilde;rgu f&uuml;&uuml;siline punkt, mille kaudu toimub sidumine ning tagatakse telekommunikatsiooniv&otilde;rkude ja osutatavate telekommunikatsiooniteenuste koostalitusv&otilde;ime. </eesti>
+<inglise>(2) For the purposes of this Regulation, an interconnection point is a physical point of a telecommunications network used for interconnection and which ensures interoperability of telecommunications networks and provided telecommunications services. </inglise>
+<eesti>(3) Sidumisliin k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on sidumiseks kasutatav p&uuml;siliin, mis l&auml;bib sidumispunkti. </eesti>
+<inglise>(3) For the purposes of this Regulation, interconnection line is a leased line which passes through the interconnection point. </inglise>
+<eesti>(4) Ajalooline kuluarvestus (historic cost accounting) on kuluarvestusbaas, mille puhul koostatakse finantsaruandeid, l&auml;htudes varade v&auml;&auml;rtusest, mis neil oli soetusmomendil ja mida on amortiseeritud minevikus m&auml;&auml;ratletud amortisatsiooninormide alusel. </eesti>
+<inglise>(4) Historic cost accounting is the cost accounting base used in preparation of financial accounts that takes into account the acquisition value of the assets which is depreciated on the basis of the depreciation rates determined in the past. </inglise>
+<eesti>(5) &Auml;rivaldkonnad k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on &uuml;lekandev&otilde;rgu&auml;ri, juurdep&auml;&auml;suv&otilde;rgu&auml;ri, teenuste osutamine tarbijale (edaspidi jaem&uuml;&uuml;k) ja muud tegevused. </eesti>
+<inglise>(5) For the purposes of this Regulation, business lines include core network, local access network, provision of services to the subscribers (hereinafter retail) and other activities. </inglise>
+<eesti>(6) Eraldiseisev kulu (stand alone cost) m&otilde;&otilde;dab kulusid &uuml;he toote v&otilde;i teenuse osutamiseks, eraldatuna &uuml;lej&auml;&auml;nud &auml;ritegevusest. </eesti>
+<inglise>(6) Stand alone cost measures the costs incurred in the provision of a product or service separately from the rest of the business. </inglise>
+<eesti>See t&auml;hendab, et k&otilde;ik kulud omistatakse &uuml;hele teenusele ja muid teenuseid ei eksisteeri. </eesti>
+<inglise>This means that all costs are allocated to one service and there are no other services. </inglise>
+<eesti>(7) &Uuml;ldkulud (common fixed costs) on kulud, mis on seotud k&otilde;igi teenuste tootmisega ega ole otseselt jagatavad konkreetsele tootele v&otilde;i teenusele. </eesti>
+<inglise>(7) Common fixed costs are costs which are associated with the provision of all services and are undistributable to one single product or service. </inglise>
+<eesti>(8) Omistatavad p&uuml;sikulud (shared fixed costs) on p&uuml;sikulud, mis on seotud mingi teenustegrupiga. </eesti>
+<inglise>(8) Shared fixed costs are fixed costs which are associated with a certain service group. </inglise>
+<eesti>Need sisaldavad enam kui &uuml;he teenuse osutamisega seotud kulusid, kuid pole &uuml;hised k&otilde;igile teenustele. </eesti>
+<inglise>These contain the costs of more than one provided service, but are not common to all services. </inglise>
+<eesti>(9) Transferthind (transfer price) ehk &uuml;lekandmishind on arvestuslik hind teenuse osutamise eest ettev&otilde;ttesiseselt &uuml;helt majandus&uuml;ksuselt teisele majandus&uuml;ksusele. </eesti>
+<inglise>(9) Transfer price is an accounting price for providing a service within an undertaking by one economic unit to another economic unit. </inglise>
+<eesti>(10) Juurdep&auml;&auml;suv&otilde;rk on telekommunikatsiooniv&otilde;rgu osa l&otilde;pp-punkti ja sellele l&auml;hima telefonijaama vahel. </eesti>
+<inglise>(10) Local access network means the part of a telecommunications network between a termination point and the closest exchange. </inglise>
+<eesti>Juurdep&auml;&auml;suv&otilde;rk algab l&otilde;pp-punktis oleva jaotusraami tarbijapoolsetelt klemmidelt ja l&otilde;peb tarbijaliidese v&auml;ljundklemmidel. </eesti>
+<inglise>Local access network starts at the subscriber's distribution frame of the terminal point and ends at the output of the subscriber's interface. </inglise>
+<eesti>K&auml;esolevas l&otilde;igus nimetatud jaotusraam ja tarbijaliides on defineeritud "Telekommunikatsiooniseaduse" &sect; 4 l&otilde;ike 5 ja &sect; 7 l&otilde;ike 2 alusel kehtestatud m&auml;&auml;rustes. </eesti>
+<inglise>The distribution frame and subscriber interface specified in this subsection are defined in Regulations established on the basis of subsection 4 (5) and subsection 7 (2) of the Telecommunications Act. </inglise>
+<eesti>(11) Kuluarvestus jooksevhindades (current cost accounting - CCA) on kuluarvestusbaas, kus varasid hinnatakse ja amortiseeritakse, l&auml;htudes nende t&auml;nasest asendusv&auml;&auml;rtusest. </eesti>
+<inglise>(11) Current cost accounting (CCA) is a cost base where assets are valued and depreciated on the basis their current replacement value. </inglise>
+<eesti>Arvestusaluse vara hinnaks loetakse kaasaegse samav&auml;&auml;rse vara hind. </eesti>
+<inglise>The modern equivalent asset value is the value of another asset with the same efficiency. </inglise>
+<eesti>(12) Telekommunikatsiooniv&otilde;rgu s&otilde;lmed k&auml;esoleva m&auml;&auml;ruse t&auml;henduses on telefonijaamad ja olemasolu korral telefonijaamade f&uuml;&uuml;siliselt eraldiseisvad osad. </eesti>
+<inglise>(12) For the purposes of this Regulation, telecommunications network nodes are exchanges and physically separate parts of exchanges, if any. </inglise>
+<eesti>(13) "K&otilde;rbenud" maa meetod (scorched earth assumption) on modelleerimise meetod, kus modelleeritakse t&auml;ielikult uus ja optimaalne telekommunikatsiooniv&otilde;rk, kaasa arvatud k&otilde;ik s&otilde;lmed. </eesti>
+<inglise>(13) Scorched earth assumption is a modelling method where a completely new and optimal telecommunication network model is designed, including all nodes. </inglise>
+<eesti>(14) "K&otilde;rbenud" s&otilde;lme meetod (scorched node assumption) on modelleerimise meetod, mis eeldab optimaalsete tehnoloogiate kasutamist telekommunikatsiooniv&otilde;rgu s&otilde;lmedes nii, et s&auml;ilitatakse olemasolev tehnoloogia funktsionaalne tase telekommunikatsiooniv&otilde;rgu erinevates s&otilde;lmedes ja nende s&otilde;lmede omavahelised &uuml;hendused. </eesti>
+<inglise>(14) Scorched node assumption is a modelling method which presumes the use of optimal technologies in telecommunications network nodes in order to retain the existing functional level of the technology in different telecommunications network nodes and the interconnections between such nodes. </inglise>
+<eesti>Selle meetodi puhul toimub ka m&otilde;nede telekommunikatsiooniv&otilde;rgu s&otilde;lmede funktsioonide muutmine. </eesti>
+<inglise>In this method, some of the functions of the telecommunications network nodes are also modified. </inglise>
+<eesti>(15) Kogu teenuse tulevane pikaajaline lisanduv kulu (total service long run incremental cost) on sama mis tulevane pikaajaline keskmine lisanduv kulu. </eesti>
+<inglise>(15) Total service long run incremental cost is the same as average long run incremental cost. </inglise>
+<eesti>(16) L&uuml;hiajaline periood (short run) on periood, mille jooksul v&auml;hemalt &uuml;he sisendfaktori vajadus pole muudetav ning see tuleneb asjaolust, et k&otilde;ik investeerimisotsused ei ole l&uuml;hikeses perioodis muudetavad. </eesti>
+<inglise>(16) Short run is a period in which the need of at least one input factor is not modified, which results from the fact that all investment decisions are not adaptable in the short run. </inglise>
+<eesti>(17) Pikk periood (long run) on piisav ajaperiood, mille jooksul k&otilde;ik tootmisfaktorid, sh kapital, on muudetavad. </eesti>
+<inglise>(17) Long run is a sufficient period in which all production factors, including the capital, are adaptable. </inglise>
+<eesti>Pika perioodi pikkus on v&auml;hemalt &uuml;ks aasta. </eesti>
+<inglise>The minimum length of the long run is one year. </inglise>
+<eesti>(18) Lisanduvad kulud (incremental costs) on kulud, mis kasvavad seoses toodangumahu kasvuga. </eesti>
+<inglise>(18) Incremental costs are costs which increase as a result of increase in production volume. </inglise>
+<eesti>(19) Mastaabis&auml;&auml;st (economies of scale) on majanduslik efekt, mis v&auml;ljendub toodangu&uuml;hiku keskmise kulu v&auml;henemises toodangumahu suurenedes. </eesti>
+<inglise>(19) Economies of scale is an economic effect in which the average cost per unit declines when the production volume increases. </inglise>
+<eesti>(20) Modifitseeritud "k&otilde;rbenud" s&otilde;lme meetod (modified scorched node assumption) on modelleerimise meetod, mis eeldab, et olemasolevaid telekommunikatsiooniv&otilde;rgu s&otilde;lmesid v&otilde;etakse kui statsionaarseid ning uuendatakse seadmeid nendes s&otilde;lmedes. </eesti>
+<inglise>(20) Modified scorch node assumption is a modelling method which presumes that the existing telecommunications network nodes are taken as being stationary and equipment in the nodes is being updated. </inglise>
+<eesti>Seejuures ei muudeta telekommunikatsiooniv&otilde;rgu s&otilde;lmede funktsioone. </eesti>
+<inglise>The functions of the telecommunications network nodes are not modified. </inglise>
+<eesti>(21) Pikaajalised keskmised lisanduvad kulud (edaspidi LRAIC) (long run average incremental costs) on sisuliselt LRIC, kui lisanduvust (increment) defineerida teenuse kogumahtu arvestades. </eesti>
+<inglise>(21) Long run average incremental costs (hereinafter LRAIC) is principally the same as LRIC if increment is defined with regard to the total volume of the service. </inglise>
+<eesti>(22) Piirkulu (marginal cost) on kulu, mis lisandub &uuml;he t&auml;iendava &uuml;hiku tootmisel. </eesti>
+<inglise>(22) Marginal cost is the cost incurred in the production of an additional unit. </inglise>
+<eesti>(23) Pikaajalised lisanduvad kulud (long run incremental costs - LRIC) on kulud, mis lisanduvad pikaajalises perioodis t&auml;nu toodete v&otilde;i teenuste mahu kasvule. </eesti>
+<inglise>(23) Long run incremental costs (LRIC) are costs which accrue in the long run due to the increase in the volume of products or services. </inglise>
+<eesti>(24) Teenuse-spetsiifilised p&uuml;sikulud (service-specific fixed costs) on p&uuml;sikulud, mis seostuvad kindla teenusega. </eesti>
+<inglise>(24) Service specific fixed costs are fixed costs which are connected with a certain service. </inglise>
+<eesti>(25) T&auml;ielikult jaotatavate kulude (fully allocated costs) puhul jaotatakse kulud t&auml;ielikult k&otilde;igi teenuste v&otilde;i toodete vahel vastavalt nende osakaalule teenuses v&otilde;i tootes. </eesti>
+<inglise>(25) Fully allocated costs means that costs are fully allocated between all services or products on the basis of their share in the service or product. </inglise>
+<eesti>(26) &Uuml;hiskulud (joint costs) on kulud, mida ei omistata &uuml;ksikule teenusele, vaid kahele v&otilde;i enamale teenusele. </eesti>
+<inglise>(26) Joint costs are costs which are not allocated to a single service, but are allocated to two or more services. </inglise>
+<eesti>(27) V&otilde;rguseadmed on telekommunikatsiooniv&otilde;rgu osad: &uuml;lekandes&uuml;steem koos selle juurde kuuluvate l&uuml;litusseadmetega, muud abis&uuml;steemid ja rajatised, mis v&otilde;imaldavad telekommunikatsiooniv&otilde;rgu kindlaksm&auml;&auml;ratud l&otilde;pp-punktide ja sidumispunktide vahel elektriliste v&otilde;i elektromagnetiliste signaalide edastamist kaabli kaudu, raadio, optiliste v&otilde;i muude vahenditega. </eesti>
+<inglise>(27) Network components mean parts of the telecommunications network: transmission system including switching equipment and other support systems and facilities which enable the transmission of electrical or electromagnetic signals between the defined network termination points or interconnection points by way of a cable, by radio, optical or other means. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>P&uuml;siliini- ja sidumisteenuse tasude esitus </eesti>
+<inglise>Presentation of Leased Line and Interconnection Service Charges </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Signaalide edastus </eesti>
+<inglise>Transmission of signals </inglise>
+<eesti>Signaalide edastuse teenused jagunevad: </eesti>
+<inglise>The services related to the transmission of signals are divided as follows: </inglise>
+<eesti>1) signaali algatamine (call origination) - sidumisteenus, mis seisneb signaali edastamises telekommunikatsiooniv&otilde;rgu l&otilde;pp-punktist sidumispunkti; </eesti>
+<inglise>1) call origination is an interconnection service which means transmission of signals from the telecommunications network terminal point to the interconnection point; </inglise>
+<eesti>2) signaali l&otilde;petamine (call termination) - sidumisteenus, mis seisneb signaali edastamises sidumispunktist telekommunikatsiooniv&otilde;rgu l&otilde;pp-punkti; </eesti>
+<inglise>2) call termination is an interconnection service which means transmission of signals from the interconnection point to the telecommunications network terminal point; </inglise>
+<eesti>3) transiit - sidumisteenus, mis seisneb signaali edastamises kahe sidumispunkti vahel. </eesti>
+<inglise>3) call transit is an interconnection service which means transmission of signals between two interconnection points. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Sidumise ja sidumisteenuste tasud </eesti>
+<inglise>Charges for interconnection and interconnection services </inglise>
+<eesti>Sidumise ja sidumisteenuse tasud on: </eesti>
+<inglise>Charges for interconnection and interconnection services are: </inglise>
+<eesti>1) telekommunikatsiooniv&otilde;rkude vastastikuse sidumise kulu kattev &uuml;hekordne tasu; </eesti>
+<inglise>1) single charge which covers the costs of interconnecting telecommunications networks; </inglise>
+<eesti>2) seotud telekommunikatsiooniv&otilde;rkude vahel liikluse vastastikuse suunamise, kommuteerimise ja signaalide edastamise tasu, mis jaguneb signaalide algatamise, signaalide l&otilde;petamise ja signaalide transiidi tasudeks; </eesti>
+<inglise>2) charges relating to the mutual routing of traffic, switching, and transmission of signals between interconnected telecommunications networks which is divided into call origination charge, call termination charge and call transit charge; </inglise>
+<eesti>3) tasu telekommunikatsiooniv&otilde;rgu seadmete, hoonete ja rajatiste ning liinirajatiste rendi eest, kui sidumislepingu osapooled ei ole kokku leppinud teisiti; </eesti>
+<inglise>3) charge for the rental of telecommunications network equipment, buildings and facilities and line facilities unless parties to the interconnection agreement have agreed otherwise; </inglise>
+<eesti>4) muud tasud osutatavate lisateenuste eest. </eesti>
+<inglise>4) other charges for extra services provided. </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Sidumine ja sidumisteenuste tasude esitus </eesti>
+<inglise>Presentation of charges for interconnection and interconnection services </inglise>
+<eesti>(1) Sidumisteenuste tasud peavad olema esitatud edastatava signaali kestust v&otilde;i mahtu v&auml;ljendava arveldus&uuml;hiku kohta "Telekommunikatsiooniseaduse" &sect; 39 (1) l&otilde;igetes 6, 7 ja 8 nimetatud telekommunikatsiooniv&otilde;rgu tasandite l&otilde;ikes, kus sidumine on teostatud (edaspidi sidumise tasand). </eesti>
+<inglise>(1) Interconnection charges must be presented for the telecommunications network levels specified in subsections 39 (1) (6), (7) and (8) of the Telecommunications Act where the interconnection is carried out (hereinafter interconnection level), using an accounting unit which expresses the length and volume of the transmitted signal. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>(2) (Kehtetu - 03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(2) (Repealed - 03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>(3) (Kehtetu - 03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(3) (Repealed - 03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>(4) K&auml;esoleva &sect; l&otilde;ikes 1 nimetatud sidumisteenuste tasud peab OTE esitama oma telekommunikatsiooniteenuste kasutajatele kehtestatud normaalaja ja soodusaja erinevuse l&otilde;ikes. </eesti>
+<inglise>(4) The interconnection service charges specified in subsection (1) of this section must be presented by the undertaking with significant market power with reference to differences in normal rate and favourable rates established for the subscribers of the operator's telecommunications services. </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>T&auml;iendavad n&otilde;uded sidumisele ja sidumisteenuse tasudele </eesti>
+<inglise>Additional requirements for interconnection and interconnection service charges </inglise>
+<eesti>(1) Sidumisteenuse tasu ei tohi s&otilde;ltuda sidumispunkti l&auml;biva s&otilde;numi sisust. </eesti>
+<inglise>(1) The interconnection charge must not depend on the content of the message passing the interconnection point. </inglise>
+<eesti>(2) K&otilde;ne alustamise lisanduvate kuludega seotud sidumisteenuse tasu osa v&otilde;ib olulise turuj&otilde;uga &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori sidumisteenuse tasudes sisalduda ainult Sideameti kirjalikul n&otilde;usolekul, kui selleks on eelnevalt Sideametile esitatud vastav p&otilde;hjendatud taotlus. </eesti>
+<inglise>(2) The interconnection service charges of the public telecommunications network operator with significant market power may contain call set up charge only at the written consent of the Communications Board, and a corresponding reasoned application must be submitted to the Communications Board in advance. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>(3) Sidumisteenuse tasude arvestamisel tuleb kulukomponentidena arvestada prognoositavaid optimaalseid t&auml;iendavaid kulusid ja investeeringuid (sh kapitalikulu), mida tuleks teha, et sidumise t&otilde;ttu tekkivat t&auml;iendavat liiklust edastada. </eesti>
+<inglise>(3) In calculating interconnection charges, forecast optimal additional costs and investments (including capital cost) necessary for transmitting additional traffic resulting from interconnection must be taken into account as cost components. </inglise>
+<eesti>(4) Sidumisteenuse tasud ei v&otilde;i sisaldada: </eesti>
+<inglise>(4) Interconnection service charges may not contain: </inglise>
+<eesti>1) kulukomponenti, mis ei ole seotud sidumisteenusega, vaid on seotud olulise turuj&otilde;uga ettev&otilde;tte enda klientide teenindamisega; </eesti>
+<inglise>1) cost component which is not related to the interconnection service but is related to the servicing of the clients by the undertaking with significant market power; </inglise>
+<eesti>2) juurdep&auml;&auml;suv&otilde;rguga seotud kulukomponente; </eesti>
+<inglise>2) cost components which are related to the local access network; </inglise>
+<eesti>3) universaalteenuse osutamisega seotud kulusid; </eesti>
+<inglise>3) costs related to the provision of the universal service; </inglise>
+<eesti>4) sidumisteenuse osas kulusid olulise turuj&otilde;uga ettev&otilde;tte telekommunikatsiooniv&otilde;rgus katkenud k&otilde;nede eest; </eesti>
+<inglise>4) for interconnection service, costs for calls disrupted in the telecommunications network of the undertaking with significant market power; </inglise>
+<eesti>5) muid antud teenusega mitteseotud kulukomponente. </eesti>
+<inglise>5) other cost components not related to the relevant service. </inglise>
+<eesti>(5) Olulise turuj&otilde;uga ettev&otilde;tjast &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaator on kohustatud k&otilde;igile seotavatele pakkuma sidumisteenust &uuml;hesuguse arveldusperioodiga, tasum&auml;&auml;raga ja tasumise t&auml;htajaga. </eesti>
+<inglise>(5) The public telecommunications network operator with significant market power shall provide the interconnection service for all interconnected telecommunications networks for the same charge rate and with the same calculation period and period of payment. </inglise>
+<eesti>(6) Sidumisliini v&auml;ljaehitamise kulud olulise turuj&otilde;uga ettev&otilde;tjaga sidumisel tasuvad seotavad telekommunikatsiooniv&otilde;rgud v&otilde;rdeliselt sidumisliini l&auml;biva liikluse mahuga kolme aasta jooksul, arvates telekommunikatsiooniv&otilde;rkude tegelikust sidumisest, kui ei ole kokku lepitud teisiti. </eesti>
+<inglise>(6) The cost of constructing an interconnection line for interconnection to an operator with significant market power shall be paid by the interconnected telecommunications networks in proportion to the volume of traffic in the interconnection line within three years after the actual interconnection of the telecommunications networks, unless agreed otherwise. </inglise>
+<eesti>(7) Sidumisliini opereerimise kulud kaetakse osapoolte vahel v&otilde;rdeliselt liiklusele sidumisliinis. </eesti>
+<inglise>(7) The operating cost of an interconnection line shall be borne by the parties in proportion to the traffic in the interconnection line. </inglise>
+<eesti>(8) Olulise turuj&otilde;uga ettev&otilde;tja kohalikus tariifipiirkonnas &uuml;ldkasutatava telekommunikatsiooniteenuse osutamise tasum&auml;&auml;ra v&otilde;rgu opereerimisega seotud kulukomponent ei tohi olla suurem kui kohalikul tasandil seotud telekommunikatsiooniv&otilde;rgu operaatorilt k&otilde;ne algatamise ja l&otilde;petamise teenuse eest kokku v&otilde;etav tasum&auml;&auml;r. </eesti>
+<inglise>(8) The cost component of the charges for the public telecommunications service of the undertaking with significant market power in the local call rate area related to operating the network shall not be bigger than the total charge payable by the telecommunications operator interconnected at the local level for the call origination and call termination service together. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>P&uuml;siliiniteenuse tasude esitus </eesti>
+<inglise>Presentation of leased line service charges </inglise>
+<eesti>(1) P&uuml;siliiniteenuse tasud peavad olema esitatud kasutaja poolt tellitud sidekanali mahu ning p&uuml;siliini pikkuse l&otilde;ikes. </eesti>
+<inglise>(1) Leased line service charges must be presented with reference to the volume of the communication channel ordered by the user and the length of the leased line. </inglise>
+<eesti>(2) P&uuml;siliiniteenuse tasum&auml;&auml;r v&otilde;ib koosneda &uuml;hekordsest tasust, mis katab p&uuml;siliini loomisega seotud &uuml;hekordsed kulutused, ning perioodilisest tasust, mis katab p&uuml;siliini opereerimisega seotud kulutused. </eesti>
+<inglise>(2) Leased line charge rate may consist of a single charge to cover the costs of constructing a leased line and periodical charges which cover the costs of operating the leased line. </inglise>
+<eesti>(3) P&uuml;siliiniteenuse tasudes ei tohi arvestada selle teenusega mitteseotud kulukomponente. </eesti>
+<inglise>(3) Leased line service charges must not contain other cost components not related to the relevant service. </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Teenuse hindade avaldamine </eesti>
+<inglise>Publication of service charges </inglise>
+<eesti>(1) OTE poolt kehtestatud sidumisteenuse tasud avaldatakse n&auml;idissidumislepingus, mis on k&auml;ttesaadav k&otilde;igile huvitatud isikutele. </eesti>
+<inglise>(1) The charges established by an undertaking with significant market power for interconnection services shall be published in the reference interconnection offer (RIO) which is available for all interested parties. </inglise>
+<eesti>(2) OTE poolt kehtestatud p&uuml;siliinitasud avaldatakse "Telekommunikatsiooniseaduse" &sect; 33 l&otilde;ike 3 kohaselt. </eesti>
+<inglise>(2) The charges established by an undertaking with significant market power shall be published in accordance with subsection 33 (3) of the Telecommunications Act. </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Kuluaruannete lahusus </eesti>
+<inglise>Separation of cost accounting </inglise>
+<eesti>(1) Kuluaruannete lahususe eesm&auml;rk on tasude kulup&otilde;hisuse, l&auml;bipaistvuse ja nende mittediskrimineeriva iseloomu tagamine. </eesti>
+<inglise>(1) The purpose of accounting separation is to make charges cost oriented, transparent and to guarantee their non-discriminatory nature. </inglise>
+<eesti>Informatsiooni piisav k&auml;ttesaadavus peab tagama teistele operaatoritele kindlustunde, et sidumisteenuse tasud on kulup&otilde;hised ega sisalda OTE telekommunikatsiooniv&otilde;rgu kulude ala- ega &uuml;lekaetust. </eesti>
+<inglise>The accessibility of information must ensure that other operators may rely on the fact that interconnection charges are cost oriented and do not include negative or positive coverage of the telecommunications network costs of the undertaking with significant market power. </inglise>
+<eesti>(2) OTE peab jagama oma p&otilde;hilised tegevusalad j&auml;rgmisteks tegevusvaldkondadeks: &uuml;lekandev&otilde;rguks, juurdep&auml;&auml;suv&otilde;rguks, jaem&uuml;&uuml;giks ja muudeks tegevusteks. </eesti>
+<inglise>(2) An undertaking with significant market power shall divide its main business into the following business lines: core network, local access network, retail and other activities. </inglise>
+<eesti>Toodud jaotuse t&auml;psem selgitus on esitatud "Telekommunikatsiooniseaduse" &sect; 53 l&otilde;ike 6 alusel Vabariigi Valitsuse kehtestatud telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodikas. </eesti>
+<inglise>A more detailed description of the division is provided in the methodology for cost accounting and cost allocation by telecommunications network operators established on the basis of subsection 53 (6) of the Telecommunications Act. </inglise>
+<eesti>Vajaduse korral v&otilde;ib OTE toodud jaotust detailiseerida. </eesti>
+<inglise>If necessary, the undertaking with significant market power may use a more detailed division. </inglise>
+<eesti>(3) OTE peab koostama ka aruanded, mis arvestavad k&auml;esoleva paragrahvi l&otilde;ikes 2 nimetatud erinevate tegevusvaldkondade omavahelisi seoseid ja on selguse tagamiseks n&otilde;utavad Sideameti poolt. </eesti>
+<inglise>(3) A public telecommunications network operator with significant market power shall prepare reports which take into account the links between various business lines specified in subsection (2) of this section and are required by the Communications Board for reasons of clarity. </inglise>
+<eesti>Nimetatud aruannetele esitatavad n&otilde;uded on toodud "Telekommunikatsiooniseaduse" &sect; 50 l&otilde;ike 4 alusel kehtestatud m&auml;&auml;ruses. </eesti>
+<inglise>The requirements for such accounts are provided for in the Regulation established on the basis of subsection 50 (4) of the Telecommunications Act. </inglise>
+<eesti>(4) Tegevuste lahususe p&otilde;him&otilde;ttest l&auml;htuv lisanduvate kulude teoreetiline kontseptsioon on toodud k&auml;esoleva m&auml;&auml;ruse lisas 1. </eesti>
+<inglise>(4) The theoretical concept of incremental costs resulting from the principle of accounting separation is set out in Annex 1 of this Regulation. </inglise>
+<eesti>3. peat&uuml;kk </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>Transferthindade esitamine kuluaruannetes </eesti>
+<inglise>Presentation of transfer prices in accounts </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Transferthindade kujundamise p&otilde;him&otilde;tted </eesti>
+<inglise>Principles of transfer price formation </inglise>
+<eesti>(1) Transferthindade s&uuml;steemi rakendatakse hinnakujunduseks toodete ja teenuste osutamisel peamiste tegevusvaldkondade ja seotud tegevusvaldkondade vahel. </eesti>
+<inglise>(1) The system of transfer prices is applied in price formation for products and services provided between the principal businesses and associated businesses. </inglise>
+<eesti>OTE &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori transferthindade aruannete s&uuml;steemi kujundamisel tuleb j&auml;lgida m&auml;&auml;ruse lisas 2 toodud n&otilde;udeid. </eesti>
+<inglise>In the formation of the accounting system of transfer prices of the public telecommunications network operator with significant market power, the requirements specified in Annex 2 of this Regulation must be adhered to. </inglise>
+<eesti>(2) OTE &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori transferthindade s&uuml;steem peab vastama j&auml;rgmistele p&otilde;him&otilde;tetele: </eesti>
+<inglise>(2) The system of transfer prices of a public telecommunications network operator with significant market power shall be in conformity with the following principles: </inglise>
+<eesti>1) transferthinnad, mis on kajastatud tehtud kuluna v&otilde;i saadud tuluna, tuleb omistada kulukandjatele koosk&otilde;las tegevustega, mis p&otilde;hjustasid tulu teenimise v&otilde;i kulu tekkimise; </eesti>
+<inglise>1) transfer prices which are stated as incurred cost or received revenue must be allocated to drivers associated with activities that caused the earned revenue or incurred costs; </inglise>
+<eesti>2) tulude ja kulude omistamine peab olema objektiivne ega tohi olla m&auml;&auml;ratud mingi konkreetse &auml;ritegevuse v&otilde;i seotud tegevuse kasusaamise eesm&auml;rgist l&auml;htuvalt; </eesti>
+<inglise>2) the allocation of costs and revenue must be objective and must not be determined by the intention to profit from a specific business or associated activity; </inglise>
+<eesti>3) transferthindade kujundamisel tuleb j&auml;lgida j&auml;rjepidevuse p&otilde;him&otilde;tet; </eesti>
+<inglise>3) in formation of transfer prices, the principle of continuity must be observed; </inglise>
+<eesti>4) transferthindade kujundamise meetodid peavad olema selgelt m&otilde;istetavad, kajastamaks nende kulup&otilde;hisuse n&otilde;ude t&auml;itmist; </eesti>
+<inglise>4) the methods of forming transfer prices must be clear in order to ensure that the requirement of cost-based is observed; </inglise>
+<eesti>5) enda tarbeks osutatavate teenuste transferthinnad peavad olema sama suured kui nende samade teenuste eest teiselt operaatorilt v&otilde;i teenuse osutajalt v&otilde;etav tasum&auml;&auml;r. </eesti>
+<inglise>5) the transfer prices of services provided for own use must be of the same size as the rate charged from another operator or service provider for the same services. </inglise>
+<eesti>(03.04.2001 j&otilde;ust.08.04.2001 - RT I 2001, 35, 200) </eesti>
+<inglise>(03.04.2001 entered into force 08.04.2001 - RT I 2001, 35, 200) </inglise>
+<eesti>(3) Konkurentsi tingimustes peab aruannetes kajastuv transferthind v&otilde;rduma turuhinnaga. </eesti>
+<inglise>(3) The transfer price stated in accounts must be equal to the market price under competitive conditions. </inglise>
+<eesti>Turuhindade ebaobjektiivsuse korral tuleb OTE &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatoril kehtestada transferthinnad t&auml;iskulude baasil. </eesti>
+<inglise>If the market prices are not objective, the public telecommunications network operator with significant market power shall establish transfer prices on the basis of total costs. </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>L&auml;henemised LRAIC metoodika kehtestamiseks </eesti>
+<inglise>Approaches to Application of LRAIC Methodology </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>LRAIC p&otilde;him&otilde;tted </eesti>
+<inglise>LRAIC principles </inglise>
+<eesti>(1) P&uuml;siliini- ja sidumisteenuse tasum&auml;&auml;rad arvutatakse k&auml;esoleva metoodika kohaselt. </eesti>
+<inglise>(1) The charges of leased line and interconnection services are calculated on the basis of this methodology. </inglise>
+<eesti>Kogu teenuse lisanduv kulu (total service incremental cost) defineeritakse LRAIC kontseptsioonist l&auml;htuvalt kui senisele kulude mahule lisanduv kulu, mida kantakse teenust osutades ja mida ei eksisteeri, kui teenust ei osutata. </eesti>
+<inglise>Total service incremental cost is defined within the LRAIC concept as incremental cost to the present volume of costs which is incurred in the provision of the service and which does not exist when the service is not provided. </inglise>
+<eesti>P&uuml;siliini- ja sidumisteenuse kulude kalkuleerimine ei l&auml;htu t&auml;isomahinna kontseptsioonist, vaid LRAIC kulude kalkuleerimise ja omahinna kujundamise kontseptsioonist. </eesti>
+<inglise>The calculation of leased line and interconnection service costs is not any more based on the total cost price concept but is based on the concept of LRAIC cost calculation and cost price formation. </inglise>
+<eesti>(2) Kogu teenuse lisanduv kulu sisaldab k&uuml;ll teenuse-spetsiifilisi p&uuml;sikulusid, aga ei sisalda tavaliselt &uuml;ldisi p&uuml;sikulusid ja jagatavaid p&uuml;sikulusid (need, mis on jagatavad erinevatele toote- v&otilde;i teenusegruppidele). </eesti>
+<inglise>(2) Total service incremental cost contains service specific fixed costs but does not usually contain common fixed costs and shared fixed costs (those which are shared by different product or service groups). </inglise>
+<eesti>(3) Kui antud teenusele vastav osa &uuml;ldkulusid ikkagi sisaldub kuludefinitsioonis, siis saame t&auml;ielikult jaotatavate kulude (fully allocated cost) kontseptsiooni. </eesti>
+<inglise>(3) If the common costs corresponding to a particular service are still contained in the cost definition, then we get the fully allocated cost concept. </inglise>
+<eesti>Nii kujuneb t&auml;isomahind, kuhu on arvatud perioodikulud ehk ettev&otilde;tte &uuml;ldkulud. </eesti>
+<inglise>Thus is the full cost price formed which contains periodical costs or common costs of the undertaking. </inglise>
+<eesti>(4) Kui k&otilde;ik &uuml;ldised ja jagatavad p&uuml;sikulud omistatakse &uuml;hele teenusele v&otilde;i tootele, siis tulemuseks on eraldiseisvad kulud (stand alone cost) - kulud, mida kantakse, kui osutatakse ainult &uuml;hte teenust. </eesti>
+<inglise>(4) If all common and shared fixed costs are allocated to one service or product, we arrive at stand alone cost - costs incurred when providing one single service. </inglise>
+<eesti>(5) LRIC mudel eeldab, kasutades kogu teenuse definitsiooni, et jagatavad p&uuml;sikulud ja &uuml;ldkulud ei sisaldu sidumisteenuse kulukalkulatsioonides. </eesti>
+<inglise>(5) The LRIC model presumes that when using the total service definition, the shared fixed costs and common costs are not included in the interconnections service cost calculation. </inglise>
+<eesti>Et operaator saaks katta k&otilde;ik oma p&otilde;hjendatud kulud, tuleb sidumisteenuse tasudes arvesse v&otilde;tta OTE ettevaatavad jagatavad p&uuml;sikulud ja osa &uuml;ldkuludest, mis l&uuml;litatakse vastava hinnalisandina (mark-up) tasum&auml;&auml;ra. </eesti>
+<inglise>In order for the operator to be able to cover all its justified costs, the interconnection charges must take into account the forward-looking shared fixed costs of the undertaking with significant market power and a part of the common costs which are included in the charge rate as a mark-up. </inglise>
+<eesti>(6) Kogu teenuse lisanduv kulu peab arvestama mastaabis&auml;&auml;stu. </eesti>
+<inglise>(6) Total service incremental cost must take into account the economy of scales. </inglise>
+<eesti>Pikas perspektiivis on lisanduv kulu kui kogu teenuse pikaajaliselt lisanduv kulu (total service long run incremental cost - TS-LRIC) (vt m&auml;&auml;ruse lisa 3). </eesti>
+<inglise>In long-term perspective, the incremental cost means the total service long run incremental cost (TS-LRIC) (see Annex 3 of the Regulation). </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>L&auml;henemised LRAIC metoodikale </eesti>
+<inglise>Approaches to LRAIC methodology </inglise>
+<eesti>(1) Kaks v&otilde;imalikku l&auml;henemist tulevikku suunatud LRAIC s&uuml;steemi kehtestamiseks p&uuml;siliini- ja sidumisteenuste arvestamiseks on &uuml;lalt-alla- ja alt-&uuml;les-metoodika. </eesti>
+<inglise>(1) There are two possible approaches to the application of forward-looking LRAIC in calculation of leased line and interconnection service charges - top-down and bottom-up method. </inglise>
+<eesti>(2) &Uuml;lalt-alla (top-down) l&auml;henemise korral tulenevad algandmed juhtimisarvestuse aruannetest, kohaldades neid vastavalt hetkev&auml;&auml;rtusele, mitte kasutades ajaloolisi v&auml;&auml;rtusi. </eesti>
+<inglise>(2) In "top-down" approach, the source data are gathered from management accounting reports and applied to current value; historic values are not used. </inglise>
+<eesti>J&auml;rgneb kulude omistamise protsess erinevatele teenustele, mis p&otilde;hineb kulude ja mahtude vahelistel seostel. </eesti>
+<inglise>Thereafter, costs are allocated to different services on the basis of links between costs and volumes. </inglise>
+<eesti>&Uuml;lalt-alla l&auml;henemine algab OTE finantsaruannetest ja j&auml;rjest toimub nende kulude eraldamine, mis ei lisandu antud teenusele. </eesti>
+<inglise>In the top-down approach, the financial reports of the undertaking with significant market power will be first reviewed and costs which are not incremental in the particular service shall be separated step by step. </inglise>
+<eesti>(3) Alt-&uuml;les (bottom-up) l&auml;henemine n&otilde;uab mudelite arendamist, mida kasutatakse vajalike v&otilde;rguelementide ja erinevate teenuste kulude kalkuleerimiseks. </eesti>
+<inglise>(3) The "bottom-up" approach requires development of models which are used for calculating the costs of special network elements and the costs for various services. </inglise>
+<eesti>Selle l&auml;henemise korral tuleb teha kalkulatsioonid operatiivkulude muutuste ja kulutuste efektiivsuse muutumise kohta ning prognoosida tulevikus toimuvaid muutusi tehnoloogias. </eesti>
+<inglise>This approach requires calculations of changes in operating costs and of changes in the efficiency of costs, and to forecast the future technology changes. </inglise>
+<eesti>Esmalt tuleb identifitseerida vajalikud elemendid v&otilde;rgu ehitamiseks ja seej&auml;rel tuletatakse vastavalt sellele kulud efektiivselt t&ouml;&ouml;tava OTE jaoks. </eesti>
+<inglise>In this method, the necessary elements for constructing a network are identified first and on the basis thereof the costs of an efficient undertaking with significant market power are derived. </inglise>
+<eesti>5. peat&uuml;kk </eesti>
+<inglise>Chapter 5 </inglise>
+<eesti>&Uuml;lalt-alla l&auml;henemine LRAIC metoodikale </eesti>
+<inglise>Top-down Approaches to LRAIC Methodology </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>&Uuml;ldp&otilde;him&otilde;tted </eesti>
+<inglise>General principles </inglise>
+<eesti>(1) Sidumisteenuse tasude arvestamisel tuleb kulukomponentidena arvestada prognoositavaid optimaalseid t&auml;iendavaid kulusid ja investeeringuid (sh kapitalikulu), mida tuleks teha, et sidumise t&otilde;ttu tekkivat t&auml;iendavat liiklust edastada. </eesti>
+<inglise>(1) In calculating interconnection charges, forecast optimal additional costs and investments (including capital cost) necessary for transmitting additional traffic resulting from interconnection must be taken into account as cost components. </inglise>
+<eesti>V&otilde;rgu planeerimisel peab l&auml;htuma kaasaegsest ja majanduslikult otstarbekast tehnoloogiast. </eesti>
+<inglise>In planning a network, up-to-date and economically efficient technology must be used as the basis. </inglise>
+<eesti>(2) Kapitalikulu all m&otilde;istetakse sidumisteenusega seotud kapitali kasutusest (capital employed) tekkivat kulu. </eesti>
+<inglise>(2) Capital cost means the cost accruing from the capital employed in connection with interconnection services. </inglise>
+<eesti>See saadakse oma- ja laenukapitali kaalutud keskmise hinna (WACC) rakendamisel kapitalikasutuse mahule. </eesti>
+<inglise>This is arrived at by applying the WACC on the volume of capital employed. </inglise>
+<eesti>Vastav arvutusmetoodika on toodud "Telekommunikatsiooniseaduse" &sect; 53 l&otilde;ike 6 alusel Vabariigi Valitsuse kehtestatud telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodikas. </eesti>
+<inglise>The accounting methods are provided in the methodology for cost accounting and cost allocation by telecommunications network operators established on the basis of subsection 53 (6) of the Telecommunications Act. </inglise>
+<eesti>Selliselt arvutatud kapitali hind sisaldab aktivaomanike tulunormi ja seega sisaldab kapitalikulu m&otilde;istlikku kasumit. </eesti>
+<inglise>The cost of capital so calculated contains the income rate of asset holders and thus the capital cost contains reasonable profit. </inglise>
+<eesti>(3) LRAIC kalkulatsioonides on eraldi k&auml;sitluse objektiks operaatori &uuml;ldkulud kui omistamatud kulud. </eesti>
+<inglise>(3) The operator's common fixed costs are treated separately in the calculations of LRAIC as unattributable costs. </inglise>
+<eesti>Et operaator saaks katta k&otilde;ik oma p&otilde;hjendatud kulud, tuleb sidumisteenuste hinnas arvesse v&otilde;tta ka nn efektiivse operaatori planeeritavad &uuml;ldkulud. </eesti>
+<inglise>In order for the operator to cover all its justified costs, the so-called planned common fixed costs of the efficient operator must be taken into account in the interconnection charges. </inglise>
+<eesti>Need lisanduvad hinnalisandina (mark-up) iga teenuse otseselt ja kaudselt jagatud LRAIC kuludele. </eesti>
+<inglise>Those are a mark-up to the directly and indirectly distributed LRAIC costs of each service. </inglise>
+<eesti>OTE poolt kasutatav kuluarvestuss&uuml;steem peab tagama, et sellised kulud ei &uuml;letaks 5% kogukuludest. </eesti>
+<inglise>The cost-accounting system used by the undertaking with significant market power must ensure that such costs do not exceed 5% of the total costs. </inglise>
+<eesti>Erinevaid kulukomponente hinnakujunduses on k&auml;sitletud ka "Telekommunikatsiooniseaduse" &sect; 53 l&otilde;ike 6 alusel Vabariigi Valitsuse poolt kehtestatud telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodikas. </eesti>
+<inglise>The different cost components in price formation are specified in the methodology for cost accounting and cost allocation by telecommunications network operators established on the basis of subsection 53 (6) of the Telecommunications Act. </inglise>
+<eesti>(4) LRIC kalkuleerimine n&otilde;uab kulude jagamist kolme gruppi: </eesti>
+<inglise>(4) LRIC calculation requires the allocation of costs into three groups: </inglise>
+<eesti>1) operatiivkulud; </eesti>
+<inglise>1) operating costs; </inglise>
+<eesti>2) p&otilde;hivara s&auml;ilitamise ja hoolduse kulud; </eesti>
+<inglise>2) costs for retaining and maintaining fixed assets; </inglise>
+<eesti>3) kapitalikulud. </eesti>
+<inglise>3) capital cost. </inglise>
+<eesti>(5) Sidumisteenuse tasud peavad p&otilde;hinema varade hetkev&auml;&auml;rtusel, mitte ajaloolisel v&auml;&auml;rtusel. </eesti>
+<inglise>(5) Interconnection charges must be based on the current economic value of assets, not the historic value. </inglise>
+<eesti>Kaasaegse samav&auml;&auml;rse vara hinnad (modern equivalent asset values) n&auml;itavad hinda, mis tuleks maksta, kui vahetada olemasolev seade kaasaegsema seadmega, mis t&auml;idaks samu funktsioone. </eesti>
+<inglise>Modern equivalent asset values show the price which would be paid when the existing equipment is replaced by a more modern equipment performing the same functions. </inglise>
+<eesti>Ajaloolistel kuludel p&otilde;hinevad sidumisteenuse tasud kajastavad suuremaid kulutusi kui need oleksid kaasaegsema seadme puhul, mis v&otilde;ib maksta v&auml;hem. </eesti>
+<inglise>Interconnection charges based on historic costs reflect bigger costs than those for more modern equipment, which can cost less. </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>&Uuml;lalt-alla l&auml;henemise etapid </eesti>
+<inglise>Steps in top-down approach </inglise>
+<eesti>(1) Kulude ja mahu vahelised seosed peavad olema defineeritud iga kulut&uuml;&uuml;bi ja iga investeerimisliigi jaoks. </eesti>
+<inglise>(1) Cost-volume relationships shall be defined for each cost type and investment type. </inglise>
+<eesti>Erinevate kulut&uuml;&uuml;pide kasvudest tulenevat lisanduvat kulu kirjeldab joonis k&auml;esoleva m&auml;&auml;ruse lisas 4. </eesti>
+<inglise>The incremental cost deriving from increase in different cost types is described by a figure in Annex 4. </inglise>
+<eesti>(2) &Uuml;lalt-alla lisanduvate kulude s&uuml;steemi metoodika teostamise etapid on j&auml;rgmised: </eesti>
+<inglise>(2) The stages in applying the method of top-down incremental cost system are the following: </inglise>
+<eesti>1) lisanduvate kulude kontseptuaalse raamistiku defineerimine. </eesti>
+<inglise>1) definition of the conceptual framework of incremental costs. </inglise>
+<eesti>See on aluseks lisanduvate kulude arvutamisel. </eesti>
+<inglise>This is the basis for calculating incremental costs. </inglise>
+<eesti>Selle etapi k&auml;igus tuleb k&auml;sitleda muu hulgas j&auml;rgmisi teemasid: </eesti>
+<inglise>In this stage the following topics must be addressed: </inglise>
+<eesti>a) kuluobjektide m&auml;&auml;ratlemine; </eesti>
+<inglise>a) determination of cost objects; </inglise>
+<eesti>b) kulude juurdekasvude m&auml;&auml;ratlemine; </eesti>
+<inglise>b) determination of cost increments; </inglise>
+<eesti>c) kulude juurdekasvude eristamine pikaajalises ja l&uuml;hiajalises perspektiivis; </eesti>
+<inglise>c) separation of cost increments in long run or short run; </inglise>
+<eesti>d) tulevaste kulude m&otilde;&otilde;tmine; </eesti>
+<inglise>d) measurement of future costs; </inglise>
+<eesti>e) fikseeritud &uuml;ldkulude k&auml;sitlemine; </eesti>
+<inglise>e) application of common fixed costs; </inglise>
+<eesti>2) oletatavate muutuste prognoosimine. </eesti>
+<inglise>2) forecast of probable changes. </inglise>
+<eesti>See etapp sisaldab muutuste prognoosimist j&auml;rgmistes k&uuml;simustes: </eesti>
+<inglise>This stage entails the forecast of changes in the following issues: </inglise>
+<eesti>a) "k&otilde;rbenud s&otilde;lme" meetod v&otilde;rgu modelleerimisel; </eesti>
+<inglise>a) "scorched node" assumption in modelling a network; </inglise>
+<eesti>b) erinevad mahtude muutused; </eesti>
+<inglise>b) various changes in volumes; </inglise>
+<eesti>c) teenuste kvaliteedi muutuste prognoosimine; </eesti>
+<inglise>c) forecast of changes in service quality; </inglise>
+<eesti>d) tarbijate struktuuri muutuste prognoosimine; </eesti>
+<inglise>d) forecast of changes in subscriber profile; </inglise>
+<eesti>3) kulude, varade v&auml;&auml;rtuste ja v&otilde;lgade suuruste t&auml;psustamine. </eesti>
+<inglise>3) specification of costs, value of assets and amount of liabilities. </inglise>
+<eesti>Selles etapis tegeldakse kulude vajalikul m&auml;&auml;ral eristamisega, et neid omistada kulukandjatele. </eesti>
+<inglise>This stage entails the specification of costs to the necessary extent in order to attribute the costs to the cost objectives. </inglise>
+<eesti>Aluseks peavad olema j&auml;rgmised p&otilde;him&otilde;tted: </eesti>
+<inglise>It shall be based on the following principles: </inglise>
+<eesti>a) eristatavus; </eesti>
+<inglise>a) distinctness; </inglise>
+<eesti>b) p&otilde;hjuslikkus; </eesti>
+<inglise>b) causality; </inglise>
+<eesti>c) selgus; </eesti>
+<inglise>c) explicitness; </inglise>
+<eesti>d) materiaalsus; </eesti>
+<inglise>d) material nature; </inglise>
+<eesti>4) kuluk&auml;iturite ja s&otilde;ltuvuste m&auml;&auml;ramine. </eesti>
+<inglise>4) determination of drivers and dependencies. </inglise>
+<eesti>Iga kuluartikli jaoks on vaja leida kuluk&auml;itur ja kulukandja, et v&otilde;imaldada kulude jaotamist. </eesti>
+<inglise>Each input item must have a driver and cost objective to enable the allocation of costs. </inglise>
+<eesti>Lisanduvate kulude modelleerimisel tuleb prognoosida kulude muutusi erinevates tingimustes. </eesti>
+<inglise>In modelling incremental costs, the change in costs must be forecast under different conditions. </inglise>
+<eesti>Selleks, et kaudkulude puhul seda teha, tuleb konstrueerida erinevaid kulu-mahu suhete anal&uuml;&uuml;se; </eesti>
+<inglise>In order to do that with regard to indirect costs, various cost-volume relationship analyses must be made; </inglise>
+<eesti>5) kulu-mahu vaheliste suhete konstrueerimine. </eesti>
+<inglise>5) establishment of the cost-volume relationships. </inglise>
+<eesti>Seda saab teha, kasutades varem koostatud ja t&auml;iendatud spetsiaalseid mudeleid, v&otilde;i statistilise anal&uuml;&uuml;si abil. </eesti>
+<inglise>This can be established by using special earlier made models when supplemented, or by using statistical analysis. </inglise>
+<eesti>Ka uuringute kasutamine v&otilde;ib osutuda vajalikuks. </eesti>
+<inglise>The use of surveys may also be necessary. </inglise>
+<eesti>Selle etapi jooksul tuleb identifitseerida iga konkreetse juurdekasvu jaoks spetsiifilised fikseeritud kulud; </eesti>
+<inglise>In this stage, the specific fixed costs of each concrete increment must be identified; </inglise>
+<eesti>6) aruandlus ja s&uuml;steemi v&auml;ljundid. </eesti>
+<inglise>6) reporting and system outputs. </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>&Uuml;lalt-alla-mudeli rakendamine </eesti>
+<inglise>Implementation of top-down model </inglise>
+<eesti>(1) T&auml;iendava kulu kalkuleerimine sisaldab: </eesti>
+<inglise>(1) The calculation of incremental costs shall include: </inglise>
+<eesti>1) kulukohtade m&auml;&auml;ratlemist; </eesti>
+<inglise>1) determination of cost objectives; </inglise>
+<eesti>2) hetkekulude suurust m&auml;&auml;ratletud kulukohtades olemasoleva liikluse alusel; </eesti>
+<inglise>2) current costs in determined cost objectives on the basis of existing traffic; </inglise>
+<eesti>3) eeldatava liikluse muutuse m&auml;&auml;ratlemist iga v&otilde;rguseadme kohta; </eesti>
+<inglise>3) determination of the expected change in traffic for each network component; </inglise>
+<eesti>4) liikluse muutusest tuleneva lisanduvate kulude muutuse m&auml;&auml;ratlemist kulukohtades; </eesti>
+<inglise>4) determination of the change in incremental costs for cost objectives caused by the change in traffic; </inglise>
+<eesti>5) summaarse lisanduva kulu tuletamist erinevate tegevusvaldkondade l&otilde;ikes, summeerides erinevate kulugruppide lisanduvad kulud. </eesti>
+<inglise>5) derivation of the total incremental cost for different businesses by summing up the incremental costs of different cost items. </inglise>
+<eesti>(2) Telekommunikatsiooniv&otilde;rgu uuendamine p&otilde;hineb modifitseeritud "k&otilde;rbenud" s&otilde;lme meetodil ja kaasaegse samav&auml;&auml;rse tehnoloogia p&otilde;him&otilde;tetel. </eesti>
+<inglise>(2) The updating of a telecommunications network must be based on modified scorched node assumption and the principles of modern equivalent value technology. </inglise>
+<eesti>(3) &Uuml;lalt-alla-meetodi puhul saadakse telekommunikatsiooniv&otilde;rgu seadmete kulu, summeerides: </eesti>
+<inglise>(3) The cost of telecommunications network equipment in top-down method is calculated by summing up: </inglise>
+<eesti>1) amortisatsiooni, mis arvutatakse l&auml;htuvalt p&otilde;hivarade jooksevhindadest; </eesti>
+<inglise>1) depreciation which is calculated on the basis of fixed asset current prices; </inglise>
+<eesti>2) operatiivkulud, mis on otse omistatavad v&otilde;rguseadmetele; </eesti>
+<inglise>2) operating costs which are directly attributable to network equipment; </inglise>
+<eesti>3) kapitalikulu, mis saadakse, kui mingi vara kasutus korrutada kapitali hinnaga. </eesti>
+<inglise>3) capital cost which is calculated by multiplying the capital employed with cost of capital. </inglise>
+<eesti>Kapitali hinda on k&auml;sitletud l&auml;hemalt "Telekommunikatsiooniseaduse" &sect; 53 l&otilde;ike 6 alusel Vabariigi Valitsuse kehtestatud telekommunikatsiooniv&otilde;rgu operaatori poolt kulude arvestamise ja kulude omistamise metoodikas. </eesti>
+<inglise>The cost of capital is specified in the methodology for cost accounting and cost allocation by telecommunications network operators established on the basis of subsection 53 (6) of the Telecommunications Act. </inglise>
+<eesti>(4) Lisanduvate kulude m&auml;&auml;ramise n&auml;ide &uuml;lalt-alla l&auml;henemise korral on toodud k&auml;esoleva m&auml;&auml;ruse lisas 5. </eesti>
+<inglise>(4) The example of determining incremental costs in top-down approach is given in Annex 5 of this Regulation. </inglise>
+<eesti>6. peat&uuml;kk </eesti>
+<inglise>Chapter 6 </inglise>
+<eesti>M&auml;&auml;ruse rakendamine </eesti>
+<inglise>Implementation of Regulation </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>LRAIC s&uuml;steemi l&auml;henemiste rakendamine </eesti>
+<inglise>Implementation of LRAIC approaches </inglise>
+<eesti>OTE on kohustatud LRAIC s&uuml;steemi rakendamiseks kasutama &uuml;lalt-alla l&auml;henemist 1. jaanuarist 2001. a.&Uuml;lalt-alla l&auml;henemise p&otilde;him&otilde;tted lisaks &uuml;ldistele n&otilde;uetele on toodud k&auml;esolevas m&auml;&auml;ruses. </eesti>
+<inglise>An undertaking with significant market power shall use the top-down approach for implementing LRAIC as of 1 January 2001.The principles of the top-down approach together with the general requirements are set out in this Regulation. </inglise>
+<eesti>(18.12.2001 j&otilde;ust.24.12.2001 - RT I 2001, 99, 637) </eesti>
+<inglise>(18.12.2001 entered into force 24.12.2001 - RT I 2001, 99, 637) </inglise>
+<eesti>(1) Direktiiv 97/33/EC 30.06.1997. a (nn "Interconnection Directive"), mis antud m&auml;&auml;ruse kontekstis s&auml;testab &uuml;ldised juhised ja n&otilde;uded telekommunikatsiooniv&otilde;rkude sidumisele; </eesti>
+<inglise>(1) Directive 97/33/EC 30.06.1997 (the "Interconnection Directive") which, for the purposes of this Regulation, lays down the general guidelines and requirements for interconnection of telecommunications networks; </inglise>
+<eesti>(2) </eesti>
+<inglise>(2) </inglise>
+<eesti>1) C(1997) 3148 15.10.1997. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>1) C(1997) 3148 15.10.1997 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 1 - Interconnection Pricing") koos lisadega; </eesti>
+<inglise>Part 1 - Interconnection Pricing") together with Annexes; </inglise>
+<eesti>2) C(1998) 960 08.04.1998. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>2) C(1998) 960 08.04.1998 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 2 - Accounting separation and cost accounting") koos lisadega; </eesti>
+<inglise>Part 2 - Accounting separation and cost accounting") together with Annexes; </inglise>
+<eesti>3) C(2000) 263 20.03.2000. a ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </eesti>
+<inglise>3) C(2000) 263 20.03.2000 ("Commission Recommendation on Interconnection in a liberalised telecommunications market. </inglise>
+<eesti>Part 1 - Interconnection Pricing") koos lisadega; </eesti>
+<inglise>Part 1 - Interconnection Pricing") together with Annexes; </inglise>
+<eesti>4) C(1999) 3863 24.11.1999. a ("Commission Recommendation on Leased lines interconnection pricing in a liberalised telecommunications market"). </eesti>
+<inglise>4) C(1999) 3863 24.11.1999 ("Commission Recommendation on Leased Line interconnection pricing in a liberalised telecommunications market"). (3) RT = Riigi Teataja = State Gazette </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;ruse nr 397 "P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika" lisa 1 </eesti>
+<inglise>Annex 1 to Regulation No. 397 of the Government of the Republic of 4 December 2000 Cost Accounting Methodology for Leased Line and Interconnection Service Charges </inglise>
+<eesti>Lisanduvate kulude teoreetiline kontseptsioon </eesti>
+<inglise>Theoretical Concept of Incremental Costs </inglise>
+<eesti>(vt joonist RT I 2000, 94, 605) </eesti>
+<inglise>(see Figure RT I 2000, 94, 605) </inglise>
+<eesti>Joonis. </eesti>
+<inglise>Figure. </inglise>
+<eesti>Lisanduvate kulude m&otilde;&otilde;tmine </eesti>
+<inglise>Measurement of incremental costs </inglise>
+<eesti>Joonise j&auml;rgi saab &uuml;ksiku tegevuse lisanduvad kulud tuletada j&auml;rgmiselt: </eesti>
+<inglise>On the basis of the Figure, the incremental costs of each activity can be determined as follows: </inglise>
+<eesti>- Identifitseerida jooksev &uuml;ldkasutatava telefoniv&otilde;rgu (PSTN) v&otilde;i &uuml;ldkasutatava mobiiltelefoniv&otilde;rgu opereerimisega mitteseotud tegevuste kulumaht (1) ja piir &uuml;ldkasutatava telefoniv&otilde;rgu opereerimisega seotud kulumahu ja sellega mitteseotud tegevuse kulude vahel. </eesti>
+<inglise>- Identify the volume of current costs of public switched telephone network (PSTN) or the cost of activities not related to the operation of a public mobile telephone network (1) and the margin of costs related to the operation of a public switched telephone network and the costs of not related activities. </inglise>
+<eesti>Muutus mitte-PSTN tegevustega seotud lisanduvates kuludes (joonisel a-b) on defineeritud kui PSTN opereerimisega mitteseotud tegevuste lisanduv kulu (incremental cost of non-PSTN activities). </eesti>
+<inglise>Change in the incremental costs of related non-PSTN activities (a-b in the Figure) can be defined as the incremental cost of non-PSTN activities. </inglise>
+<eesti>- Identifitseerida jooksev &uuml;lekandev&otilde;rgu opereerimisega seotud kulude kogum ja leida kulude maht, mis j&auml;&auml;ks olemata, kui ei eksisteeriks &uuml;lekandev&otilde;rgu opereerimisega seotud tegevusi. </eesti>
+<inglise>- Identify the current aggregate cost related to the operation of the transmission (core) network and determine the volume of costs which would not exist if there were no activities related to the operation of a transmission network. </inglise>
+<eesti>Erinevus PSTN v&otilde;rgu kulude ja niisuguse v&otilde;rgu kulude vahel, mis on v&auml;hendatud &uuml;lekandev&otilde;rgu opereerimisega seotud tegevuste v&otilde;rra (joonisel c-d), ongi &uuml;lekandev&otilde;rgu opereerimisega seotud tegevuste lisanduvad kulud. </eesti>
+<inglise>Difference in the costs of PSTN and such network costs which have been reduced by the activities related to the operation of the transmission network (c-d in the Figure) is the incremental cost of activities related to the operation of the transmission network. </inglise>
+<eesti>- Identifitseerida jooksev juurdep&auml;&auml;suv&otilde;rgu hooldamisega seotud tegevuste kulukogum ja leida kulude maht, mis j&auml;&auml;ksid olemata, kui hoolitsetakse vajalikul tasemel k&uuml;ll PSTN v&otilde;rgu eest, aga ei eksisteeriks juurdep&auml;&auml;suv&otilde;rku. </eesti>
+<inglise>- Identify the current aggregate cost related to the maintenance of the access network and determine the volume of cost which would not exist if there was necessary maintenance of PSTN but there was no access network. </inglise>
+<eesti>Sellisel juhul juurdep&auml;&auml;su v&otilde;imaldamise lisanduvad kulud on vaheks PSTN v&otilde;rgu kulude ja sellise PSTN v&otilde;rgu vahel, mis koosneb ainult &uuml;lekandev&otilde;rgust (joonisel d-e). </eesti>
+<inglise>In that case the incremental cost of providing access is the difference of PSTN costs and such PSTN which only consists of the transmission network (d-e in the Figure). </inglise>
+<eesti>Individuaalsete tegevuste lisanduvate kulude summa on kogukuludest v&auml;iksem summa v&otilde;rra, mis v&auml;ljendab &uuml;ldkulusid (joonisel f-g). </eesti>
+<inglise>The difference between the total incremental cost of individual activities and the total cost is the sum which equals to common fixed cost (f-g in the Figure). </inglise>
+<eesti>(1) Kus PSTN (Public Switched Telephone Network) on &uuml;ldkasutatav telefoniv&otilde;rk. </eesti>
+<inglise>(1) Where PSTN is public switched telephone network. </inglise>
+<eesti>&Uuml;ldkasutatava mobiiltelefoniv&otilde;rgu operaatori korral on &uuml;ldkasutatava telefoniv&otilde;rgu (PSTN) asemel antud joonisel &uuml;ldkasutatav mobiiltelefoniv&otilde;rk. </eesti>
+<inglise>In the case of public mobile telephone network operators, the public mobile telephone network is given in the Figure instead of the public switched telephone network. </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;ruse nr 397 "P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika" lisa 2 </eesti>
+<inglise>Annex 2 to Regulation No. 397 of the Government of the Republic of 4 December 2000 Cost Accounting Methodology for Leased Line and Interconnection Service Charges </inglise>
+<eesti>&Uuml;lekandev&otilde;rgu teenuste kasutamine </eesti>
+<inglise>Use of transmission network services </inglise>
+<eesti>(vt joonist RT I 2000, 94, 605) </eesti>
+<inglise>(see Figure RT I 2000, 94, 605) </inglise>
+<eesti>&Uuml;lekandev&otilde;rk m&uuml;&uuml;b suurt hulka teenuseid, et rahuldada teiste operaatorite ja jaem&uuml;&uuml;gi n&otilde;udmisi. </eesti>
+<inglise>There are a number of services provided by the transmission network in order to meet the needs of other operators and retail. </inglise>
+<eesti>Iga teenuse hind baseerub v&otilde;rgukomponentide ja v&otilde;rguosade t&auml;ielikult jaotatud kuludel (t&auml;isomahind), sisaldades ka m&otilde;istlikku tulu kapitalilt, mida kasutatakse teenuse tootmiseks (return on capital). </eesti>
+<inglise>The charge for a service is based on the total distributed costs of network components and network parts (full cost price) that includes a reasonable return on capital which is used in providing a service. </inglise>
+<eesti>Joonisel A-ga t&auml;histatud maksed baseeruvad sidumistariifidel, mida OTE kajastab n&auml;idissidumislepingus. </eesti>
+<inglise>The charges designated with A in the Figure are based on interconnection rates which are set out by the undertaking with significant market power in a sample interconnection agreement. </inglise>
+<eesti>B-ga t&auml;histatud maksed on sisemised transferthinnad, mis p&otilde;him&otilde;tteliselt ei erine sidumistariifidest </eesti>
+<inglise>The charges designated with B are internal transfer prices which, in principle, are not different from interconnection rates. </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;ruse nr 397 "P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika" lisa 3 </eesti>
+<inglise>Annex 3 to Regulation No. 397 of the Government of the Republic of 4 December 2000 Cost Accounting Methodology for Leased Line and Interconnection Service Charges </inglise>
+<eesti>Lisanduv kulu </eesti>
+<inglise>Incremental Cost </inglise>
+<eesti>(vt joonist RT I 2000, 94, 605) </eesti>
+<inglise>(see Figure RT I 2000, 94, 605) </inglise>
+<eesti>Joonis. </eesti>
+<inglise>Figure. </inglise>
+<eesti>Mastaabis&auml;&auml;st olulise faktorina keskmise ja lisanduva kulu kirjeldamiseks </eesti>
+<inglise>Economy of scale as an important factor in describing average and incremental costs </inglise>
+<eesti>Praktikas arvutatakse kogu teenuse lisanduv kulu &uuml;ldkasutatava telekommunikatsiooniv&otilde;rgu operaatori jaoks, arvestades v&auml;lditavaid kulusid, kui seda teenust poleks osutatud. </eesti>
+<inglise>In practice the incremental cost of the total service is calculated for the public telecommunications network operator so that costs avoided if such service were not provided are taken into account. </inglise>
+<eesti>Kui defineerida juurdekasvu kogu teenusele, siis kogu teenuse lisanduvad kulud erinevad traditsioonilisest keskmisest piirkulust lisanduvate teenuse-spetsiifiliste fikseeritud kulude v&otilde;rra (vt lisa 2). </eesti>
+<inglise>When defining the increment to total service, the incremental costs of the total service differ from the traditional average marginal cost by service specific fixed costs which are added thereto (see Annex 2). </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;ruse nr 397 "P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika" lisa 4 </eesti>
+<inglise>Annex 4 to Regulation No. 397 of the Government of the Republic of 4 December 2000 Cost Accounting Methodology for Leased Line and Interconnection Service Charges </inglise>
+<eesti>Lisanduv kulu &uuml;lalt-alla-meetodi puhul </eesti>
+<inglise>Incremental Cost in Top-Down Method </inglise>
+<eesti>(vt joonist RT I 2000, 94, 605) </eesti>
+<inglise>(see Figure RT I 2000, 94, 605) </inglise>
+<eesti>Lisanduv kulu v&auml;ljendab siin mingi teenuse osutamisel tekkivat lisakulu (kogu teenuse tasandil). </eesti>
+<inglise>Incremental cost means here additional cost related to the provision of a service (on the level of total service). </inglise>
+<eesti>See koosneb erinevatest kulutustest, mida tuleb teha, et antud teenust osutada. </eesti>
+<inglise>It consists of different expenses made in the provision of the particular service. </inglise>
+<eesti>Vabariigi Valitsuse 4. detsembri 2000. a m&auml;&auml;ruse nr 397 "P&uuml;siliini- ja sidumisteenuste tasude arvestamise metoodika" lisa 5 </eesti>
+<inglise>Annex 5 to Regulation No. 397 of the Government of the Republic of 4 December 2000 Cost Accounting Methodology for Leased Line and Interconnection Service Charges </inglise>
+<eesti>Lisanduvate kulude m&auml;&auml;ramise n&auml;ide &uuml;lalt-alla l&auml;henemise korral </eesti>
+<inglise>Example of Determining Incremental Cost in Top-Down Approach </inglise>
+<eesti>1) &Auml;ritegevuse kulud on 1000. </eesti>
+<inglise>1) Business expenses are 1000. </inglise>
+<eesti>2) 50% (s.o 500) sellest on &uuml;ldkasutatava telefoniv&otilde;rgu (PSTN) v&otilde;i &uuml;ldkasutatava mobiiltelefoniv&otilde;rgu opereerimisega mitteseotud tegevuste kulumaht (1). </eesti>
+<inglise>2) 50% (i.e. 500) of that is the cost of activities not related to the operation of PSTN or public mobile telephone network (1). </inglise>
+<eesti>3) &Uuml;ldkasutatava telefoniv&otilde;rgu opereerimisega seotud tegevuste kulumahust on &uuml;lekandev&otilde;rguga seotud 80% (400) ja juurdep&auml;&auml;suga seotud 20% (100). </eesti>
+<inglise>3) 80% (400) of the cost of activities related to the operation of PSTN is connected with the transmission network and 20% (100) is connected with the access network. </inglise>
+<eesti>4) Kulude ja mahu seos v&auml;ljendub graafiliselt sirgjoonena, mille alguspunkt on vertikaalteljel 200 juures (st 200 on &uuml;ldkulud). </eesti>
+<inglise>4) The cost-volume relationship can be expressed graphically as a linear line which starts at the vertical axis at 200 (i.e. 200 is overhead costs). </inglise>
+<eesti>Nurk antud sirgjoone ja horisontaaltelje vahel ongi kulude ja mahu vaheline seos (graafilises v&auml;ljenduses). </eesti>
+<inglise>The angle between the linear line and the horizontal axis is the cost-volume relationship (expressed graphically). </inglise>
+<eesti>(vt joonist RT I 2000, 94, 605) </eesti>
+<inglise>(see Figure RT I 2000, 94, 605) </inglise>
+<eesti>Joonis. </eesti>
+<inglise>Figure. </inglise>
+<eesti>V&otilde;rgukomponentidel p&otilde;hinevad lisanduvad kulud </eesti>
+<inglise>Incremental costs based on network components </inglise>
+<eesti>Mingi tegevuse PSTN opereerimisega mitteseotud tegevuste kulud ongi vaheks selle tegevuse kogukulude ja PSTN opereerimisega seotud eraldiseisvate kulude vahel. </eesti>
+<inglise>The cost of activities not related to the operation of PSTN of an activity is the difference between total cost of the activity and separate costs related to the operation of PSTN. </inglise>
+<eesti>Antud juhul saab selle arvutada, korrutades PSTN opereerimisega mitteseotud teenuse mahu (500) kulude ja mahu seosega 0,8 (joonisel &agr;, mis matemaatiliselt vordub arctan 0,8). </eesti>
+<inglise>Here, it can be calculated by multiplying the volume of activities not related to the operation of PSTN (500) with the cost-volume coefficient 0,8 (&mgr; in the Figure, equals to arctan 0,8). </inglise>
+<eesti>Need PSTN opereerimisega mitteseotud tegevuse lisanduvad kulud on 400 (kuna 100 ehk 20% on &oacgr;ldkulude osa). </eesti>
+<inglise>This incremental cost of an activity not related to the operation of PSTN is 400 (since 100 or 20% is part of the overhead costs). </inglise>
+<eesti>&Uuml;lekandev&otilde;rgu opereerimisega seotud tegevuse lisanduvad kulud saab arvutada, vaadates l&auml;bi erinevuse mingi tegevuse X kogukulude ja sama teenuse osutamise vahel. </eesti>
+<inglise>The incremental cost of an activity not related to the operation of a transmission network can be calculated by examining the difference between the total cost of activity X and the provision of the same service. </inglise>
+<eesti>Kui on lineaarne kulude ja mahu vaheline seos, saab selle arvutada kui 400&times;0, 8 = 320 (sellest 20% on &uuml;ldkulud). </eesti>
+<inglise>If the cost-volume relationship is linear, it can be calculated 400&times;0.8 = 320 (whereas 20% is overhead costs). </inglise>
+<eesti>Juurdep&auml;&auml;suv&otilde;rguga seotud lisanduva kulu saab arvutada analoogiliselt 100&times;0, 8=80. </eesti>
+<inglise>The incremental cost of an access network can be calculated in a similar manner 100&times;0.8 = 80. </inglise>
+<eesti>Nende eespool nimetatud lisanduvate kulude summa kokku on 800, mis on 200 v&otilde;rra v&auml;hem antud tegevuse kogukuludest. </eesti>
+<inglise>The sum of those incremental costs specified above is 800 which is 200 less than the total cost of the activity. </inglise>
+<eesti>See vahe (200) on tegevuse &uuml;ldkulud. </eesti>
+<inglise>This difference (200) is the overhead costs of the activity. </inglise>
+<eesti>(1) &Uuml;ldkasutatava mobiiltelefoniv&otilde;rgu operaatori korral on &uuml;ldkasutatava telefoniv&otilde;rgu (PSTN) asemel antud joonisel &uuml;ldkasutatav mobiiltelefoniv&otilde;rk. </eesti>
+<inglise>(1) In the case of public mobile telephone network operators, the public mobile telephone network is given in the Figure instead of the public switched telephone network. </inglise>

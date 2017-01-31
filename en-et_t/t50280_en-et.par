@@ -1,0 +1,389 @@
+<inglise> COMMISSION DIRECTIVE 1999/102/EC of 15 December 1999 adapting to technical progress Council Directive 70/220/EEC relating to measures to be taken against air pollution by emissions from motor vehicles </inglise>
+<eesti> KOMISJONI DIREKTIIV 1999/102/E&Uuml;, millega kohandatakse mootors&otilde;idukite heitgaaside tekitatud &otilde;husaaste vastu v&otilde;etavaid meetmeid k&auml;sitlevat n&otilde;ukogu direktiivi 70/220/EM&Uuml; tehnika arenguga </eesti>
+<inglise> (Text with EEA relevance) </inglise>
+<eesti> (EMPs kohaldatav tekst) </eesti>
+<inglise> THE COMMISSION OF THE EUROPEAN COMMUNITIES, </inglise>
+<eesti> 15. detsember 1999 EUROOPA &Uuml;HENDUSTE KOMISJON </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, </eesti>
+<inglise> Having regard to Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to measures to be taken against air pollution by emissions from motor vehicles(1), as last amended by Directive 98/69/EC of the European Parliament and of the Council(2), and in particular Article 5 thereof, </inglise>
+<eesti> v&otilde;ttes arvesse n&otilde;ukogu 20. m&auml;rtsi 1970. aasta direktiivi 70/220/EM&Uuml; mootors&otilde;idukite heitgaaside tekitatud &otilde;husaaste vastu v&otilde;etavaid meetmeid k&auml;sitlevate liikmesriikide &otilde;igusaktide &uuml;htlustamise kohta, (1) viimati muudetud Euroopa Parlamendi ja n&otilde;ukogu direktiiviga 98/69/E&Uuml;, (2) eriti selle artiklit 5, </eesti>
+<inglise> Whereas: </inglise>
+<eesti> ning arvestades, et: </eesti>
+<inglise> (1) Directive 70/220/EEC is one of the separate directives under the type-approval procedure laid down by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(3), as last amended by Directive 98/91/EC of the European Parliament and of the Council(4). </inglise>
+<eesti> 1) direktiiv 70/220/EM&Uuml; on &uuml;ks mitmest &uuml;ksikdirektiivist E&Uuml; t&uuml;&uuml;bikinnitusmenetluse kohta, mis kehtestati n&otilde;ukogu 6. veebruari 1970. aasta direktiiviga 70/156/EEC mootors&otilde;idukite ja nende haagiste t&uuml;&uuml;bikinnitust k&auml;sitlevate liikmesriikide &otilde;igusaktide &uuml;htlustamise kohta, (3) viimati muudetud Euroopa Parlamendi ja n&otilde;ukogu direktiiviga 98/91/E&Uuml;; (4) </eesti>
+<inglise> (2) Directive 70/220/EEC lays down the specifications for the testing of emissions of the motor vehicles covered by its scope. In view of the recent experience gained and the rapidly developing state of the art of on-board diagnostic (OBD) systems, it is appropriate to adapt those specifications accordingly with effect from the dates specified in Directive 98/69/EC. </inglise>
+<eesti> 2) direktiivis 70/220/EM&Uuml; s&auml;testatakse spetsifikatsioonid direktiivi reguleerimisalasse kuuluvate mootors&otilde;idukite katsetamiseks heitkoguste suhtes; pidades silmas viimasel ajal saadud kogemusi pardadiagnostikaseadmete (OBD) kasutamisel ning nende kiiresti arenevat tehnilist taset, on asjakohane k&otilde;nealused spetsifikatsioonid vastavalt kohandada ning j&otilde;ustada alates direktiivis 98/69/E&Uuml; kindlaksm&auml;&auml;ratud kuup&auml;evadest; </eesti>
+<inglise> (3) It is necessary to clarify the dates of application of the OBD requirements of this Directive for new types and all types of vehicles of category M1 equipped with compression-ignition engines and the maximum mass of which exceeds 2500 kg and for vehicles in category N1 classes II and III. </inglise>
+<eesti> 3) on vaja t&auml;psemalt kindlaks m&auml;&auml;rata pardadiagnostikaseadme k&auml;esolevas direktiivis etten&auml;htud n&otilde;uete rakendamise kuup&auml;evad M <hi rend="sub"> 1 </hi> -kategooria uute s&otilde;idukit&uuml;&uuml;pide ja k&otilde;igi diiselmootoriga varustatud s&otilde;idukit&uuml;&uuml;pide suhtes, mille t&auml;ismass on &uuml;le 2500 kg, ning N <hi rend="sub"> 1 </hi> -kategooria II ja III klassi s&otilde;idukite suhtes; </eesti>
+<inglise> (4) It is appropriate to clarify the OBD requirements in relation to tamper prevention, disablement of engine misfire monitoring during certain operating conditions, the storage of distance travelled by the vehicle while a malfunction is indicated to the driver through the malfunction indicator, the capability of the OBD system to perform bi-directional logic control, the use of the P1 and P0 fault code sets of ISO 15031-6, the diagnostic connector and to express the OBD threshold limits to two decimal places. </inglise>
+<eesti> 4) on vaja t&auml;psemalt kindlaks m&auml;&auml;rata OBD-seadme n&otilde;uded seoses kopeerimiskaitsega, mootorit&otilde;rgete seire t&otilde;kestamisega teatavates t&ouml;&ouml;oludes, s&otilde;iduki l&auml;bitud vahemaa salvestamisega alates rikketeate ilmumisest rikkeindikaatorile, OBD-seadme valmisolekuga sooritada kahesuunalist loogilist juhtimist, standardi ISO 15031-6 kohaste P1 ja P0 veakoodiloendite ning diagnostikaliidese kasutamisega, samuti on vaja v&auml;ljendada OBD-piirv&auml;&auml;rtusi kahe k&uuml;mnendikkoha t&auml;psusega. </eesti>
+<inglise> It is appropriate to introduce revised provisions for misfire monitoring under conditions likely to cause catalyst damage to reduce the possibility of false fault indications and to introduce the possibility of partial catalyst volume monitoring and the use of the enhanced on-board to off-board communications link provided by controller area network (CAN). </inglise>
+<eesti> Eba&otilde;igete veateadete v&auml;hendamiseks on vaja muuta s&auml;tteid, mis k&auml;sitlevad mootorit&otilde;rgete seiret olukordades, mis v&otilde;ivad esile kutsuda katal&uuml;saatori kahjustuse, ja kasutusele v&otilde;tta katal&uuml;saatori mahu osalise kontrollimise v&otilde;imalus ning sise- ja v&auml;lisarvuti vaheline laiendatud sideliin CAN-v&otilde;rgu kaudu; </eesti>
+<inglise> (5) It is appropriate to allow the type-approval of vehicles with OBD systems that contain a limited number of minor deficiencies that may arise at, or prior to the time of type-approval or are discovered when vehicles are already in service. </inglise>
+<eesti> 5) on asjakohane lubada anda t&uuml;&uuml;bikinnitus s&otilde;idukitele, mille OBD-seadmel on m&otilde;ni v&auml;iksem viga, mis v&otilde;ib ilmneda t&uuml;&uuml;bikinnituse ajal v&otilde;i enne t&uuml;&uuml;bikinnitust v&otilde;i avastatakse alles s&otilde;iduki kasutamise ajal. </eesti>
+<inglise> The type-approval authority may also issue an extension to the type-approval certificate for vehicles that have already been type-approved in cases where deficiencies are subsequently found within the OBD system on vehicles in-service. </inglise>
+<eesti> T&uuml;&uuml;bikinnitusasutus v&otilde;ib v&auml;lja anda ka laiendatud t&uuml;&uuml;bikinnitustunnistuse juba t&uuml;&uuml;bikinnituse saanud s&otilde;idukitele, mille OBD-seadme vead on avastatud p&auml;rast t&uuml;&uuml;bikinnitust juba kasutuselev&otilde;etud s&otilde;idukil. </eesti>
+<inglise> Such extensions may not be issued if there is a complete lack of monitoring capability. </inglise>
+<eesti> Selliseid laiendusi ei anta seiresuutlikkuse t&auml;ieliku puudumise korral. </eesti>
+<inglise> A period should be specified within which deficiencies authorised by the authority must be corrected on future manufactured vehicles. </inglise>
+<eesti> Tuleks kindlaks m&auml;&auml;rata t&uuml;&uuml;bikinnitusasutuse poolt lubatud vigade k&otilde;rvaldamise aeg edaspidi toodetavatel s&otilde;idukitel; </eesti>
+<inglise> (6) The measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical Progress established by Directive 70/156/EEC, </inglise>
+<eesti> 6) k&auml;esolevas direktiivis etten&auml;htud meetmed on koosk&otilde;las direktiiviga 70/156/EM&Uuml; asutatud tehnika arenguga kohandamise komitee arvamusega, </eesti>
+<inglise> HAS ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> Annexes I, VI, X and XI to Directive 70/220/EEC are amended in accordance with the Annex to this Directive. </inglise>
+<eesti> Direktiivi 70/220/EM&Uuml; I, VI, X ja XI lisa muudetakse vastavalt k&auml;esoleva direktiivi lisale. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 1999 at the latest. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi t&auml;itmiseks vajalikud &otilde;igusnormid hiljemalt 31. detsembriks 1999. </eesti>
+<inglise> They shall forthwith inform the Commission thereof. </inglise>
+<eesti> Liikmesriigid teatavad sellest viivitamata komisjonile. </eesti>
+<inglise> When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need normid vastu v&otilde;tavad, lisavad nad nendesse normidesse v&otilde;i nende normide ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> Member States shall determine how such reference is to be made. </inglise>
+<eesti> Sellise viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall communicate to the Commission the texts of the main provisions of national law that they adopt in the field governed by this Directive. </inglise>
+<eesti> Liikmesriigid edastavad komisjonile k&auml;esoleva direktiiviga reguleeritavas valdkonnas vastuv&otilde;etavate p&otilde;hiliste siseriiklike &otilde;igusnormide teksti. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev direktiiv j&otilde;ustub kolmandal p&auml;eval p&auml;rast selle avaldamist Euroopa &Uuml;henduste Teatajas. </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> This Directive is addressed to the Member States. Done at Brussels, 15 December 1999. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> For the Commission Erkki LIIKANEN Member of the Commission </inglise>
+<eesti> Br&uuml;ssel, 15. detsember 1999 </eesti>
+<inglise> (1) OJ L 76, 6.4.1970, p. 1. (2) OJ L 350, 28.12.1998, p. 1. </inglise>
+<eesti> Komisjoni nimel komisjoni liige Erkki LIIKANEN </eesti>
+<inglise> (3) OJ L 42, 23.2.1970, p. 1. (4) OJ L 11, 16.1.1999, p. 25. </inglise>
+<eesti> ____ (1) E&Uuml;T L 76, 6.04.1970, lk 1. (2) E&Uuml;T L 350, 28.12.1998, lk 1. (3) E&Uuml;T L 42, 23.02.1970, lk 1. (4) E&Uuml;T L 11, 16.01.1999, lk 25. </eesti>
+<inglise> ANNEX </inglise>
+<eesti> LISA </eesti>
+<inglise> AMENDMENTS TO ANNEXES I, VI, X AND XI TO DIRECTIVE 70/220/EEC </inglise>
+<eesti> MUUDATUSED DIREKTIIVI 70/220/EM&Uuml; I, VI, X JA XI LISAS </eesti>
+<inglise> A. Annex I is amended as follows: </inglise>
+<eesti> A. I lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Section 5.1.4.1 is replaced by the following: </inglise>
+<eesti> Punkt 5.1.4.1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "5.1.4.1. </inglise>
+<eesti> "5.1.4.1. </eesti>
+<inglise> Any vehicle with an emission control computer must include features to deter modification, except as authorised by the manufacturer. </inglise>
+<eesti> Igal heitmekontrolliarvutiga s&otilde;idukil peavad olema tehnilised parameetrid, mis takistavad muudatuste, v.a tootja poolt lubatud, tegemist. </eesti>
+<inglise> The manufacturer shall authorise modifications if these modifications are necessary for the diagnosis, servicing, inspection, retrofitting or repair of the vehicle. </inglise>
+<eesti> Tootja annab loa muudatuste tegemiseks, kui need on vajalikud s&otilde;iduki rikete diagnostikaks, tehnohoolduseks, kontrollimiseks, moderniseerimiseks v&otilde;i remondiks. </eesti>
+<inglise> Any reprogrammable computer codes or operating parameters must be resistant to tampering and afford a level of protection at least as good as the provisions in ISO DIS 15031-7; dated October 1998 (SAE J2186 dated October 1996) provided that the security exchange is conducted using the protocols and diagnostic connector as prescribed in Section 6.5 of Annex XI, Appendix 1. </inglise>
+<eesti> K&otilde;ik &uuml;mberprogrammeeritavad arvutikoodid ja t&ouml;&ouml;parameetrid peavad olema kopeerimiskindlad ning kaitstud v&auml;hemalt tasemel, mis vastab 1998. aasta oktoobri standardile ISO DIS 15031-7 (SAE J2186 - oktoober, 1996) tingimusel, et turvalisusega seotud teabevahetus toimub diagnostikaliidese abil XI lisa 1. liite punkti 6.5 kohaselt. </eesti>
+<inglise> Any removable calibration memory chips must be potted, encased in a sealed container or protected by electronic algorithms and must not be changeable without the use of specialised tools and procedures." </inglise>
+<eesti> K&otilde;ik eemaldatavad kaliibrimism&auml;lukiibid peavad olema isoleermaterjaliga kapseldatud, kaetud pitseeritud &uuml;mbrisega v&otilde;i kaitstud elektronalgoritmidega ega tohi olla muudetavad erivahendeid v&otilde;i -protseduure kasutamata." </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Section 5.1.4.5 is replaced by the following: </inglise>
+<eesti> Punkt 5.1. 4.5 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "5.1.4.5. </inglise>
+<eesti> "5.1.4.5. </eesti>
+<inglise> Manufacturers using programmable computer code systems (e.g. electrical erasable programmable read-only memory, EEPROM) must deter unauthorised reprogramming. </inglise>
+<eesti> Tootjad, kes kasutavad programmeeritavaid arvutikoode (n&auml;iteks EEPROMi ehk programmeeritav elekterkustutusega p&uuml;sim&auml;lu), peavad t&otilde;kestama volitamata &uuml;mberprogrammeerimised. </eesti>
+<inglise> Manufacturers must include enhanced tamper-protection strategies and write protect features requiring electronic access to an off site computer maintained by the manufacturer. </inglise>
+<eesti> Tootjad peavad rakendama t&otilde;husaid kopeerimiskaitseviise ning kirjutuskaitsefunktsioone, millele p&auml;&auml;seb elektrooniliselt juurde tootja poolt hooldatavas v&auml;lisarvutis. </eesti>
+<inglise> Methods giving an adequate level of tamper protection will be approved by the authority." </inglise>
+<eesti> Kopeerimiskaitse meetodid peavad olema ametiasutuse poolt n&otilde;uetekohaselt heaks kiidetud." </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Sections 8.1, 8.2, 8.3 and 8.4 are replaced by the following: </inglise>
+<eesti> Punktid 8.1, 8.2, 8.3 ja 8.4 asendatakse j&auml;rgmistega: </eesti>
+<inglise> "8.1. </inglise>
+<eesti> "8.1. </eesti>
+<inglise> Vehicles with positive-ignition engines </inglise>
+<eesti> Ottomootoriga s&otilde;idukid </eesti>
+<inglise> With effect from 1 January 2000 for new types and from 1 January 2001 for all types, vehicles of category M1, except vehicles the maximum mass of which exceeds 2500 kg, and vehicles of category N1 class I, must be fitted with an on-board diagnostic (OBD) system for emission control in accordance with Annex XI. </inglise>
+<eesti> Alates 1. jaanuarist 2000 tuleb k&otilde;ik uued s&otilde;idukit&uuml;&uuml;bid ning alates 1. jaanuarist 2001 k&otilde;ik M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukit&uuml;&uuml;bid, v&auml;lja arvatud s&otilde;idukid t&auml;ismassiga &uuml;le 2500 kg, ning N <hi rend="sub"> 1 </hi> -kategooria I klassi s&otilde;idukid, varustada pardadiagnostikaseadmega (OBD) heitkoguste kontrollimiseks XI lisa kohaselt. </eesti>
+<inglise> With effect from 1 January 2001 for new types and from 1 January 2002 for all types, vehicles of category N1 classes II and III and vehicles of category M1, the maximum mass of which exceeds 2500 kg, must be fitted with an OBD system for emission control in accordance with Annex XI. </inglise>
+<eesti> Alates 1. jaanuarist 2001 tuleb uued s&otilde;idukit&uuml;&uuml;bid ning alates 1. jaanuarist 2002 k&otilde;ik N <hi rend="sub"> 1 </hi> -kategooria II ja III klassi s&otilde;idukit&uuml;&uuml;bid ning M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukid t&auml;ismassiga &uuml;le 2500 kg varustada pardadiagnostikaseadmega (OBD) heitkoguste kontrollimiseks XI lisa kohaselt. </eesti>
+<inglise> 8.2. </inglise>
+<eesti> 8.2. </eesti>
+<inglise> Vehicles with compression-ignition engines </inglise>
+<eesti> Diiselmootoriga s&otilde;idukid </eesti>
+<inglise> Vehicles of category M1, except </inglise>
+<eesti> M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukite puhul, v&auml;lja arvatud </eesti>
+<inglise> - vehicles designed to carry more than six occupants including the driver, </inglise>
+<eesti> - s&otilde;idukid rohkem kui kuuele s&otilde;itjale, juht kaasa arvatud, ning </eesti>
+<inglise> - vehicles whose maximum mass exceeds 2500 kg, </inglise>
+<eesti> - s&otilde;idukid t&auml;ismassiga &uuml;le 2500 kg, </eesti>
+<inglise> from 1 January 2003 for new types and from 1 January 2004 for all types, must be fitted with an on-board diagnostic (OBD) system for emission control in accordance with Annex XI. </inglise>
+<eesti> peab uutel s&otilde;idukit&uuml;&uuml;pidel alates 1. jaanuarist 2003 ning k&otilde;ikidel s&otilde;idukit&uuml;&uuml;pidel alates 1. jaanuarist 2004 olema pardadiagnostikaseade (OBD) heitkoguste kontrollimiseks XI lisa kohaselt. </eesti>
+<inglise> Where new types of compression-ignition engined vehicles entering into service prior to this date are fitted with an OBD system, the provisions of sections 6.5.3 to 6.5.3.6 of Annex XI, Appendix 1, are applicable. </inglise>
+<eesti> Enne k&otilde;nealust kuup&auml;eva kasutusele v&otilde;etud diiselmootoriga uute s&otilde;idukit&uuml;&uuml;pide suhtes, millele on paigaldatud OBD-seade, kohaldatakse XI lisa 1. liite punktide 6.5.3-6.5.3.6 s&auml;tteid. </eesti>
+<inglise> 8.3. </inglise>
+<eesti> 8.3. </eesti>
+<inglise> Vehicles with compression-ignition engines exempt from Section 8.2 </inglise>
+<eesti> Diiselmootoriga s&otilde;idukid, mille suhtes kehtib erand punktist 8.2 </eesti>
+<inglise> From 1 January 2005 for new types and from 1 January 2006 for all types, vehicles of category M1 exempted by Section 8.2, except vehicles of category M1 equipped with compression-ignition engines and the maximum mass of which exceeds 2500 kg, and vehicles in category N1 class 1 equipped with compression-ignition engines, must be fitted with on-board diagnostic (OBD) systems for emission control in accordance with Annex XI. </inglise>
+<eesti> Alates 1. jaanuarist 2005 peavad uued ning alates 1. jaanuarist 2006 peavad k&otilde;ik M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukit&uuml;&uuml;bid, mille suhtes kehtib erand punktist 8.2, olema varustatud pardadiagnostikaseadmetega (OBD) heitkoguste kontrollimiseks XI lisa kohaselt. K&auml;esolev n&otilde;ue ei kehti diiselmootoriga M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukite kohta, mille t&auml;ismass on &uuml;le 2500 kg, ning diiselmootoriga N <hi rend="sub"> 1 </hi> -kategooria I klassi s&otilde;idukite kohta. </eesti>
+<inglise> From 1 January 2006 for new types and 1 January 2007 for all types, vehicles in category N1, classes II and III equipped with compression-ignition engines and vehicles of category M1 equipped with compression-ignition engines and the maximum mass of which exceeds 2500 kg, must be fitted with on-board diagnostic (OBD) systems for emission control in accordance with Annex XI. </inglise>
+<eesti> Alates 1. jaanuarist 2006 peavad uued ning alates 1. jaanuarist 2007 peavad k&otilde;ik diiselmootoriga N <hi rend="sub"> 1 </hi> -kategooria II ja III klassi s&otilde;idukit&uuml;&uuml;bid ning diiselmootoriga M <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukid t&auml;ismassiga &uuml;le 2500 kg olema varustatud pardadiagnostikaseadmetega (OBD) heitkoguste kontrollimiseks XI lisa kohaselt. </eesti>
+<inglise> Where compression-ignition engined vehicles entering into service prior to the dates given in this section are fitted with OBD systems, the provisions of Sections 6.5.3 to 6.5.3.6 of Annex XI, Appendix 1, are applicable. </inglise>
+<eesti> Enne k&auml;esolevas punktis nimetatud kuup&auml;evi kasutusele v&otilde;etud diiselmootoriga s&otilde;idukite suhtes, millele on paigaldatud OBD-seadmed, kohaldatakse XI lisa 1. liite punktide 6.5.3-6.5.3.6 s&auml;tteid. </eesti>
+<inglise> 8.4. </inglise>
+<eesti> 8.4. </eesti>
+<inglise> Vehicles of other categories </inglise>
+<eesti> Muude kategooriate s&otilde;idukid </eesti>
+<inglise> Vehicles of other categories or vehicles of category M1 and N1 not covered by 8.1, 8.2 or 8.3, may be fitted with an OBD system. </inglise>
+<eesti> Muude kategooriate s&otilde;idukid v&otilde;i M <hi rend="sub"> 1 </hi> - ja N <hi rend="sub"> 1 </hi> -kategooria s&otilde;idukid, mida ei reguleerita punktide 8.1, 8.2 v&otilde;i 8.3 alusel, v&otilde;ivad olla varustatud OBD-seadmega. </eesti>
+<inglise> In this case, Sections 6.5.3 to 6.5.3.6 of Annex XI, Appendix 1 are applicable." </inglise>
+<eesti> Sellisel juhul kohaldatakse XI lisa 1. liite punktide 6.5.3-6.5.3.6 s&auml;tteid." </eesti>
+<inglise> B. In Annex VI, the table in Appendix 2 entitled "Diurnal ambient temperature profile for the calibration of the enclosure and the diurnal emission test" is replaced by the following table: </inglise>
+<eesti> B. VI lisa 2. liites esitatud tabel pealkirjaga "&Otilde;hutemperatuuri &ouml;&ouml;p&auml;evane profiil m&otilde;&otilde;tmiskoha kaliibrimisel ning &ouml;&ouml;p&auml;evasel heitkoguse katsel" asendatakse j&auml;rgmise tabeliga: </eesti>
+<inglise> "Diurnal ambient temperature profile for the calibration of the enclosure and the diurnal emmission test </inglise>
+<eesti> "&Otilde;hutemperatuuri &ouml;&ouml;p&auml;evane profiil m&otilde;&otilde;tmiskoha kaliibrimisel ja &ouml;&ouml;p&auml;evase heitkoguse katses </eesti>
+<inglise> C. Annex X is amended as follows: </inglise>
+<eesti> C. X lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The table in Section 1.8. is replaced by the following table: </inglise>
+<eesti> Punktis 1.8 esitatud tabel asendatakse j&auml;rgmise tabeliga: </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Sections 1.8.1 to 1.8.5 are renumbered as 1.8.2 to 1.8.6. </inglise>
+<eesti> Punktide 1.8.1-1.8.5 j&auml;rjekorranumbrid asendatakse vastavalt j&auml;rjekorranumbritega 1.8.2-1.8.6. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Footnote 4 in Sections 1.8.3.1 to 1.8.3.4 is renumbered as footnote 3. </inglise>
+<eesti> Punktide 1.8.3.1-1.8.3.4 joonealuse m&auml;rkuse number 4 asendatakse numbriga 3. </eesti>
+<inglise> Footnote 5 in Sections 1.8.3.5 to 1.8.3.8 is renumbered as footnote 2. </inglise>
+<eesti> Punktide 1.8.3.5-1.8.3.8 joonealuse m&auml;rkuse number 5 asendatakse numbriga 2. </eesti>
+<inglise> Footnotes 4 and 5 are deleted. </inglise>
+<eesti> Joonealused m&auml;rkused 4 ja 5 j&auml;etakse v&auml;lja. </eesti>
+<inglise> D. Annex XI is amended as follows: </inglise>
+<eesti> D. XI lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> This item only concerns the Portuguese version. </inglise>
+<eesti> K&auml;esolev punkt puudutab ainult portugalikeelset versiooni. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> A section 2.20 is added as follows: </inglise>
+<eesti> Punkti 2.20 t&auml;iendatakse j&auml;rgmiselt: </eesti>
+<inglise> "2.20 'Deficiency' means, in respect of vehicle OBD systems, that up to two separate components or systems that are monitored contain temporary or permanent operating characteristics that impair the otherwise efficient OBD monitoring of those components or systems or do not meet all of the other detailed requirements for OBD. </inglise>
+<eesti> "2.20. Viga t&auml;hendab s&otilde;iduki OBD-seadmete puhul seda, et kuni kahes seiratavas eraldi osas v&otilde;i s&uuml;steemis esinevad pidevalt v&otilde;i ajutistelt t&ouml;&ouml;n&auml;itajad, mis raskendavad nende osade v&otilde;i s&uuml;steemide &uuml;ldiselt t&otilde;husat seiretoimingut v&otilde;i ei vasta k&otilde;igile OBD puhul esitatavatele &uuml;ksikasjalikele n&otilde;uetele. </eesti>
+<inglise> Vehicles may be type-approved, registered and sold with such deficiencies according to the requirements of Section 4 of this Annex." </inglise>
+<eesti> Selliste vigadega s&otilde;idukitele v&otilde;ib anda t&uuml;&uuml;bikinnituse, neid on lubatud registreerida ja m&uuml;&uuml;a k&auml;esoleva lisa punkti 4 n&otilde;uete kohaselt." </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Section 3.1.1 is replaced by the following: </inglise>
+<eesti> Punkt 3.1.1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.1.1. </inglise>
+<eesti> "3.1.1. </eesti>
+<inglise> Access to the OBD system required for the inspection, diagnosis, servicing or repair of the vehicle must be unrestricted and standardised. </inglise>
+<eesti> Juurdep&auml;&auml;su OBD-seadmele, mis on vajalik s&otilde;iduki kontrollimiseks, diagnostikaks, tehnohoolduseks v&otilde;i remondiks, ei tohi piirata ja see peab olema standarditud. </eesti>
+<inglise> All emission-related fault codes must be consistent with Section 6.5.3.4 of Appendix 1 to this Annex." </inglise>
+<eesti> K&otilde;ik heitkogustega seotud veakoodid peavad vastama k&auml;esoleva lisa 1. liite punktile 6.5.3.4." </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Section 3.2.2.2 is replaced by the following: </inglise>
+<eesti> Punkt 3.2.2.2 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.2.2.2. </inglise>
+<eesti> "3.2.2.2. </eesti>
+<inglise> When a manufacturer can demonstrate to the authority that the detection of higher levels of misfire percentages is still not feasible, or that misfire cannot be distinguished from other effects (e.g. rough roads, transmission shifts, after engine starting; etc.) the misfire monitoring system may be disabled when such conditions exist." </inglise>
+<eesti> Kui tootja suudab ametiasutusele t&otilde;estada, et mootori t&ouml;&ouml;taktide vahelej&auml;tmise &uuml;lem&auml;&auml;rast taset protsentides ei ole veel tehniliselt v&otilde;imalik m&auml;&auml;rata v&otilde;i et mootori t&ouml;&ouml;taktide vahelej&auml;ttusid ei saa eristada muudest toimetest (n&auml;iteks ebatasane tee, j&otilde;u&uuml;lekandes&uuml;steem, mootori k&auml;ivitamisj&auml;rgsed t&otilde;rked), siis v&otilde;ib mootori t&ouml;&ouml;taktide vahelej&auml;tmise seires&uuml;steemi selliste tingimuste esinemise korral v&auml;lja l&uuml;litada." </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> Section 3.3.2 and the table are replaced by the following: </inglise>
+<eesti> Punkt 3.3.2 ning tabel asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.3.2. </inglise>
+<eesti> "3.3.2. </eesti>
+<inglise> The OBD system must indicate the failure of an emission-related component or system when that failure results in emissions exceeding the threshold limits given below: </inglise>
+<eesti> Kui heitkogused &uuml;letavad tabelis esitatud lubatud piirnormid, siis peab OBD-seade n&auml;itama heitkogustega seotud osa v&otilde;i s&uuml;steemi t&otilde;rget: </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> Section, 3.3.3.1 is replaced by the following: </inglise>
+<eesti> Punkt 3.3.3.1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.3.3.1. </inglise>
+<eesti> "3.3.3.1. </eesti>
+<inglise> Reduction in the efficiency of the catalytic converter with respect to the emissions of HC only. </inglise>
+<eesti> Katal&uuml;&uuml;sj&auml;relp&otilde;leti efektiivsuse v&auml;henemine ainult HC heitkoguste osas. </eesti>
+<inglise> Manufacturers may monitor the front catalyst alone or in combination with the next catalyst(s) downstream. </inglise>
+<eesti> Tootjad v&otilde;ivad kontrollida eesmist katal&uuml;saatorit &uuml;ksinda v&otilde;i koos j&auml;rgmise/j&auml;rgmiste p&auml;rivoolu paikneva katal&uuml;saatoriga/paiknevate katal&uuml;saatoritega. </eesti>
+<inglise> Each monitored catalyst or catalyst combination shall be considered malfunctioning when the emissions exceed the HC threshold given in the table in Section 3.3.2; &ldquo; </inglise>
+<eesti> Iga kontrollitud katal&uuml;saator v&otilde;i katal&uuml;saatorite kombinatsioon, mille HC heitkogused &uuml;letavad punkti 3.3.2 tabelis esitatud k&uuml;nnise, ei ole t&ouml;&ouml;korras; &ldquo; </eesti>
+<inglise> 8. </inglise>
+<eesti> 8. </eesti>
+<inglise> Section 3.3.3.5 is replaced by the following: </inglise>
+<eesti> Punkt 3.3.3.5 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.3.3.5. </inglise>
+<eesti> "3.3.3.5. </eesti>
+<inglise> Unless otherwise monitored, any other emission-related powertrain component connected to a computer, including any relevant sensors to enable monitoring functions to be carried out, must be monitored for circuit continuity." </inglise>
+<eesti> K&otilde;ik muud heitkogustega seotud j&otilde;u&uuml;lekande osad, mis on arvutiga &uuml;hendatud, kaasa arvatud seiretoiminguid v&otilde;imaldavad asjakohased sensorid, kontrollitakse ahelas esinevate v&otilde;imalike h&auml;irete suhtes, kui kontrollimine ei toimu muul viisil." </eesti>
+<inglise> 9. </inglise>
+<eesti> 9. </eesti>
+<inglise> Section 3.3.4.5 is replaced by the following: </inglise>
+<eesti> Punkt 3.3.4.5 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.3.4.5. </inglise>
+<eesti> "3.3.4.5. </eesti>
+<inglise> Unless otherwise monitored, any other emission-related powertrain component connected to a computer must be monitored for circuit continuity." </inglise>
+<eesti> K&otilde;ik muud heitkogustega seotud j&otilde;us&uuml;steemi osad, mis on arvutiga &uuml;hendatud, tuleb ahelas esinevate h&auml;irete suhtes &uuml;le kontrollida, kui neid ei kontrollita muul viisil." </eesti>
+<inglise> 10. </inglise>
+<eesti> 10. </eesti>
+<inglise> Section 3.6.1 is replaced by the following: </inglise>
+<eesti> Punkt 3.6.1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.6.1. </inglise>
+<eesti> "3.6.1. </eesti>
+<inglise> The distance travelled by the vehicle while the MI is activated must be available at any instant through the serial port on the standard link connector(1)." </inglise>
+<eesti> Andmed s&otilde;iduki poolt l&auml;bitud tee pikkuse kohta alates alates rikkeindikaatori k&auml;ivitumisest peavad olema kogu aeg k&auml;ttesaadavad standard-andmesideliidese jadapordi kaudu. <hi rend="sup">_______</hi> </eesti>
+<inglise> 11. </inglise>
+<eesti> 11. </eesti>
+<inglise> Section 3.7.1 is replaced by the following: </inglise>
+<eesti> Punkt 3.7.1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "3.7.1. </inglise>
+<eesti> "3.7.1. </eesti>
+<inglise> If misfire at levels likely to cause catalyst damage (as specified by the manufacturer) is not present any more, or if the engine is operated after changes to speed and load conditions where the level of misfire will not cause catalyst damage, the MI may be switched back to the previous state of activation during the first driving cycle on which the misfire level was detected and may be switched to the normal activated mode on subsequent driving cycles. </inglise>
+<eesti> Kui mootorit&otilde;rkeid, mis v&otilde;iksid kahjustada katal&uuml;saatorit (vastavalt tootja m&auml;&auml;ratlusele) enam ei ole v&otilde;i kui mootorit kasutatakse sellisel kiirusel ja koormusega, mille puhul mootorit&otilde;rked ei kutsu esile katal&uuml;saatori vigastust, siis v&otilde;ib rikkeindikaatori tagasi l&uuml;litada eelnenud t&ouml;&ouml;re&zcaron;iimile esimese s&otilde;iduts&uuml;kli ajal, millal mootorit&otilde;rge avastati, ning tagasi tavare&zcaron;iimile j&auml;rgmiste s&otilde;iduts&uuml;klite ajal. </eesti>
+<inglise> If the MI is switched back to the previous state of activation, the corresponding fault codes and stored freeze-frame conditions may be erased." </inglise>
+<eesti> Rikkeindikaatori tagasil&uuml;litamise korral eelnenud t&ouml;&ouml;re&zcaron;iimile v&otilde;ib vastavad veakoodid ja vea tekkimisel salvestatud andmed kustutada." </eesti>
+<inglise> 12. </inglise>
+<eesti> 12. </eesti>
+<inglise> A Section 4 is added as follows: </inglise>
+<eesti> Punkti 4 t&auml;iendatakse j&auml;rgmiselt: </eesti>
+<inglise> "4. </inglise>
+<eesti> "4. </eesti>
+<inglise> Requirements relating to the type-approval of on-board diagnostic systems </inglise>
+<eesti> Pardadiagnostikas&uuml;steemide t&uuml;&uuml;bikinnitusega seotud n&otilde;uded </eesti>
+<inglise> 4.1. </inglise>
+<eesti> 4.1. </eesti>
+<inglise> A manufacturer may request to the authority that an OBD system be accepted for type-approval even though the system contains one or more deficiencies such that the specific requirements of this Annex are not fully met. </inglise>
+<eesti> Tootja v&otilde;ib ametiasutuselt taotleda OBD-seadme vastuv&otilde;tmist t&uuml;&uuml;bikinnituseks, kuigi s&uuml;steemil on &uuml;ks v&otilde;i mitu viga, mis ei v&otilde;imalda k&auml;esoleva lisa erin&otilde;udeid t&auml;ielikult t&auml;ita. </eesti>
+<inglise> 4.2. </inglise>
+<eesti> 4.2. </eesti>
+<inglise> In considering the request, the authority shall determine whether compliance with the requirements of this Annex is infeasible or unreasonable. </inglise>
+<eesti> Ametiasutus teeb taotluse l&auml;bivaatamisel kindlaks, kas k&auml;esoleva lisa n&otilde;uete t&auml;itmine on tehniliselt v&otilde;imatu v&otilde;i ebaotstarbekas. </eesti>
+<inglise> The authority shall take into consideration data from the manufacturer that details such factors as, but not limited to, technical feasibility, lead time and production cycles including phase-in or phase-out of engines or vehicle designs and programmed upgrades of computers, the extent to which the resultant OBD system will be effective in complying with the requirements of this directive and that the manufacturer has demonstrated an acceptable level of effort toward compliance with the requirements of this Directive. </inglise>
+<eesti> Ametiasutus v&otilde;tab arvesse tootjalt saadud andmed, milles muu hulgas k&auml;sitletakse &uuml;ksikasjalikult ka selliseid tegureid nagu tehniline teostatavus, teostusaeg ja tootmists&uuml;klid, kaasa arvatud mootori- v&otilde;i s&otilde;idukiprojektide j&auml;rkj&auml;rguline tootmisse v&otilde;tmine v&otilde;i tootmisest maha v&otilde;tmine ning kavakohased arvutite versioonit&auml;iendid, ning otsustab sellest tulenevalt, kui suures ulatuses OBD-seade hakkab vastama k&auml;esoleva direktiivi n&otilde;uetele ning kas tootja on teinud piisavalt j&otilde;upingutusi k&auml;esoleva direktiivi n&otilde;uete t&auml;itmiseks. </eesti>
+<inglise> 4.2.1. </inglise>
+<eesti> 4.2.1. </eesti>
+<inglise> The authority will not accept any deficiency request that includes the complete lack of a required diagnostic monitor. </inglise>
+<eesti> Ametiasutus ei rahulda vigadega seadme t&uuml;&uuml;bikinnitustaotlust, kui seadme etten&auml;htud kontrollifunktsioon t&auml;ielikult puudub. </eesti>
+<inglise> 4.2.2. </inglise>
+<eesti> 4.2.2. </eesti>
+<inglise> The authority will not accept any deficiency request that does not respect the OBD threshold limits in Section 3.3.2. </inglise>
+<eesti> Ametiasutus ei rahulda sellise vigadega seadme t&uuml;&uuml;bikinnitustaotlust, mille puhul ei peeta kinni OBD punktis 3.3.2 esitatud lubatud piirnormidest. </eesti>
+<inglise> 4.3. </inglise>
+<eesti> 4.3. </eesti>
+<inglise> In determining the identified order of deficiencies, deficiencies relating to sections 3.3.3.1, 3.3.3.2 and 3.3.3.3 of this Annex for positive-ignition engines and sections 3.3.4.1, 3.3.4.2 and 3.3.4.3 of this Annex for compression-ignition engines shall be identified first. </inglise>
+<eesti> Vigade j&auml;rjestuse seisukohalt m&auml;&auml;ratakse esimesena kindlaks ottomootorite k&auml;esoleva lisa punktide 3.3.3.1, 3.3.3.2 ja 3.3.3.3 kohased vead ning diiselmootorite k&auml;esoleva lisa punktidele 3.3.4.1, 3.3.4.2 ja 3.3.4.3 vastavad vead. </eesti>
+<inglise> 4.4. </inglise>
+<eesti> 4.4. </eesti>
+<inglise> Prior to or at the time of type-approval, no deficiency shall be granted in respect of the requirements of Section 6.5, except Section 6.5.3.4, of Appendix 1 to this Annex. </inglise>
+<eesti> Enne t&uuml;&uuml;bikinnitust v&otilde;i t&uuml;&uuml;bikinnituse ajal ei kinnitata &uuml;htegi k&auml;esoleva lisa 1. liite punkti 6.5 n&otilde;uetega seotud viga, v&auml;lja arvatud punkti 6.5.3.4 kohased vead. </eesti>
+<inglise> 4.5. </inglise>
+<eesti> 4.5. </eesti>
+<inglise> Deficiency period </inglise>
+<eesti> Vigade k&otilde;rvaldamiseks lubatud aeg </eesti>
+<inglise> 4.5.1. </inglise>
+<eesti> 4.5.1. </eesti>
+<inglise> A deficiency may be carried-over for a period of two years after the date of type-approval of the vehicle type unless it can be adequately demonstrated that substantial vehicle hardware modifications and additional lead-time beyond two years would be necessary to correct the deficiency. </inglise>
+<eesti> Vea esinemine on lubatud kaks aastat p&auml;rast s&otilde;idukit&uuml;&uuml;bile t&uuml;&uuml;bikinnituse andmise kuup&auml;eva, kui ei suudeta veenvalt t&otilde;estada, et vea k&otilde;rvaldamine n&otilde;uab olulisi muudatusi s&otilde;iduki riistvaras ning &uuml;le kahe aasta pikkust t&auml;iendavat teostusaega. </eesti>
+<inglise> In such a case, the deficiency may be carried-over for a period not exceeding three years. </inglise>
+<eesti> Sellisel juhul v&otilde;ib vea k&otilde;rvaldamise lubatud aega pikendada kuni kolme aastani. </eesti>
+<inglise> 4.5.2. </inglise>
+<eesti> 4.5.2. </eesti>
+<inglise> A manufacturer may request that the original type-approval authority grant a deficiency retrospectively when such a deficiency is discovered after the original type-approval. </inglise>
+<eesti> Tootja v&otilde;ib taotleda esialgse t&uuml;&uuml;bikinnituse andnud ametiasutuselt vea kinnitamist tagasiulatuvalt, kui viga avastatakse p&auml;rast esialgset t&uuml;&uuml;bikinnitust. </eesti>
+<inglise> In this case, the deficiency may be carried over for a period of two years after the date of notification to the type-approval authority unless it can be adequately demonstrated that substantial vehicle hardware modifications and additional lead time beyond two years would be necessary to correct the deficiency. </inglise>
+<eesti> Sellisel juhul v&otilde;ib viga eksisteerida kaks aastat p&auml;rast t&uuml;&uuml;bikinnitusasutusele teatise esitamise kuup&auml;eva, kui ei suudeta veenvalt t&otilde;estada, et vea k&otilde;rvaldamine n&otilde;uab olulisi muudatusi s&otilde;iduki riistvaras ning &uuml;le kahe aasta pikkust t&auml;iendavat teostusaega. </eesti>
+<inglise> In such a case, the deficiency may be carried-over for a period not exceeding three years. </inglise>
+<eesti> Viimasel juhul v&otilde;ib vea k&otilde;rvaldamise lubatud aega pikendada kuni kolme aastani. </eesti>
+<inglise> 4.6. </inglise>
+<eesti> 4.6. </eesti>
+<inglise> The authority shall notify its decision in granting a deficiency request to all authorities in other Member States according to the requirements of Article 4 to Directive 70/156/EEC." </inglise>
+<eesti> Ametiasutus teatab veataotluse rahuldamise otsusest k&otilde;igile ametiasutustele muudes liikmesriikides direktiivi 70/156/EM&Uuml; artikli 4 n&otilde;uete kohaselt." </eesti>
+<inglise> 13. </inglise>
+<eesti> 13. </eesti>
+<inglise> Appendix 1 is amended as follows: </inglise>
+<eesti> 1. liidet muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) The third paragraph of Section 1 is replaced by the following: </inglise>
+<eesti> a) 1. punkti kolmas punkt asendatakse j&auml;rgmisega: </eesti>
+<inglise> "When the vehicle is tested with the defective component or device fitted, the OBD system is approved if the MI is activated. </inglise>
+<eesti> "Veaga osa v&otilde;i seadmega varustatud s&otilde;iduki katsetamisel antakse OBD-seadmele t&uuml;&uuml;bikinnitus juhul, kui rikkeindikaator k&auml;ivitub. </eesti>
+<inglise> The OBD system is also approved if the MI is activated below the OBD threshold limits." </inglise>
+<eesti> OBD-seadmele antakse t&uuml;&uuml;bikinnitus ka juhul, kui rikkeindikaator k&auml;ivitub OBD piirnormidest madalamate v&auml;&auml;rtuste juures." </eesti>
+<inglise> (b) Section 2.1, second indent, is replaced by the following: </inglise>
+<eesti> b) Punkti 2.1 teine taane asendatakse j&auml;rgmisega: </eesti>
+<inglise> "- preconditioning of the vehicle with a simulated malfunction over preconditioning specified in Section 6.2.1 or Section 6.2.2." </inglise>
+<eesti> "- punktis 6.2.1 v&otilde;i 6.2.2 kindlaksm&auml;&auml;ratud eelkonditsioneerimisel simuleeritud rikkega s&otilde;iduki ettevalmistus." </eesti>
+<inglise> (c) Section 6.3.1.5 is replaced by the following: </inglise>
+<eesti> c) Punkt 6.3.1.5 asendatakse j&auml;rgmisega: </eesti>
+<inglise> "6.3.1.5. </inglise>
+<eesti> "6.3.1.5. </eesti>
+<inglise> Electrical disconnection of the evaporative purge control device (if equipped). </inglise>
+<eesti> K&uuml;tuseaurude eemaldamist juhtiva seadme (kui s&otilde;iduk on sellega varustatud) v&auml;ljal&uuml;litamine. </eesti>
+<inglise> For this specific failure mode, the Type I test need not be performed." </inglise>
+<eesti> Selle konkreetse vealiigi puhul ei ole vaja teha I t&uuml;&uuml;bikatsetust." </eesti>
+<inglise> (d) The second paragraph of Section 6.5.1.2 is replaced by the following: </inglise>
+<eesti> d) Punkti 6.5.1.2 teine l&otilde;ik asendatakse j&auml;rgmisega: </eesti>
+<inglise> "The signals must be provided in standard units based on the specifications given in 6.5.3. </inglise>
+<eesti> "M&otilde;&otilde;tmistulemused tuleb esitada standard&uuml;hikutes, mis p&otilde;hinevad punktis 6.5.3 esitatud spetsifikatsioonidel. </eesti>
+<inglise> Actual signals must be clearly identified separately from default value or limp-home signals." </inglise>
+<eesti> M&otilde;&otilde;tmistulemuste tegelikud v&auml;&auml;rtused tuleb selgesti eraldada puuduvatest v&otilde;i ebaselgetest v&auml;&auml;rtustest." </eesti>
+<inglise> (e) Section 6.5.1.5 is added as follows: </inglise>
+<eesti> e) Punkti 6.5.1.5 t&auml;iendatakse j&auml;rgmiselt: </eesti>
+<inglise> "6.5.1.5. </inglise>
+<eesti> "6.5.1.5. </eesti>
+<inglise> From 1 January 2003 for new types and from 1 January 2005 for all types of vehicles entering into service, the software calibration identification number shall be made available through the serial port on the standardised data link connector. </inglise>
+<eesti> Uute s&otilde;idukit&uuml;&uuml;pide puhul peab tarkvara kaliibrimise tunnuskood olema standard-andmesideliidese jadapordi kaudu k&auml;ttesaadav alates 1. jaanuarist 2003 ning k&otilde;igi kasutuselev&otilde;etavate s&otilde;idukit&uuml;&uuml;pide puhul alates 1. jaanuarist 2005. </eesti>
+<inglise> The software calibration identification number shall be provided in a standardised format." </inglise>
+<eesti> Tarkvara kaliibrimise tunnuskood esitatakse standardvormis." </eesti>
+<inglise> (f) Sections 6.5.3.1 to 6.5.3.6 are replaced by the following: </inglise>
+<eesti> f) Punktid 6.5.3.1-6.5.3.6 asendatakse j&auml;rgmistega: </eesti>
+<inglise> "6.5.3.1. </inglise>
+<eesti> "6.5.3.1. </eesti>
+<inglise> One of the following standards with the restrictions as described must be used as the on-board to off board communications link: </inglise>
+<eesti> Sise- ja v&auml;lisarvuti vaheline sideliin peab etten&auml;htud piiranguid arvestades vastama &uuml;hele j&auml;rgmistest standarditest: </eesti>
+<inglise> ISO 9141-2 'Road Vehicles - Diagnostic Systems - CARB Requirements for the Interchange of Digital Information'; </inglise>
+<eesti> ISO 9141 "Road Vehicles - Diagnostic Systems - CARB Requirements for the Interchange of Digital Information"; </eesti>
+<inglise> ISO FDIS 11519-4 'Road Vehicles - Low Speed Serial Data Communication - Part 4: Class B Data Communication Interface (SAE J1850) </inglise>
+<eesti> ISO FDIS 11519-4 "Road Vehicles - Low Speed Serial Data Communication - 4. osa: Class B Data Communication Interface (SAE J1850)". </eesti>
+<inglise> ' . Emission-related messages must use the cyclic redundancy check and the three byte header and not use inter-byte separation or checksums. </inglise>
+<eesti> Heitkogustega seotud teadetes tuleb kasutada ts&uuml;kkelkoodkontrolli ning kolmebaidilist p&auml;ist, mitte baidieraldust ega kontrollsummasid. </eesti>
+<inglise> ISO FDIS 14230 - Part 4 'Road Vehicles - Diagnostic Systems - Keyword Protocol 2000'. </inglise>
+<eesti> ISO FDIS 14230 - 4. osa "Road Vehicles - Diagnostic Systems - Keyword Protocol 2000". </eesti>
+<inglise> ISO WD 15765-4 'Road vehicles - Diagnostic systems Diagnostics on CAN - Part 4: Requirements for emissionrelated systems'. </inglise>
+<eesti> ISO WD 15765-4 "Road Vehicles - Diagnostic Systems - Diagnostics on CAN - 4. osa: Requirements for emissionrelated systems". </eesti>
+<inglise> 6.5.3.2. </inglise>
+<eesti> 6.5.3.2. </eesti>
+<inglise> Test equipment and diagnostic tools needed to communicate with OBD systems must meet or exceed the functional specification given in ISO DIS 15031-4 - dated June 1998 (SAE J1978 - dated February 1998). </inglise>
+<eesti> OBD-seadmetega &uuml;henduse pidamiseks vajalikud katseseadmed ja diagnostikavahendid peavad vastama v&auml;hemalt 1998. aasta juuni standardile ISO DIS 15031-4 (SAE J1978 - veebruar, 1998). </eesti>
+<inglise> 6.5.3.3. </inglise>
+<eesti> 6.5.3.3. </eesti>
+<inglise> Basic diagnostic data, (as specified in 6.5.1) and bi-directional control information must be provided using the format and units described in ISO DIS 15031-5 - dated October 1998 (SAE J1979 - dated September 1997) and must be available using a diagnostic tool meeting the requirements of ISO DIS 15031-4 - dated June 1998 (SAE J1978 - dated February 1998). </inglise>
+<eesti> P&otilde;hilised diagnostilised andmed (vastavalt punktile 6.5.1) ja kahesuunalise juhtimise andmed tuleb esitada 1998. aasta oktoobri standardi ISO DIS 15031-5 (SAE J1979 - september, 1997) alusel ning need peavad olema k&auml;ttesaadavad diagnostikavahendi abil, mis vastab 1998. aasta juuni standardile ISO DIS 15031-4 (SAE J1978 - veebruar, 1998). </eesti>
+<inglise> 6.5.3.4. </inglise>
+<eesti> 6.5.3.4. </eesti>
+<inglise> When a fault is registered, the manufacturer must identify the fault using an appropriate fault code consistent with those given in Section 6.3 of ISO DIS 15031-6 - dated October 1998 (SAE J2012 - dated July 1996), relating to 'Powertrain system diagnostic trouble codes' (P0 fault codes). </inglise>
+<eesti> Tootja peab rikke registreerimise korral selle identifitseerima asjakohase veakoodi abil, mis vastab punktis 6.3 esitatud veakoodidele vastavalt 1998. aasta standardile ISO DIS 15031-6 (SAE J2012 - juuli, 1996) "&Uuml;lekandes&uuml;steemi diagnostika veakoodid" (P0-veakoodid). </eesti>
+<inglise> If such identification is not possible, the manufacturer may use diagnostic trouble codes according to Sections 5.3 and 5.6 of ISO DIS 15031-6 dated October 1998 (SAE J2012 - dated July 1996) (P1 fault codes). </inglise>
+<eesti> Kui selline identifitseerimise osutub v&otilde;imatuks, siis v&otilde;ib tootja kasutada 6. oktoobri 1998. aasta standardi ISO DIS 15031-6 (SAE J2012 - juuli, 1996) punktide 5.3 ja 5.6 kohaseid diagnostilisi veakoode (P1-veakoodid). </eesti>
+<inglise> The fault codes must be fully accessible by standardised diagnostic equipment complying with the provisions of 6.5.3.2. </inglise>
+<eesti> Veakoodid peavad olema t&auml;ielikult k&auml;ttesaadavad punktis 6.5.3.2 ettn&auml;htud n&otilde;uetele vastava standardse diagnostikaseadme abil. </eesti>
+<inglise> The note in Section 6.3 of ISO 15031-6 (SAE J2012 - dated July 1996) immediately preceding the list of fault codes in the same section does not apply. </inglise>
+<eesti> Standardi ISO 15031-6 (SAE J2012 - juuli, 1996) punktis 6.3 sisalduvat m&auml;rkust, mis vahetult eelneb samas punktis esitatud veakoodide loetelule, ei kohaldata. </eesti>
+<inglise> 6.5.3.5. </inglise>
+<eesti> 6.5.3.5. </eesti>
+<inglise> The connection interface between the vehicle and the diagnostic tester must be standardised and must meet all the requirements of ISO DIS 15031-3 - dated December 1998 (SAE J1962 - dated February 1998). </inglise>
+<eesti> S&otilde;iduki ja diagnostikaseadme vaheline liides peab olema standarditud ning vastama 1998. aasta detsembri standardile ISO DIS 15031-3 (SAE J1962 - veebruar, 1998). </eesti>
+<inglise> The installation position must be subject to agreement of the approval authority such that it is readily accessible by service personnel but protected from accidental damage during normal conditions of use. </inglise>
+<eesti> Paigalduskoha suhtes tuleb kokku leppida t&uuml;&uuml;bikinnitusasutusega, et paigalduskoht oleks hooldust&ouml;&ouml;tajatele h&otilde;lpsasti juurdep&auml;&auml;setav, kuid kaitstud juhuslike vigastuste eest tavakasutusel. </eesti>
+<inglise> 6.5.3.6. </inglise>
+<eesti> 6.5.3.6. </eesti>
+<inglise> The manufacturer must also make accessible, where appropriate on payment, the technical information required for the repair or maintenance of motor vehicles unless that information is covered by an intellectual property right or constitutes essential, secret know-how which is identified in an appropriate form; in such case, the necessary technical information must not be withheld improperly. </inglise>
+<eesti> Tootja peab k&auml;ttesaadavaks tegema mootors&otilde;idukite remondiks v&otilde;i hoolduseks vajaliku tehnikaalase teabe (vajaduse korral tasulise), kui k&otilde;nealune teave ei ole intellektuaalomandi &otilde;igusega kaitstud ega sisalda asjakohases vormis kindlaksm&auml;&auml;ratud salajast oskusteavet; sellisel juhul peetakse tehnikaalase teabe andmata j&auml;tmist n&otilde;uetele vastavaks. </eesti>
+ 

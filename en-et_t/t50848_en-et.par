@@ -1,0 +1,227 @@
+<inglise> DIRECTIVE 98/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit </inglise>
+<eesti> EUROOPA PARLAMENDI JA N&Otilde;UKOGU DIREKTIIV 98/7/E&Uuml;, millega muudetakse direktiivi 87/102/EM&Uuml; liikmesriikide tarbijakrediiti k&auml;sitlevate &otilde;igusnormide &uuml;htlustamise kohta 16. veebruar 1998 </eesti>
+<inglise> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, </inglise>
+<eesti> EUROOPA PARLAMENT JA EUROOPA LIIDU N&Otilde;UKOGU, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, eriti selle artiklit 100a, </eesti>
+<inglise> Having regard to the proposal of the Commission (1), </inglise>
+<eesti> v&otilde;ttes arvesse komisjoni ettepanekut, (1) </eesti>
+<inglise> Having regard to the opinion of the Economic and Social Committee (2), </inglise>
+<eesti> v&otilde;ttes arvesse majandus- ja sotsiaalkomitee arvamust, (2) </eesti>
+<inglise> Acting in accordance with the procedure laid down in Article 189b of the Treaty (3), </inglise>
+<eesti> tegutsedes asutamislepingu artiklis 189b etten&auml;htud korras (3) </eesti>
+<inglise> Whereas it is desirable, in order to promote the establishment and functioning of the internal market and to ensure that consumers benefit from a high level of protection, that a single method of calculating the annual percentage rate of charge for consumer credit should be used throughout the Community; </inglise>
+<eesti> ning arvestades, et: siseturu loomise ja toimimise edendamiseks ning tarbijate kaitstuse k&otilde;rge taseme tagamiseks on soovitav, et k&otilde;ikjal &uuml;henduses kasutataks tarbijakrediidi efektiivse aastaintressi &uuml;htset arvutamismeetodit; </eesti>
+<inglise> Whereas Article 5 of Directive 87/102/EEC (4) provides for the introduction of a Community method or methods of calculating the annual percentage rate of charge; </inglise>
+<eesti> direktiivi 87/102/EM&Uuml; (4) artiklis 5 s&auml;testatakse &uuml;henduses kasutatava efektiivse aastaintressi arvutamise meetodi v&otilde;i meetodite kasutuselev&otilde;tmine; </eesti>
+<inglise> Whereas, in order to introduce this single method, it is desirable to draw up a single mathematical formula for calculating the annual percentage rate of charge and for determining the credit cost items to be used in the calculation by indicating those costs which must not be taken into account; </inglise>
+<eesti> &uuml;htse meetodi kasutuselev&otilde;tmiseks on soovitav koostada efektiivse aastaintressi arvutamise ja arvutamisel kasutatavate krediidi kuluartiklite kindlaksm&auml;&auml;ramise &uuml;htne matemaatiline valem, n&auml;idates &auml;ra need kulud, mida ei tohi arvesse v&otilde;tta; </eesti>
+<inglise> Whereas Annex II of Directive 87/102/EEC introduced a mathematical formula for the calculation of the annual percentage rate of charge and Article 1a(2) of that Directive provided for the charges to be excluded from the calculation of the 'total cost of credit to the consumer'; </inglise>
+<eesti> direktiivi 87/102/EM&Uuml; II lisas esitati efektiivse aastaintressi arvutamise matemaatiline valem ja selle direktiivi artikli 1a l&otilde;ikes 2 s&auml;testati tasud, mis tuleb "tarbijale krediidi kogumaksumuse" arvutamisel v&auml;lja j&auml;tta; </eesti>
+<inglise> Whereas during a transitional period of three years from 1 January 1993, Member States which prior to 1 March 1990 applied laws which permitted the use of another mathematical formula for calculating the annual percentage rate of charge, were permitted to continue to apply such laws; </inglise>
+<eesti> 1. jaanuaril 1993. aastal alanud kolmeaastasel &uuml;leminekuperioodil lubati liikmesriikidel, kes enne 1. m&auml;rtsi 1990 kohaldasid seadusi, mis lubasid kasutada efektiivse aastaintressi arvutamiseks teist matemaatilist valemit, j&auml;tkata nende seaduste kohaldamist; </eesti>
+<inglise> Whereas the Commission has submitted a Report to the Council which makes it possible, in the light of experience, to apply a single Community mathematical formula for calculating the annual percentage rate of charge; </inglise>
+<eesti> komisjon on esitanud n&otilde;ukogule aruande, mis v&otilde;imaldab kogemustele toetudes kohaldada efektiivse aastaintressi arvutamiseks &uuml;henduse &uuml;htset matemaatilist valemit; </eesti>
+<inglise> Whereas, since no Member State has made use of Article 1a(3) of Directive 87/102/EEC by which certain costs were excluded from the calculation of the annual percentage rate of charge in certain Member States, it has become obsolete; </inglise>
+<eesti> kuna &uuml;kski liikmesriik ei ole kasutanud direktiivi 87/102/EM&Uuml; artikli 1a l&otilde;iget 3, millega j&auml;eti teatavad kulud efektiivse aastaintressi arvutamisel teatavates liikmesriikides v&auml;lja, on see s&auml;te vananenud; </eesti>
+<inglise> Whereas accuracy to at least one decimal place is necessary; </inglise>
+<eesti> n&otilde;utav t&auml;psus on v&auml;hemalt &uuml;ks koht p&auml;rast koma; </eesti>
+<inglise> Whereas a year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months; whereas an equal month is presumed to have 30,41666 days; </inglise>
+<eesti> arvutamisel kasutatava aasta pikkus on 365 p&auml;eva v&otilde;i 365,25 p&auml;eva v&otilde;i (liigaasta) 366 p&auml;eva, 52 n&auml;dalat v&otilde;i 12 v&otilde;rdset kuud; arvutamisel kasutatava v&otilde;rdse kuu pikkus on 30, 41666 p&auml;eva; </eesti>
+<inglise> Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the 'annual percentage rate of charge'; </inglise>
+<eesti> on soovitav, et tarbijad tunneksid &auml;ra m&otilde;isted, mida erinevad liikmesriigid kasutavad "efektiivse aastaintressi" m&auml;rkimiseks; </eesti>
+<inglise> Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member States, thereby ensuring harmonious functioning of the internal market, </inglise>
+<eesti> on kohane viivitamata uurida, mil m&auml;&auml;ral on veelgi vaja &uuml;htlustada tarbijakrediidi kuluelemente, et Euroopa tarbijal oleks parem v&otilde;rrelda erinevate liikmesriikide finantsinstitutsioonide pakutavaid efektiivneke intresse, tagades seel&auml;bi siseturu t&otilde;rgeteta toimimise, </eesti>
+<inglise> HAVE ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> Directive 87/102/EEC shall be amended as follows: </inglise>
+<eesti> Direktiivi 87/102/EM&Uuml; muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) Article 1a(1) (a) shall be replaced by the following: </inglise>
+<eesti> a) artikli 1a l&otilde;ike 1 punkt a asendatakse j&auml;rgmisega: </eesti>
+<inglise> - in the Greek language version of the Directive: </inglise>
+<eesti> - direktiivi kreekakeelses versioonis: </eesti>
+<inglise> '&Ocirc;&iuml; &oacute;&otilde;&iacute;&iuml;&euml;&eacute;&ecirc;&uuml; &aring;&ocirc;&Zcaron;&oacute;&eacute;&iuml; &scaron;&ntilde;&aacute;&atilde;&igrave;&aacute;&ocirc;&eacute;&ecirc;&uuml; &scaron;&iuml;&oacute;&iuml;&oacute;&ocirc;&uuml; &aring;&scaron;&eacute;&acirc;&Uuml;&ntilde;&otilde;&iacute;&oacute;&ccedil;&ograve; &scaron;&iuml;&otilde; &aring;&icirc;&eacute;&oacute;&zcaron;&iacute;&aring;&eacute; &oacute;&aring; &aring;&ocirc;&Zcaron;&oacute;&eacute;&aacute; &acirc;&Uuml;&oacute;&ccedil; &ocirc;&eacute;&ograve; &scaron;&aacute;&ntilde;&iuml;&yacute;&oacute;&aring;&ograve; &aacute;&icirc;&szlig;&aring;&ograve; &ocirc;&iuml;&otilde; &oacute;&otilde;&iacute;&uuml;&euml;&iuml;&otilde; &ocirc;&ugrave;&iacute; &ocirc;&ntilde;&aring;&divide;&iuml;&otilde;&oacute;&zcaron;&iacute; &Zcaron; &igrave;&aring;&euml;&euml;&iuml;&iacute;&ocirc;&eacute;&ecirc;&zcaron;&iacute; &otilde;&scaron;&iuml;&divide;&ntilde;&aring;&zcaron;&oacute;&aring;&ugrave;&iacute; (&auml;&aacute;&iacute;&aring;&szlig;&ugrave;&iacute;, &aring;&icirc;&iuml;&ouml;&euml;&Zcaron;&oacute;&aring;&ugrave;&iacute; &ecirc;&aacute;&eacute; &aring;&scaron;&eacute;&acirc;&aacute;&ntilde;&yacute;&iacute;&oacute;&aring;&ugrave;&iacute;) &scaron;&iuml;&otilde; &Yacute;&divide;&iuml;&otilde;&iacute; &aacute;&iacute;&aacute;&euml;&ccedil;&ouml;&egrave;&aring;&szlig; &aacute;&scaron;&uuml; &ocirc;&iuml; &auml;&aacute;&iacute;&aring;&eacute;&oacute;&ocirc;&Zcaron; &ecirc;&aacute;&eacute; &ocirc;&iuml; (&auml;&aacute;&iacute;&aring;&eacute;&aelig;&uuml;&igrave;&aring;&iacute;&iuml;) &ecirc;&aacute;&ocirc;&aacute;&iacute;&aacute;&euml;&ugrave;&ocirc;&Zcaron;, &otilde;&scaron;&iuml;&euml;&iuml;&atilde;&szlig;&aelig;&aring;&ocirc;&aacute;&eacute; &oacute;&yacute;&igrave;&ouml;&ugrave;&iacute;&aacute; &igrave;&aring; &ocirc;&iuml; &igrave;&aacute;&egrave;&ccedil;&igrave;&aacute;&ocirc;&eacute;&ecirc;&uuml; &ocirc;&yacute;&scaron;&iuml; &scaron;&iuml;&otilde; &scaron;&aacute;&ntilde;&aacute;&ocirc;&szlig;&egrave;&aring;&ocirc;&aacute;&eacute; &oacute;&ocirc;&iuml; &scaron;&aacute;&ntilde;&Uuml;&ntilde;&ocirc;&ccedil;&igrave;&aacute; &Eacute;&Eacute;. </inglise>
+<eesti> 'To &sgr;&ugr;&ngr;&ogr;&lgr;&igr;&kgr;&oacgr; &egr;&tgr;&eeacgr;&sgr;&igr;&ogr; &pgr;&rgr;&agr;&ggr;&mgr;&agr;&tgr;&igr;&kgr;&oacgr; &pgr;&ogr;&sgr;&ogr;&sgr;&tgr;&oacgr; &egr;&pgr;&igr;&bgr;&aacgr;&rgr;&ugr;&ngr;&sgr;&eegr;&sfgr; &pgr;&ogr;&ugr; &egr;&xgr;&igr;&sgr;&ohacgr;&ngr;&egr;&igr; &sgr;&egr; &egr;&tgr;&eeacgr;&sgr;&igr;&agr; &bgr;&aacgr;&sgr;&eegr; &tgr;&igr;&sfgr; &pgr;&agr;&rgr;&ogr;&uacgr;&sgr;&egr;&sfgr; &agr;&xgr;&iacgr;&egr;&sfgr; &tgr;&ogr;&ugr; &sgr;&ugr;&ngr;&oacgr;&lgr;&ogr;&ugr; &tgr;&ogr;&ngr; &tgr;&rgr;&egr;&khgr;&ogr;&ugr;&sgr;&ohacgr;&ngr; &eeacgr; &mgr;&egr;&lgr;&lgr;&ogr;&ngr;&tgr;&igr;&kgr;&ohacgr;&ngr; &ugr;&pgr;&ogr;&khgr;&rgr;&egr;&ohacgr;&sgr;&egr;&ogr;&ngr; (&dgr;&agr;&ngr;&egr;&iacgr;&ogr;&ngr;, &egr;&xgr;&ogr;&phgr;&lgr;&eeacgr;&sgr;&egr;&ogr;&ngr; &kgr;&agr;&igr; &egr;&pgr;&igr;&bgr;&agr;&rgr;&uacgr;&ngr;&sgr;&egr;&ogr;&ngr;) &pgr;&ogr;&ugr; &eacgr;&khgr;&ogr;&ugr;&ngr; &agr;&ngr;&agr;&lgr;&eegr;&phgr;&thgr;&egr;&iacgr; &agr;&pgr;&oacgr; &tgr;&ogr; (&dgr;&agr;&ngr;&egr;&igr;&zgr;&oacgr;&mgr;&egr;&ngr;&ogr;) &kgr;&agr;&tgr;&agr;&ngr;&agr;&lgr;&ogr;&tgr;&eeacgr;, &ugr;&pgr;&ogr;&lgr;&ogr;&ggr;&iacgr;&zgr;&egr;&tgr;&agr;&igr; &sgr;&uacgr;&mgr;&phgr;&ogr;&ngr;&agr; &mgr;&egr; &tgr;&ogr; &mgr;&agr;&thgr;&eegr;&mgr;&agr;&tgr;&igr;&kgr;&oacgr; &tgr;&uacgr;&pgr;&ogr; &pgr;&ogr;&ugr; &pgr;&agr;&rgr;&agr;&tgr;&iacgr;&thgr;&egr;&tgr;&agr;&igr; &sgr;&tgr;&ogr; &pgr;&agr;&rgr;&aacgr;&rgr;&tgr;&eegr;&mgr;&agr; II. </eesti>
+<inglise> - in the English language version of the Directive: </inglise>
+<eesti> - direktiivi ingliskeelses versioonis: </eesti>
+<inglise> 'The annual percentage rate of charge which shall be that rate, on an annual basis which equalizes the present value of all commitments (loans, repayments and charges), future or existing, agreed by the creditor and the borrower, shall be calculated in accordance with the mathematical formula set out in Annex II. </inglise>
+<eesti> 'The annual percentage rate of charge which shall be that rate, on an annual basis which equalizes the present value of all commitments (loans, repayments and charges), future or existing, agreed by the creditor and the borrower, shall be calculated in accordance with the mathematical formula set out in Annex II. </eesti>
+<inglise> ' ; </inglise>
+<eesti> ' ; </eesti>
+<inglise> (b) Article 1a(3) shall be deleted; </inglise>
+<eesti> b) artikli 1a l&otilde;ige 3 j&auml;etakse v&auml;lja; </eesti>
+<inglise> (c) Article 1a(5) shall be deleted; </inglise>
+<eesti> c) artikli 1a l&otilde;ige 5 j&auml;etakse v&auml;lja; </eesti>
+<inglise> (d) Article 3 shall be replaced by the following: </inglise>
+<eesti> d) artikkel 3 asendatakse j&auml;rgmisega: </eesti>
+<inglise> 'Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising (*), and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a representative example if no other means is practicable. </inglise>
+<eesti> "Ilma et see piiraks n&otilde;ukogu 10. septembri 1984. aasta direktiivi 84/450/EM&Uuml; (k&auml;sitleb eksitava reklaamiga seotud liikmesriikide &otilde;igusnormide &uuml;htlustamist) * ning k&otilde;lvatu reklaami suhtes kohaldatavate eeskirjade ja p&otilde;him&otilde;tete kohaldamist, peab mis tahes reklaamis v&otilde;i t&ouml;&ouml;ruumidesse v&auml;lja pandud pakkumises, milles isik pakub krediiti v&otilde;i ennast krediidilepingut korraldama ja kus on &auml;ra toodud intressim&auml;&auml;r v&otilde;i mis tahes muud krediidi kuluga seotud numbrid, olema n&auml;idatud ka efektiivne aastaintress t&uuml;&uuml;pilise n&auml;ite kujul, kui muud vahendid ei ole kasutatavad. </eesti>
+<inglise> (*) OJ L 250, 19.9.1984, p. 17. Directive as last amended by Directive 97/55/EC (OJ L 280, 23.10.1997, p. 18). </inglise>
+<eesti> * E&Uuml;T L 250, 19.09.1984, lk 17. Direktiivi on viimati muudetud direktiiviga 97/55/E&Uuml; (E&Uuml;T L 280, 23.10.1997, lk 18)." </eesti>
+<inglise> ' ; </inglise>
+<eesti> ; </eesti>
+<inglise> (e) Annex II shall be replaced by the text of Annex I attached hereto; </inglise>
+<eesti> e) II lisa asendatakse k&auml;esoleva direktiivi I lisaga; </eesti>
+<inglise> (f) Annex III shall be replaced by the text of Annex II attached hereto. </inglise>
+<eesti> f) III lisa asendatakse k&auml;esoleva direktiivi II lisaga. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than two years after the entry into force of this Directive. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi t&auml;itmiseks vajalikud &otilde;igusaktid hiljemalt 2 aasta m&ouml;&ouml;dumisel direktiivi j&otilde;ustumisest. </eesti>
+<inglise> They shall inform the Commission thereof. </inglise>
+<eesti> Nad informeerivad sellest komisjoni. </eesti>
+<inglise> When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need meetmed vastu v&otilde;tavad, lisavad nad nendesse meetmetesse v&otilde;i nende meetmete ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The methods of making such reference shall be laid down by Member States. </inglise>
+<eesti> Viitamise viisi n&auml;eb ette liikmesriik. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive. </inglise>
+<eesti> Liikmesriigid edastavad komisjonile k&auml;esoleva direktiivi reguleerimisala k&auml;sitlevate siseriiklike &otilde;igusnormide tekstid. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Brussels, 16 February 1998. </inglise>
+<eesti> Br&uuml;ssel, 16. veebruar 1998 </eesti>
+<inglise> For the European Parliament </inglise>
+<eesti> Euroopa Parlamendi nimel </eesti>
+<inglise> The President </inglise>
+<eesti> president </eesti>
+<inglise> J. M. GIL-ROBLES </inglise>
+<eesti> J. M. GIL-ROBLES </eesti>
+<inglise> For the Council </inglise>
+<eesti> N&otilde;ukogu nimel </eesti>
+<inglise> The President </inglise>
+<eesti> eesistuja </eesti>
+<inglise> J. CUNNINGHAM </inglise>
+<eesti> J. CUNNINGHAM </eesti>
+<inglise> (1) OJ C 235, 13.8.1996, p. 8 and </inglise>
+<eesti> (1) E&Uuml;T C 235, 13.08.1996, lk 8 ja </eesti>
+<inglise> OJ C 137, 3.5.1997, p. 9. </inglise>
+<eesti> E&Uuml;T C 137, 3.05.1997, lk 9. </eesti>
+<inglise> (2) OJ C 30, 30.1.1997, p. 94. </inglise>
+<eesti> (2) E&Uuml;T C 30, 30.01.1997, lk 94. </eesti>
+<inglise> (3) Opinion of the European Parliament of 20 February 1997 (OJ C 85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (OJ C 284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997. </inglise>
+<eesti> (3) Euroopa Parlamendi 20. veebruari 1997. aasta arvamus (E&Uuml;T C 85, 17.03.1997, lk 108), n&otilde;ukogu 7. juuli 1997. aasta &uuml;hisseisukoht (E&Uuml;T C 284, 19.09.1997, lk 1) ja Euroopa Parlamendi 19. novembri 1997. aasta otsus. </eesti>
+<inglise> Council Decision of 18 December 1997. </inglise>
+<eesti> N&otilde;ukogu 18. detsembri 1997. aasta otsus. </eesti>
+<inglise> (4) OJ L 42, 12.2.1987, p. 48. Directive as amended by Directive 90/88/EEC (OJ L 61, 10.3.1990, p. 14). </inglise>
+<eesti> (4) E&Uuml;T L 42, 12.02.1987, lk 48. Direktiivi on muudetud direktiiviga 90/88/EM&Uuml; (E&Uuml;T L 61, 10.03.1990, lk 14). </eesti>
+<inglise> ANNEX I </inglise>
+<eesti> I LISA </eesti>
+<inglise> 'ANNEX II </inglise>
+<eesti> "II LISA </eesti>
+<inglise> THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND AND REPAYMENTS AND CHARGES ON THE OTHER </inglise>
+<eesti> &Uuml;HELT POOLT LAENUDE JA TEISELT POOLT TAGASIMAKSETE NING TASUDE V&Otilde;RDSUST V&Auml;LJENDAV P&Otilde;HIVALEM T&auml;htede ja s&uuml;mbolite t&auml;hendus: </eesti>
+<inglise> Meaning of letters and symbols: </inglise>
+<eesti> A <hi rend="sub"> K </hi> laenu number K suurus A' <hi rend="sub"> K' </hi> tagasimakse number K' suurus </eesti>
+<inglise> Remarks: </inglise>
+<eesti> &aring; summa m viimase laenu number </eesti>
+<inglise> (a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals. (b) The starting date shall be that of the first loan. </inglise>
+<eesti> m' viimase tagasimakse v&otilde;i tasude number <hi rend="sup"> t </hi> K t&auml;is- ja osa-aastates v&auml;ljendatud ajavahemik laenu nr 1 kuup&auml;eva ning sellele j&auml;rgnevate laenude nr 2 kuni m kuup&auml;eva vahel </eesti>
+<inglise> (c) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. </inglise>
+<eesti> <hi rend="sup"> t </hi> K' t&auml;is- ja osa-aastates v&auml;ljendatud ajavahemik laenu nr 1 kuup&auml;eva ning tagasimaksete ja tasude nr 1 kuni m' kuup&auml;eva vahel </eesti>
+<inglise> A year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months. An equal month is presumed to have 30,41666 days (i.e. &gt;NUM&gt;365/&gt;DEN&gt;12). </inglise>
+<eesti> i protsendim&auml;&auml;r, mida v&otilde;ib arvutada (kasutades algebrat, j&auml;rjestikust l&auml;hendamist v&otilde;i arvutiprogramme), kusjuures teised v&otilde;rrandi suurused on teada lepingust v&otilde;i muul viisil. </eesti>
+<inglise> (d) The result of the calculation shall be expressed with an accuracy of at least one decimal place. </inglise>
+<eesti> a) M&otilde;lema poole erineval ajal makstud summad ei pruugi olla v&otilde;rdsed ning neid ei pea tingimata maksma v&otilde;rdse ajavahemiku j&auml;rel. </eesti>
+<inglise> When rounding to a particular decimal place the following rule shall apply: </inglise>
+<eesti> b) Alguskuup&auml;ev on esimese laenu andmise kuup&auml;ev. </eesti>
+<inglise> (e) Member States shall provide that the methods of resolution applicable give a result equal to that of the examples presented in Annex III. </inglise>
+<eesti> kui sellele k&uuml;mnendkohale j&auml;rgneva k&uuml;mnendkoha number on 5 v&otilde;i suurem kui 5, suurendatakse selle konkreetse k&uuml;mnendkoha numbrit &uuml;he v&otilde;rra. e) Liikmesriigid s&auml;testavad, et kohaldatavad lahendusmeetodid annavad sama tulemuse kui III lisas esitatud n&auml;idetes." </eesti>
+<inglise> ANNEX II </inglise>
+<eesti> II LISA </eesti>
+<inglise> 'ANNEX III </inglise>
+<eesti> "III LISA </eesti>
+<inglise> EXAMPLES OF CALCULATION </inglise>
+<eesti> ARVUTAMISN&Auml;ITED </eesti>
+<inglise> A. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON A CALENDAR BASIS (1 YEAR = 365 DAYS (OR 366 DAYS FOR LEAP YEARS)) </inglise>
+<eesti> <hi rend="sub"> A </hi> A. EFEKTIIVSE AASTAINTRESSI ARVUTAMINE KALENDRIAASTA ALUSEL (1 AASTA = 365 P&Auml;EVA (V&Otilde;I 366 P&Auml;EVA LIIGAASTAL)) </eesti>
+<inglise> First example </inglise>
+<eesti> Esimene n&auml;ide </eesti>
+<inglise> Sum loaned: S = ECU 1 000 on 1 January 1994. </inglise>
+<eesti> Laenatud summa: S = 1000 ek&uuml;&uuml;d 1. jaanuaril 1994. </eesti>
+<inglise> It is repaid in a single payment of ECU 1 200 made on 1 July 1995 i.e. 1 1/2 years or 546 (= 365 + 181) days after the date of the loan. </inglise>
+<eesti> See makstakse tagasi &uuml;hekordse 1200 ek&uuml;&uuml; suuruse maksena 1. juulil 1995, s.o 1,5 aasta ehk 546 (= 365 + 181) p&auml;eva m&ouml;&ouml;dumisel laenu alguskuup&auml;evast. V&otilde;rrand on: </eesti>
+<inglise> The equation becomes: 1 000 = </inglise>
+<eesti> v&otilde;i: (1 + i) <hi rend="sup"> 546/365 </hi> = 1,2 </eesti>
+<inglise> or: </inglise>
+<eesti> 1 + i = 1,1296204 </eesti>
+<inglise> This amount will be rounded to 13 % (or 12,96 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> i = 0,1296204 See suurus &uuml;mardatakse 13%ni (v&otilde;i 12,96% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). </eesti>
+<inglise> Second example </inglise>
+<eesti> Teine n&auml;ide </eesti>
+<inglise> The sum loaned is S = ECU 1 000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is again made on 1 July 1995. </inglise>
+<eesti> Laenatud summa on S = 1000 ek&uuml;&uuml;d, kuid v&otilde;lausaldaja j&auml;tab endale 50 ek&uuml;&uuml;d halduskuludeks, seega efektiivne laenusumma on 950 ek&uuml;&uuml;d; 1200 ek&uuml;&uuml;d makstakse tagasi, nagu ka esimese n&auml;ite puhul, 1. juulil 1995. V&otilde;rrand on: </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> v&otilde;i: (1 + i) <hi rend="sup"> 546/365 </hi> = 1,263157 </eesti>
+<inglise> or: </inglise>
+<eesti> 1 + i = 1,169026 </eesti>
+<inglise> This amount will be rounded to 16,9 %. </inglise>
+<eesti> i = 0,169026 See suurus &uuml;mardatakse 16,9% ni. </eesti>
+<inglise> Third example </inglise>
+<eesti> Kolmas n&auml;ide </eesti>
+<inglise> The sum loaned is ECU 1 000, on 1 January 1994, repayable in two amounts, each of ECU 600, paid after one and two years respectively. </inglise>
+<eesti> Laenatud summa on 1000 ek&uuml;&uuml;d 1. jaanuaril 1994, see tuleb tagasi maksta kahes osas, m&otilde;lemad 600 ek&uuml;&uuml;d, vastavalt esimese ja teise aasta m&ouml;&ouml;dudes. </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> V&otilde;rrand on: </eesti>
+<inglise> It is solved by algebra and produces i = 0,1306623 rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> See lahendatakse algebra abil ja annab tulemuse i = 0,1306623, mis &uuml;mardatakse 13,1% ni (v&otilde;i 13,07% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). </eesti>
+<inglise> Fourth example </inglise>
+<eesti> Neljas n&auml;ide </eesti>
+<inglise> The sum loaned is S = ECU 1 000, on 1 January 1994, and the amounts to be paid by the borrower are: </inglise>
+<eesti> Laenatud summa on S = 1000 ek&uuml;&uuml;d 1. jaanuaril 1994 ning laenusaaja peab tagasi maksma j&auml;rgmiselt: </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> Kolme kuu m&ouml;&ouml;dumisel (0,25 aastat/90 p&auml;eva) 272 ek&uuml;&uuml;d </eesti>
+<inglise> This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculator. </inglise>
+<eesti> Kuue kuu m&ouml;&ouml;dumisel (0,5 aastat/181 p&auml;eva) 272 ek&uuml;&uuml;d 12 kuu m&ouml;&ouml;dumisel (1 aasta/365 p&auml;eva) 544 ek&uuml;&uuml;d </eesti>
+<inglise> The result is i = 0,13226 rounded to 13,2 % (or 13,23 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> V&otilde;rrand on: See v&otilde;rrand v&otilde;imaldab arvutada i j&auml;rkj&auml;rgulist l&auml;hendamist kasutades, mida saab programmeerida taskuarvutil. </eesti>
+<inglise> B. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON THE BASIS OF A STANDARD YEAR (1 YEAR = 365 DAYS OR 365,25 DAYS, 52 WEEKS, OR 12 EQUAL MONTHS) </inglise>
+<eesti> Tulemus on i = 0,13226, mis &uuml;mardatakse 13,2% ni (v&otilde;i 13,23% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). B. EFEKTIIVSE AASTAINTRESSI ARVUTAMINE STANDARDAASTA ALUSEL (1 AASTA = 365 P&Auml;EVA V&Otilde;I 365,25 P&Auml;EVA, 52 N&Auml;DALAT V&Otilde;I 12 V&Otilde;RDSET KUUD) </eesti>
+<inglise> First example </inglise>
+<eesti> Esimene n&auml;ide </eesti>
+<inglise> Sum loaned: S = ECU 1 000. </inglise>
+<eesti> Laenatud summa: S = 1000 ek&uuml;&uuml;d. </eesti>
+<inglise> It is repaid in a single payment of ECU 1 200 made in 1,5 years (i.e. 1,5 &times; 365 = 547,5 days, 1,5 &times; 365,25 = 547,875 days, 1,5 &times; 366 = 549 days, 1,5 &times; 12 = 18 months, or 1,5 &times; 52 = 78 weeks) after the date of the loan. </inglise>
+<eesti> See makstakse tagasi &uuml;hekordse 1200 ek&uuml;&uuml; suuruse maksena 1,5 aasta (s.o 1,5 x 365 = 547,5 p&auml;eva, 1,5 x 365,25 = 547,875 p&auml;eva, 1,5 x 366 = 549 p&auml;eva, 1,5 x 12 = 18 kuu v&otilde;i 1,5 x 52 = 78 n&auml;dala) m&ouml;&ouml;dumisel laenu alguskuup&auml;evast. V&otilde;rrand on: </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> v&otilde;i: (1 + i) <hi rend="sup"> 1,5 </hi> = 1,2 </eesti>
+<inglise> or: </inglise>
+<eesti> 1 + i = 1,129243 </eesti>
+<inglise> This amount will be rounded to 12,9 % (or 12,92 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> i = 0,129243 See suurus &uuml;mardatakse 12,9% ni (v&otilde;i 12,92% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). </eesti>
+<inglise> Second example </inglise>
+<eesti> Teine n&auml;ide </eesti>
+<inglise> The sum loaned is S = ECU 1 000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is again made 1,5 years after the date of the loan. </inglise>
+<eesti> Laenatud summa on S = 1000 ek&uuml;&uuml;d, kuid v&otilde;lausaldaja j&auml;tab endale 50 ek&uuml;&uuml;d halduskuludeks, seega efektiivne laen on 950 ek&uuml;&uuml;d; 1200 ek&uuml;&uuml;d makstakse tagasi, nagu ka esimese n&auml;ite puhul, 1,5 aasta m&ouml;&ouml;dumisel laenu alguskuup&auml;evast. V&otilde;rrand on: </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> v&otilde;i: (1 + i) <hi rend="sup"> 1,5 </hi> = 1 200/950 = 1,263157 </eesti>
+<inglise> or: </inglise>
+<eesti> 1 + i = 1,168526 i = 0,168526 </eesti>
+<inglise> This amount will be rounded to 16,9 % (or 16,85 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> See suurus &uuml;mardatakse 16,9% ni (v&otilde;i 16,85% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). Kolmas n&auml;ide </eesti>
+<inglise> Third example </inglise>
+<eesti> Laenatud summa on 1000 ek&uuml;&uuml;d, see tuleb tagasi maksta kahes osas, m&otilde;lemad 600 ek&uuml;&uuml;d, vastavalt esimese ja teise aasta m&ouml;&ouml;dudes. </eesti>
+<inglise> The sum loaned is ECU 1 000, repayable in two amounts, each of ECU 600, paid after one and two years respectively. </inglise>
+<eesti> V&otilde;rrand on: See lahendatakse algebra abil ja annab tulemuse i = 0,13066, mis &uuml;mardatakse 13,1% ni (v&otilde;i 13,07% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> Neljas n&auml;ide Laenatud summa on S = 1000 ek&uuml;&uuml;d ning laenusaaja peab tagasi maksma j&auml;rgmiselt: </eesti>
+<inglise> It is solved by algebra and produces i = 0,13066 which will be rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> Kolme kuu m&ouml;&ouml;dumisel (0,25 aastat/13 n&auml;dalat/91, 25 p&auml;eva/91, 3125 p&auml;eva) 272 ek&uuml;&uuml;d </eesti>
+<inglise> Fourth example </inglise>
+<eesti> Kuue kuu m&ouml;&ouml;dumisel (0,5 aastat/26 n&auml;dalat/182, 5 p&auml;eva/182, 625 p&auml;eva)) 272 ek&uuml;&uuml;d </eesti>
+<inglise> The sum loaned is S = ECU 1 000 and the amounts to be paid by the borrower are: </inglise>
+<eesti> 12 kuu m&ouml;&ouml;dumisel (1 aasta/52 n&auml;dalat/365 p&auml;eva/365, 25 p&auml;eva) 544 ek&uuml;&uuml;d </eesti>
+<inglise> The equation becomes: </inglise>
+<eesti> ___ Kokku 1088 ek&uuml;&uuml;d </eesti>
+<inglise> This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculator. </inglise>
+<eesti> V&otilde;rrand on: See v&otilde;rrand v&otilde;imaldab arvutada i j&auml;rkj&auml;rgulist l&auml;hendamist kasutades, mida saab programmeerida taskuarvutil. </eesti>
+<inglise> The result is i = 0,13185 which will be rounded to 13,2 % (or 13,19 % if an accuracy of two decimal places is preferred). </inglise>
+<eesti> Tulemus on i = 0,13185, mis &uuml;mardatakse 13,2% ni (v&otilde;i 13,19% ni, kui eelistatakse kahe k&uuml;mnendkoha t&auml;psust). </eesti>
+ 

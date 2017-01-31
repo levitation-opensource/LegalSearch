@@ -1,0 +1,965 @@
+<inglise> Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data </inglise>
+<eesti> EUROOPA PARLAMENDI JA N&Otilde;UKOGU DIREKTIIV 95/46/E&Uuml; &uuml;ksikisikute kaitse kohta isikuandmete t&ouml;&ouml;tlemisel ja selliste andmete vaba liikumise kohta 24. oktoober 1995 </eesti>
+<inglise> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, </inglise>
+<eesti> EUROOPA PARLAMENT JA EUROOPA LIIDU N&Otilde;UKOGU, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, eriti selle artiklit 100a, </eesti>
+<inglise> Having regard to the proposal from the Commission (1), </inglise>
+<eesti> v&otilde;ttes arvesse komisjoni ettepanekut, (1) </eesti>
+<inglise> Having regard to the opinion of the Economic and Social Committee (2), </inglise>
+<eesti> v&otilde;ttes arvesse majandus- ja sotsiaalkomitee arvamust, (2) </eesti>
+<inglise> Acting in accordance with the procedure referred to in Article 189b of the Treaty (3), </inglise>
+<eesti> toimides asutamislepingu artiklis 189b osutatud korras (3) ning arvestades, et: </eesti>
+<inglise> (1) Whereas the objectives of the Community, as laid down in the Treaty, as amended by the Treaty on European Union, include creating an ever closer union among the peoples of Europe, fostering closer relations between the States belonging to the Community, ensuring economic and social progress by common action to eliminate the barriers which divide Europe, encouraging the constant improvement of the living conditions of its peoples, preserving and strengthening peace and liberty and promoting democracy on the basis of the fundamental rights recognized in the constitution and laws of the Member States and in the European Convention for the Protection of Human Rights and Fundamental Freedoms; </inglise>
+<eesti> 1) asutamislepingus, mida on muudetud Euroopa Liidu lepinguga, on &uuml;henduse eesm&auml;rkidena s&auml;testatud &uuml;ha tugevama liidu loomine Euroopa rahvaste vahel, &uuml;hendusse kuuluvate riikide vaheliste tihedate suhete edendamine, majandusliku ja sotsiaalse arengu tagamine Euroopat jagavate t&otilde;kete k&otilde;rvaldamiseks v&otilde;etavate &uuml;hismeetmete abil, rahvaste elutingimuste j&auml;tkuva parandamise soodustamine, rahu ja vabaduse s&auml;ilitamine ja tugevdamine ning demokraatia edendamine, l&auml;htudes liikmesriikide p&otilde;hiseadustes ja &otilde;igusaktides ning Euroopa inim&otilde;iguste ja p&otilde;hivabaduste kaitse konventsioonis tunnustatud p&otilde;hi&otilde;igustest; </eesti>
+<inglise> (2) Whereas data-processing systems are designed to serve man; whereas they must, whatever the nationality or residence of natural persons, respect their fundamental rights and freedoms, notably the right to privacy, and contribute to economic and social progress, trade expansion and the well-being of individuals; (3) Whereas the establishment and functioning of an internal market in which, in accordance with Article 7a of the Treaty, the free movement of goods, persons, services and capital is ensured require not only that personal data should be able to flow freely from one Member State to another, but also that the fundamental rights of individuals should be safeguarded; </inglise>
+<eesti> 2) andmet&ouml;&ouml;tluss&uuml;steemid on loodud selleks, et teenida inimkonda; selliseid s&uuml;steeme kasutades tuleb f&uuml;&uuml;siliste isikute kodakondsusele ja elukohale vaatamata austada nende p&otilde;hi&otilde;igusi ja -vabadusi, eelk&otilde;ige &otilde;igust eraelu puutumatusele, ning aidata kaasa majanduslikule ja sotsiaalsele arengule, kaubanduse laiendamisele ja &uuml;ksikisikute heaolule; 3) sellise siseturu rajamine ja toimimine, kus on vastavalt asutamislepingu artiklile 7a tagatud kaupade, isikute, teenuste ja kapitali vaba liikumine, ei eelda mitte ainult isikuandmete vaba liikumist &uuml;hest liikmesriigist teise, vaid ka &uuml;ksikisikute p&otilde;hi&otilde;iguste kaitset; </eesti>
+<inglise> (4) Whereas increasingly frequent recourse is being had in the Community to the processing of personal data in the various spheres of economic and social activity; whereas the progress made in information technology is making the processing and exchange of such data considerably easier; </inglise>
+<eesti> 4) &uuml;henduse majandus- ja &uuml;hiskondliku elu eri valdkondades kasutatakse &uuml;ha sagedamini isikuandmete t&ouml;&ouml;tlemist; infotehnoloogia areng teeb selliste andmete t&ouml;&ouml;tlemise ja vahetamise m&auml;rkimisv&auml;&auml;rselt lihtsamaks; </eesti>
+<inglise> (5) Whereas the economic and social integration resulting from the establishment and functioning of the internal market within the meaning of Article 7a of the Treaty will necessarily lead to a substantial increase in cross-border flows of personal data between all those involved in a private or public capacity in economic and social activity in the Member States; whereas the exchange of personal data between undertakings in different Member States is set to increase; whereas the national authorities in the various Member States are being called upon by virtue of Community law to collaborate and exchange personal data so as to be able to perform their duties or carry out tasks on behalf of an authority in another Member State within the context of the area without internal frontiers as constituted by the internal market; </inglise>
+<eesti> 5) asutamislepingu artiklis 7a s&auml;testatud siseturu rajamisest ja toimimisest tuleneva majandusliku ja sotsiaalse integratsiooniga suureneb paratamatult kas era&otilde;iguslikus v&otilde;i avalik-&otilde;iguslikus sektoris liikmesriikide majanduslikus ja &uuml;hiskondlikus tegevuses osalevate inimeste isikuandmete liikumine &uuml;le piiride; eri liikmesriikides paiknevad ettev&otilde;tjad peaksid isikuandmeid vahetama ulatuslikumalt; &uuml;henduse &otilde;iguse alusel on eri liikmesriikide siseriiklikke ametiasutusi kutsutud &uuml;les tegema koost&ouml;&ouml;d ja vahetama isikuandmeid, et oleks v&otilde;imalik t&auml;ita oma kohustusi v&otilde;i &uuml;lesandeid teise liikmesriigi ametiasutuste nimel siseturuna m&auml;&auml;ratletud piirideta alal; </eesti>
+<inglise> (6) Whereas, furthermore, the increase in scientific and technical cooperation and the coordinated introduction of new telecommunications networks in the Community necessitate and facilitate cross-border flows of personal data; </inglise>
+<eesti> 6) lisaks sellele on isikuandmete liikumine &uuml;le piiride vajalik ka seoses tihedama teadus- ja tehnikaalase koost&ouml;&ouml; ning uute telekommunikatsiooniv&otilde;rkude koosk&otilde;lastatud kasutuselev&otilde;tmisega &uuml;henduses; </eesti>
+<inglise> (7) Whereas the difference in levels of protection of the rights and freedoms of individuals, notably the right to privacy, with regard to the processing of personal data afforded in the Member States may prevent the transmission of such data from the territory of one Member State to that of another Member State; whereas this difference may therefore constitute an obstacle to the pursuit of a number of economic activities at Community level, distort competition and impede authorities in the discharge of their responsibilities under Community law; whereas this difference in levels of protection is due to the existence of a wide variety of national laws, regulations and administrative provisions; </inglise>
+<eesti> 7) &uuml;ksikisikute &otilde;iguste ja vabaduste, eelk&otilde;ige eraelu puutumatuse &otilde;iguse kaitse tase seoses isikuandmete t&ouml;&ouml;tlemisega on liikmesriigiti erinev ja see v&otilde;ib takistada selliste andmete edastamist &uuml;hest liikmesriigist teise; seega v&otilde;ivad nimetatud erinevused saada takistuseks paljudele &uuml;henduse tasandi majandustegevustele, moonutada konkurentsi ja takistada ametiasutusi nende &uuml;henduse &otilde;igusest tulenevate kohustuste t&auml;itmisel; k&otilde;nealused erinevused kaitse tasemes tulenevad kehtivate siseriiklike &otilde;igusnormide mitmekesisusest; </eesti>
+<inglise> (8) Whereas, in order to remove the obstacles to flows of personal data, the level of protection of the rights and freedoms of individuals with regard to the processing of such data must be equivalent in all Member States; whereas this objective is vital to the internal market but cannot be achieved by the Member States alone, especially in view of the scale of the divergences which currently exist between the relevant laws in the Member States and the need to coordinate the laws of the Member States so as to ensure that the cross-border flow of personal data is regulated in a consistent manner that is in keeping with the objective of the internal market as provided for in Article 7a of the Treaty; whereas Community action to approximate those laws is therefore needed; </inglise>
+<eesti> 8) takistuste k&otilde;rvaldamiseks isikuandmete liikumisel peab selliste andmete t&ouml;&ouml;tlemisega seotud &uuml;ksikisikute &otilde;iguste ja vabaduste kaitse olema k&otilde;igis liikmesriikides samal tasemel; nimetatud eesm&auml;rk on siseturu seisukohast &auml;&auml;rmiselt oluline, kuid liikmesriigid ei saa seda saavutada &uuml;ksi, silmas pidades liikmesriikide asjaomaste &otilde;igusaktide praegusi ulatuslikke erinevusi ja vajadust koosk&otilde;lastada liikmesriikide &otilde;igusakte tagamaks, et isikuandmete piiri&uuml;lest liikumist reguleeritaks j&auml;rjepidevalt ja viisil, mis on koosk&otilde;las asutamislepingu artiklis 7a s&auml;testatud siseturu eesm&auml;rgiga; seet&otilde;ttu on k&otilde;nealuste &otilde;igusaktide &uuml;htlustamiseks vaja &uuml;henduse meetmeid; </eesti>
+<inglise> (9) Whereas, given the equivalent protection resulting from the approximation of national laws, the Member States will no longer be able to inhibit the free movement between them of personal data on grounds relating to protection of the rights and freedoms of individuals, and in particular the right to privacy; whereas Member States will be left a margin for manoeuvre, which may, in the context of implementation of the Directive, also be exercised by the business and social partners; whereas Member States will therefore be able to specify in their national law the general conditions governing the lawfulness of data processing; whereas in doing so the Member States shall strive to improve the protection currently provided by their legislation; whereas, within the limits of this margin for manoeuvre and in accordance with Community law, disparities could arise in the implementation of the Directive, and this could have an effect on the movement of data within a Member State as well as within the Community; </inglise>
+<eesti> 9) kuna siseriiklike &otilde;igusaktide &uuml;htlustamisega saavutatakse samav&auml;&auml;rne kaitstuse tase, ei saa liikmesriigid enam takistada isikuandmete vaba liikumist &uuml;hest liikmesriigist teise p&otilde;hjustel, mis on seotud &uuml;ksikisikute &otilde;iguste ja vabaduste, eelk&otilde;ige eraelu puutumatuse &otilde;iguse kaitsmisega; liikmesriikidele j&auml;etakse tegutsemisruum, mida v&otilde;ivad k&auml;esoleva direktiivi rakendamisel kasutada ka &auml;ripartnerid ja t&ouml;&ouml;suhte pooled; seega saavad liikmesriigid oma siseriiklikes &otilde;igusaktides s&auml;testada andmet&ouml;&ouml;tluse seaduslikkust reguleerivad &uuml;ldised tingimused; selliselt toimides p&uuml;&uuml;avad liikmesriigid t&auml;iustada oma praeguste &otilde;igusaktidega s&auml;testatud kaitset; nimetatud tegutsemisruumi piires ja koosk&otilde;las &uuml;henduse &otilde;igusega v&otilde;ivad k&auml;esoleva direktiivi rakendamisel tekkida lahknevused ja see v&otilde;ib m&otilde;jutada andmete liikumist liikmesriigi piires ja &uuml;henduses; </eesti>
+<inglise> (10) Whereas the object of the national laws on the processing of personal data is to protect fundamental rights and freedoms, notably the right to privacy, which is recognized both in Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms and in the general principles of Community law; whereas, for that reason, the approximation of those laws must not result in any lessening of the protection they afford but must, on the contrary, seek to ensure a high level of protection in the Community; </inglise>
+<eesti> 10) isikuandmete t&ouml;&ouml;tlemist k&auml;sitlevate &otilde;igusaktide eesm&auml;rk on kaitsta Euroopa inim&otilde;iguste ja p&otilde;hivabaduste kaitse konventsiooni artiklis 8 ja &uuml;henduse &otilde;iguse &uuml;ldistes p&otilde;him&otilde;tetes tunnustatud p&otilde;hi&otilde;igusi ja -vabadusi, eelk&otilde;ige &otilde;igust eraelu puutumatusele; nimetatud p&otilde;hjusel ei tohi k&otilde;nealuste &otilde;igusaktide &uuml;htlustamise tagaj&auml;rjel nendega pakutav kaitse v&auml;heneda, vaid vastupidi - &uuml;henduses tagatava kaitstuse tase peab olema k&otilde;rgem; </eesti>
+<inglise> (11) Whereas the principles of the protection of the rights and freedoms of individuals, notably the right to privacy, which are contained in this Directive, give substance to and amplify those contained in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data; </inglise>
+<eesti> 11) k&auml;esolevas direktiivis sisalduvad &uuml;ksikisikute &otilde;iguste ja vabaduste, eriti eraelu puutumatuse &otilde;iguse kaitsmise p&otilde;him&otilde;tted t&auml;psustavad ja v&otilde;imendavad p&otilde;him&otilde;tteid, mida sisaldab Euroopa N&otilde;ukogu 28. jaanuari 1981. aasta konventsioon isikuandmete automatiseeritud t&ouml;&ouml;tlemisel isiku kaitse kohta; </eesti>
+<inglise> (12) Whereas the protection principles must apply to all processing of personal data by any person whose activities are governed by Community law; whereas there should be excluded the processing of data carried out by a natural person in the exercise of activities which are exclusively personal or domestic, such as correspondence and the holding of records of addresses; </inglise>
+<eesti> 12) kaitsmise p&otilde;him&otilde;tteid tuleb kohaldada igasuguse isikuandmete t&ouml;&ouml;tlemise suhtes, kui sellega tegeleva isiku toimingud kuuluvad &uuml;henduse &otilde;iguse reguleerimisalasse; erand tuleks teha, kui andmete t&ouml;&ouml;tlemisega tegelevad f&uuml;&uuml;silised isikud &uuml;ksnes isiklikel v&otilde;i kodustel eesm&auml;rkidel, n&auml;iteks kirjavahetus ja aadresside loetelu; </eesti>
+<inglise> (13) Whereas the acitivities referred to in Titles V and VI of the Treaty on European Union regarding public safety, defence, State security or the acitivities of the State in the area of criminal laws fall outside the scope of Community law, without prejudice to the obligations incumbent upon Member States under Article 56 (2), Article 57 or Article 100a of the Treaty establishing the European Community; whereas the processing of personal data that is necessary to safeguard the economic well-being of the State does not fall within the scope of this Directive where such processing relates to State security matters; </inglise>
+<eesti> 13) Euroopa Liidu lepingu V j VI jaotises osutatud avaliku korra, riigikaitse, riigi julgeoleku ja riigi toimingutega kriminaal&otilde;iguse valdkonnas seotud tegevus ei kuulu &uuml;henduse &otilde;iguse reguleerimisalasse, ilma et see piiraks Euroopa &Uuml;henduse asutamislepingu artikli 56 l&otilde;ikest 2, artiklist 57 v&otilde;i artiklist 100a tulenevaid liikmesriikide kohustusi; riigi majandusliku heaolu tagamiseks vajalik isikuandmete t&ouml;&ouml;tlemine ei kuulu k&auml;esoleva direktiivi reguleerimisalasse, kui selline t&ouml;&ouml;tlemine on seotud riikliku julgeoleku k&uuml;simustega; </eesti>
+<inglise> (14) Whereas, given the importance of the developments under way, in the framework of the information society, of the techniques used to capture, transmit, manipulate, record, store or communicate sound and image data relating to natural persons, this Directive should be applicable to processing involving such data; </inglise>
+<eesti> 14) v&otilde;ttes arvesse info&uuml;hiskonnas praegu toimuvat f&uuml;&uuml;siliste isikutega seotud heli- ja pildiandmete kogumise, edastamise, t&ouml;&ouml;tlemise, salvestamise, talletamise ja vahendamise tehnoloogia arengut ja sellise arengu olulisust, peaks k&auml;esolev direktiiv olema kohaldatav ka selliste andmete t&ouml;&ouml;tlemise suhtes; </eesti>
+<inglise> (15) Whereas the processing of such data is covered by this Directive only if it is automated or if the data processed are contained or are intended to be contained in a filing system structured according to specific criteria relating to individuals, so as to permit easy access to the personal data in question; </inglise>
+<eesti> 15) selliste andmete t&ouml;&ouml;tlemine kuulub k&auml;esoleva direktiivi reguleerimisalasse ainult siis, kui tegemist on automatiseeritud t&ouml;&ouml;tlemisega v&otilde;i kui t&ouml;&ouml;deldavad andmed sisalduvad &uuml;ksikisikutega seotud teatavate kriteeriumide p&otilde;hjal korrastatud kataloogis v&otilde;i kui nad hiljem kantakse sellisesse kataloogi, et v&otilde;imaldada lihtsat juurdep&auml;&auml;su k&otilde;nealustele isikuandmetele; </eesti>
+<inglise> (16) Whereas the processing of sound and image data, such as in cases of video surveillance, does not come within the scope of this Directive if it is carried out for the purposes of public security, defence, national security or in the course of State activities relating to the area of criminal law or of other activities which do not come within the scope of Community law; </inglise>
+<eesti> 16) heli- ja pildimaterjali sisaldavate andmete t&ouml;&ouml;tlemine, n&auml;iteks videovalve puhul, ei kuulu k&auml;esoleva direktiivi reguleerimisalasse, kui see on seotud avaliku korra, riigikaitse, riigi julgeoleku v&otilde;i riigi toimingutega kriminaal&otilde;iguse valdkonnas v&otilde;i muu tegevusega, mis ei kuulu &uuml;henduse &otilde;iguse reguleerimisalasse; </eesti>
+<inglise> (17) Whereas, as far as the processing of sound and image data carried out for purposes of journalism or the purposes of literary or artistic expression is concerned, in particular in the audiovisual field, the principles of the Directive are to apply in a restricted manner according to the provisions laid down in Article 9; </inglise>
+<eesti> 17) kui tegemist on heli- ja pildimaterjali sisaldavate andmete t&ouml;&ouml;tlemisega ajakirjanduse jaoks v&otilde;i kirjandusliku v&otilde;i kunstilise enesev&auml;ljenduse huvides, eelk&otilde;ige audiovisuaalsektoris, kohaldatakse k&auml;esoleva direktiivi p&otilde;him&otilde;tteid piiratult vastavalt artikli 9 s&auml;tetele; </eesti>
+<inglise> (18) Whereas, in order to ensure that individuals are not deprived of the protection to which they are entitled under this Directive, any processing of personal data in the Community must be carried out in accordance with the law of one of the Member States; whereas, in this connection, processing carried out under the responsibility of a controller who is established in a Member State should be governed by the law of that State; </inglise>
+<eesti> 18) tagamaks, et &uuml;ksikisikud ei j&auml;&auml; ilma kaitsest, millele neil on k&auml;esoleva direktiivi kohaselt &otilde;igus, peab igasugune isikuandmete t&ouml;&ouml;tlemine &uuml;henduses toimuma &uuml;he liikmesriigi &otilde;iguse kohaselt; seoses sellega peaks &uuml;hes liikmesriigis registreeritud vastutav t&ouml;&ouml;tleja andmeid t&ouml;&ouml;tlema vastavalt k&otilde;nealuse riigi &otilde;igusele; </eesti>
+<inglise> (19) Whereas establishment on the territory of a Member State implies the effective and real exercise of activity through stable arrangements; whereas the legal form of such an establishment, whether simply branch or a subsidiary with a legal personality, is not the determining factor in this respect; whereas, when a single controller is established on the territory of several Member States, particularly by means of subsidiaries, he must ensure, in order to avoid any circumvention of national rules, that each of the establishments fulfils the obligations imposed by the national law applicable to its activities; </inglise>
+<eesti> 19) registreerimine liikmesriigi territooriumil eeldab tegelikku ja tulemuslikku tegutsemist ning stabiilset asukohta; selles suhtes ei ole m&auml;&auml;ravaks asutatud &uuml;ksuse &otilde;iguslik vorm, tegemist v&otilde;ib olla lihtsalt filiaali v&otilde;i juriidilisest isikust t&uuml;tarettev&otilde;tjaga; kui &uuml;ks vastutav t&ouml;&ouml;tleja on registreeritud mitme liikmesriigi territooriumil, eelk&otilde;ige t&uuml;tarettev&otilde;tjate kaudu, peab ta tagama, et k&otilde;ik ettev&otilde;tjad t&auml;idavad oma tegevuse suhtes kohaldatavast siseriiklikust &otilde;igusest tulenevaid kohustusi, et v&auml;ltida v&otilde;imalikku siseriiklikest eeskirjadest k&otilde;rvalehoidmist; </eesti>
+<inglise> (20) Whereas the fact that the processing of data is carried out by a person established in a third country must not stand in the way of the protection of individuals provided for in this Directive; whereas in these cases, the processing should be governed by the law of the Member State in which the means used are located, and there should be guarantees to ensure that the rights and obligations provided for in this Directive are respected in practice; </inglise>
+<eesti> 20) asjaolu, et andmeid t&ouml;&ouml;tleb kolmandas riigis registreeritud isik, ei tohi takistada &uuml;ksikisikute kaitsmist k&auml;esoleva direktiivi kohaselt; sellisel juhul peaks t&ouml;&ouml;tlemist reguleerima selle liikmesriigi &otilde;igus, kus asuvad kasutatavad vahendid, ning tagada tuleks see, et k&auml;esolevas direktiivis s&auml;testatud &otilde;igusi ja kohustusi tegelikult j&auml;rgitakse; </eesti>
+<inglise> (21) Whereas this Directive is without prejudice to the rules of territoriality applicable in criminal matters; </inglise>
+<eesti> 21) k&auml;esolev direktiiv ei piira kriminaalasjades kohaldatavaid territoriaalsuse p&otilde;him&otilde;tteid; </eesti>
+<inglise> (22) Whereas Member States shall more precisely define in the laws they enact or when bringing into force the measures taken under this Directive the general circumstances in which processing is lawful; whereas in particular Article 5, in conjunction with Articles 7 and 8, allows Member States, independently of general rules, to provide for special processing conditions for specific sectors and for the various categories of data covered by Article 8; </inglise>
+<eesti> 22) liikmesriigid m&auml;&auml;ravad enda j&otilde;ustatavates &otilde;igusaktides v&otilde;i k&auml;esoleva direktiivi kohaseid meetmeid ellu viies t&auml;psemalt kindlaks &uuml;ldised asjaolud, mille korral on andmete t&ouml;&ouml;tlemine seaduslik; eelk&otilde;ige artikkel 5 koostoimes artiklitega 7 ja 8 v&otilde;imaldab liikmesriikidel &uuml;ldeeskirjadest olenemata s&auml;testada t&ouml;&ouml;tlemise eritingimused konkreetsete sektorite ja artikliga 8 etten&auml;htud eri andmeliikide jaoks; </eesti>
+<inglise> (23) Whereas Member States are empowered to ensure the implementation of the protection of individuals both by means of a general law on the protection of individuals as regards the processing of personal data and by sectorial laws such as those relating, for example, to statistical institutes; </inglise>
+<eesti> 23) liikmesriigid on volitatud tagama &uuml;ksikisikute kaitset nii &uuml;ldkohaldatavate &otilde;igusaktidega &uuml;ksikisikute kaitse kohta isikuandmete t&ouml;&ouml;tlemisel kui ka teatavates sektorites kohaldatavate &otilde;igusaktidega, n&auml;iteks nendega, mis k&auml;sitlevad statistikaasutusi; </eesti>
+<inglise> (24) Whereas the legislation concerning the protection of legal persons with regard to the processing data which concerns them is not affected by this Directive; </inglise>
+<eesti> 24) k&auml;esolev direktiiv ei m&otilde;juta &otilde;igusakte, mis k&auml;sitlevad juriidiliste isikute kaitset nende kohta k&auml;ivate andmete t&ouml;&ouml;tlemisel; </eesti>
+<inglise> (25) Whereas the principles of protection must be reflected, on the one hand, in the obligations imposed on persons, public authorities, enterprises, agencies or other bodies responsible for processing, in particular regarding data quality, technical security, notification to the supervisory authority, and the circumstances under which processing can be carried out, and, on the other hand, in the right conferred on individuals, the data on whom are the subject of processing, to be informed that processing is taking place, to consult the data, to request corrections and even to object to processing in certain circumstances; </inglise>
+<eesti> 25) kaitsmise p&otilde;him&otilde;tted peavad kajastuma &uuml;hest k&uuml;ljest t&ouml;&ouml;tlemise eest vastutavate isikute, riigiasutuste, ettev&otilde;tete, esinduste v&otilde;i muude organite suhtes kehtestatud kohustustes, eelk&otilde;ige seoses andmete kvaliteedi, tehnilise turvalisuse, j&auml;relevalveasutustele teatamise ja andmete t&ouml;&ouml;tlemise asjaoludega, ja teisest k&uuml;ljest &otilde;igustes, mis on antud &uuml;ksikisikule, kelle andmeid t&ouml;&ouml;deldakse, ja mille kohaselt tuleb talle t&ouml;&ouml;tlemisest teatada, v&otilde;imaldada tal andmetega tutvuda ning mille kohaselt ta v&otilde;ib n&otilde;uda andmete korrigeerimist ja teatavatel asjaoludel isegi esitada vastuv&auml;iteid andmete t&ouml;&ouml;tlemise suhtes; </eesti>
+<inglise> (26) Whereas the principles of protection must apply to any information concerning an identified or identifiable person; whereas, to determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the said person; whereas the principles of protection shall not apply to data rendered anonymous in such a way that the data subject is no longer identifiable; whereas codes of conduct within the meaning of Article 27 may be a useful instrument for providing guidance as to the ways in which data may be rendered anonymous and retained in a form in which identification of the data subject is no longer possible; </inglise>
+<eesti> 26) kaitsmise p&otilde;him&otilde;tteid tuleb kohaldada igasuguse tuvastatud v&otilde;i tuvastatava isiku kohta k&auml;iva teabe suhtes; isiku tuvastatavuse kindlakstegemisel tuleb arvesse v&otilde;tta k&otilde;iki vahendeid, mida volitatud t&ouml;&ouml;tleja v&otilde;i keegi muu v&otilde;ib andmesubjekti tuvastamiseks t&otilde;en&auml;oliselt kasutada; kaitsmise p&otilde;him&otilde;tteid ei kohaldata teabe suhtes, mis on muudetud anon&uuml;&uuml;mseks selliselt, et andmesubjekti ei ole enam v&otilde;imalik tuvastada; tegevusjuhendid artikli 27 t&auml;henduses v&otilde;ivad osutuda kasulikeks juhtn&ouml;&ouml;rideks selle kohta, kuidas andmeid muuta anon&uuml;&uuml;mseks ja kuidas neid s&auml;ilitada kujul, mis ei v&otilde;imalda andmesubjekti tuvastamist; </eesti>
+<inglise> (27) Whereas the protection of individuals must apply as much to automatic processing of data as to manual processing; whereas the scope of this protection must not in effect depend on the techniques used, otherwise this would create a serious risk of circumvention; whereas, nonetheless, as regards manual processing, this Directive covers only filing systems, not unstructured files; whereas, in particular, the content of a filing system must be structured according to specific criteria relating to individuals allowing easy access to the personal data; whereas, in line with the definition in Article 2 (c), the different criteria for determining the constituents of a structured set of personal data, and the different criteria governing access to such a set, may be laid down by each Member State; whereas files or sets of files as well as their cover pages, which are not structured according to specific criteria, shall under no circumstances fall within the scope of this Directive; </inglise>
+<eesti> 27) &uuml;ksikisikute kaitse peab kehtima nii andmete automatiseeritud kui ka automatiseerimata t&ouml;&ouml;tlemise puhul; k&otilde;nealuse kaitse rakendamine ei tohi s&otilde;ltuda kasutatud vahenditest, vastasel juhul looks see m&auml;rkimisv&auml;&auml;rse k&otilde;rvalehiilimisohu; automatiseerimata t&ouml;&ouml;tlemise puhul h&otilde;lmab k&auml;eolev direktiiv ainult katalooge, mitte korrastamata andmekogumeid; eelk&otilde;ige peab kataloog olema korrastatud teatavate &uuml;ksikisikutega seotud kriteeriumide p&otilde;hjal, mis v&otilde;imaldaksid lihtsat juurdep&auml;&auml;su isikuandmetele; koosk&otilde;las artikli 2 l&otilde;ikega c v&otilde;ib iga liikmesriik s&auml;testada korrastatud isikuandmete kogumi koostisosade m&auml;&auml;ratlemisel oma kriteeriumid ja kriteeriumid, mis reguleerivad juurdep&auml;&auml;su sellisele kogumile; k&auml;esoleva direktiivi reguleerimisalasse ei kuulu mingil juhul kataloogid v&otilde;i kataloogide kogumid ega nende esilehed, mis ei ole teatavate kriteeriumide kohaselt korrastatud; </eesti>
+<inglise> (28) Whereas any processing of personal data must be lawful and fair to the individuals concerned; whereas, in particular, the data must be adequate, relevant and not excessive in relation to the purposes for which they are processed; whereas such purposes must be explicit and legitimate and must be determined at the time of collection of the data; whereas the purposes of processing further to collection shall not be incompatible with the purposes as they were originally specified; </inglise>
+<eesti> 28) isikuandmete igasugune t&ouml;&ouml;tlemine peab olema seaduslik ja andmesubjektide suhtes &otilde;iglane; eelk&otilde;ige peavad andmed olema piisavad, asjakohased ja mitte &uuml;letama selle otstarbe piire, mille tarvis neid t&ouml;&ouml;deldakse; sellised eesm&auml;rgid peavad olema selgelt v&auml;ljendatud ja &otilde;igusp&auml;rased ning kindlaks m&auml;&auml;ratud enne andmete kogumist; andmete kogumise j&auml;rgsed t&ouml;&ouml;tlemise eesm&auml;rgid peavad olema koosk&otilde;las esialgselt kindlaks m&auml;&auml;ratud eesm&auml;rkidega; </eesti>
+<inglise> (29) Whereas the further processing of personal data for historical, statistical or scientific purposes is not generally to be considered incompatible with the purposes for which the data have previously been collected provided that Member States furnish suitable safeguards; whereas these safeguards must in particular rule out the use of the data in support of measures or decisions regarding any particular individual; </inglise>
+<eesti> 29) isikuandmete t&auml;iendavat t&ouml;&ouml;tlemist ajaloo, statistika v&otilde;i teadusega seotud eesm&auml;rkidel ei peeta tavaliselt andmete kogumise esialgse eesm&auml;rgiga vastuolus olevaks tingimusel, et liikmesriigid kannavad hoolt vajalike tagatiste eest; nimetatud tagatistega tuleb eelk&otilde;ige kindlustada, et andmeid ei kasutataks &uuml;hegi konkreetse isikuga seotud meetmete v&otilde;i otsuste toetamiseks; </eesti>
+<inglise> (30) Whereas, in order to be lawful, the processing of personal data must in addition be carried out with the consent of the data subject or be necessary for the conclusion or performance of a contract binding on the data subject, or as a legal requirement, or for the performance of a task carried out in the public interest or in the exercise of official authority, or in the legitimate interests of a natural or legal person, provided that the interests or the rights and freedoms of the data subject are not overriding; whereas, in particular, in order to maintain a balance between the interests involved while guaranteeing effective competition, Member States may determine the circumstances in which personal data may be used or disclosed to a third party in the context of the legitimate ordinary business activities of companies and other bodies; whereas Member States may similarly specify the conditions under which personal data may be disclosed to a third party for the purposes of marketing whether carried out commercially or by a charitable organization or by any other association or foundation, of a political nature for example, subject to the provisions allowing a data subject to object to the processing of data regarding him, at no cost and without having to state his reasons; </inglise>
+<eesti> 30) seaduslik isikuandmete t&ouml;&ouml;tlemine peab toimuma andmesubjekti n&otilde;usolekul v&otilde;i olema vajalik seoses andmesubjekti jaoks siduva kokkuleppe s&otilde;lmimise v&otilde;i t&auml;itmisega, seadusest tuleneva kohustuse, &uuml;ldiste huvidega seotud &uuml;lesande t&auml;itmise, avaliku v&otilde;imu teostamise v&otilde;i m&otilde;ne f&uuml;&uuml;silise v&otilde;i juriidilise isiku &otilde;igustatud huvidega ning tingimusel, et andmesubjekti huvid, &otilde;igused ja vabadused ei ole &uuml;limuslikud; eelk&otilde;ige selleks, et s&auml;ilitada tasakaal asjaomaste huvide vahel ja tagada samal ajal tulemuslik konkurents, v&otilde;ivad liikmesriigid m&auml;&auml;ratleda asjaolud, mille korral v&otilde;ib isikuandmeid kasutada v&otilde;i avalikustada kolmandatele isikutele seoses &auml;ri&uuml;hingute v&otilde;i muude isikute tavap&auml;rase seadusliku &auml;ritegevusega; lisaks sellele v&otilde;ivad liikmesriigid t&auml;psustada tingimused, mille puhul v&otilde;ib isikuandmed avalikustada kolmandatele isikutele turustamisega seotud eesm&auml;rkidel, olenemata sellest, kas turustamine on &auml;riotstarbeline v&otilde;i heategevusorganisatsiooni v&otilde;i m&otilde;ne muu, n&auml;iteks poliitilise &uuml;henduse v&otilde;i sihtasutuse korraldatud, tingimusel, et kohaldatakse s&auml;tteid, mille kohaselt andmesubjekt v&otilde;ib avaldada vastuseisu teda k&auml;sitlevate andmete t&ouml;&ouml;tlemise suhtes, ilma et ta peaks selle eest maksma v&otilde;i oma otsust p&otilde;hjendama; </eesti>
+<inglise> (31) Whereas the processing of personal data must equally be regarded as lawful where it is carried out in order to protect an interest which is essential for the data subject's life; </inglise>
+<eesti> 31) isikuandmete t&ouml;&ouml;tlemist tuleb pidada samav&auml;&auml;rselt seaduslikuks ka siis, kui see toimub seoses andmesubjekti eluliste huvide kaitsmisega; </eesti>
+<inglise> (32) Whereas it is for national legislation to determine whether the controller performing a task carried out in the public interest or in the exercise of official authority should be a public administration or another natural or legal person governed by public law, or by private law such as a professional association; </inglise>
+<eesti> 32) see, kas &uuml;ldiste huvidega seotud &uuml;lesannet t&auml;itev v&otilde;i avalikku v&otilde;imu teostav volitatud t&ouml;&ouml;tleja peaks olema riigiasutus v&otilde;i muu avalik-&otilde;iguslik v&otilde;i f&uuml;&uuml;siline v&otilde;i juriidiline isik, n&auml;iteks kutseliit, tuleb kindlaks m&auml;&auml;rata siseriiklikes &otilde;igusaktides; </eesti>
+<inglise> (33) Whereas data which are capable by their nature of infringing fundamental freedoms or privacy should not be processed unless the data subject gives his explicit consent; whereas, however, derogations from this prohibition must be explicitly provided for in respect of specific needs, in particular where the processing of these data is carried out for certain health-related purposes by persons subject to a legal obligation of professional secrecy or in the course of legitimate activities by certain associations or foundations the purpose of which is to permit the exercise of fundamental freedoms; </inglise>
+<eesti> 33) andmeid, mis oma olemuse t&otilde;ttu v&otilde;ivad rikkuda p&otilde;hivabadusi v&otilde;i eraelu puutumatust, ei tohiks t&ouml;&ouml;delda ilma andmesubjekti selges&otilde;nalise loata; siiski tuleb selgelt s&auml;testada erandid nimetatud keelust seoses teatavate vajadustega juhul, kui k&otilde;nealuseid andmeid t&ouml;&ouml;tlevad teatavatel tervishoiuga seotud eesm&auml;rkidel isikud, kellel on seadusj&auml;rgne kohustus hoida ametisaladust, v&otilde;i kui sellise t&ouml;&ouml;tlemisega tegelevad oma &otilde;igusp&auml;rase tegevuse raames &uuml;hendused v&otilde;i sihtasutused, kelle t&ouml;&ouml; eesm&auml;rk on v&otilde;imaldada p&otilde;hivabaduste kasutamist; </eesti>
+<inglise> (34) Whereas Member States must also be authorized, when justified by grounds of important public interest, to derogate from the prohibition on processing sensitive categories of data where important reasons of public interest so justify in areas such as public health and social protection - especially in order to ensure the quality and cost-effectiveness of the procedures used for settling claims for benefits and services in the health insurance system - scientific research and government statistics; whereas it is incumbent on them, however, to provide specific and suitable safeguards so as to protect the fundamental rights and the privacy of individuals; </inglise>
+<eesti> 34) liikmesriikidel peab olema lubatud kalduda k&otilde;rvale delikaatsete andmete t&ouml;&ouml;tlemise keelust ka siis, kui seda &otilde;igustavad olulised &uuml;ldiste huvidega seotud p&otilde;hjused sellistes valdkondades nagu tervishoid ja sotsiaalkaitse (eriti selleks, et tagada h&uuml;vitisen&otilde;uete rahuldamise kord ja teenuste kvaliteet ning tasuvus tervisekindlustuse puhul), teadusuuringud ja riiklik statistika; liikmesriikidel on siiski kohustus pakkuda konkreetseid ja sobivaid tagatisi, et kaitsta &uuml;ksikisikute p&otilde;hi&otilde;igusi ja eraelu puutumatust; </eesti>
+<inglise> (35) Whereas, moreover, the processing of personal data by official authorities for achieving aims, laid down in constitutional law or international public law, of officially recognized religious associations is carried out on important grounds of public interest; </inglise>
+<eesti> 35) lisaks sellele t&ouml;&ouml;tlevad ametiasutused isikuandmeid, et saavutada &uuml;ldiste huvidega seotud olulisi eesm&auml;rke, mis on ametlikult tunnustatud religioossetele &uuml;hendustele ette n&auml;htud konstitutsiooni&otilde;iguses v&otilde;i rahvusvahelises avalikus &otilde;iguses; </eesti>
+<inglise> (36) Whereas where, in the course of electoral activities, the operation of the democratic system requires in certain Member States that political parties compile data on people's political opinion, the processing of such data may be permitted for reasons of important public interest, provided that appropriate safeguards are established; </inglise>
+<eesti> 36) kui valimisprotsessi k&auml;igus eeldab teatavate liikmesriikide demokraatlik s&uuml;steem, et poliitilised parteid peavad koostama andmed inimeste poliitiliste veendumuste kohta, v&otilde;ib selliste andmete t&ouml;&ouml;tlemine olla lubatud olulistel &uuml;ldiste huvidega seotud p&otilde;hjustel ja tingimusel, et rakendatakse vajalikke tagatisi; </eesti>
+<inglise> (37) Whereas the processing of personal data for purposes of journalism or for purposes of literary of artistic expression, in particular in the audiovisual field, should qualify for exemption from the requirements of certain provisions of this Directive in so far as this is necessary to reconcile the fundamental rights of individuals with freedom of information and notably the right to receive and impart information, as guaranteed in particular in Article 10 of the European Convention for the Protection of Human Rights and Fundamental Freedoms; whereas Member States should therefore lay down exemptions and derogations necessary for the purpose of balance between fundamental rights as regards general measures on the legitimacy of data processing, measures on the transfer of data to third countries and the power of the supervisory authority; whereas this should not, however, lead Member States to lay down exemptions from the measures to ensure security of processing; whereas at least the supervisory authority responsible for this sector should also be provided with certain ex-post powers, e.g. to publish a regular report or to refer matters to the judicial authorities; </inglise>
+<eesti> 37) kui isikuandmeid t&ouml;&ouml;deldakse ajakirjanduse jaoks v&otilde;i kirjandusliku v&otilde;i kunstilise enesev&auml;ljenduse huvides, eelk&otilde;ige audiovisuaalsektoris, tuleks teha erand k&auml;esoleva direktiivi teatavate s&auml;tete n&otilde;uetest, kuiv&otilde;rd see on vajalik selleks, et viia vastavusse &uuml;ksikisikute p&otilde;hi&otilde;igused ja s&otilde;navabadus, eelk&otilde;ige Euroopa inim&otilde;iguste ja p&otilde;hivabaduste kaitse konventsiooni artikliga 10 tagatud &otilde;igus saada ja jagada teavet; seet&otilde;ttu peaksid liikmesriigid kehtestama p&otilde;hi&otilde;iguste tasakaalustatuseks vajalikud erandid ja vabastused, mis puudutavad &uuml;ldmeetmeid andmete t&ouml;&ouml;tlemise seaduslikkuse kohta, meetmeid andmete kolmandatesse riikidesse edastamise kohta ja j&auml;relevalveasutuse volitusi; liikmesriigid ei tohiks siiski kehtestada erandeid t&ouml;&ouml;tlemise turvalisuse tagamiseks m&otilde;eldud meetmetest; v&auml;hemalt k&otilde;nealuse sektori eest vastutaval j&auml;relevalveasutusel peaksid olema teatavad tagantj&auml;rele volitused, nt avaldada korralisi aruandeid v&otilde;i suunata k&uuml;simused &otilde;igusasutustele, </eesti>
+<inglise> (38) Whereas, if the processing of data is to be fair, the data subject must be in a position to learn of the existence of a processing operation and, where data are collected from him, must be given accurate and full information, bearing in mind the circumstances of the collection; </inglise>
+<eesti> 38) andmete t&ouml;&ouml;tlemise &otilde;igluse huvides peab andmesubjektil olema v&otilde;imalik saada t&ouml;&ouml;tlemisest teada ja juhul, kui andmeid kogutakse tema enda k&auml;est, tuleb teda t&auml;pselt ja t&auml;ies ulatuses teavitada andmete kogumise asjaoludest; </eesti>
+<inglise> (39) Whereas certain processing operations involve data which the controller has not collected directly from the data subject; whereas, furthermore, data can be legitimately disclosed to a third party, even if the disclosure was not anticipated at the time the data were collected from the data subject; whereas, in all these cases, the data subject should be informed when the data are recorded or at the latest when the data are first disclosed to a third party; </inglise>
+<eesti> 39) teatavate toimingute k&auml;igus t&ouml;&ouml;deldakse ka andmeid, mida vastutav t&ouml;&ouml;tleja ei ole kogunud vahetult andmesubjektilt; lisaks sellele v&otilde;idakse andmeid &otilde;igusp&auml;raselt kolmandatele isikutele avalikustada, kuigi seda andmesubjektilt andmeid kogudes ei eeldatud; k&otilde;igil nimetatud juhtudel tuleks andmesubjekti teavitada andmete kogumise ajal v&otilde;i hiljemalt siis, kui andmed esimest korda kolmandale isikule avalikustatakse; </eesti>
+<inglise> (40) Whereas, however, it is not necessary to impose this obligation of the data subject already has the information; whereas, moreover, there will be no such obligation if the recording or disclosure are expressly provided for by law or if the provision of information to the data subject proves impossible or would involve disproportionate efforts, which could be the case where processing is for historical, statistical or scientific purposes; whereas, in this regard, the number of data subjects, the age of the data, and any compensatory measures adopted may be taken into consideration; </inglise>
+<eesti> 40) k&otilde;nealust kohustust ei ole siiski vaja kehtestada juhul, kui andmesubjekt seda juba teab; ka ei ole sellist kohustust juhul, kui andmete kogumine v&otilde;i avalikustamine on &otilde;igusaktidega selgelt ette n&auml;htud v&otilde;i kui andmesubjektile teatamine osutub v&otilde;imatuks v&otilde;i kui see eeldab &uuml;lem&auml;&auml;raseid j&otilde;upingutusi, nagu v&otilde;ib juhtuda, kui t&ouml;&ouml;tlemise eesm&auml;rk on seotud ajaloo, statistika v&otilde;i teadusega; seoses sellega v&otilde;ib arvesse v&otilde;tta andmesubjektide arvu, andmete vanust ja v&otilde;imalikke kompenseerivaid meetmeid; </eesti>
+<inglise> (41) Whereas any person must be able to exercise the right of access to data relating to him which are being processed, in order to verify in particular the accuracy of the data and the lawfulness of the processing; whereas, for the same reasons, every data subject must also have the right to know the logic involved in the automatic processing of data concerning him, at least in the case of the automated decisions referred to in Article 15 (1); whereas this right must not adversely affect trade secrets or intellectual property and in particular the copyright protecting the software; whereas these considerations must not, however, result in the data subject being refused all information; </inglise>
+<eesti> 41) iga&uuml;hel peab olema v&otilde;imalik kasutada &otilde;igust tutvuda teda k&auml;sitlevate t&ouml;&ouml;deldavate andmetega, et kontrollida eelk&otilde;ige andmete &otilde;igsust ja t&ouml;&ouml;tlemise seaduslikkust; samadel p&otilde;hjustel peab igal andmesubjektil olema &otilde;igus teada teda k&auml;sitlevate andmete automatiseeritud t&ouml;&ouml;tlemise loogikat, seda v&auml;hemalt artikli 15 l&otilde;ikes 1 osutatud automatiseeritud otsuste puhul; nimetatud &otilde;igus ei tohi kahjustada &auml;risaladusi ega intellektuaalomandit, samuti mitte tarkvara kaitsvat autori&otilde;igust; k&otilde;nealustel kaalutlustel ei tohi siiski &uuml;ldse keelduda teabe andmisest andmesubjektile; </eesti>
+<inglise> (42) Whereas Member States may, in the interest of the data subject or so as to protect the rights and freedoms of others, restrict rights of access and information; whereas they may, for example, specify that access to medical data may be obtained only through a health professional; </inglise>
+<eesti> 42) liikmesriigid v&otilde;ivad andmesubjekti huvides v&otilde;i teiste isikute &otilde;iguste ja vabaduste kaitsmiseks piirata andmetega tutvumise ning teabe saamise &otilde;igust; liikmesriigid v&otilde;ivad t&auml;psemalt s&auml;testada n&auml;iteks selle, et meditsiiniliste andmetega saab tutvuda ainult tervishoiut&ouml;&ouml;taja vahendusel; </eesti>
+<inglise> (43) Whereas restrictions on the rights of access and information and on certain obligations of the controller may similarly be imposed by Member States in so far as they are necessary to safeguard, for example, national security, defence, public safety, or important economic or financial interests of a Member State or the Union, as well as criminal investigations and prosecutions and action in respect of breaches of ethics in the regulated professions; whereas the list of exceptions and limitations should include the tasks of monitoring, inspection or regulation necessary in the three last-mentioned areas concerning public security, economic or financial interests and crime prevention; whereas the listing of tasks in these three areas does not affect the legitimacy of exceptions or restrictions for reasons of State security or defence; </inglise>
+<eesti> 43) liikmesriigid v&otilde;ivad andmetega tutvumise ja teabe saamise &otilde;iguse ning vastutava t&ouml;&ouml;tleja teatavate kohustuste suhtes kehtestada piiranguid, ka selleks, et kaitsta n&auml;iteks riigi julgeolekut, riigikaitset, avalikku korda v&otilde;i liikmesriigi v&otilde;i Euroopa Liidu olulisi majanduslikke v&otilde;i rahalisi huve, samuti seoses eeluurimiste, vastutusele v&otilde;tmiste ja meetmetega ametieetika rikkumisega reguleeritud kutsealadel; erandite ja piirangute loetelu peaks sisaldama j&auml;relevalve, kontrollimise ja reguleerimise alal &uuml;lesandeid, mis on vajalikud kolmes viimati nimetatud valdkonnas seoses avaliku korraga, majanduslike v&otilde;i rahaliste huvidega ja kuritegude ennetamisega; kolme k&otilde;nealuse valdkonna &uuml;lesannete loetelu ei m&otilde;juta nende erandite ega piirangute &otilde;igusp&auml;rasust, mis on tehtud riigi julgeoleku v&otilde;i riigikaitsega seotud p&otilde;hjustel; </eesti>
+<inglise> (44) Whereas Member States may also be led, by virtue of the provisions of Community law, to derogate from the provisions of this Directive concerning the right of access, the obligation to inform individuals, and the quality of data, in order to secure certain of the purposes referred to above; </inglise>
+<eesti> 44) &uuml;henduse &otilde;iguse s&auml;tete t&otilde;ttu v&otilde;ib liikmesriikidel osutuda vajalikuks k&otilde;rvale kalduda k&auml;esoleva direktiivi s&auml;tetest, mis k&auml;sitlevad andmetele juurdep&auml;&auml;su &otilde;igust, &uuml;ksikisikute teavitamise kohustust ja andmete kvaliteeti, et kindlustada teatavate eespool nimetatud eesm&auml;rkide saavutamine; </eesti>
+<inglise> (45) Whereas, in cases where data might lawfully be processed on grounds of public interest, official authority or the legitimate interests of a natural or legal person, any data subject should nevertheless be entitled, on legitimate and compelling grounds relating to his particular situation, to object to the processing of any data relating to himself; whereas Member States may nevertheless lay down national provisions to the contrary; </inglise>
+<eesti> 45) neil juhtudel, kui andmeid v&otilde;ib seaduslikult t&ouml;&ouml;delda &uuml;ldiste huvide, avaliku v&otilde;imu v&otilde;i m&otilde;ne f&uuml;&uuml;silise v&otilde;i juriidilise isiku &otilde;igustatud huvidega seotud p&otilde;hjustel, peaks igal andmesubjektil olema siiski lubatud tema konkreetse olukorraga seotud &otilde;igustatud ja veenvatel p&otilde;hjustel esitada vastuv&auml;iteid teda k&auml;sitlevate andmete t&ouml;&ouml;tlemise suhtes; liikmesriigid v&otilde;ivad sellest hoolimata siiski ette n&auml;ha vastupidised siseriiklikud s&auml;tted; </eesti>
+<inglise> (46) Whereas the protection of the rights and freedoms of data subjects with regard to the processing of personal data requires that appropriate technical and organizational measures be taken, both at the time of the design of the processing system and at the time of the processing itself, particularly in order to maintain security and thereby to prevent any unauthorized processing; whereas it is incumbent on the Member States to ensure that controllers comply with these measures; whereas these measures must ensure an appropriate level of security, taking into account the state of the art and the costs of their implementation in relation to the risks inherent in the processing and the nature of the data to be protected; </inglise>
+<eesti> 46) andmesubjektide &otilde;iguste ja vabaduste kaitsmine isikuandmete t&ouml;&ouml;tlemisel eeldab vajalike tehniliste ja korralduslike meetmete v&otilde;tmist nii t&ouml;&ouml;tlemiss&uuml;steemi kavandamise kui ka t&ouml;&ouml;tlemise ajal, eelk&otilde;ige selleks, et tagada turvalisus ja seega v&auml;listada v&otilde;imalik omavoliline t&ouml;&ouml;tlemine; liikmesriigid on kohustatud tagama, et volitatud t&ouml;&ouml;tlejad j&auml;rgivad nimetatud meetmeid; v&otilde;ttes arvesse tehnika taset ja meetmete rakenduskulusid, tuleb k&otilde;nealuste meetmetega tagada vajalik turvalisuse tase, mis vastaks t&ouml;&ouml;tlemise riskile ja kaitstavate andmete laadile; </eesti>
+<inglise> (47) Whereas where a message containing personal data is transmitted by means of a telecommunications or electronic mail service, the sole purpose of which is the transmission of such messages, the controller in respect of the personal data contained in the message will normally be considered to be the person from whom the message originates, rather than the person offering the transmission services; whereas, nevertheless, those offering such services will normally be considered controllers in respect of the processing of the additional personal data necessary for the operation of the service; </inglise>
+<eesti> 47) kui isikuandmeid sisaldava s&otilde;numi edastamiseks kasutatakse telekommunikatsiooni vahendeid v&otilde;i elektronposti teenuseid, mille ainus eesm&auml;rk on selliste s&otilde;numite edastamine, peetakse s&otilde;numis sisalduvate isikuandmete vastutavaks t&ouml;&ouml;tlejaks s&otilde;numi koostanud isikut, mitte edastusteenust pakkuvat isikut; sellest hoolimata peetakse tavaliselt selliste teenuste pakkujaid teenuse osutamiseks vajalike t&auml;iendavate isikuandmete t&ouml;&ouml;tlemise eest vastutavateks t&ouml;&ouml;tlejateks; </eesti>
+<inglise> (48) Whereas the procedures for notifying the supervisory authority are designed to ensure disclosure of the purposes and main features of any processing operation for the purpose of verification that the operation is in accordance with the national measures taken under this Directive; </inglise>
+<eesti> 48) j&auml;relevalveasutuse teavitamise kord on m&otilde;eldud selleks, et tagada t&ouml;&ouml;tlemise eesm&auml;rkide ja p&otilde;hiomaduste avalikustamine, et saaks kontrollida t&ouml;&ouml;tlemise vastavust k&auml;esoleva direktiivi kohaselt v&otilde;etud siseriiklikele meetmetele; </eesti>
+<inglise> (49) Whereas, in order to avoid unsuitable administrative formalities, exemptions from the obligation to notify and simplification of the notification required may be provided for by Member States in cases where processing is unlikely adversely to affect the rights and freedoms of data subjects, provided that it is in accordance with a measure taken by a Member State specifying its limits; whereas exemption or simplification may similarly be provided for by Member States where a person appointed by the controller ensures that the processing carried out is not likely adversely to affect the rights and freedoms of data subjects; whereas such a data protection official, whether or not an employee of the controller, must be in a position to exercise his functions in complete independence; </inglise>
+<eesti> 49) asjatute haldusformaalsuste v&auml;ltimiseks v&otilde;ivad liikmesriigid s&auml;testada erandid teatamiskohustusest ja lihtsustada vajalikku teatamist, kui t&ouml;&ouml;tlemine t&otilde;en&auml;oliselt ei kahjusta andmesubjektide &otilde;igusi ega vabadusi ja on koosk&otilde;las meetmetega, mida liikmesriik on v&otilde;tnud t&ouml;&ouml;tlemise piiride t&auml;psustamisel; samuti v&otilde;ivad liikmesriigid s&auml;testada erandi v&otilde;i lihtsustamise, kui vastutava t&ouml;&ouml;tleja poolt m&auml;&auml;ratud isik tagab, et t&otilde;en&auml;oliselt ei kahjusta t&ouml;&ouml;tlemine andmesubjektide &otilde;igusi ega vabadusi; olenemata sellest, kas selline andmete kaitsmise eest vastutav isik t&ouml;&ouml;tab vastutava t&ouml;&ouml;tleja alluvuses v&otilde;i mitte, peab ta saama oma teenistus&uuml;lesandeid t&auml;ita t&auml;iesti s&otilde;ltumatult; </eesti>
+<inglise> (50) Whereas exemption or simplification could be provided for in cases of processing operations whose sole purpose is the keeping of a register intended, according to national law, to provide information to the public and open to consultation by the public or by any person demonstrating a legitimate interest; </inglise>
+<eesti> 50) erandi v&otilde;i lihtsustamise v&otilde;ib ette n&auml;ha sellise t&ouml;&ouml;tlemise puhul, mille ainus eesm&auml;rk on pidada siseriikliku &otilde;iguse kohast avalikkuse teavitamiseks m&otilde;eldud registrit, mis on tutvumiseks avatud avalikkusele v&otilde;i k&otilde;igile isikutele, kel on asja vastu &otilde;igustatud huvi; </eesti>
+<inglise> (51) Whereas, nevertheless, simplification or exemption from the obligation to notify shall not release the controller from any of the other obligations resulting from this Directive; </inglise>
+<eesti> 51) teatamiskohustuse erand v&otilde;i lihtsustamine aga ei vabasta vastutavat t&ouml;&ouml;tlejat &uuml;hestki muust k&auml;esoleva direktiivi kohasest kohustusest; </eesti>
+<inglise> (52) Whereas, in this context, ex post facto verification by the competent authorities must in general be considered a sufficient measure; </inglise>
+<eesti> 52) seoses sellega tuleb p&auml;devate ametiasutuste tagantj&auml;rele teostatud kontrolli pidada &uuml;ldiselt piisavaks meetmeks; </eesti>
+<inglise> (53) Whereas, however, certain processing operation are likely to pose specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, such as that of excluding individuals from a right, benefit or a contract, or by virtue of the specific use of new technologies; whereas it is for Member States, if they so wish, to specify such risks in their legislation; </inglise>
+<eesti> 53) t&ouml;&ouml;tlemise m&otilde;nede toimingutega v&otilde;ivad siiski kaasneda nende toimingute laadist, ulatusest v&otilde;i eesm&auml;rkidest v&otilde;i uute tehnoloogiate konkreetsest kasutamisest tulenevad teatavad ohud andmesubjektide &otilde;igustele ja vabadustele, n&auml;iteks oht, et &uuml;ksikisik j&auml;&auml;b ilma &otilde;igusest, soodustusest v&otilde;i lepingust; soovi korral v&otilde;ivad liikmesriigid oma &otilde;igusaktides sellised ohud t&auml;psemalt kindlaks m&auml;&auml;rata; </eesti>
+<inglise> (54) Whereas with regard to all the processing undertaken in society, the amount posing such specific risks should be very limited; whereas Member States must provide that the supervisory authority, or the data protection official in cooperation with the authority, check such processing prior to it being carried out; whereas following this prior check, the supervisory authority may, according to its national law, give an opinion or an authorization regarding the processing; whereas such checking may equally take place in the course of the preparation either of a measure of the national parliament or of a measure based on such a legislative measure, which defines the nature of the processing and lays down appropriate safeguards; </inglise>
+<eesti> 54) kogu &uuml;hiskonnas toimuvat andmete t&ouml;&ouml;tlemist silmas pidades peaks selliseid konkreetseid ohte tekitava t&ouml;&ouml;tlemise hulk olema v&auml;ga piiratud; liikmesriigid peavad s&auml;testama, et j&auml;relevalveasutus v&otilde;i andmete kaitsmise eest vastutav ametiisik koost&ouml;&ouml;s j&auml;relevalveasutusega teeb enne t&ouml;&ouml;tlemise alustamist sellise t&ouml;&ouml;tlemise eelkontrolli; p&auml;rast nimetatud eelkontrolli v&otilde;ib j&auml;relevalveasutus vastavalt siseriiklikele &otilde;igusaktidele avaldada t&ouml;&ouml;tlemise kohta oma arvamuse v&otilde;i anda selleks loa; selline kontrollimine v&otilde;ib toimuda ka kas liikmesriigi parlamendi meetme v&otilde;i sellisel &otilde;igusaktil p&otilde;hineva meetme ettevalmistamise k&auml;igus, millega m&auml;&auml;ratletakse t&ouml;&ouml;tlemise laad ja n&auml;hakse ette vajalikud tagatised; </eesti>
+<inglise> (55) Whereas, if the controller fails to respect the rights of data subjects, national legislation must provide for a judicial remedy; whereas any damage which a person may suffer as a result of unlawful processing must be compensated for by the controller, who may be exempted from liability if he proves that he is not responsible for the damage, in particular in cases where he establishes fault on the part of the data subject or in case of force majeure; whereas sanctions must be imposed on any person, whether governed by private of public law, who fails to comply with the national measures taken under this Directive; (56) Whereas cross-border flows of personal data are necessary to the expansion of international trade; whereas the protection of individuals guaranteed in the Community by this Directive does not stand in the way of transfers of personal data to third countries which ensure an adequate level of protection; whereas the adequacy of the level of protection afforded by a third country must be assessed in the light of all the circumstances surrounding the transfer operation or set of transfer operations; </inglise>
+<eesti> 55) siseriiklikes &otilde;igusaktides tuleb s&auml;testada &otilde;iguskaitsevahendid juhuks, kui vastutav t&ouml;&ouml;tleja ei austa andmesubjektide &otilde;igusi; igasuguse kahju, mida &uuml;ksikisikule v&otilde;ib p&otilde;hjustada ebaseaduslik t&ouml;&ouml;tlemine, peab kompenseerima volitatud t&ouml;&ouml;tleja, kuid ta v&otilde;idakse sellest kohustusest vabastada, kui ta t&otilde;estab, et ta ei ole kahju eest vastutav, seda eelk&otilde;ige juhul, kui ta tuvastab andmesubjekti s&uuml;&uuml; v&otilde;i kui tegemist on v&auml;&auml;ramatu j&otilde;uga; k&otilde;igi isikute suhtes, kes ei j&auml;rgi k&auml;esoleva direktiivi p&otilde;hjal v&otilde;etud meetmeid, tuleb rakendada sanktsioone, olenemata sellest, kas tegemist on era&otilde;iguslike v&otilde;i avalik-&otilde;iguslike isikutega; 56) isikuandmete liikumine &uuml;le piiride on vajalik rahvusvahelise kaubanduse laiendamiseks; &uuml;henduses k&auml;esoleva direktiiviga tagatud &uuml;ksikisikute kaitse ei takista isikuandmete edastamist kolmandatesse riikidesse, kus on tagatud nende kaitse piisav tase; andmete kaitse taset kolmandates riikides tuleb hinnata k&otilde;iki edastamistoimingu v&otilde;i edastamistoimingute kogumi asjaolusid silmas pidades; </eesti>
+<inglise> (57) Whereas, on the other hand, the transfer of personal data to a third country which does not ensure an adequate level of protection must be prohibited; </inglise>
+<eesti> 57) samas tuleb keelata isikuandmete edastamine kolmandatesse riikidesse, kus nende kaitse tase ei ole piisav; </eesti>
+<inglise> (58) Whereas provisions should be made for exemptions from this prohibition in certain circumstances where the data subject has given his consent, where the transfer is necessary in relation to a contract or a legal claim, where protection of an important public interest so requires, for example in cases of international transfers of data between tax or customs administrations or between services competent for social security matters, or where the transfer is made from a register established by law and intended for consultation by the public or persons having a legitimate interest; whereas in this case such a transfer should not involve the entirety of the data or entire categories of the data contained in the register and, when the register is intended for consultation by persons having a legitimate interest, the transfer should be made only at the request of those persons or if they are to be the recipients; </inglise>
+<eesti> 58) s&auml;testada tuleks erandid nimetatud keelust juhuks, kui andmesubjekt ise on andnud loa, kui andmete edastamist on vaja seoses lepingu v&otilde;i kohtumenetlusega, kui seda eeldab oluliste avalike huvide kaitsmine, n&auml;iteks siis, kui tegemist on andmete rahvusvahelise edastamisega tolliasutuste, maksuametite v&otilde;i sotsiaalse turvalisuse eest vastutavate talituste vahel, v&otilde;i kui edastatakse seadusega loodud ja avalikkusele v&otilde;i k&otilde;igile &otilde;igustatud huvidega isikutele tutvumiseks avatud registrist p&auml;rinevaid andmeid; sellisel juhul ei tohiks edastada k&otilde;iki andmeid ega registris sisalduvate andmete k&otilde;iki liike ja juhul, kui register on m&otilde;eldud tutvumiseks &otilde;igustatud huvidega isikutele, tuleks andmed edastada ainult k&otilde;nealuste isikute taotluse korral v&otilde;i juhul, kui nemad on andmete vstuv&otilde;tjad; </eesti>
+<inglise> (59) Whereas particular measures may be taken to compensate for the lack of protection in a third country in cases where the controller offers appropriate safeguards; whereas, moreover, provision must be made for procedures for negotiations between the Community and such third countries; </inglise>
+<eesti> 59) kui kolmandates riikides ei kaitsta andmeid piisavalt, v&otilde;ib seda kompenseerida erimeetmetega, kui vastutav t&ouml;&ouml;tleja neid pakub; lisaks sellele tuleb s&auml;testada &uuml;henduse ja selliste kolmandate riikide vaheliste l&auml;bir&auml;&auml;kimiste kord; </eesti>
+<inglise> (60) Whereas, in any event, transfers to third countries may be effected only in full compliance with the provisions adopted by the Member States pursuant to this Directive, and in particular Article 8 thereof; </inglise>
+<eesti> 60) igal juhul v&otilde;ib andmete edastamine kolmandatesse riikidesse toimuda ainult siis, kui t&auml;ielikult j&auml;rgitakse s&auml;tteid, mis liikmesriigid on vastu v&otilde;tnud k&auml;esoleva direktiivi ja eelk&otilde;ige selle artikli 8 p&otilde;hjal; </eesti>
+<inglise> (61) Whereas Member States and the Commission, in their respective spheres of competence, must encourage the trade associations and other representative organizations concerned to draw up codes of conduct so as to facilitate the application of this Directive, taking account of the specific characteristics of the processing carried out in certain sectors, and respecting the national provisions adopted for its implementation; </inglise>
+<eesti> 61) liikmesriigid ja komisjon peavad oma p&auml;devuse piires julgustama kutse&uuml;hinguid ja muid asjaomaseid esindusorganeid koostama tegevusjuhendeid, et h&otilde;lbustada k&auml;esoleva direktiivi kohaldamist, austades selle rakendamiseks vastuv&otilde;etud siseriiklikke s&auml;tteid ja v&otilde;ttes arvesse andmete t&ouml;&ouml;tlemise ise&auml;rasusi teatavates sektorites; </eesti>
+<inglise> (62) Whereas the establishment in Member States of supervisory authorities, exercising their functions with complete independence, is an essential component of the protection of individuals with regard to the processing of personal data; </inglise>
+<eesti> 62) liikmesriikides t&auml;iesti s&otilde;ltumatult oma t&ouml;&ouml;&uuml;lesandeid t&auml;itvate j&auml;relevalveasutuste loomine on oluline tegur &uuml;ksikisikute kaitsmisel seoses isikuandmete t&ouml;&ouml;tlemisega; </eesti>
+<inglise> (63) Whereas such authorities must have the necessary means to perform their duties, including powers of investigation and intervention, particularly in cases of complaints from individuals, and powers to engage in legal proceedings; whereas such authorities must help to ensure transparency of processing in the Member States within whose jurisdiction they fall; </inglise>
+<eesti> 63) sellistel asutustel peavad olema oma kohustuste t&auml;itmiseks vajalikud vahendid, sealhulgas volitused tegeleda uurimisega ja sekkuda, seda eelk&otilde;ige &uuml;ksikisikute esitatud kaebuste puhul, ja volitused osaleda kohtumenetlustes; sellised asutused peavad aitama tagada t&ouml;&ouml;tlemise selgust ja arusaadavust liikmesriikides, kelle jurisdiktsiooni alla nad kuuluvad; </eesti>
+<inglise> (64) Whereas the authorities in the different Member States will need to assist one another in performing their duties so as to ensure that the rules of protection are properly respected throughout the European Union; </inglise>
+<eesti> 64) eri liikmesriikide j&auml;relevalveasutused peavad &uuml;ksteist oma kohustuste t&auml;itmisel aitama, et tagada andmete kaitsmist k&auml;sitlevate eeskirjade n&otilde;uetekohane j&auml;rgimine kogu Euroopa Liidus; </eesti>
+<inglise> (65) Whereas, at Community level, a Working Party on the Protection of Individuals with regard to the Processing of Personal Data must be set up and be completely independent in the performance of its functions; whereas, having regard to its specific nature, it must advise the Commission and, in particular, contribute to the uniform application of the national rules adopted pursuant to this Directive; </inglise>
+<eesti> 65) &uuml;henduse tasandil tuleb luua seoses isikuandmete t&ouml;&ouml;tlemisega &uuml;ksikisikute kaitseks t&ouml;&ouml;r&uuml;hm, kes on oma t&ouml;&ouml;&uuml;lesannete t&auml;itmisel t&auml;iesti s&otilde;ltumatu; v&otilde;ttes arvesse selle t&ouml;&ouml;r&uuml;hma erip&auml;ra, peab ta n&otilde;ustama komisjoni ja eelk&otilde;ige aitama kaasa k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike eeskirjade &uuml;htsele kohaldamisele; </eesti>
+<inglise> (66) Whereas, with regard to the transfer of data to third countries, the application of this Directive calls for the conferment of powers of implementation on the Commission and the establishment of a procedure as laid down in Council Decision 87/373/EEC (1); </inglise>
+<eesti> 66) seoses andmete edastamisega kolmandatesse riikidesse eeldab k&auml;esoleva direktiivi rakendamine rakendusvolituste andmist komisjonile ja n&otilde;ukogu otsuses 87/373/EM&Uuml; (4) s&auml;testatud korra kehtestamist; </eesti>
+<inglise> (67) Whereas an agreement on a modus vivendi between the European Parliament, the Council and the Commission concerning the implementing measures for acts adopted in accordance with the procedure laid down in Article 189b of the EC Treaty was reached on 20 December 1994; </inglise>
+<eesti> 67) 20. detsembril 1994 j&otilde;uti kokkuleppele Euroopa Parlamendi, n&otilde;ukogu ja komisjoni vahelise modus vivendi osas, mis k&auml;sitleb E&Uuml; asutamislepingu artiklis 189b etten&auml;htud korras vastuv&otilde;etud &otilde;igusaktide rakendusmeetmeid; </eesti>
+<inglise> (68) Whereas the principles set out in this Directive regarding the protection of the rights and freedoms of individuals, notably their right to privacy, with regard to the processing of personal data may be supplemented or clarified, in particular as far as certain sectors are concerned, by specific rules based on those principles; </inglise>
+<eesti> 68) k&auml;esolevas direktiivis s&auml;testatud p&otilde;him&otilde;tteid &uuml;ksikisikute &otilde;iguste ja vabaduste, eelk&otilde;ige eraelu puutumatuse &otilde;iguse kaitse kohta seoses isikuandmete t&ouml;&ouml;tlemisega v&otilde;ib eriti teatavate sektorite puhul t&auml;iendada v&otilde;i t&auml;psustada k&otilde;nealustest p&otilde;him&otilde;tetest l&auml;htuvate erieeskirjadega; </eesti>
+<inglise> (69) Whereas Member States should be allowed a period of not more than three years from the entry into force of the national measures transposing this Directive in which to apply such new national rules progressively to all processing operations already under way; whereas, in order to facilitate their cost-effective implementation, a further period expiring 12 years after the date on which this Directive is adopted will be allowed to Member States to ensure the conformity of existing manual filing systems with certain of the Directive's provisions; whereas, where data contained in such filing systems are manually processed during this extended transition period, those systems must be brought into conformity with these provisions at the time of such processing; </inglise>
+<eesti> 69) liikmesriikidel peaks p&auml;rast k&auml;esoleva direktiivi &uuml;lev&otilde;tmiseks v&otilde;etud siseriiklike meetmete j&otilde;ustumist olema aega kuni kolm aastat, et selliseid uusi siseriiklikke eeskirju j&auml;rk-j&auml;rgult kohaldada k&otilde;igi juba k&auml;imasolevate t&ouml;&ouml;tlemisprotsesside suhtes; k&otilde;nealuste s&auml;tete majanduslikult efektiivsema eluviimise h&otilde;lbustamiseks antakse liikmesriikidele 12 aastat p&auml;rast k&auml;esoleva direktiivi vastuv&otilde;tmise kuup&auml;eva l&otilde;ppev lisaaeg, et tagada olemasolevate automatiseerimata kataloogide vastavus teatavatele k&auml;esoleva direktiivi s&auml;tetele; kui sellistes kataloogides sisalduvaid andmeid t&ouml;&ouml;deldakse selle pikendatud &uuml;leminekuaja jooksul automaatt&ouml;&ouml;tlust rakendamata, tuleb k&otilde;nealused kataloogid s&auml;tetega vastavusse viia nimetatud t&ouml;&ouml;tlemise k&auml;igus; </eesti>
+<inglise> (70) Whereas it is not necessary for the data subject to give his consent again so as to allow the controller to continue to process, after the national provisions taken pursuant to this Directive enter into force, any sensitive data necessary for the performance of a contract concluded on the basis of free and informed consent before the entry into force of these provisions; </inglise>
+<eesti> 70) p&auml;rast k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tete j&otilde;ustumist ei pea andmesubjekt andma uut n&otilde;usolekut selleks, et vastutav t&ouml;&ouml;tleja v&otilde;iks j&auml;tkata delikaatsete andmete t&ouml;&ouml;tlemist sellise lepingu t&auml;itmiseks, mis oli s&otilde;lmitud vaba ja eelinformatsioonil p&otilde;hineva n&otilde;usoleku p&otilde;hjal enne k&otilde;nealuste s&auml;tete j&otilde;ustumist; </eesti>
+<inglise> (71) Whereas this Directive does not stand in the way of a Member State's regulating marketing activities aimed at consumers residing in territory in so far as such regulation does not concern the protection of individuals with regard to the processing of personal data; </inglise>
+<eesti> 71) k&auml;esolev direktiiv ei takista liikmesriike reguleerimast nende territooriumil paiknevatele tarbijatele suunatud turustamist, kuiv&otilde;rd selline reguleerimine ei k&auml;sitle &uuml;ksikisikute kaitset isikuandmete t&ouml;&ouml;tlemisel; </eesti>
+<inglise> (72) Whereas this Directive allows the principle of public access to official documents to be taken into account when implementing the principles set out in this Directive, </inglise>
+<eesti> 72) k&auml;esoleva direktiivi p&otilde;him&otilde;tete rakendamisel on lubatud arvesse v&otilde;tta ametlike dokumentide &uuml;ldise k&auml;ttesaadavuse p&otilde;him&otilde;tet, </eesti>
+<inglise> HAVE ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> CHAPTER I GENERAL PROVISIONS </inglise>
+<eesti> I PEAT&Uuml;KK &Uuml;LDS&Auml;TTED </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> Object of the Directive </inglise>
+<eesti> Direktiivi eesm&auml;rk </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data. </inglise>
+<eesti> Vastavalt k&auml;esolevale direktiivile kaitsevad liikmesriigid isikuandmete t&ouml;&ouml;tlemisel f&uuml;&uuml;siliste isikute p&otilde;hi&otilde;igusi ja -vabadusi ning eelk&otilde;ige nende &otilde;igust eraelu puutumatusele. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected with the protection afforded under paragraph 1. </inglise>
+<eesti> Liikmesriigid ei piira ega keela isikuandmete vaba liikumist liikmesriikide vahel p&otilde;hjustel, mis on seotud l&otilde;ikes 1 s&auml;testatud kaitsega. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> Definitions </inglise>
+<eesti> M&otilde;isted </eesti>
+<inglise> For the purposes of this Directive: </inglise>
+<eesti> K&auml;esolevas m&auml;&auml;ruses kasutatakse j&auml;rgmisi m&otilde;isteid: </eesti>
+<inglise> (a) 'personal data' shall mean any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity; </inglise>
+<eesti> a) isikuandmed - igasugune teave tuvastatud v&otilde;i tuvastatava f&uuml;&uuml;silise isiku (edaspidi "andmesubjekt") kohta. Tuvastatav isik on isik, keda saab otseselt v&otilde;i kaudselt tuvastada, eelk&otilde;ige isikukoodi p&otilde;hjal v&otilde;i &uuml;he v&otilde;i mitme tema f&uuml;&uuml;silisele, f&uuml;sioloogilisele, vaimsele, majanduslikule, kultuurilisele v&otilde;i sotsiaalsele identsusele omase joone p&otilde;hjal. </eesti>
+<inglise> (b) 'processing of personal data' ('processing') shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction; </inglise>
+<eesti> b) isikuandmete t&ouml;&ouml;tlemine (edaspidi "t&ouml;&ouml;tlemine") - iga isikuandmetega tehtav toiming v&otilde;i toimingute kogum, olenemata sellest, kas see on automatiseeritud v&otilde;i mitte, n&auml;iteks kogumine, salvestamine, korrastamine, s&auml;ilitamine, kohandamine v&otilde;i muutmine, v&auml;ljav&otilde;tete tegemine, p&auml;ringu teostamine, kasutamine, &uuml;leandmine, levitamine v&otilde;i muul moel avaldamine, &uuml;hitamine v&otilde;i &uuml;hendamine, sulgemine, kustutamine v&otilde;i h&auml;vitamine. </eesti>
+<inglise> (c) 'personal data filing system' ('filing system') shall mean any structured set of personal data which are accessible according to specific criteria, whether centralized, decentralized or dispersed on a functional or geographical basis; </inglise>
+<eesti> c) isikuandmete kataloog (edaspidi "kataloog") - k&otilde;ik isikuandmete korrastatud kogumid, millest v&otilde;ib andmeid saada teatavate kriteeriumide p&otilde;hjal, olenemata sellest, kas k&otilde;nealune andmete kogum on tsentraliseeritud, detsentraliseeritud v&otilde;i funktsionaalsetel v&otilde;i geograafilistel p&otilde;him&otilde;tetel hajutatud; </eesti>
+<inglise> (d) 'controller' shall mean the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or Community laws or regulations, the controller or the specific criteria for his nomination may be designated by national or Community law; </inglise>
+<eesti> d) vastutav t&ouml;&ouml;tleja - f&uuml;&uuml;siline v&otilde;i juriidiline isik, riigiasutus, esindused v&otilde;i m&otilde;ni muu organ, kes m&auml;&auml;rab &uuml;ksi v&otilde;i koos teistega kindlaks isikuandmete t&ouml;&ouml;tlemise eesm&auml;rgid ja vahendid; kui t&ouml;&ouml;tlemise eesm&auml;rgid ja vahendid on kindlaks m&auml;&auml;ratud siseriiklike v&otilde;i &uuml;henduse &otilde;igusnormidega, v&otilde;ib vastutava t&ouml;&ouml;tleja v&otilde;i tema ametissem&auml;&auml;ramise s&auml;testada siseriiklikus v&otilde;i &uuml;henduse &otilde;iguses; </eesti>
+<inglise> (e) 'processor' shall mean a natural or legal person, public authority, agency or any other body which processes personal data on behalf of the controller; </inglise>
+<eesti> e) volitatud t&ouml;&ouml;tleja - f&uuml;&uuml;siline v&otilde;i juriidiline isik, riigiasutus, esindused v&otilde;i m&otilde;ni muu organ, kes t&ouml;&ouml;tleb isikuandmeid vastutava t&ouml;&ouml;tleja nimel; </eesti>
+<inglise> (f) 'third party' shall mean any natural or legal person, public authority, agency or any other body other than the data subject, the controller, the processor and the persons who, under the direct authority of the controller or the processor, are authorized to process the data; </inglise>
+<eesti> f) kolmas isik - k&otilde;ik f&uuml;&uuml;silised v&otilde;i juriidilised isikud, riigiasutused, esindused v&otilde;i muud organid, v&auml;lja arvatud andmesubjekt, vastutav t&ouml;&ouml;tleja, volitatud t&ouml;&ouml;tleja ja isikud, kes v&otilde;ivad andmeid t&ouml;&ouml;delda vastutava t&ouml;&ouml;tleja v&otilde;i volitatud t&ouml;&ouml;tleja otseses alluvuses; </eesti>
+<inglise> (g) 'recipient' shall mean a natural or legal person, public authority, agency or any other body to whom data are disclosed, whether a third party or not; however, authorities which may receive data in the framework of a particular inquiry shall not be regarded as recipients; </inglise>
+<eesti> g) vastuv&otilde;tja - f&uuml;&uuml;siline v&otilde;i juriidiline isik, riigiasutus, esindus v&otilde;i m&otilde;ni muu organ, kellele andmed avaldatakse, olenemata sellest, kas tegemist on kolmanda isikuga v&otilde;i mitte; vastuv&otilde;tjateks ei peeta siiski ametiasutusi, kes v&otilde;ivad andmeid saada seoses konkreetse j&auml;relep&auml;rimisega; </eesti>
+<inglise> (h) 'the data subject's consent' shall mean any freely given specific and informed indication of his wishes by which the data subject signifies his agreement to personal data relating to him being processed. </inglise>
+<eesti> h) andmesubjekti n&otilde;usolek - iga vabatahtlik, konkreetne ja teadlik tahteavaldus, millega andmesubjekt annab n&otilde;usoleku t&ouml;&ouml;delda tema kohta k&auml;ivaid andmeid. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> Scope </inglise>
+<eesti> Reguleerimisala </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> This Directive shall apply to the processing of personal data wholly or partly by automatic means, and to the processing otherwise than by automatic means of personal data which form part of a filing system or are intended to form part of a filing system. </inglise>
+<eesti> K&auml;esolevat direktiivi kohaldatakse isikuandmete t&auml;ielikult v&otilde;i osaliselt automatiseeritud t&ouml;&ouml;tlemise suhtes ja isikuandmete automatiseerimata t&ouml;&ouml;tlemise suhtes, kui k&otilde;nealused isikuandmed kuuluvad kataloogi v&otilde;i kui nad kavatsetakse hiljem sellesse kanda. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> This Directive shall not apply to the processing of personal data: </inglise>
+<eesti> K&auml;esolevat direktiivi ei kohaldata isikuandmete t&ouml;&ouml;tlemise suhtes: </eesti>
+<inglise> - in the course of an activity which falls outside the scope of Community law, such as those provided for by Titles V and VI of the Treaty on European Union and in any case to processing operations concerning public security, defence, State security (including the economic well-being of the State when the processing operation relates to State security matters) and the activities of the State in areas of criminal law, </inglise>
+<eesti> - kui see toimub sellise tegevuse k&auml;igus, mis j&auml;&auml;b v&auml;ljapoole &uuml;henduse &otilde;igust, nagu n&auml;iteks Euroopa Liidu lepingu V j VI jaotises osutatud tegevused, ja igal juhul sellise t&ouml;&ouml;tlemise suhtes, mis on seotud avaliku korra, riigikaitse, riigi julgeoleku (sealhulgas riigi majanduslik heaolu, kui t&ouml;&ouml;tlemine on seotud riigi julgeoleku k&uuml;simustega) ja riigi toimingutega kriminaal&otilde;iguse valdkonnas, </eesti>
+<inglise> - by a natural person in the course of a purely personal or household activity. </inglise>
+<eesti> - kui seda teeb f&uuml;&uuml;siline isik isiklikel v&otilde;i kodustel eesm&auml;rkidel. </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> National law applicable </inglise>
+<eesti> Kohaldatav siseriiklik &otilde;igus </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Each Member State shall apply the national provisions it adopts pursuant to this Directive to the processing of personal data where: </inglise>
+<eesti> Iga liikmesriik kohaldab isikuandmete t&ouml;&ouml;tlemise suhtes k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklikke &otilde;igusnorme, kui: </eesti>
+<inglise> (a) the processing is carried out in the context of the activities of an establishment of the controller on the territory of the Member State; when the same controller is established on the territory of several Member States, he must take the necessary measures to ensure that each of these establishments complies with the obligations laid down by the national law applicable; </inglise>
+<eesti> a) t&ouml;&ouml;tlemine toimub liikmesriigi territooriumil paikneva vastutava t&ouml;&ouml;tleja asutuse tegevuse raames; kui sama vastutav t&ouml;&ouml;tleja on registreeritud mitme liikmesriigi territooriumil, peab ta v&otilde;tma vajalikke meetmeid tagamaks, et k&otilde;ik k&otilde;nealused asutused j&auml;rgivad kohaldatavates siseriiklikes &otilde;igusnormides s&auml;testatud kohustusi; </eesti>
+<inglise> (b) the controller is not established on the Member State's territory, but in a place where its national law applies by virtue of international public law; </inglise>
+<eesti> b) vastutav t&ouml;&ouml;tleja ei ole registreeritud mitte liikmesriigi territooriumil, vaid kohas, kus asjaomase liikmesriigi &otilde;igusnorme kohaldatakse rahvusvahelise avaliku &otilde;iguse kohaselt; </eesti>
+<inglise> (c) the controller is not established on Community territory and, for purposes of processing personal data makes use of equipment, automated or otherwise, situated on the territory of the said Member State, unless such equipment is used only for purposes of transit through the territory of the Community. </inglise>
+<eesti> c) vastutav t&ouml;&ouml;tleja ei ole registreeritud &uuml;henduse territooriumil, kuid kasutab isikuandmete automatiseeritud v&otilde;i automatiseerimata t&ouml;&ouml;tlemiseks vahendeid, mis paiknevad k&otilde;nealuse liikmesriigi territooriumil, v&auml;lja arvatud juhul, kui selliseid vahendeid kasutatakse ainult andmete edastamiseks &uuml;henduse territooriumi kaudu. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> In the circumstances referred to in paragraph 1 (c), the controller must designate a representative established in the territory of that Member State, without prejudice to legal actions which could be initiated against the controller himself. </inglise>
+<eesti> L&otilde;ike 1 punktis c osutatud asjaoludel peab vastutav t&ouml;&ouml;tleja m&auml;&auml;rama ametisse k&otilde;nealuse liikmesriigi territooriumil asuva esindaja, kuid see ei piira &otilde;iguslikke meetmeid, mida v&otilde;idakse v&otilde;tta vastutava t&ouml;&ouml;tleja enda suhtes. II PEAT&Uuml;KK </eesti>
+<inglise> CHAPTER II GENERAL RULES ON THE LAWFULNESS OF THE PROCESSING OF PERSONAL DATA </inglise>
+<eesti> &Uuml;LDISED EESKIRJAD ISIKUANDMETE T&Ouml;&Ouml;TLEMISE SEADUSLIKKUSE KOHTA </eesti>
+<inglise> Article 5 </inglise>
+<eesti> Artikkel 5 </eesti>
+<inglise> Member States shall, within the limits of the provisions of this Chapter, determine more precisely the conditions under which the processing of personal data is lawful. </inglise>
+<eesti> Kuiv&otilde;rd see on lubatud k&auml;esoleva peat&uuml;ki s&auml;tetega, m&auml;&auml;ravad liikmesriigid t&auml;psemalt kindlaks tingimused, mille puhul isikuandmete t&ouml;&ouml;tlemine on seaduslik. </eesti>
+<inglise> SECTION I </inglise>
+<eesti> I JAGU </eesti>
+<inglise> PRINCIPLES RELATING TO DATA QUALITY </inglise>
+<eesti> P&Otilde;HIM&Otilde;TTED ANDMETE KVALITEEDI KOHTA </eesti>
+<inglise> Article 6 </inglise>
+<eesti> Artikkel 6 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall provide that personal data must be: </inglise>
+<eesti> Liikmesriigid s&auml;testavad selle, et </eesti>
+<inglise> (a) processed fairly and lawfully; </inglise>
+<eesti> a) isikuandmeid t&ouml;&ouml;deldakse &otilde;iglaselt ja seaduslikult; </eesti>
+<inglise> (b) collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. </inglise>
+<eesti> b) isikuandmeid kogutakse t&auml;pselt ja selgelt kindlaksm&auml;&auml;ratud ning &otilde;igusp&auml;rastel eesm&auml;rkidel ega t&ouml;&ouml;delda hiljem viisil, mis on vastuolus k&otilde;nealuste eesm&auml;rkidega. </eesti>
+<inglise> Further processing of data for historical, statistical or scientific purposes shall not be considered as incompatible provided that Member States provide appropriate safeguards; </inglise>
+<eesti> T&auml;iendavat t&ouml;&ouml;tlemist ajaloo, statistika v&otilde;i teadusega seotud eesm&auml;rkidel ei peeta vastuolus olevaks tingimusel, et liikmesriigid kannavad hoolt vajalike tagatiste eest; </eesti>
+<inglise> (c) adequate, relevant and not excessive in relation to the purposes for which they are collected and/or further processed; </inglise>
+<eesti> c) isikuandmed on piisavad, asjakohased ega &uuml;leta selle otstarbe piire, mille tarvis neid kogutakse ja/v&otilde;i hiljem t&ouml;&ouml;deldakse; </eesti>
+<inglise> (d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that data which are inaccurate or incomplete, having regard to the purposes for which they were collected or for which they are further processed, are erased or rectified; </inglise>
+<eesti> d) andmed on t&auml;psed ja vajaduse korral ajakohastatud; v&otilde;etakse k&otilde;ik m&otilde;istlikud meetmed, et kustutada v&otilde;i parandada andmete kogumise v&otilde;i hilisema t&ouml;&ouml;tlemise eesm&auml;rgi seisukohast eba&otilde;iged v&otilde;i mittet&auml;ielikud andmed </eesti>
+<inglise> (e) kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected or for which they are further processed. </inglise>
+<eesti> e) isikuandmeid s&auml;ilitatakse kujul, mis v&otilde;imaldab andmesubjekte tuvastada ainult seni, kuni see on vajalik seoses andmete kogumise v&otilde;i hilisema t&ouml;&ouml;tlemise eesm&auml;rkidega. </eesti>
+<inglise> Member States shall lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific use. </inglise>
+<eesti> Liikmesriigid kehtestavad vajalikud tagatised nende isikuandmete jaoks, mida s&auml;ilitatakse pikema aja jooksul, et neid kasutada seoses ajaloo, statistika v&otilde;i teadusega. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> It shall be for the controller to ensure that paragraph 1 is complied with. </inglise>
+<eesti> L&otilde;ike 1 j&auml;rgimise tagab vastutav t&ouml;&ouml;tleja. </eesti>
+<inglise> SECTION II </inglise>
+<eesti> II JAGU </eesti>
+<inglise> CRITERIA FOR MAKING DATA PROCESSING LEGITIMATE </inglise>
+<eesti> ANDMET&Ouml;&Ouml;TLUSE SEADUSLIKKUSE KRITEERIUMID </eesti>
+<inglise> Article 7 </inglise>
+<eesti> Artikkel 7 </eesti>
+<inglise> Member States shall provide that personal data may be processed only if: </inglise>
+<eesti> Liikmesriigid s&auml;testavad, et isikuandmeid v&otilde;ib t&ouml;&ouml;delda ainult juhul, kui: </eesti>
+<inglise> (a) the data subject has unambiguously given his consent; or </inglise>
+<eesti> a) andmesubjekt on selleks andnud oma &uuml;hem&otilde;ttelise n&otilde;usoleku v&otilde;i </eesti>
+<inglise> (b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract; or </inglise>
+<eesti> b) t&ouml;&ouml;tlemine on vajalik sellise lepingu t&auml;itmiseks, mille osapool andmesubjekt on, v&otilde;i lepingu s&otilde;lmimisele eelnevate meetmete v&otilde;tmiseks vastavalt andmesubjekti taotlusele v&otilde;i </eesti>
+<inglise> (c) processing is necessary for compliance with a legal obligation to which the controller is subject; or </inglise>
+<eesti> c) t&ouml;&ouml;tlemine on vajalik vastutava t&ouml;&ouml;tleja seadusj&auml;rgse kohustuse t&auml;itmiseks v&otilde;i </eesti>
+<inglise> (d) processing is necessary in order to protect the vital interests of the data subject; or </inglise>
+<eesti> d) t&ouml;&ouml;tlemine on vajalik andmesubjekti eluliste huvide kaitsmiseks v&otilde;i </eesti>
+<inglise> (e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller or in a third party to whom the data are disclosed; or </inglise>
+<eesti> e) t&ouml;&ouml;tlemine on vajalik &uuml;ldiste huvidega seotud &uuml;lesande t&auml;itmiseks v&otilde;i sellise avaliku v&otilde;imu teostamiseks, mis on tehtud &uuml;lesandeks volitatud t&ouml;&ouml;tlejale v&otilde;i andmeid saavale kolmandale isikule, v&otilde;i </eesti>
+<inglise> (f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third party or parties to whom the data are disclosed, except where such interests are overridden by the interests for fundamental rights and freedoms of the data subject which require protection under Article 1 (1). </inglise>
+<eesti> f) t&ouml;&ouml;tlemine on vajalik vastutava t&ouml;&ouml;tleja v&otilde;i andmeid saava kolmanda isiku v&otilde;i kolmandate isikute &otilde;igustatud huvide elluviimiseks, kui selliseid huve ei kaalu &uuml;les artikli 1 l&otilde;ike 1 kohaselt kaitstavate andmesubjekti p&otilde;hi&otilde;iguste ja -vabadustega seotud huvid. </eesti>
+<inglise> SECTION III </inglise>
+<eesti> III JAGU </eesti>
+<inglise> SPECIAL CATEGORIES OF PROCESSING </inglise>
+<eesti> T&Ouml;&Ouml;TLEMISE ERI KATEGOORIAD </eesti>
+<inglise> Article 8 </inglise>
+<eesti> Artikkel 8 </eesti>
+<inglise> The processing of special categories of data </inglise>
+<eesti> Andmete eriliikide t&ouml;&ouml;tlemine </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall prohibit the processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, and the processing of data concerning health or sex life. </inglise>
+<eesti> Liikmesriigid keelavad t&ouml;&ouml;delda selliseid isikuandmeid, mis paljastavad rassilise v&otilde;i etnilise p&auml;ritolu, poliitilised vaated, usulised v&otilde;i filosoofilised veendumused, ameti&uuml;hingusse kuulumise, ning tervislikku seisundit v&otilde;i seksuaalelu k&auml;sitlevate andmete t&ouml;&ouml;tlemise. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Paragraph 1 shall not apply where: </inglise>
+<eesti> L&otilde;iget 1 ei kohaldata, kui: </eesti>
+<inglise> (a) the data subject has given his explicit consent to the processing of those data, except where the laws of the Member State provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject's giving his consent; or </inglise>
+<eesti> a) andmesubjekt on andnud nende andmete t&ouml;&ouml;tlemiseks oma selges&otilde;nalise n&otilde;usoleku, v&auml;lja arvatud juhul, kui liikmesriigi &otilde;igusaktides on s&auml;testatud, et andmesubjekti n&otilde;usolek ei saa kaotada l&otilde;ikes 1 osutatud keeldu, v&otilde;i </eesti>
+<inglise> (b) processing is necessary for the purposes of carrying out the obligations and specific rights of the controller in the field of employment law in so far as it is authorized by national law providing for adequate safeguards; or </inglise>
+<eesti> b) t&ouml;&ouml;tlemine on vajalik seoses vastutava t&ouml;&ouml;tleja kohustuste ja eri&otilde;igustega t&ouml;&ouml;&otilde;iguse valdkonnas, kuiv&otilde;rd see on lubatud siseriikliku &otilde;igusega, milles on s&auml;testatud piisavad tagatised, v&otilde;i </eesti>
+<inglise> (c) processing is necessary to protect the vital interests of the data subject or of another person where the data subject is physically or legally incapable of giving his consent; or </inglise>
+<eesti> c) t&ouml;&ouml;tlemine on vajalik selleks, et kaitsta andmesubjekti v&otilde;i m&otilde;ne teise isiku elulisi huve, kui andmesubjekt on f&uuml;&uuml;siliselt v&otilde;i &otilde;iguslikult v&otilde;imetu oma n&otilde;usolekut andma, v&otilde;i </eesti>
+<inglise> (d) processing is carried out in the course of its legitimate activities with appropriate guarantees by a foundation, association or any other non-profit-seeking body with a political, philosophical, religious or trade-union aim and on condition that the processing relates solely to the members of the body or to persons who have regular contact with it in connection with its purposes and that the data are not disclosed to a third party without the consent of the data subjects; or </inglise>
+<eesti> d) t&ouml;&ouml;tlemine toimub poliitilise, filosoofilise, religioosse v&otilde;i ameti&uuml;hingulise suunitlusega sihtasutuse, &uuml;henduse v&otilde;i muu mittetulundusliku organi &otilde;igusp&auml;rase ja vajalike garantiidega tegevuse raames, tingimusel, et t&ouml;&ouml;tlemine k&auml;sitleb ainult asjaomase organi liikmeid v&otilde;i isikuid, kes on k&otilde;nealuse organiga p&uuml;sivalt seotud tema tegevuse eesm&auml;rkide t&otilde;ttu, ning tingimusel, et andmeid ei avalikustata kolmandatele isikutele ilma andmesubjektide n&otilde;usolekuta, v&otilde;i </eesti>
+<inglise> (e) the processing relates to data which are manifestly made public by the data subject or is necessary for the establishment, exercise or defence of legal claims. </inglise>
+<eesti> e) t&ouml;&ouml;deldakse andmeid, mille andmesubjekt on ilmselgelt avalikustanud, v&otilde;i kui t&ouml;&ouml;tlemine on vajalik &otilde;igusn&otilde;uete koostamiseks, esitamiseks v&otilde;i kaitsmiseks. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Paragraph 1 shall not apply where processing of the data is required for the purposes of preventive medicine, medical diagnosis, the provision of care or treatment or the management of health-care services, and where those data are processed by a health professional subject under national law or rules established by national competent bodies to the obligation of professional secrecy or by another person also subject to an equivalent obligation of secrecy. </inglise>
+<eesti> L&otilde;iget 1 ei kohaldata, kui andmete t&ouml;&ouml;tlemine on vajalik ennetava meditsiini, meditsiinilise diagnoosi, meditsiinilise abi v&otilde;i ravi v&otilde;imaldamise v&otilde;i tervishoiuteenuste juhtimise jaoks ja kui k&otilde;nealuseid andmeid t&ouml;&ouml;tleb tervishoiut&ouml;&ouml;taja, kelle puhul kehtib siseriiklikus &otilde;iguses v&otilde;i p&auml;devate siseriiklike ametiasutuste kehtestatud eeskirjades s&auml;testatud ametisaladuse hoidmise kohustus, v&otilde;i m&otilde;ni teine isik, kelle suhtes kehtib samav&auml;&auml;rne saladuse hoidmise kohustus. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Subject to the provision of suitable safeguards, Member States may, for reasons of substantial public interest, lay down exemptions in addition to those laid down in paragraph 2 either by national law or by decision of the supervisory authority. </inglise>
+<eesti> V&otilde;ttes arvesse sobivaid tagatisi, v&otilde;ivad liikmesriigid p&otilde;hjustel, mis on seotud m&auml;rkimisv&auml;&auml;rse avaliku huviga, siseriikliku &otilde;iguse v&otilde;i j&auml;relevalveasutuse otsusega kehtestada t&auml;iendavaid erandeid lisaks l&otilde;ikega 2 etten&auml;htud eranditele. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Processing of data relating to offences, criminal convictions or security measures may be carried out only under the control of official authority, or if suitable specific safeguards are provided under national law, subject to derogations which may be granted by the Member State under national provisions providing suitable specific safeguards. </inglise>
+<eesti> &Otilde;igusrikkumiste, s&uuml;&uuml;dim&otilde;istvate kohtuotsuste ja turvameetmetega seotud andmeid v&otilde;ib t&ouml;&ouml;delda ainult ametiv&otilde;imude kontrolli all v&otilde;i juhul, kui siseriikliku &otilde;igusega on ette n&auml;htud sobivad spetsiifilised tagatised, erandite kohaselt, mida liikmesriigid v&otilde;ivad lubada nimetatud tagatisi k&auml;sitlevate siseriiklike s&auml;tete p&otilde;hjal. </eesti>
+<inglise> However, a complete register of criminal convictions may be kept only under the control of official authority. </inglise>
+<eesti> S&uuml;&uuml;dim&otilde;istvate kohtuotsuste t&auml;ielikku registrit v&otilde;ib pidada siiski ainult ametiv&otilde;imude kontrolli all. </eesti>
+<inglise> Member States may provide that data relating to administrative sanctions or judgements in civil cases shall also be processed under the control of official authority. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad s&auml;testada, et ka haldussanktsioonidega v&otilde;i tsiviilasjades tehtud kohtuotsustega seotud andmeid t&ouml;&ouml;deldakse ametiv&otilde;imude kontrolli all. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> Derogations from paragraph 1 provided for in paragraphs 4 and 5 shall be notified to the Commission. </inglise>
+<eesti> Komisjonile teatatakse l&otilde;ike 1 eranditest, mis on tehtud l&otilde;igete 4 ja 5 kohaselt. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> Member States shall determine the conditions under which a national identification number or any other identifier of general application may be processed. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad kindlaks tingimused, mille kohaselt v&otilde;ib t&ouml;&ouml;delda siseriiklikku isikukoodi v&otilde;i muud &uuml;ldkasutatavat tunnust. </eesti>
+<inglise> Article 9 </inglise>
+<eesti> Artikkel 9 </eesti>
+<inglise> Processing of personal data and freedom of expression </inglise>
+<eesti> Isikuandmete t&ouml;&ouml;tlemine ja s&otilde;navabadus </eesti>
+<inglise> Member States shall provide for exemptions or derogations from the provisions of this Chapter, Chapter IV and Chapter VI for the processing of personal data carried out solely for journalistic purposes or the purpose of artistic or literary expression only if they are necessary to reconcile the right to privacy with the rules governing freedom of expression. </inglise>
+<eesti> Kui isikuandmeid t&ouml;&ouml;deldakse ainult ajakirjanduse jaoks v&otilde;i kirjandusliku v&otilde;i kunstilise enesev&auml;ljenduse huvides, s&auml;testavad liikmesriigid erandid v&otilde;i k&otilde;rvalekalded k&auml;esoleva peat&uuml;ki, IV peat&uuml;ki ja VI peat&uuml;ki s&auml;tetest ainult siis, kui see on vajalik selleks, et viia omavahel vastavusse eraelu puutumatuse &otilde;igust ja s&otilde;navabadust reguleerivad eeskirjad. </eesti>
+<inglise> SECTION IV </inglise>
+<eesti> IV JAGU </eesti>
+<inglise> INFORMATION TO BE GIVEN TO THE DATA SUBJECT </inglise>
+<eesti> ANDMESUBJEKTILE ESITATAV TEAVE </eesti>
+<inglise> Article 10 </inglise>
+<eesti> Artikkel 10 </eesti>
+<inglise> Information in cases of collection of data from the data subject </inglise>
+<eesti> Teave, mis tuleb esitada juhul, kui andmeid kogutakse andmesubjektilt </eesti>
+<inglise> Member States shall provide that the controller or his representative must provide a data subject from whom data relating to himself are collected with at least the following information, except where he already has it: </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et vastutav t&ouml;&ouml;tleja v&otilde;i tema esindaja peab andmesubjektile, kellelt tema enda kohta andmeid kogutakse, esitama v&auml;hemalt j&auml;rgmise teabe, kui ta seda juba ei tea: </eesti>
+<inglise> (a) the identity of the controller and of his representative, if any; </inglise>
+<eesti> a) vastutava t&ouml;&ouml;tleja ja tema v&otilde;imaliku esindaja andmed; </eesti>
+<inglise> (b) the purposes of the processing for which the data are intended; </inglise>
+<eesti> b) andmete t&ouml;&ouml;tlemise eesm&auml;rk; </eesti>
+<inglise> (c) any further information such as </inglise>
+<eesti> c) t&auml;iendav teave, n&auml;iteks </eesti>
+<inglise> - the recipients or categories of recipients of the data, </inglise>
+<eesti> - andmete vastuv&otilde;tjad v&otilde;i vastuv&otilde;tjate kategooriad, </eesti>
+<inglise> - whether replies to the questions are obligatory or voluntary, as well as the possible consequences of failure to reply, </inglise>
+<eesti> - kas k&uuml;simustele vastamine on kohustuslik v&otilde;i vabatahtlik ja vastamata j&auml;tmise v&otilde;imalikud tagaj&auml;rjed, </eesti>
+<inglise> - the existence of the right of access to and the right to rectify the data concerning him </inglise>
+<eesti> - isiku enda kohta k&auml;ivate andmetega tutvumise ja nende parandamise &otilde;iguse olemasolu, </eesti>
+<inglise> in so far as such further information is necessary, having regard to the specific circumstances in which the data are collected, to guarantee fair processing in respect of the data subject. </inglise>
+<eesti> kuiv&otilde;rd selline t&auml;iendav teave on vajalik, et tagada andmesubjekti suhtes &otilde;iglane andmete t&ouml;&ouml;tlemine, v&otilde;ttes arvesse andmete kogumise konkreetseid asjaolusid. </eesti>
+<inglise> Article 11 </inglise>
+<eesti> Artikkel 11 </eesti>
+<inglise> Information where the data have not been obtained from the data subject </inglise>
+<eesti> Teave, mis tuleb esitada juhul, kui andmed ei ole saadud andmesubjektilt </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Where the data have not been obtained from the data subject, Member States shall provide that the controller or his representative must at the time of undertaking the recording of personal data or if a disclosure to a third party is envisaged, no later than the time when the data are first disclosed provide the data subject with at least the following information, except where he already has it: </inglise>
+<eesti> Kui andmeid ei ole saadud andmesubjektilt, n&auml;eb liikmesriik ette, et hiljemalt isikuandmete salvestamise ajal, v&otilde;i kui andmed kavatsetakse avalikustada kolmandale isikule, siis hiljemalt andmete esmakordse avaldamise ajal esitab vastutav t&ouml;&ouml;tleja v&otilde;i tema esindaja andmesubjektile v&auml;hemalt j&auml;rgmise teabe, kui ta seda juba ei tea: </eesti>
+<inglise> (a) the identity of the controller and of his representative, if any; </inglise>
+<eesti> a) vastutava t&ouml;&ouml;tleja ja tema v&otilde;imaliku esindaja andmed; </eesti>
+<inglise> (b) the purposes of the processing; </inglise>
+<eesti> b) t&ouml;&ouml;tlemise eesm&auml;rk; </eesti>
+<inglise> (c) any further information such as </inglise>
+<eesti> c) t&auml;iendav teave, n&auml;iteks </eesti>
+<inglise> - the categories of data concerned, </inglise>
+<eesti> - asjaomaste andmete liik, </eesti>
+<inglise> - the recipients or categories of recipients, </inglise>
+<eesti> - vastuv&otilde;tjad v&otilde;i vastuv&otilde;tjate kategooriad, </eesti>
+<inglise> - the existence of the right of access to and the right to rectify the data concerning him </inglise>
+<eesti> - isiku enda kohta k&auml;ivate andmetega tutvumise ja nende parandamise &otilde;iguse olemasolu, </eesti>
+<inglise> in so far as such further information is necessary, having regard to the specific circumstances in which the data are processed, to guarantee fair processing in respect of the data subject. </inglise>
+<eesti> kuiv&otilde;rd selline t&auml;iendav teave on vajalik, et tagada andmesubjektide suhtes &otilde;iglane andmete t&ouml;&ouml;tlemine, v&otilde;ttes arvesse andmete t&ouml;&ouml;tlemise konkreetseid asjaolusid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Paragraph 1 shall not apply where, in particular for processing for statistical purposes or for the purposes of historical or scientific research, the provision of such information proves impossible or would involve a disproportionate effort or if recording or disclosure is expressly laid down by law. </inglise>
+<eesti> L&otilde;iget 1 ei kohaldata, kui eelk&otilde;ige statistikaga seotud eesm&auml;rkidel v&otilde;i ajaloo- v&otilde;i teadusuuringutega seotud eesm&auml;rkidel toimuva t&ouml;&ouml;tlemise puhul osutub sellise teabe andmine v&otilde;imatuks v&otilde;i kui see eeldab &uuml;lem&auml;&auml;raseid j&otilde;upingutusi v&otilde;i kui selliste andmete salvestamine v&otilde;i avalikustamine on &otilde;igusaktides selgelt s&auml;testatud. </eesti>
+<inglise> In these cases Member States shall provide appropriate safeguards. </inglise>
+<eesti> Nimetatud juhtudel n&auml;evad liikmesriigid ette vajalikud tagatised. </eesti>
+<inglise> SECTION V </inglise>
+<eesti> V JAGU </eesti>
+<inglise> THE DATA SUBJECT'S RIGHT OF ACCESS TO DATA </inglise>
+<eesti> ANDMESUBJEKTIDE &Otilde;IGUS TUTVUDA ANDMETEGA </eesti>
+<inglise> Article 12 </inglise>
+<eesti> Artikkel 12 </eesti>
+<inglise> Right of access </inglise>
+<eesti> &Otilde;igus tutvuda andmetega </eesti>
+<inglise> Member States shall guarantee every data subject the right to obtain from the controller: </inglise>
+<eesti> Liikmesriigid tagavad, et igal andmesubjektil on &otilde;igus n&otilde;uda vastutavalt t&ouml;&ouml;tlejalt: </eesti>
+<inglise> (a) without constraint at reasonable intervals and without excessive delay or expense: </inglise>
+<eesti> a) m&otilde;istliku aja tagant, ilma piiranguteta ja ilma liigsete viivituste ja kulutusteta: </eesti>
+<inglise> - confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed, </inglise>
+<eesti> - kinnitust selle kohta, kas isikut ennast k&auml;sitlevaid andmeid t&ouml;&ouml;deldakse, ja teavet v&auml;hemalt t&ouml;&ouml;tlemise eesm&auml;rkide, asjaomaste andmete liikide ja nende vastuv&otilde;tjate v&otilde;i vastuv&otilde;tjate kategooriate kohta, kellele andmed avalikustatakse, </eesti>
+<inglise> - communication to him in an intelligible form of the data undergoing processing and of any available information as to their source, </inglise>
+<eesti> - arusaadaval kujul teavet t&ouml;&ouml;deldavate andmete ja nende allika kohta, </eesti>
+<inglise> - knowledge of the logic involved in any automatic processing of data concerning him at least in the case of the automated decisions referred to in Article 15 (1); </inglise>
+<eesti> - informatsiooni isikut ennast k&auml;sitlevate andmete igasuguse automatiseeritud t&ouml;&ouml;tlemise loogika kohta, v&auml;hemalt artikli 15 l&otilde;ikes 1 osutatud automatiseeritud otsuste puhul; </eesti>
+<inglise> (b) as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions of this Directive, in particular because of the incomplete or inaccurate nature of the data; </inglise>
+<eesti> b) v&otilde;imalust vastavalt vajadusele parandada, kustutada v&otilde;i sulgeda need andmed, mille t&ouml;&ouml;tlemine ei vasta k&auml;esoleva direktiivi s&auml;tetele, eelk&otilde;ige seet&otilde;ttu, et andmed on ebat&auml;ielikud v&otilde;i eba&otilde;iged; </eesti>
+<inglise> (c) notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in compliance with (b), unless this proves impossible or involves a disproportionate effort. </inglise>
+<eesti> c) teatise saatmist kolmandatele isikutele, kellele andmed on avalikustatud, k&otilde;igi punkti b kohaste paranduste, kustutamiste v&otilde;i sulgemiste kohta, kui see ei ole v&otilde;imatu v&otilde;i kui sellega ei kaasne &uuml;lem&auml;&auml;raseid j&otilde;upingutusi. </eesti>
+<inglise> SECTION VI </inglise>
+<eesti> VI JAGU </eesti>
+<inglise> EXEMPTIONS AND RESTRICTIONS </inglise>
+<eesti> ERANDID JA PIIRANGUD </eesti>
+<inglise> Article 13 </inglise>
+<eesti> Artikkel 13 </eesti>
+<inglise> Exemptions and restrictions </inglise>
+<eesti> Erandid ja piirangud </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6 (1), 10, 11 (1), 12 and 21 when such a restriction constitutes a necessary measures to safeguard: </inglise>
+<eesti> Liikmesriigid v&otilde;ivad artikli 6 l&otilde;ikes 1, artiklis 10, artikli 11 l&otilde;ikes 1 ja artiklites 12 ja 21 s&auml;testatud kohustuste ja &otilde;iguste ulatuse piiramiseks v&otilde;tta vastu &otilde;igusakte, kui sellised piirangud on vajalikud, et kindlustada: </eesti>
+<inglise> (a) national security; </inglise>
+<eesti> a) riigi julgeolek; </eesti>
+<inglise> (b) defence; </inglise>
+<eesti> b) riigikaitse; </eesti>
+<inglise> (c) public security; </inglise>
+<eesti> c) avalik kord; </eesti>
+<inglise> (d) the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions; </inglise>
+<eesti> d) kuritegude v&otilde;i reguleeritud kutsealade ametieetika rikkumiste ennetamine, uurimine, avastamine ja nende eest vastutuselev&otilde;tmine; </eesti>
+<inglise> (e) an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters; </inglise>
+<eesti> e) liikmesriigi v&otilde;i Euroopa Liidu olulised majanduslikud v&otilde;i rahanduslikud huvid, sealhulgas raha-, eelarve- ja maksuk&uuml;simused; </eesti>
+<inglise> (f) a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (c), (d) and (e); </inglise>
+<eesti> f) j&auml;lgimine, kontrollimine ja regulatiivne funktsioon, mis on kas v&otilde;i ajutiselt seotud avaliku v&otilde;imu teostamisega punktides c, d ja e osutatud juhtudel; </eesti>
+<inglise> (g) the protection of the data subject or of the rights and freedoms of others. </inglise>
+<eesti> g) andmesubjekti kaitse v&otilde;i teiste isikute &otilde;iguste ja vabaduste kaitse. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Subject to adequate legal safeguards, in particular that the data are not used for taking measures or decisions regarding any particular individual, Member States may, where there is clearly no risk of breaching the privacy of the data subject, restrict by a legislative measure the rights provided for in Article 12 when data are processed solely for purposes of scientific research or are kept in personal form for a period which does not exceed the period necessary for the sole purpose of creating statistics. </inglise>
+<eesti> Arvestades piisavaid &otilde;iguslikke tagatisi, eelk&otilde;ige seda, et andmeid ei kasutata konkreetset &uuml;ksikisikut puudutavate meetmete v&otilde;tmiseks v&otilde;i otsuste tegemiseks, v&otilde;ivad liikmesriigid, kui ilmselt puudub oht sekkuda andmesubjekti eraellu, piirata &otilde;igusaktidega artiklis 12 s&auml;testatud &otilde;igusi, kui andmeid t&ouml;&ouml;deldakse ainult teadusuuringutega seotud eesm&auml;rgil v&otilde;i kui neid s&auml;ilitatakse isikuandmetena ainult statistika tegemiseks vajaliku aja jooksul. </eesti>
+<inglise> SECTION VII </inglise>
+<eesti> VII JAGU </eesti>
+<inglise> THE DATA SUBJECT'S RIGHT TO OBJECT </inglise>
+<eesti> ANDMESUBJEKTIDE &Otilde;IGUS ESITADA VASTUV&Auml;ITEID </eesti>
+<inglise> Article 14 </inglise>
+<eesti> Artikkel 14 </eesti>
+<inglise> The data subject's right to object </inglise>
+<eesti> Andmesubjektide &otilde;igus esitada vastuv&auml;iteid </eesti>
+<inglise> Member States shall grant the data subject the right: </inglise>
+<eesti> Liikmesriigid annavad andmesubjektidele &otilde;iguse: </eesti>
+<inglise> (a) at least in the cases referred to in Article 7 (e) and (f), to object at any time on compelling legitimate grounds relating to his particular situation to the processing of data relating to him, save where otherwise provided by national legislation. </inglise>
+<eesti> a) esitada alati konkreetse olukorraga seotud &otilde;igustatud ja veenvatel p&otilde;hjustel vastuv&auml;iteid teda k&auml;sitlevate andmete t&ouml;&ouml;tlemise suhtes v&auml;hemalt artikli 7 punktides e ja f osutatud juhtudel, kui siseriiklikes &otilde;igusaktides ei ole s&auml;testatud teisiti. </eesti>
+<inglise> Where there is a justified objection, the processing instigated by the controller may no longer involve those data; </inglise>
+<eesti> Kui tegemist on &otilde;igustatud vastuv&auml;itega, ei tohi vastutav t&ouml;&ouml;tleja k&otilde;nealuseid andmeid edasi t&ouml;&ouml;delda; </eesti>
+<inglise> (b) to object, on request and free of charge, to the processing of personal data relating to him which the controller anticipates being processed for the purposes of direct marketing, or to be informed before personal data are disclosed for the first time to third parties or used on their behalf for the purposes of direct marketing, and to be expressly offered the right to object free of charge to such disclosures or uses. </inglise>
+<eesti> b) avaldada soovi korral ja selle eest maksmata vastuv&auml;iteid isikut ennast k&auml;sitlevate andmete t&ouml;&ouml;tlemise suhtes, kui vastutav t&ouml;&ouml;tleja kavatseb neid t&ouml;&ouml;delda otseturustamisel kasutamiseks, ja saada teavet enne, kui isikuandmed esmakordselt avalikustatakse kolmandatele isikutele v&otilde;i kui neid kasutatakse nende nimel otseturustamiseks, ning saada selgelt &otilde;igus avaldada ilma selle eest maksmata vastuv&auml;iteid sellise avalikustamise v&otilde;i kasutamise suhtes. </eesti>
+<inglise> Member States shall take the necessary measures to ensure that data subjects are aware of the existence of the right referred to in the first subparagraph of (b). </inglise>
+<eesti> Liikmesriigid v&otilde;tavad vajalikke meetmeid tagamaks, et andmesubjektid on teadlikud punkti b esimeses l&otilde;igus osutatud &otilde;iguse olemasolust. </eesti>
+<inglise> Article 15 </inglise>
+<eesti> Artikkel 15 </eesti>
+<inglise> Automated individual decisions </inglise>
+<eesti> Automatiseeritud &uuml;ksikotsused </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall grant the right to every person not to be subject to a decision which produces legal effects concerning him or significantly affects him and which is based solely on automated processing of data intended to evaluate certain personal aspects relating to him, such as his performance at work, creditworthiness, reliability, conduct, etc. </inglise>
+<eesti> Liikmesriigid tagavad igale &uuml;ksikisikule &otilde;iguse, et tema kohta ei tehta &otilde;iguslike tagaj&auml;rgedega v&otilde;i m&auml;rkimisv&auml;&auml;rse m&otilde;juga otsuseid, mis toetuvad ainult selliste andmete automatiseeritud t&ouml;&ouml;tlemisele, mille eesm&auml;rk on anda hinnang andmesubjekti teatavatele isikuomadustele, n&auml;iteks t&ouml;&ouml;viljakusele, krediidiv&otilde;imelisusele, usaldusv&auml;&auml;rsusele, k&auml;itumisele jne. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Subject to the other Articles of this Directive, Member States shall provide that a person may be subjected to a decision of the kind referred to in paragraph 1 if that decision: </inglise>
+<eesti> Arvestades teisi k&auml;esoleva direktiivi artikleid, n&auml;evad liikmesriigid ette, et isiku kohta v&otilde;ib teha l&otilde;ikes 1 kirjeldatud otsuse, kui k&otilde;nealune otsus: </eesti>
+<inglise> (a) is taken in the course of the entering into or performance of a contract, provided the request for the entering into or the performance of the contract, lodged by the data subject, has been satisfied or that there are suitable measures to safeguard his legitimate interests, such as arrangements allowing him to put his point of view; or </inglise>
+<eesti> a) v&otilde;etakse vastu lepingu s&otilde;lmimise v&otilde;i t&auml;itmise k&auml;igus tingimusel, et andmesubjekti esitatud lepingu s&otilde;lmimise v&otilde;i t&auml;itmise taotlus on rahuldatud v&otilde;i on olemas andmesubjekti &otilde;igustatud huvide kaitsmiseks sobivad meetmed, n&auml;iteks oma arvamuse avaldamise kord, v&otilde;i </eesti>
+<inglise> (b) is authorized by a law which also lays down measures to safeguard the data subject's legitimate interests. </inglise>
+<eesti> b) on lubatud vastavalt seadusele, milles on s&auml;testatud ka andmesubjekti &otilde;igustatud huvide kaitsmise meetmed. </eesti>
+<inglise> SECTION VIII </inglise>
+<eesti> VIII JAGU </eesti>
+<inglise> CONFIDENTIALITY AND SECURITY OF PROCESSING </inglise>
+<eesti> T&Ouml;&Ouml;TLEMISE KONFIDENTSIAALSUS JA TURVALISUS </eesti>
+<inglise> Article 16 </inglise>
+<eesti> Artikkel 16 </eesti>
+<inglise> Confidentiality of processing </inglise>
+<eesti> T&ouml;&ouml;tlemise konfidentsiaalsus </eesti>
+<inglise> Any person acting under the authority of the controller or of the processor, including the processor himself, who has access to personal data must not process them except on instructions from the controller, unless he is required to do so by law. </inglise>
+<eesti> K&otilde;ik vastutava t&ouml;&ouml;tleja v&otilde;i volitatud t&ouml;&ouml;tleja alluvuses tegutsevad isikud, kaasa arvatud volitatud t&ouml;&ouml;tleja, kellel on juurdep&auml;&auml;s isikuandmetele, v&otilde;ivad k&otilde;nealuseid andmeid t&ouml;&ouml;delda ainult vastavalt vastutava t&ouml;&ouml;tleja juhtn&ouml;&ouml;ridele, kui teda ei kohusta selliseks t&ouml;&ouml;tlemiseks seadus. </eesti>
+<inglise> Article 17 </inglise>
+<eesti> Artikkel 17 </eesti>
+<inglise> Security of processing </inglise>
+<eesti> T&ouml;&ouml;tlemise turvalisus </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall provide that the controller must implement appropriate technical and organizational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing. </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et vastutav t&ouml;&ouml;tleja peab rakendama vajalikke tehnilisi ja organisatsioonilisi meetmeid kaitsmaks isikuandmeid juhusliku v&otilde;i ebaseadusliku h&auml;vitamise v&otilde;i juhusliku kaotsimineku, muutmise, ebaseadusliku avalikustamise v&otilde;i juurdep&auml;&auml;su eest, eelk&otilde;ige juhul, kui t&ouml;&ouml;tlemine h&otilde;lmab andmete edastamist v&otilde;rgu kaudu, ning igasuguse muu v&otilde;imaliku ebaseadusliku t&ouml;&ouml;tlemise eest. </eesti>
+<inglise> Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected. </inglise>
+<eesti> V&otilde;ttes arvesse tehnika taset ja selliste meetmete elluviimise kulusid, peavad k&otilde;nealused meetmed tagama t&ouml;&ouml;tlemise ja kaitstavate andmete laadiga kaasnevale ohule vastava turvalisuse taseme. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The Member States shall provide that the controller must, where processing is carried out on his behalf, choose a processor providing sufficient guarantees in respect of the technical security measures and organizational measures governing the processing to be carried out, and must ensure compliance with those measures. </inglise>
+<eesti> Liikmesriigid s&auml;testavad, et kui t&ouml;&ouml;tlemine toimub vastutava t&ouml;&ouml;tleja nimel, peab vastutav t&ouml;&ouml;tleja valima volitatud t&ouml;&ouml;tleja, kes esitab piisavad tagatised tehniliste turvameetmete ja t&ouml;&ouml;tlemist reguleerivate korralduslike meetmete kohta, ning kindlustama nimetatud meetmete j&auml;rgimise. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The carrying out of processing by way of a processor must be governed by a contract or legal act binding the processor to the controller and stipulating in particular that: </inglise>
+<eesti> Volitatud t&ouml;&ouml;tleja peab andmeid t&ouml;&ouml;tlema volitatud t&ouml;&ouml;tlejat ja vastutavat t&ouml;&ouml;tlejat omavahel siduva lepingu v&otilde;i &otilde;igusakti alusel, milles on eelk&otilde;ige s&auml;testatud, et: </eesti>
+<inglise> - the processor shall act only on instructions from the controller, </inglise>
+<eesti> - volitatud t&ouml;&ouml;tleja tegutseb ainult vastavalt vastutava t&ouml;&ouml;tleja juhtn&ouml;&ouml;ridele, </eesti>
+<inglise> - the obligations set out in paragraph 1, as defined by the law of the Member State in which the processor is established, shall also be incumbent on the processor. </inglise>
+<eesti> - volitatud t&ouml;&ouml;tleja peab t&auml;itma l&otilde;ikes 1 s&auml;testatud kohustusi sellistena, nagu need on m&auml;&auml;ratletud selle liikmesriigi &otilde;igusaktides, kus volitatud t&ouml;&ouml;tleja asub. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> For the purposes of keeping proof, the parts of the contract or the legal act relating to data protection and the requirements relating to the measures referred to in paragraph 1 shall be in writing or in another equivalent form. </inglise>
+<eesti> Selleks, et s&auml;iliksid t&otilde;endusmaterjalid, peavad lepingu v&otilde;i &otilde;igusakti andmekaitset k&auml;sitlevad osad ja l&otilde;ikes 1 osutatud meetmetega seotud n&otilde;udmised olema kirjalikus v&otilde;i muus samav&auml;&auml;rses vormis. </eesti>
+<inglise> SECTION IX </inglise>
+<eesti> IX JAGU </eesti>
+<inglise> NOTIFICATION </inglise>
+<eesti> TEATAMINE </eesti>
+<inglise> Article 18 </inglise>
+<eesti> Artikkel 18 </eesti>
+<inglise> Obligation to notify the supervisory authority </inglise>
+<eesti> J&auml;relevalveasutustele teatamise kohustus </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall provide that the controller or his representative, if any, must notify the supervisory authority referred to in Article 28 before carrying out any wholly or partly automatic processing operation or set of such operations intended to serve a single purpose or several related purposes. </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et vastutav t&ouml;&ouml;tleja v&otilde;i tema v&otilde;imalik esindaja peab teavitama artiklis 28 osutatud j&auml;relevalveasutust enne igasuguse osaliselt v&otilde;i t&auml;ielikult automatiseeritud t&ouml;&ouml;tlemise v&otilde;i selliste t&ouml;&ouml;tlemiste kogumi alustamist, millel on &uuml;ks eesm&auml;rk v&otilde;i mitu omavahel seotud eesm&auml;rki. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States may provide for the simplification of or exemption from notification only in the following cases and under the following conditions: </inglise>
+<eesti> Liikmesriigid v&otilde;ivad teavitamist lihtsustada v&otilde;i n&auml;ha ette sellest erandid ainult j&auml;rgmistel juhtudel ja ainult j&auml;rgmistel tingimustel: </eesti>
+<inglise> - where, for categories of processing operations which are unlikely, taking account of the data to be processed, to affect adversely the rights and freedoms of data subjects, they specify the purposes of the processing, the data or categories of data undergoing processing, the category or categories of data subject, the recipients or categories of recipient to whom the data are to be disclosed and the length of time the data are to be stored, and/or </inglise>
+<eesti> - kui liikmesriigid seda liiki t&ouml;&ouml;tlemise puhul, mis johtuvalt t&ouml;&ouml;deldavatest andmetest t&otilde;en&auml;oliselt ei kahjusta andmesubjektide &otilde;igusi ja vabadusi, t&auml;psustavad t&ouml;&ouml;tlemise eesm&auml;rgid, t&ouml;&ouml;deldavad andmed v&otilde;i andmete liigid, andmesubjektid v&otilde;i andmesubjektide kategooriad, vastuv&otilde;tjad v&otilde;i vastuv&otilde;tjate kategooriad, kellele andmed avalikustatakse, ja andmete s&auml;ilitamise aja ja/v&otilde;i </eesti>
+<inglise> - where the controller, in compliance with the national law which governs him, appoints a personal data protection official, responsible in particular: </inglise>
+<eesti> - kui vastutav t&ouml;&ouml;tleja m&auml;&auml;rab vastavalt tema suhtes kehtivatele siseriiklikele &otilde;igusaktidele ametisse isikuandmete kaitsmisega tegeleva isiku, kes vastutab eelk&otilde;ige j&auml;rgmiste asjaolude eest: </eesti>
+<inglise> - for ensuring in an independent manner the internal application of the national provisions taken pursuant to this Directive </inglise>
+<eesti> - tagatakse s&otilde;ltumatult k&auml;esoleva direktiivi rakendamiseks v&otilde;etud siseriiklike s&auml;tete kohaldamine, </eesti>
+<inglise> - for keeping the register of processing operations carried out by the controller, containing the items of information referred to in Article 21 (2), </inglise>
+<eesti> - peetakse vastutava t&ouml;&ouml;tleja andmet&ouml;&ouml;tlemiste registrit, mis sisaldab artikli 21 l&otilde;ikes 2 osutatud andmeid, </eesti>
+<inglise> thereby ensuring that the rights and freedoms of the data subjects are unlikely to be adversely affected by the processing operations. </inglise>
+<eesti> tagades seega, et t&ouml;&ouml;tlemise k&auml;igus t&otilde;en&auml;oliselt ei kahjustata andmesubjektide &otilde;igusi ja vabadusi. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States may provide that paragraph 1 does not apply to processing whose sole purpose is the keeping of a register which according to laws or regulations is intended to provide information to the public and which is open to consultation either by the public in general or by any person demonstrating a legitimate interest. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad s&auml;testada, et l&otilde;iget 1 ei kohaldata t&ouml;&ouml;tlemise suhtes, mille ainus eesm&auml;rk on pidada &otilde;igusnormide kohaselt avalikkuse teavitamiseks m&otilde;eldud registrit, mis on tutvumiseks avatud laiemale avalikkusele v&otilde;i k&otilde;igile &otilde;igustatud huvidega isikutele. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Member States may provide for an exemption from the obligation to notify or a simplification of the notification in the case of processing operations referred to in Article 8 (2) (d). </inglise>
+<eesti> Liikmesriigid v&otilde;ivad ette n&auml;ha teatamiskohustuse erandi v&otilde;i teatamise lihtsustamise artikli 8 l&otilde;ike 2 punktis d osutatud t&ouml;&ouml;tlemistoimingute puhul. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Member States may stipulate that certain or all non-automatic processing operations involving personal data shall be notified, or provide for these processing operations to be subject to simplified notification. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad s&auml;testada, et teatavatest v&otilde;i k&otilde;igist isikuandmete automatiseerimata t&ouml;&ouml;tlemistoimingutest teatatakse v&otilde;i et nimetatud t&ouml;&ouml;tlemistoimingute suhtes kehtib lihtsustatud teatamiskord. </eesti>
+<inglise> Article 19 </inglise>
+<eesti> Artikkel 19 </eesti>
+<inglise> Contents of notification </inglise>
+<eesti> Teatamise sisu </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall specify the information to be given in the notification. </inglise>
+<eesti> Liikmesriigid s&auml;testavad t&auml;psemalt teatises esitatava teabe. </eesti>
+<inglise> It shall include at least: </inglise>
+<eesti> Teave peab sisaldama v&auml;hemalt j&auml;rgmist: </eesti>
+<inglise> (a) the name and address of the controller and of his representative, if any; </inglise>
+<eesti> a) volitatud t&ouml;&ouml;tleja ja tema v&otilde;imaliku esindaja nimi ja aadress; </eesti>
+<inglise> (b) the purpose or purposes of the processing; </inglise>
+<eesti> b) t&ouml;&ouml;tlemise eesm&auml;rk v&otilde;i eesm&auml;rgid; </eesti>
+<inglise> (c) a description of the category or categories of data subject and of the data or categories of data relating to them; </inglise>
+<eesti> c) andmesubjektide kategooria v&otilde;i kategooriate ja nendega seotud andmete liigi v&otilde;i liikide kirjeldus; </eesti>
+<inglise> (d) the recipients or categories of recipient to whom the data might be disclosed; </inglise>
+<eesti> d) need vastuv&otilde;tjad v&otilde;i vastuv&otilde;tjate kategooriad, kellele andmed v&otilde;idakse avalikustada; </eesti>
+<inglise> (e) proposed transfers of data to third countries; </inglise>
+<eesti> e) andmete kavandatav edastamine kolmandatesse riikidesse; </eesti>
+<inglise> (f) a general description allowing a preliminary assessment to be made of the appropriateness of the measures taken pursuant to Article 17 to ensure security of processing. </inglise>
+<eesti> f) &uuml;ldine kirjeldus, mis v&otilde;imaldab anda eelhinnangu artikli 17 kohaselt t&ouml;&ouml;tlemise turvalisuseks tagamiseks v&otilde;etud meetmete otstarbekuse kohta. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall specify the procedures under which any change affecting the information referred to in paragraph 1 must be notified to the supervisory authority. </inglise>
+<eesti> Liikmesriigid t&auml;psustavad, millise korra kohaselt tuleb j&auml;relevalveasutusele teatada k&otilde;igist l&otilde;ikes 1 osutatud teavet m&otilde;jutavatest muudatustest. </eesti>
+<inglise> Article 20 </inglise>
+<eesti> Artikkel 20 </eesti>
+<inglise> Prior checking </inglise>
+<eesti> Eelkontroll </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall determine the processing operations likely to present specific risks to the rights and freedoms of data subjects and shall check that these processing operations are examined prior to the start thereof. </inglise>
+<eesti> Liikmesriigid m&auml;&auml;ravad kindlaks t&ouml;&ouml;tlemistoimingud, mis v&otilde;ivad t&otilde;en&auml;oliselt ohustada andmesubjektide &otilde;igusi ja vabadusi, ja kontrollivad, et selliseid t&ouml;&ouml;tlemistoiminguid uuritakse enne nende alustamist. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Such prior checks shall be carried out by the supervisory authority following receipt of a notification from the controller or by the data protection official, who, in cases of doubt, must consult the supervisory authority. </inglise>
+<eesti> Sellise eelkontrolli teostab j&auml;relevalveasutus p&auml;rast teatise saamist vastutavalt t&ouml;&ouml;tlejalt v&otilde;i andmekaitsega tegelevalt ametiisikult, kes peavad kahtluste korral pidama n&otilde;u j&auml;relevalveasutusega. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States may also carry out such checks in the context of preparation either of a measure of the national parliament or of a measure based on such a legislative measure, which define the nature of the processing and lay down appropriate safeguards. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad sellist kontrollimist teostada ka kas liikmesriigi parlamendi meetme v&otilde;i sellisel &otilde;igusaktil p&otilde;hineva meetme ettevalmistamise k&auml;igus, millega m&auml;&auml;ratletakse t&ouml;&ouml;tlemise laad ja n&auml;hakse ette vajalikud tagatised. </eesti>
+<inglise> Article 21 </inglise>
+<eesti> Artikkel 21 </eesti>
+<inglise> Publicizing of processing operations </inglise>
+<eesti> T&ouml;&ouml;tlemistoimingute avalikustamine </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall take measures to ensure that processing operations are publicized. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad meetmeid, et tagada t&ouml;&ouml;tlemistoimingute avalikustamine. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall provide that a register of processing operations notified in accordance with Article 18 shall be kept by the supervisory authority. </inglise>
+<eesti> Liikmesriigid tagavad, et j&auml;relevalveasutus peab artikli 18 kohaselt teatatud t&ouml;&ouml;tlemistoimingute registrit. </eesti>
+<inglise> The register shall contain at least the information listed in Article 19 (1) (a) to (e). </inglise>
+<eesti> Register peab sisaldama v&auml;hemalt artikli 19 l&otilde;ike 1 punktides a-e loetletud andmeid. </eesti>
+<inglise> The register may be inspected by any person. </inglise>
+<eesti> Registriga v&otilde;ivad tutvuda k&otilde;ik isikud. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Member States shall provide, in relation to processing operations not subject to notification, that controllers or another body appointed by the Member States make available at least the information referred to in Article 19 (1) (a) to (e) in an appropriate form to any person on request. </inglise>
+<eesti> T&ouml;&ouml;tlemistoimingute puhul, millest ei pea teatama, s&auml;testavad liikmesriigid, et vastutav t&ouml;&ouml;tleja v&otilde;i m&otilde;ni muu liikmesriigi m&auml;&auml;ratud ametiasutus teeb k&otilde;igile isikutele nende taotlusel ja sobivas vormis k&auml;ttesaadavaks artikli 19 l&otilde;ike 1 punktides a-e osutatud teabe. </eesti>
+<inglise> Member States may provide that this provision does not apply to processing whose sole purpose is the keeping of a register which according to laws or regulations is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can provide proof of a legitimate interest. </inglise>
+<eesti> Liikmesriigid v&otilde;ivad s&auml;testada, et nimetatud s&auml;tet ei kohaldata t&ouml;&ouml;tlemise suhtes, mille ainus eesm&auml;rk on pidada &otilde;igusnormide kohaselt avalikkuse teavitamiseks m&otilde;eldud registrit ja mis on tutvumiseks avatud laiemale avalikkusele v&otilde;i k&otilde;igile isikutele, kes t&otilde;endavad oma &otilde;igustatud huve. III PEAT&Uuml;KK </eesti>
+<inglise> CHAPTER III JUDICIAL REMEDIES, LIABILITY AND SANCTIONS </inglise>
+<eesti> &Otilde;IGUSKAITSEVAHENDID, VASTUTUS JA SANKTSIOONID </eesti>
+<inglise> Article 22 </inglise>
+<eesti> Artikkel 22 </eesti>
+<inglise> Remedies </inglise>
+<eesti> &Otilde;iguskaitsevahendid </eesti>
+<inglise> Without prejudice to any administrative remedy for which provision may be made, inter alia before the supervisory authority referred to in Article 28, prior to referral to the judicial authority, Member States shall provide for the right of every person to a judicial remedy for any breach of the rights guaranteed him by the national law applicable to the processing in question. </inglise>
+<eesti> Liikmesriigid s&auml;testavad k&otilde;igi isikute &otilde;iguse kasutada &otilde;iguskaitsevahendeid, kui on rikutud &otilde;igusi, mis neile on antud k&otilde;igi asjaomase t&ouml;&ouml;tlemise suhtes kohaldatavate siseriiklike &otilde;igusaktidega, ilma et see piiraks &uuml;hegi v&otilde;imaliku s&auml;testatava haldus&otilde;igusliku kaitsevahendi kohaldamist, muu hulgas artiklis 28 osutatud j&auml;relevalveasutuse kaudu enne k&uuml;simuse suunamist kohtutele. </eesti>
+<inglise> Article 23 </inglise>
+<eesti> Artikkel 23 </eesti>
+<inglise> Liability </inglise>
+<eesti> Vastutus </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall provide that any person who has suffered damage as a result of an unlawful processing operation or of any act incompatible with the national provisions adopted pursuant to this Directive is entitled to receive compensation from the controller for the damage suffered. </inglise>
+<eesti> Liikmesriigid s&auml;testavad, et k&otilde;igil isikutel, kes on kandnud kahju ebaseadusliku t&ouml;&ouml;tlemise v&otilde;i k&auml;esoleva direktiivi rakendamiseks v&otilde;etud siseriiklike s&auml;tetega vastuolus oleva teo tagaj&auml;rjel, on &otilde;igus saada vastutavalt t&ouml;&ouml;tlejalt kompensatsiooni kantud kahju eest. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The controller may be exempted from this liability, in whole or in part, if he proves that he is not responsible for the event giving rise to the damage. </inglise>
+<eesti> Vastutava t&ouml;&ouml;tleja v&otilde;ib k&otilde;nealusest vastutusest tervikuna v&otilde;i osaliselt vabastada, kui ta t&otilde;estab, et tema ei ole kahju p&otilde;hjustanud s&uuml;ndmuse eest vastutav. </eesti>
+<inglise> Article 24 </inglise>
+<eesti> Artikkel 24 </eesti>
+<inglise> Sanctions </inglise>
+<eesti> Sanktsioonid </eesti>
+<inglise> The Member States shall adopt suitable measures to ensure the full implementation of the provisions of this Directive and shall in particular lay down the sanctions to be imposed in case of infringement of the provisions adopted pursuant to this Directive. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad sobivaid meetmeid, et tagada k&auml;esoleva direktiivi s&auml;tete t&auml;ielik rakendamine, ja s&auml;testavad eelk&otilde;ige sanktsioonid, mida kohaldatakse k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud s&auml;tete rikkumise puhul. </eesti>
+<inglise> CHAPTER IV TRANSFER OF PERSONAL DATA TO THIRD COUNTRIES </inglise>
+<eesti> IV PEAT&Uuml;KK ISIKUANDMETE EDASTAMINE KOLMANDATESSE RIIKIDESSE </eesti>
+<inglise> Article 25 </inglise>
+<eesti> Artikkel 25 </eesti>
+<inglise> Principles </inglise>
+<eesti> P&otilde;him&otilde;tted </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The Member States shall provide that the transfer to a third country of personal data which are undergoing processing or are intended for processing after transfer may take place only if, without prejudice to compliance with the national provisions adopted pursuant to the other provisions of this Directive, the third country in question ensures an adequate level of protection. </inglise>
+<eesti> Liikmesriigid s&auml;testavad, et t&ouml;&ouml;deldavate v&otilde;i p&auml;rast edastamist t&ouml;&ouml;tlemiseks kavandatud isikuandmete edastamine kolmandatesse riikidesse v&otilde;ib toimuda ainult juhul, kui k&otilde;nealune kolmas riik tagab andmekaitse piisava taseme, kui k&auml;esoleva direktiivi muude s&auml;tete kohaselt vastuv&otilde;etud siseriiklikest s&auml;tetest ei tulene teisiti. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The adequacy of the level of protection afforded by a third country shall be assessed in the light of all the circumstances surrounding a data transfer operation or set of data transfer operations; particular consideration shall be given to the nature of the data, the purpose and duration of the proposed processing operation or operations, the country of origin and country of final destination, the rules of law, both general and sectoral, in force in the third country in question and the professional rules and security measures which are complied with in that country. </inglise>
+<eesti> Andmekaitse taset kolmandates riikides hinnatakse, pidades silmas k&otilde;iki andmete edastamise toimingute v&otilde;i andmete edastamise toimingute kogumi asjaolusid; t&auml;helepanu p&ouml;&ouml;ratakse eelk&otilde;ige andmete laadile, kavandatud t&ouml;&ouml;tlemistoimingu v&otilde;i t&ouml;&ouml;tlemistoimingute eesm&auml;rgile ja kestusele, p&auml;ritoluriigile ja l&otilde;ppsihtriigile, k&otilde;nealuses kolmandas riigis kehtivatele nii &uuml;ldistele kui ka konkreetse sektori &otilde;igusnormidele ja k&otilde;nealuses riigis j&auml;rgitavatele ametieeskirjadele ja turvameetmetele. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The Member States and the Commission shall inform each other of cases where they consider that a third country does not ensure an adequate level of protection within the meaning of paragraph 2. </inglise>
+<eesti> Liikmesriigid ja komisjon teatavad &uuml;ksteisele juhtudest, mille puhul nad leiavad, et kolmas riik ei taga kaitse piisavat taset l&otilde;ike 2 t&auml;henduses. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Where the Commission finds, under the procedure provided for in Article 31 (2), that a third country does not ensure an adequate level of protection within the meaning of paragraph 2 of this Article, Member States shall take the measures necessary to prevent any transfer of data of the same type to the third country in question. </inglise>
+<eesti> Kui komisjon artikli 31 l&otilde;ikes 2 etten&auml;htud korras leiab, et kolmas riik ei taga kaitse piisavat taset k&auml;esoleva artikli l&otilde;ike 2 t&auml;henduses, v&otilde;tavad liikmesriigid vajalikke meetmeid tagamaks, et sama liiki andmeid k&otilde;nealusesse kolmandasse riiki ei edastata. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> At the appropriate time, the Commission shall enter into negotiations with a view to remedying the situation resulting from the finding made pursuant to paragraph 4. </inglise>
+<eesti> Sobival ajal alustab komisjon l&auml;bir&auml;&auml;kimisi, et parandada olukorda, mis tekkis l&otilde;ike 4 kohaselt tehtud avastuse t&otilde;ttu. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> The Commission may find, in accordance with the procedure referred to in Article 31 (2), that a third country ensures an adequate level of protection within the meaning of paragraph 2 of this Article, by reason of its domestic law or of the international commitments it has entered into, particularly upon conclusion of the negotiations referred to in paragraph 5, for the protection of the private lives and basic freedoms and rights of individuals. </inglise>
+<eesti> Komisjon v&otilde;ib leida artikli 31 l&otilde;ikes 2 s&auml;testatud korras, et kolmas riik tagab kaitse piisava taseme k&auml;esoleva artikli l&otilde;ike 2 t&auml;henduses oma siseriikliku &otilde;igusega v&otilde;i endale v&otilde;etud rahvusvaheliste kohustustega, mis tulenevad eelk&otilde;ige l&otilde;ikes 5 osutatud l&auml;bir&auml;&auml;kimistest, et kaitsta eraelu puutumatust ja &uuml;ksikisikute p&otilde;hivabadusi ja -&otilde;igusi. </eesti>
+<inglise> Member States shall take the measures necessary to comply with the Commission's decision. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad komisjoni otsuse j&auml;rgimiseks vajalikke meetmeid. </eesti>
+<inglise> Article 26 </inglise>
+<eesti> Artikkel 26 </eesti>
+<inglise> Derogations </inglise>
+<eesti> Erandid </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> By way of derogation from Article 25 and save where otherwise provided by domestic law governing particular cases, Member States shall provide that a transfer or a set of transfers of personal data to a third country which does not ensure an adequate level of protection within the meaning of Article 25 (2) may take place on condition that: </inglise>
+<eesti> Erandina artiklist 25, ja kui konkreetsete juhtude suhtes ei ole siseriiklike &otilde;igusaktidega ette n&auml;htud teisiti, s&auml;testavad liikmesriigid, et isikuandmete edastamine v&otilde;i edastamiste kogum kolmandasse riiki, mis ei taga piisavat kaitset artikli 25 l&otilde;ike 2 t&auml;henduses, v&otilde;ib toimuda tingimusel, et: </eesti>
+<inglise> (a) the data subject has given his consent unambiguously to the proposed transfer; or </inglise>
+<eesti> a) andmesubjekt on andmete kavandatud edastamiseks andnud oma &uuml;hem&otilde;ttelise n&otilde;usoleku v&otilde;i </eesti>
+<inglise> (b) the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of precontractual measures taken in response to the data subject's request; or </inglise>
+<eesti> b) edastamine on vajalik andmesubjekti ja vastutava t&ouml;&ouml;tleja vahelise lepingu t&auml;itmiseks v&otilde;i andmesubjekti taotlusel v&otilde;etud lepingueelsete meetmete rakendamiseks v&otilde;i </eesti>
+<inglise> (c) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and a third party; or </inglise>
+<eesti> c) edastamine on vajalik andmesubjekti huvides vastutava t&ouml;&ouml;tleja ja kolmanda isiku vahel s&otilde;lmitud lepingu s&otilde;lmimiseks v&otilde;i t&auml;itmiseks v&otilde;i </eesti>
+<inglise> (d) the transfer is necessary or legally required on important public interest grounds, or for the establishment, exercise or defence of legal claims; or </inglise>
+<eesti> d) edastamine on vajalik v&otilde;i seaduste kohaselt n&otilde;utav &uuml;ldiste huvidega seotud olulistel p&otilde;hjustel v&otilde;i &otilde;igusn&otilde;uete koostamiseks, esitamiseks v&otilde;i kaitsmiseks v&otilde;i </eesti>
+<inglise> (e) the transfer is necessary in order to protect the vital interests of the data subject; or </inglise>
+<eesti> e) edastamine on vajalik andmesubjekti eluliste huvide kaitsmiseks v&otilde;i </eesti>
+<inglise> (f) the transfer is made from a register which according to laws or regulations is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate legitimate interest, to the extent that the conditions laid down in law for consultation are fulfilled in the particular case. </inglise>
+<eesti> f) edastatavad andmed on p&auml;rit registrist, mis &otilde;igusnormide kohaselt on m&otilde;eldud avalikkuse teavitamiseks ja on tutvumiseks avatud laiemale avalikkusele v&otilde;i k&otilde;igile &otilde;igustatud huvidega isikutele, kuiv&otilde;rd konkreetsel juhul t&auml;idetakse tingimusi, mis &otilde;igusaktidega on tutvumiseks ette n&auml;htud. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Without prejudice to paragraph 1, a Member State may authorize a transfer or a set of transfers of personal data to a third country which does not ensure an adequate level of protection within the meaning of Article 25 (2), where the controller adduces adequate safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals and as regards the exercise of the corresponding rights; such safeguards may in particular result from appropriate contractual clauses. </inglise>
+<eesti> Ilma et see piiraks l&otilde;ike 1 kohaldamist, v&otilde;ivad liikmesriigid lubada isikuandmete edastamist v&otilde;i edastamistoimingute kogumit kolmandasse riiki, mis ei taga kaitse piisavat taset artikli 25 l&otilde;ike 2 t&auml;henduses, kui vastutav t&ouml;&ouml;tleja esitab piisavad tagatised &uuml;ksikisikute eraelu puutumatuse ning p&otilde;hi&otilde;iguste ja -vabaduste kaitse ja vastavate &otilde;iguste kasutamise kohta; sellised tagatised v&otilde;ivad tuleneda eelk&otilde;ige asjakohastest lepingutingimustest. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The Member State shall inform the Commission and the other Member States of the authorizations it grants pursuant to paragraph 2. </inglise>
+<eesti> Liikmesriik informeerib komisjoni ja teisi liikmesriike l&otilde;ike 2 kohaselt antud lubadest. </eesti>
+<inglise> If a Member State or the Commission objects on justified grounds involving the protection of the privacy and fundamental rights and freedoms of individuals, the Commission shall take appropriate measures in accordance with the procedure laid down in Article 31 (2). </inglise>
+<eesti> Kui liikmesriik v&otilde;i komisjon esitab p&otilde;hjendatud vastuv&auml;iteid, milles viidatakse &uuml;ksikisikute eraelu puutumatusele v&otilde;i p&otilde;hi&otilde;igustele ja -vabadustele, v&otilde;tab komisjon vajalikud meetmed artikli 31 l&otilde;ikes 2 s&auml;testatud korras. </eesti>
+<inglise> Member States shall take the necessary measures to comply with the Commission's decision. </inglise>
+<eesti> Liikmesriigid v&otilde;tavad komisjoni otsuse j&auml;rgimiseks vajalikke meetmeid. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Where the Commission decides, in accordance with the procedure referred to in Article 31 (2), that certain standard contractual clauses offer sufficient safeguards as required by paragraph 2, Member States shall take the necessary measures to comply with the Commission's decision. </inglise>
+<eesti> Kui komisjon otsustab artikli 31 l&otilde;ikes 2 osutatud korras, et teatavad lepingu t&uuml;&uuml;ptingimused pakuvad piisavaid l&otilde;ikega 2 n&otilde;utavaid tagatisi, v&otilde;tavad liikmesriigid komisjoni otsuse j&auml;rgimiseks vajalikke meetmeid. V PEAT&Uuml;KK </eesti>
+<inglise> CHAPTER V CODES OF CONDUCT </inglise>
+<eesti> TEGEVUSJUHENDID </eesti>
+<inglise> Article 27 </inglise>
+<eesti> Artikkel 27 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The Member States and the Commission shall encourage the drawing up of codes of conduct intended to contribute to the proper implementation of the national provisions adopted by the Member States pursuant to this Directive, taking account of the specific features of the various sectors. </inglise>
+<eesti> Liikmesriigid ja komisjon toetavad tegevusjuhendite koostamist, mille eesm&auml;rk on aidata kaasa liikmesriikides k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tete n&otilde;uetekohasele rakendamisele, v&otilde;ttes arvesse sektorite eriomadusi. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall make provision for trade associations and other bodies representing other categories of controllers which have drawn up draft national codes or which have the intention of amending or extending existing national codes to be able to submit them to the opinion of the national authority. </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et kutse&uuml;hingud ja vastutavate t&ouml;&ouml;tlejate teisi kategooriaid esindavad muud organid, kes on koostanud siseriiklike tegevusjuhendite projektid v&otilde;i kes kavatsevad muuta v&otilde;i laiendada olemasolevaid tegevusjuhendeid, v&otilde;ivad esitada nimetatud projektid siseriiklikule ametiasutusele nende arvamuse teadasaamiseks. </eesti>
+<inglise> Member States shall make provision for this authority to ascertain, among other things, whether the drafts submitted to it are in accordance with the national provisions adopted pursuant to this Directive. </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et k&otilde;nealused asutused teevad muu hulgas kindlaks ka selle, kas esitatud projektid on koosk&otilde;las k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tetega. </eesti>
+<inglise> If it sees fit, the authority shall seek the views of data subjects or their representatives. </inglise>
+<eesti> Kui asutus peab seda vajalikuks, v&otilde;ib ta paluda andmesubjektidel v&otilde;i nende esindajatel esitada oma seisukohad. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Draft Community codes, and amendments or extensions to existing Community codes, may be submitted to the Working Party referred to in Article 29. </inglise>
+<eesti> &Uuml;henduse tegevusjuhendite projektid ja olemasolevate &uuml;henduse tegevusjuhendite muudatused v&otilde;i laiendused v&otilde;ib esitada artiklis 29 osutatud t&ouml;&ouml;r&uuml;hmale. </eesti>
+<inglise> This Working Party shall determine, among other things, whether the drafts submitted to it are in accordance with the national provisions adopted pursuant to this Directive. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm m&auml;&auml;rab muu hulgas kindlaks ka selle, kas esitatud projektid on koosk&otilde;las k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tetega. </eesti>
+<inglise> If it sees fit, the authority shall seek the views of data subjects or their representatives. </inglise>
+<eesti> Kui asutus peab seda vajalikuks, v&otilde;ib ta paluda andmesubjektidel v&otilde;i nende esindajatel esitada oma seisukohad. </eesti>
+<inglise> The Commission may ensure appropriate publicity for the codes which have been approved by the Working Party. </inglise>
+<eesti> Komisjon v&otilde;ib tagada t&ouml;&ouml;r&uuml;hma poolt heakskiidetud tegevusjuhendite asjakohase avalikustamise. </eesti>
+<inglise> CHAPTER VI SUPERVISORY AUTHORITY AND WORKING PARTY ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO THE PROCESSING OF PERSONAL DATA </inglise>
+<eesti> VI PEAT&Uuml;KK J&Auml;RELEVALVEASUTUS JA T&Ouml;&Ouml;R&Uuml;HM &Uuml;KSIKISIKUTE KAITSEKS SEOSES ISIKUANDMETE T&Ouml;&Ouml;TLEMISEGA </eesti>
+<inglise> Article 28 </inglise>
+<eesti> Artikkel 28 </eesti>
+<inglise> Supervisory authority </inglise>
+<eesti> J&auml;relevalveasutus </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Each Member State shall provide that one or more public authorities are responsible for monitoring the application within its territory of the provisions adopted by the Member States pursuant to this Directive. </inglise>
+<eesti> Iga liikmesriik n&auml;eb ette &uuml;he v&otilde;i mitu riigiasutust, et teostada j&auml;relevalvet tema territooriumil k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud s&auml;tete kohaldamise &uuml;le. </eesti>
+<inglise> These authorities shall act with complete independence in exercising the functions entrusted to them. </inglise>
+<eesti> K&otilde;nealused asutused tegutsevad neile usaldatud &uuml;lesannete t&auml;itmisel t&auml;iesti s&otilde;ltumatult. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Each Member State shall provide that the supervisory authorities are consulted when drawing up administrative measures or regulations relating to the protection of individuals' rights and freedoms with regard to the processing of personal data. </inglise>
+<eesti> Iga liikmesriik n&auml;eb ette, et selliste haldusmeetmete v&otilde;tmisel v&otilde;i &otilde;igusaktide koostamise k&auml;igus, mis k&auml;sitlevad &uuml;ksikisikute &otilde;iguste ja vabaduste kaitset isikuandmete t&ouml;&ouml;tlemisel, konsulteeritakse j&auml;relevalveasutustega. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Each authority shall in particular be endowed with: </inglise>
+<eesti> Igal sellisel ametiasutusel on eelk&otilde;ige: </eesti>
+<inglise> - investigative powers, such as powers of access to data forming the subject-matter of processing operations and powers to collect all the information necessary for the performance of its supervisory duties, </inglise>
+<eesti> - uurimisvolitused, n&auml;iteks volitused tutvuda t&ouml;&ouml;deldavate andmetega ja koguda oma j&auml;relevalvekohustuse t&auml;itmiseks vajalikku teavet, </eesti>
+<inglise> - effective powers of intervention, such as, for example, that of delivering opinions before processing operations are carried out, in accordance with Article 20, and ensuring appropriate publication of such opinions, of ordering the blocking, erasure or destruction of data, of imposing a temporary or definitive ban on processing, of warning or admonishing the controller, or that of referring the matter to national parliaments or other political institutions, </inglise>
+<eesti> - t&otilde;husad sekkumisvolitused, n&auml;iteks avaldada artikli 20 kohaselt arvamust enne t&ouml;&ouml;tlemise alustamist ja tagada sellise arvamuse asjakohane avalikustamine, anda korraldus andmete sulgemiseks, kustutamiseks v&otilde;i h&auml;vitamiseks, keelata t&ouml;&ouml;tlemine ajutiselt v&otilde;i alaliselt, hoiatada vastutavat t&ouml;&ouml;tlejat v&otilde;i teha talle m&auml;rkus v&otilde;i suunata k&uuml;simus liikmesriigi parlamenti v&otilde;i teistesse poliitilisse institutsioonidesse, </eesti>
+<inglise> - the power to engage in legal proceedings where the national provisions adopted pursuant to this Directive have been violated or to bring these violations to the attention of the judicial authorities. </inglise>
+<eesti> - volitused osaleda kohtumenetlustes, kui k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tteid on rikutud, v&otilde;i juhtida k&otilde;nealustele rikkumistele &otilde;igusasutuste t&auml;helepanu. </eesti>
+<inglise> Decisions by the supervisory authority which give rise to complaints may be appealed against through the courts. </inglise>
+<eesti> Kui j&auml;relevalveasutuse otsustega ei olda rahul, v&otilde;ib need edasi kaevata kohtusse. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Each supervisory authority shall hear claims lodged by any person, or by an association representing that person, concerning the protection of his rights and freedoms in regard to the processing of personal data. </inglise>
+<eesti> Iga j&auml;relevalveasutus vaatab l&auml;bi k&otilde;igi isikute v&otilde;i k&otilde;nealuseid isikuid esindava &uuml;henduse esitatud avaldused nende &otilde;iguste ja vabaduste kaitse kohta seoses isikuandmete t&ouml;&ouml;tlemisega. </eesti>
+<inglise> The person concerned shall be informed of the outcome of the claim. </inglise>
+<eesti> Andmesubjektile teatatakse avalduse tagaj&auml;rgedest. </eesti>
+<inglise> Each supervisory authority shall, in particular, hear claims for checks on the lawfulness of data processing lodged by any person when the national provisions adopted pursuant to Article 13 of this Directive apply. </inglise>
+<eesti> Iga j&auml;relevalveasutus vaatab l&auml;bi eelk&otilde;ige k&otilde;igi isikute avaldused kontrollida andmete t&ouml;&ouml;tlemise seaduslikkust, kui kohaldatakse k&auml;esoleva direktiivi artikli 13 kohaselt vastuv&otilde;etud siseriiklikke s&auml;tteid. </eesti>
+<inglise> The person shall at any rate be informed that a check has taken place. </inglise>
+<eesti> Igal juhul teatatakse isikule kontrollimisest. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Each supervisory authority shall draw up a report on its activities at regular intervals. </inglise>
+<eesti> Iga j&auml;relevalveasutus koostab korrap&auml;raste ajavahemike j&auml;rel aruanded oma tegevuse kohta. </eesti>
+<inglise> The report shall be made public. </inglise>
+<eesti> Aruanded avalikustatakse. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> Each supervisory authority is competent, whatever the national law applicable to the processing in question, to exercise, on the territory of its own Member State, the powers conferred on it in accordance with paragraph 3. </inglise>
+<eesti> Olenemata sellest, milliseid siseriiklikke &otilde;igusi k&otilde;nealuse t&ouml;&ouml;tlemise suhtes kohaldatakse, on iga j&auml;relevalveasutus p&auml;dev kasutama oma liikmesriigi territooriumil talle l&otilde;ikega 3 antud volitusi. </eesti>
+<inglise> Each authority may be requested to exercise its powers by an authority of another Member State. </inglise>
+<eesti> Teise liikmesriigi asutused v&otilde;ivad igalt j&auml;relevalveasutuselt taotleda, et see kasutaks oma volitusi. </eesti>
+<inglise> The supervisory authorities shall cooperate with one another to the extent necessary for the performance of their duties, in particular by exchanging all useful information. </inglise>
+<eesti> J&auml;relevalveasutused teevad &uuml;ksteisega koost&ouml;&ouml;d, kuiv&otilde;rd see on vajalik nende &uuml;lesannete t&auml;itmiseks, eelk&otilde;ige vahetades kasulikku teavet. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> Member States shall provide that the members and staff of the supervisory authority, even after their employment has ended, are to be subject to a duty of professional secrecy with regard to confidential information to which they have access. </inglise>
+<eesti> Liikmesriigid n&auml;evad ette, et j&auml;relevalveasutuste liikmed ja t&ouml;&ouml;tajad peavad ka p&auml;rast t&ouml;&ouml;suhte l&otilde;ppemist j&auml;rgima ametisaladuse hoidmise kohustust konfidentsiaalse teabe suhtes, millele neil on juurdep&auml;&auml;s. </eesti>
+<inglise> Article 29 </inglise>
+<eesti> Artikkel 29 </eesti>
+<inglise> Working Party on the Protection of Individuals with regard to the Processing of Personal Data </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm &uuml;ksikisikute kaitseks seoses isikuandmete t&ouml;&ouml;tlemisega </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> A Working Party on the Protection of Individuals with regard to the Processing of Personal Data, hereinafter referred to as 'the Working Party', is hereby set up. </inglise>
+<eesti> K&auml;esolevaga luuakse t&ouml;&ouml;r&uuml;hm &uuml;ksikisikute kaitseks seoses isikuandmete t&ouml;&ouml;tlemisega, edaspidi "t&ouml;&ouml;r&uuml;hm". </eesti>
+<inglise> It shall have advisory status and act independently. </inglise>
+<eesti> Tal on n&otilde;uandev funktsioon ja ta on oma t&ouml;&ouml;s s&otilde;ltumatu. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The Working Party shall be composed of a representative of the supervisory authority or authorities designated by each Member State and of a representative of the authority or authorities established for the Community institutions and bodies, and of a representative of the Commission. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hma kuuluvad iga liikmesriigi m&auml;&auml;ratud j&auml;relevalveasutuse v&otilde;i j&auml;relevalveasutuste esindaja, &uuml;henduse institutsioonide ja organite jaoks loodud asutuse v&otilde;i asutuste esindaja ja komisjoni esindaja. </eesti>
+<inglise> Each member of the Working Party shall be designated by the institution, authority or authorities which he represents. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hma iga liikme m&auml;&auml;rab ametisse institutsioon, asutus v&otilde;i asutused, mida asjaomane liige esindab. </eesti>
+<inglise> Where a Member State has designated more than one supervisory authority, they shall nominate a joint representative. </inglise>
+<eesti> Kui liikmesriik on ametisse m&auml;&auml;ranud mitu j&auml;relevalveasutust, nimetavad need ametisse &uuml;hise esindaja. </eesti>
+<inglise> The same shall apply to the authorities established for Community institutions and bodies. </inglise>
+<eesti> Sama p&otilde;him&otilde;te kehtib ka &uuml;henduse institutsioonide ja organite jaoks loodud asutuste puhul. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The Working Party shall take decisions by a simple majority of the representatives of the supervisory authorities. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm v&otilde;tab otsused vastu j&auml;relevalveasutuste esindajate lihth&auml;&auml;lteenamusega. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> The Working Party shall elect its chairman. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm valib endale esimehe. </eesti>
+<inglise> The chairman's term of office shall be two years. </inglise>
+<eesti> Esimehe ametiaeg kestab kaks aastat. </eesti>
+<inglise> His appointment shall be renewable. </inglise>
+<eesti> Teda v&otilde;ib ametisse tagasi nimetada. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The Working Party's secretariat shall be provided by the Commission. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hma sekretariaadi eest hoolitseb komisjon. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> The Working Party shall adopt its own rules of procedure. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm v&otilde;tab vastu oma t&ouml;&ouml;korra. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> The Working Party shall consider items placed on its agenda by its chairman, either on his own initiative or at the request of a representative of the supervisory authorities or at the Commission's request. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm arutab k&uuml;simusi, mis esimees on p&auml;evakorda v&otilde;tnud omal algatusel v&otilde;i j&auml;relevalveasutuste esindaja v&otilde;i komisjoni taotlusel. </eesti>
+<inglise> Article 30 </inglise>
+<eesti> Artikkel 30 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The Working Party shall: </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm: </eesti>
+<inglise> (a) examine any question covering the application of the national measures adopted under this Directive in order to contribute to the uniform application of such measures; </inglise>
+<eesti> a) uurib k&otilde;iki k&auml;esoleva direktiivi alusel vastuv&otilde;etud siseriiklike meetmete kohaldamisega seotud k&uuml;simusi, et aidata kaasa selliste meetmete &uuml;htsele kohaldamisele; </eesti>
+<inglise> (b) give the Commission an opinion on the level of protection in the Community and in third countries; </inglise>
+<eesti> b) esitab komisjonile oma arvamuse andmekaitse taseme kohta &uuml;henduses ja kolmandates riikides; </eesti>
+<inglise> (c) advise the Commission on any proposed amendment of this Directive, on any additional or specific measures to safeguard the rights and freedoms of natural persons with regard to the processing of personal data and on any other proposed Community measures affecting such rights and freedoms; </inglise>
+<eesti> c) annab komisjonile n&otilde;u k&auml;esoleva direktiivi muutmise, isikuandmete t&ouml;&ouml;tlemisega seotud f&uuml;&uuml;siliste isikute &otilde;iguste ja vabaduste kaitsmise t&auml;iendavate v&otilde;i erimeetmete ja muude kavandatavate selliseid &otilde;igusi ja vabadusi m&otilde;jutavate &uuml;henduse meetmete kohta; </eesti>
+<inglise> (d) give an opinion on codes of conduct drawn up at Community level. </inglise>
+<eesti> d) esitab oma arvamuse &uuml;henduse tasandil koostatud tegevusjuhendite kohta. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> If the Working Party finds that divergences likely to affect the equivalence of protection for persons with regard to the processing of personal data in the Community are arising between the laws or practices of Member States, it shall inform the Commission accordingly. </inglise>
+<eesti> Kui t&ouml;&ouml;r&uuml;hm leiab, et liikmesriikide &otilde;igusaktides v&otilde;i tavades on tekkimas erinevused, mis isikuandmete t&ouml;&ouml;tlemisel &uuml;henduses t&otilde;en&auml;oliselt ei v&otilde;imalda isikutele &uuml;hesugust kaitset, teatab ta sellest komisjonile. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The Working Party may, on its own initiative, make recommendations on all matters relating to the protection of persons with regard to the processing of personal data in the Community. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm v&otilde;ib omal algatusel anda soovitusi k&otilde;igis isikute kaitsmise k&uuml;simustes, mis on &uuml;henduses seotud isikuandmete t&ouml;&ouml;tlemisega. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> The Working Party's opinions and recommendations shall be forwarded to the Commission and to the committee referred to in Article 31. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hma arvamused ja soovitused edastatakse komisjonile ja artiklis 31 osutatud komiteele. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The Commission shall inform the Working Party of the action it has taken in response to its opinions and recommendations. </inglise>
+<eesti> Komisjon teatab t&ouml;&ouml;r&uuml;hmale, milliseid meetmeid ta on v&otilde;tnud vastuseks t&ouml;&ouml;r&uuml;hma arvamustele ja soovitustele. </eesti>
+<inglise> It shall do so in a report which shall also be forwarded to the European Parliament and the Council. </inglise>
+<eesti> Selleks koostab komisjon aruande, mis edastatakse ka Euroopa Parlamendile ja n&otilde;ukogule. </eesti>
+<inglise> The report shall be made public. </inglise>
+<eesti> Aruanne avalikustatakse. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> The Working Party shall draw up an annual report on the situation regarding the protection of natural persons with regard to the processing of personal data in the Community and in third countries, which it shall transmit to the Commission, the European Parliament and the Council. </inglise>
+<eesti> T&ouml;&ouml;r&uuml;hm koostab aastaaruande f&uuml;&uuml;siliste isikute kaitse kohta seoses isikuandmete t&ouml;&ouml;tlemisega &uuml;henduses ja kolmandates riikides ning edastab selle komisjonile, Euroopa Parlamendile ja n&otilde;ukogule. </eesti>
+<inglise> The report shall be made public. </inglise>
+<eesti> Aruanne avalikustatakse. VII PEAT&Uuml;KK </eesti>
+<inglise> CHAPTER VII COMMUNITY IMPLEMENTING MEASURES </inglise>
+<eesti> &Uuml;HENDUSE RAKENDUSMEETMED </eesti>
+<inglise> Article 31 </inglise>
+<eesti> Artikkel 31 </eesti>
+<inglise> The Committee </inglise>
+<eesti> Komitee </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The Commission shall be assisted by a committee composed of the representatives of the Member States and chaired by the representative of the Commission. </inglise>
+<eesti> Komisjoni abistab komitee, kuhu kuuluvad liikmesriikide esindajad ja eesistujana komisjoni esindaja. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> The representative of the Commission shall submit to the committee a draft of the measures to be taken. </inglise>
+<eesti> V&otilde;etavate meetmete eeln&otilde;u esitab komiteele komisjoni esindaja. </eesti>
+<inglise> The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. </inglise>
+<eesti> T&auml;htaja jooksul, mille m&auml;&auml;rab eesistuja l&auml;htuvalt k&uuml;simuse kiireloomulisusest, esitab komitee eeln&otilde;u kohta oma arvamuse. </eesti>
+<inglise> The opinion shall be delivered by the majority laid down in Article 148 (2) of the Treaty. </inglise>
+<eesti> Arvamus esitatakse sellise h&auml;&auml;lteenamusega, nagu on s&auml;testatud asutamislepingu artikli 148 l&otilde;ikes 2. </eesti>
+<inglise> The votes of the representatives of the Member States within the committee shall be weighted in the manner set out in that Article. </inglise>
+<eesti> Liikmesriikide esindajate h&auml;&auml;li komitees arvestatakse nimetatud artiklis s&auml;testatud viisil. </eesti>
+<inglise> The chairman shall not vote. </inglise>
+<eesti> Eesistuja ei h&auml;&auml;leta. </eesti>
+<inglise> The Commission shall adopt measures which shall apply immediately. </inglise>
+<eesti> Komisjon v&otilde;tab meetmed vastu ning neid kohaldatakse viivitamata. </eesti>
+<inglise> However, if these measures are not in accordance with the opinion of the committee, they shall be communicated by the Commission to the Council forthwith. </inglise>
+<eesti> Kui meetmed ei ole komitee arvamusega koosk&otilde;las, teatab komisjon sellest viivitamata n&otilde;ukogule. </eesti>
+<inglise> It that event: </inglise>
+<eesti> Sellisel juhul: </eesti>
+<inglise> - the Commission shall defer application of the measures which it has decided for a period of three months from the date of communication, </inglise>
+<eesti> - l&uuml;kkab komisjon vastuv&otilde;etud meetmete kohaldamise edasi kolme kuu v&otilde;rra alates k&otilde;nealusest teatamisest, </eesti>
+<inglise> - the Council, acting by a qualified majority, may take a different decision within the time limit referred to in the first indent. </inglise>
+<eesti> - esimeses taandes osutatud t&auml;htaja jooksul v&otilde;ib n&otilde;ukogu kvalifitseeritud h&auml;&auml;lteenamusega teha teistsuguse otsuse. </eesti>
+<inglise> FINAL PROVISIONS </inglise>
+<eesti> L&Otilde;PPS&Auml;TTED </eesti>
+<inglise> Article 32 </inglise>
+<eesti> Artikkel 32 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive at the latest at the end of a period of three years from the date of its adoption. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi j&auml;rgimiseks vajalikud &otilde;igusnormid hiljemalt kolme aasta jooksul p&auml;rast selle vastuv&otilde;tmist. </eesti>
+<inglise> When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need meetmed vastu v&otilde;tavad, lisavad nad nendesse meetmetesse v&otilde;i nende meetmete ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The methods of making such reference shall be laid down by the Member States. </inglise>
+<eesti> Sellise viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall ensure that processing already under way on the date the national provisions adopted pursuant to this Directive enter into force, is brought into conformity with these provisions within three years of this date. </inglise>
+<eesti> Liikmesriigid tagavad, et k&auml;esoleva direktiivi kohaselt vastuv&otilde;etud siseriiklike s&auml;tete j&otilde;ustumise kuup&auml;evaks alustatud t&ouml;&ouml;tlemine viiakse koosk&otilde;lla k&otilde;nealuste s&auml;tetega kolme aasta jooksul p&auml;rast nimetatud kuup&auml;eva. </eesti>
+<inglise> By way of derogation from the preceding subparagraph, Member States may provide that the processing of data already held in manual filing systems on the date of entry into force of the national provisions adopted in implementation of this Directive shall be brought into conformity with Articles 6, 7 and 8 of this Directive within 12 years of the date on which it is adopted. </inglise>
+<eesti> Erandina eelmisest l&otilde;igust v&otilde;ivad liikmesriigid s&auml;testada, et automatiseerimata kataloogides paiknevate andmete t&ouml;&ouml;tlemine, mida on alustatud enne k&auml;esoleva direktiivi rakendamiseks vastuv&otilde;etud siseriiklike s&auml;tete j&otilde;ustumise kuup&auml;eva, viiakse koosk&otilde;lla k&auml;esoleva direktiivi artiklitega 6, 7 ja 8 kaheteistk&uuml;mne aasta jooksul p&auml;rast direktiivi vastuv&otilde;tmist. </eesti>
+<inglise> Member States shall, however, grant the data subject the right to obtain, at his request and in particular at the time of exercising his right of access, the rectification, erasure or blocking of data which are incomplete, inaccurate or stored in a way incompatible with the legitimate purposes pursued by the controller. </inglise>
+<eesti> Liikmesriigid tagavad andmesubjektile siiski &otilde;iguse, et vastava taotluse peale ja eelk&otilde;ige ajal, mil andmesubjekt kasutab oma &otilde;igust tutvuda andmetega, parandatakse, kustutatakse v&otilde;i suletakse andmed, mis on ebat&auml;ielikud v&otilde;i eba&otilde;iged v&otilde;i mille s&auml;ilitamise viis on vastuolus vastutava t&ouml;&ouml;tleja &otilde;igusp&auml;raste eesm&auml;rkidega. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> By way of derogation from paragraph 2, Member States may provide, subject to suitable safeguards, that data kept for the sole purpose of historical research need not be brought into conformity with Articles 6, 7 and 8 of this Directive. </inglise>
+<eesti> Erandina l&otilde;ikest 2 v&otilde;ivad liikmesriigid n&otilde;uetekohaseid tagatisi arvesse v&otilde;ttes s&auml;testada, et andmeid, mida s&auml;ilitatakse ainult ajaloolise uurimist&ouml;&ouml;ga seotud eesm&auml;rkidel, ei ole vaja viia vastavusse k&auml;esoleva direktiivi artiklitega 6, 7 ja 8. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field covered by this Directive. </inglise>
+<eesti> Liikmesriigid edastavad komisjonile k&auml;esoleva direktiiviga reguleeritavas valdkonnas nende poolt vastuv&otilde;etud siseriiklike &otilde;igusnormide teksti. </eesti>
+<inglise> Article 33 </inglise>
+<eesti> Artikkel 33 </eesti>
+<inglise> The Commission shall report to the Council and the European Parliament at regular intervals, starting not later than three years after the date referred to in Article 32 (1), on the implementation of this Directive, attaching to its report, if necessary, suitable proposals for amendments. </inglise>
+<eesti> Hiljemalt kolm aastat p&auml;rast artikli 32 l&otilde;ikes 1 s&auml;testatud kuup&auml;eva hakkab komisjon korrap&auml;raselt esitama n&otilde;ukogule ja Euroopa Parlamendile aruandeid k&auml;esoleva direktiivi rakendamise kohta, lisades oma aruandele vajaduse korral sobivad muudatusettepanekud. </eesti>
+<inglise> The report shall be made public. </inglise>
+<eesti> Aruanne avalikustatakse. </eesti>
+<inglise> The Commission shall examine, in particular, the application of this Directive to the data processing of sound and image data relating to natural persons and shall submit any appropriate proposals which prove to be necessary, taking account of developments in information technology and in the light of the state of progress in the information society. </inglise>
+<eesti> Komisjon uurib eelk&otilde;ige k&auml;esoleva direktiivi kohaldamist f&uuml;&uuml;siliste isikutega seotud heli- ja pildimaterjalide andmet&ouml;&ouml;tluse suhtes ja esitab k&otilde;ik vajalikud ettepanekud, v&otilde;ttes arvesse infotehnoloogia ja info&uuml;hiskonna arengut. </eesti>
+<inglise> Article 34 </inglise>
+<eesti> Artikkel 34 </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Luxembourg, 24 October 1995. </inglise>
+<eesti> Luxembourg, 24. oktoober 1995 </eesti>
+<inglise> For the European Parliament </inglise>
+<eesti> Euroopa Parlamendi nimel </eesti>
+<inglise> The President </inglise>
+<eesti> president </eesti>
+<inglise> K. HAENSCH </inglise>
+<eesti> K. H&Auml;NSCH </eesti>
+<inglise> For the Council </inglise>
+<eesti> N&otilde;ukogu nimel </eesti>
+<inglise> The President </inglise>
+<eesti> eesistuja </eesti>
+<inglise> L. ATIENZA SERNA </inglise>
+<eesti> L. ATIENZA SERNA </eesti>
+<inglise> (1) OJ No C 277, 5.11.1990, p. 3 and OJ No C 311, 27.11.1992, p. 30. </inglise>
+<eesti> (1) E&Uuml;T C 277, 5.11.1990, lk 3 ja E&Uuml;T C 311, 27.11.1992, lk 30. </eesti>
+<inglise> (2) OJ No C 159, 17.6.1991, p 38. </inglise>
+<eesti> (2) E&Uuml;T C 159, 17.06.1991, lk 38. </eesti>
+<inglise> (3) Opinion of the European Parliament of 11 March 1992 (OJ No C 94, 13.4.1992, p. 198), confirmed on 2 December 1993 (OJ No C 342, 20.12.1993, p. 30); Council common position of 20 February 1995 (OJ No C 93, 13.4.1995, p. 1) and Decision of the European Parliament of 15 June 1995 (OJ No C 166, 3.7.1995). </inglise>
+<eesti> (3) Euroopa Parlamendi 11. m&auml;rtsi 1992. aasta arvamus (E&Uuml;T C 94, 13.04.1992, lk 198), mida kinnitati 2. detsembril 1993 (E&Uuml;T C 342, 20.12.1993, lk 30); n&otilde;ukogu 20. veebruari 1995. aasta &uuml;hisseisukoht (E&Uuml;T C 93, 13.04.1995, lk 1) ja Euroopa Parlamendi 15. juuni 1995. aasta otsus (E&Uuml;T C 166, 3.07.1995). </eesti>
+<inglise> (4) OJ No L 197, 18.7.1987, p. 33. </inglise>
+<eesti> (4) E&Uuml;T L 197, 18.07.1987, lk 33. </eesti>
+ 

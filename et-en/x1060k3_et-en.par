@@ -1,0 +1,890 @@
+<eesti>Andmekogude seadus </eesti>
+<inglise>Databases Act </inglise>
+<eesti>Vastu v&otilde;etud 12. m&auml;rtsil 1997. a. </eesti>
+<inglise>Passed 12 March 1997 </inglise>
+<eesti>(RT I 1997, 28, 423), </eesti>
+<inglise>(RT (1) I 1997, 28, 423), </inglise>
+<eesti>j&otilde;ustunud 19. aprillil 1997. a. </eesti>
+<inglise>entered into force 19 April 1997, </inglise>
+<eesti>muudetud j&auml;rgmiste seadustega: </eesti>
+<inglise>amended by the following Acts: </inglise>
+<eesti>24.01.2001 j&otilde;ust.23.02.2001 - RT I 2001, 17, 77; </eesti>
+<inglise>24.01.2001 entered into force 23.02.2001 - RT I 2001, 17, 77; </inglise>
+<eesti>20.12.2000 j&otilde;ust.01.03.2001 - RT I 2001, 7, 17; </eesti>
+<inglise>20.12.2000 entered into force 01.03.2001 - RT I 2001, 7, 17; </inglise>
+<eesti>15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597; </eesti>
+<inglise>15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597; </inglise>
+<eesti>14.06.2000 j&otilde;ust.01.01.2001 - RT I 2000, 57, 373; </eesti>
+<inglise>14.06.2000 entered into force 01.01.2001 - RT I 2000, 57, 373; </inglise>
+<eesti>30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317; </eesti>
+<inglise>30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317; </inglise>
+<eesti>20.01.99 j&otilde;ust.01.03.99 - RT I 1999, 10, 155; </eesti>
+<inglise>20.01.99 entered into force 01.03.99 - RT I 1999, 10, 155; </inglise>
+<eesti>25.03.98 j&otilde;ust.01.05.98 - RT I 1998, 36/37, 552. </eesti>
+<inglise>25.03.98 entered into force 01.05.98 - RT I 1998, 36/37, 552. </inglise>
+<eesti>1. peat&uuml;kk </eesti>
+<inglise>Chapter 1 </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General Provisions </inglise>
+<eesti>&sect; 1. </eesti>
+<inglise>&sect; 1. </inglise>
+<eesti>Reguleerimisala </eesti>
+<inglise>Scope of application </inglise>
+<eesti>(1) K&auml;esolev seadus s&auml;testab riigi ja kohaliku omavalitsuse andmekogu valdamise, kasutamise ja k&auml;sutamise korra ning riigi, kohaliku omavalitsuse ja era&otilde;igusliku isiku andmekogu pidamise, andmete v&auml;ljastamise ja andmete kasutamise &uuml;ldalused. </eesti>
+<inglise>(1) This Act provides for the procedure for possession, use and disposal of state and local government databases, for the general principles of maintenance of databases belonging to the state, local governments and persons in private law, and for release and use of their data. </inglise>
+<eesti>(14.06.2000 j&otilde;ust.01.01.2001 - RT I 2000, 57, 373) </eesti>
+<inglise>(14.06.2000 entered into force 01.01.2001 - RT I 2000, 57, 373) </inglise>
+<eesti>(2) Seadusega v&otilde;ib ette n&auml;ha registreid, mis ei ole andmekogud k&auml;esoleva seaduse t&auml;henduses ja millele kohaldatakse k&auml;esolevat seadust nendes seadustes s&auml;testatud ulatuses. </eesti>
+<inglise>(2) An Act may provide registers other than databases within the meaning of this Act and to which this Act applies to the extent provided by such Acts. </inglise>
+<eesti>(14.06.2000 j&otilde;ust.01.01.2001 - RT I 2000, 57, 373) </eesti>
+<inglise>(14.06.2000 entered into force 01.01.2001 - RT I 2000, 57, 373) </inglise>
+<eesti>&sect; 2. </eesti>
+<inglise>&sect; 2. </inglise>
+<eesti>M&otilde;isted </eesti>
+<inglise>Definitions </inglise>
+<eesti>(1) Andmekogu k&auml;esoleva seaduse m&otilde;istes on riigi, kohaliku omavalitsuse, avalik-&otilde;igusliku v&otilde;i era&otilde;igusliku isiku peetav korrastatud andmete kogum, mille pidamisel kasutatakse automatiseeritud andmet&ouml;&ouml;tlust v&otilde;i mida peetakse k&auml;sitsi ja korrastatud vormidel, mis v&otilde;imaldavad andmetega lihtsat tutvumist v&otilde;i nende mehhaanilist t&ouml;&ouml;tlemist. </eesti>
+<inglise>(1) For the purposes of this Act, a database is a structured body of data maintained by the state, a local government or person in public or private law by means of automatic data processing or manual operation of organised forms which allows easy access to or mechanical processing of data. </inglise>
+<eesti>K&auml;esolev seadus ei k&auml;sitle andmekogusid, mida peetakse: </eesti>
+<inglise>This Act does not regulate databases which are maintained: </inglise>
+<eesti>1) raamatupidamise seaduse (RT I 1994, 48, 790; 1995, 26-28, 355; 92, 1604; 1996, 40, 773; 42, 811; 49, 953; 1998, 59, 941; 1999, 55, 584; 101, 903) alusel; </eesti>
+<inglise>1) pursuant to the Accounting Act (RT I 1994, 48, 790; 1995, 26-28, 355; 92, 1604; 1996, 40, 773; 42, 811; 49, 953; 1998, 59. 941; 1999, 55, 584; 101, 903); </inglise>
+<eesti>2) teaduslikul, pedagoogilisel ja kodu-uurimislikul eesm&auml;rgil, kui neid andmekogusid kasutatakse ainult sellel otstarbel; </eesti>
+<inglise>2) for scientific or educational purposes or research on native places if such databases are used only for these purposes; </inglise>
+<eesti>3) organisatsiooni operatiivse juhtimise vajaduseks &otilde;igusaktidest tulenevate v&otilde;i p&otilde;hikirjaliste &uuml;lesannete t&auml;itmisel, kui neist kogudest ei v&auml;ljastata andmeid muudeks vajadusteks ja teistele isikutele. </eesti>
+<inglise>3) for the purposes of operational management of organisations in the performance of their functions pursuant to legislation or as specified in their articles of association, unless data from these databases is released for other purposes or to other persons. </inglise>
+<eesti>(2) Andmeteks k&auml;esoleva seaduse m&otilde;ttes loetakse igasuguseid &uuml;ksteisest eraldatavaid informatsiooni&uuml;hikuid. </eesti>
+<inglise>(2) For the purposes of this Act, data are any separable items of information. </inglise>
+<eesti>(3) Andmete t&ouml;&ouml;tlemine k&auml;esoleva seaduse t&auml;henduses on andmete kogumine, salvestamine, korrastamine, s&auml;ilitamine, muutmine, nende kohta p&auml;ringute teostamine, nendest v&auml;ljav&otilde;tete tegemine, andmete kasutamine, &uuml;leandmine, &uuml;hendamine, sulgemine, kustutamine v&otilde;i h&auml;vitamine v&otilde;i mitu eeltoodud toimingut, s&otilde;ltumata toimingute teostamise viisist v&otilde;i kasutatavatest vahenditest. </eesti>
+<inglise>(3) For the purposes of this Act, data processing is the collection, recording, arrangement, storage, alteration, consultation, extraction, use, transfer, combination, closure, deletion or destruction of data, or several of the aforementioned operations regardless of the manner in which they are performed or the means used. </inglise>
+<eesti>(4) Automatiseeritud andmet&ouml;&ouml;tlus on andmete t&ouml;&ouml;tlemine arvuti v&otilde;i arvutis&uuml;steemi ja andmete t&ouml;&ouml;tlemiseks etten&auml;htud tarkvara abil. </eesti>
+<inglise>(4) Automatic data processing is the processing of data with the aid of computers or computer systems and software intended for data processing. </inglise>
+<eesti>(5) Andmekogu pidamine on andmete t&ouml;&ouml;tlemine, andmete t&ouml;&ouml;tlemise arvestuse pidamine, andmete kaitsmine ja nimetatud tegevuste korraldamine. </eesti>
+<inglise>(5) The maintenance of a database means data processing, the maintenance of records of data processing, data protection and the organisation of these activities. </inglise>
+<eesti>(6) Andmekogu laiendamine on andmekogusse kogutavate andmete loetelu t&auml;iendamine. </eesti>
+<inglise>(6) The expansion of a database means supplementation of the list of data collected in a database. </inglise>
+<eesti>(7) Andmete ristkasutus on andmete &uuml;lekandmine &uuml;hest andmekogust teise v&otilde;i mitmes andmekogus sisalduvate andmete &uuml;hine infotehnoloogiline t&ouml;&ouml;tlemine. </eesti>
+<inglise>(7) Interbase cross-usage of data means the transfer of data from one database to another or joint automatic processing of data contained in several databases. </inglise>
+<eesti>&sect; 3. </eesti>
+<inglise>&sect; 3. </inglise>
+<eesti>Andmete andmekogusse kogumise alused </eesti>
+<inglise>Principles of collection of data in databases </inglise>
+<eesti>(1) Era&otilde;iguslikul isikul on &otilde;igus koguda tema peetavasse andmekogusse k&otilde;iki avalikult k&auml;ttesaadavaid v&otilde;i isiku poolt vabatahtlikult andmekogusse kandmiseks esitatavaid andmeid. </eesti>
+<inglise>(1) Persons in private law have the right to collect any publicly available data or any data voluntarily submitted by persons in databases maintained by them. </inglise>
+<eesti>Era&otilde;iguslik isik v&otilde;ib n&otilde;uda oma klientidelt ainult neid andmeid, mis on otseselt vajalikud kliendi poolt soovitava toimingu sooritamiseks. </eesti>
+<inglise>Persons in private law have the right to request from their clients only data necessary for the performance of acts requested by the clients. </inglise>
+<eesti>(2) Avalik-&otilde;iguslikul isikul on &otilde;igus tema peetavasse andmekogusse koguda ainult tema asutamise seaduses nimetatud &uuml;lesannete t&auml;itmiseks vajalikke andmeid. </eesti>
+<inglise>(2) Persons in public law have the right to collect only data necessary for the performance of functions specified in the Act establishing the persons in public law in databases maintained by them. </inglise>
+<eesti>(3) Riik ja kohalik omavalitsus v&otilde;ivad koguda nende peetavatesse andmekogudesse oma seadusekohaste &uuml;lesannete t&auml;itmiseks andmeid, mille kogumine on ette n&auml;htud seadustes v&otilde;i seaduse alusel vastuv&otilde;etud &otilde;igusaktides. </eesti>
+<inglise>(3) Local governments and the state may collect data for the performance of their functions imposed on them pursuant to law in the databases maintained by them if the collection of such data is prescribed by Acts or legislation issued on the basis thereof. </inglise>
+<eesti>(4) Andmete kogumisel andmekogusse peab andmekogu omanik arvestama k&auml;esolevas seaduses, isikuandmete kaitse seaduses (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317), riigisaladuse seaduses (RT I 1994, 45, 720; 1996, 42, 809), muudes seadustes ja nende alusel vastuv&otilde;etud &otilde;igusaktides s&auml;testatud piiranguid ja seaduses etten&auml;htud juhul saama andmete kogumiseks loa andmekaitse j&auml;relevalveasutuselt. </eesti>
+<inglise>(4) In the collection of data in databases, the owners of databases shall adhere to the restrictions provided for in this Act, the Personal Data Protection Act (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317), State Secrets Act (RT I 1994, 45, 720; 1996, 42, 809), other Acts and legislation issued on the basis thereof and, in the cases prescribed by law, shall obtain permission for data collection from the data protection supervision authority. </inglise>
+<eesti>&sect; 4. </eesti>
+<inglise>&sect; 4. </inglise>
+<eesti>Andmekogu omanik </eesti>
+<inglise>Owner of database </inglise>
+<eesti>Andmekogu omanikuks v&otilde;ib olla era&otilde;iguslik isik, avalik-&otilde;iguslik isik, riik v&otilde;i kohalik omavalitsus. </eesti>
+<inglise>A person in private law, person in public law, the state or a local government may be an owner of a database. </inglise>
+<eesti>&sect; 5. </eesti>
+<inglise>&sect; 5. </inglise>
+<eesti>Andmekogu asutamine </eesti>
+<inglise>Establishment of databases </inglise>
+<eesti>(1) Era&otilde;iguslik isik ja avalik-&otilde;iguslik isik peavad seaduses s&auml;testatud juhtudel andmekogu asutamiseks taotlema loa andmekaitse j&auml;relevalveasutuselt. </eesti>
+<inglise>(1) In the cases provided by law, persons in private law and persons in public law shall apply for permission to establish a database from the data protection supervision authority. </inglise>
+<eesti>(2) Riik ja kohalik omavalitsus&uuml;ksus asutavad andmekogu k&auml;esolevas seaduses etten&auml;htud korras. </eesti>
+<inglise>(2) The state and local governments establish databases pursuant to the procedure prescribed in this Act. </inglise>
+<eesti>&sect; 6. </eesti>
+<inglise>&sect; 6. </inglise>
+<eesti>Vastutav ja volitatud t&ouml;&ouml;tleja </eesti>
+<inglise>Chief processors and authorised processors </inglise>
+<eesti>(1) Andmekogu vastutavaks t&ouml;&ouml;tlejaks on andmekogu omanik. </eesti>
+<inglise>(1) The chief processor of a database is the owner of the database. </inglise>
+<eesti>Riigi v&otilde;i kohaliku omavalitsuse andmekogu vastutava t&ouml;&ouml;tleja &otilde;iguste teostaja m&auml;&auml;ratakse seaduses v&otilde;i seaduse alusel vastuv&otilde;etud &otilde;igusaktis s&auml;testatud korras. </eesti>
+<inglise>The exerciser of the rights of the chief processor of a state or local government database shall be designated pursuant to the procedure provided by the corresponding Act or legislation issued on the basis thereof. </inglise>
+<eesti>(2) Volitatud t&ouml;&ouml;tleja on isik, kes peab andmekogu v&otilde;i t&ouml;&ouml;tleb andmeid andmekogu vastutava t&ouml;&ouml;tleja tellimusel. </eesti>
+<inglise>(2) An authorised processor is a person who maintains a database or processes data on the order of the chief processor. </inglise>
+<eesti>&sect; 7. </eesti>
+<inglise>&sect; 7. </inglise>
+<eesti>Vastutava ja volitatud t&ouml;&ouml;tleja kohustused andmekogu pidamisel </eesti>
+<inglise>Duties of chief processors and authorised processors in maintenance of databases </inglise>
+<eesti>(1) Vastutav t&ouml;&ouml;tleja on kohustatud tagama andmekogu pidamise ja selles sisalduvate andmete t&ouml;&ouml;tlemise t&auml;ies vastavuses seaduse ja seaduse alusel vastuv&otilde;etud &otilde;igusaktidega. </eesti>
+<inglise>(1) Chief processors are required to ensure the maintenance of databases and processing of data contained therein in full compliance with corresponding Acts and legislation issued on the basis thereof. </inglise>
+<eesti>(2) Volitatud t&ouml;&ouml;tleja on kohustatud t&auml;itma k&otilde;iki temale andmekogu vastutava t&ouml;&ouml;tleja poolt antud &uuml;lesandeid andmekogu pidamisel ja andmete t&ouml;&ouml;tlemisel t&auml;ies vastavuses seaduse ja seaduse alusel vastuv&otilde;etud &otilde;igusaktidega ning neid j&auml;rgides s&otilde;lmitud lepingutega. </eesti>
+<inglise>(2) Authorised processors are required to perform all duties assigned to them by chief processors in the maintenance of databases and processing of data in full compliance with corresponding Acts and legislation issued on the basis thereof and contracts entered into pursuant thereto. </inglise>
+<eesti>Volitatud t&ouml;&ouml;tleja v&otilde;ib teostada andmekogus s&auml;ilitatavate andmete t&ouml;&ouml;tlust ainult juhul, kui ta on saanud selleks otsese k&auml;su andmekogu vastutavalt t&ouml;&ouml;tlejalt v&otilde;i ta t&auml;idab seaduse, muu &otilde;igusakti v&otilde;i andmekogu vastutava t&ouml;&ouml;tlejaga s&otilde;lmitud lepinguga talle pandud &uuml;lesandeid. </eesti>
+<inglise>Authorised processors may process data stored in databases only if they receive a direct order from the chief processors of the databases or if they perform duties imposed on them by corresponding Acts, other legislation or contracts entered into with the chief processors of the databases. </inglise>
+<eesti>(3) Volitatud t&ouml;&ouml;tleja peab hoolitsema selle eest, et andmekogu oleks halduslike, f&uuml;&uuml;siliste ning tark- ja riistvaraliste meetmetega asjakohaselt kaitstud loata t&ouml;&ouml;tluse, sealhulgas kasutamise, h&auml;vitamise ning muutmise eest. </eesti>
+<inglise>(3) Authorised processors shall ensure that databases are protected against unauthorised processing, including use, destruction or alteration of databases, by means of appropriate administrative and technical measures, and measures involving software and hardware. </inglise>
+<eesti>(4) Volitatud t&ouml;&ouml;tleja peab tagama andmekogu kaitsmise abin&otilde;ud selliselt, et oleks v&auml;lditud: </eesti>
+<inglise>(4) Authorised processors shall provide measures for the protection of databases to avoid: </inglise>
+<eesti>1) k&otilde;rvaliste isikute juurdep&auml;&auml;s andmete t&ouml;&ouml;tlemiseks kasutatavatele seadmetele; </eesti>
+<inglise>1) access by unauthorised persons to data processing equipment; </inglise>
+<eesti>2) andmekandjate omavoliline lugemine, kopeerimine v&otilde;i kustutamine; </eesti>
+<inglise>2) unauthorised reading, copying or deletion of records; </inglise>
+<eesti>3) andmete omavoliline salvestamine ja nende muutmine v&otilde;i kustutamine; </eesti>
+<inglise>3) unauthorised recording, alteration or deletion of data; </inglise>
+<eesti>4) andmet&ouml;&ouml;tluss&uuml;steemi omavoliline kasutamine andmete &uuml;lekandmiseks andmesidevahendite abil; </eesti>
+<inglise>4) unauthorised use of the data processing system for transmission of data by means of data communication equipment; </inglise>
+<eesti>5) andmesaajate juurdep&auml;&auml;s neile mittelubatud (v&auml;ljaandmiseks ja kasutamiseks mitteetten&auml;htud) andmetele; </eesti>
+<inglise>5) access by data recipients to unauthorised data (not intended for release to or use by them); </inglise>
+<eesti>6) andmete t&ouml;&ouml;tlemine mittesihip&auml;raselt (mitte t&ouml;&ouml;&uuml;lesande kohaselt); </eesti>
+<inglise>6) data processing for unauthorised purposes (not prescribed by official duties); </inglise>
+<eesti>7) andmete edastamisel andmesidevahenditega ja andmekandjate transportimisel andmete omavoliline lugemine, kopeerimine, muutmine ning kustutamine. </eesti>
+<inglise>7) unauthorised reading, copying, alteration or deletion of data in the transmission of data by means of data communication equipment or in the transportation of records; </inglise>
+<eesti>(5) Andmekogu volitatud t&ouml;&ouml;tleja on kohustatud koostama ja pidama andmete t&ouml;&ouml;tlemisel kasutatavate vahendite loetelu ja dokumentatsiooni ning andmete t&ouml;&ouml;tlemise arvestust. </eesti>
+<inglise>(5) Authorised processors of databases are required to compile and maintain a list and documentation of the means used in data processing and maintain records of data processing. </inglise>
+<eesti>(6) Andmete t&ouml;&ouml;tlemises ja v&auml;ljastamises osalevad isikud on kohustatud hoidma saladuses neile t&ouml;&ouml;&uuml;lesannete t&auml;itmisel teatavaks saanud andmeid, mida pole antud avalikuks kasutamiseks. </eesti>
+<inglise>(6) Persons engaged in the processing and release of data are required to maintain the confidentiality of data which become known to them in the performance of their duties and which are not intended for public use. </inglise>
+<eesti>See kohustus j&auml;tkub p&auml;rast t&ouml;&ouml;suhte l&otilde;ppemist. </eesti>
+<inglise>Such requirement continues after termination of their employment relationships. </inglise>
+<eesti>&sect; 8. </eesti>
+<inglise>&sect; 8. </inglise>
+<eesti>Vastutava ja volitatud t&ouml;&ouml;tleja vastutus andmekogu pidamisel </eesti>
+<inglise>Liability of chief processors and authorised processors in maintenance of databases </inglise>
+<eesti>(1) Andmekogu vastutav t&ouml;&ouml;tleja vastutab k&otilde;igi andmekogu pidamisel toimunud &otilde;iguserikkumiste eest, v&auml;lja arvatud juhul, kui tema poolt seaduse v&otilde;i muu &otilde;igusakti t&auml;pseks t&auml;itmiseks antud korraldused on j&auml;etud t&auml;itmata v&otilde;i on t&auml;idetud pahatahtlikult v&otilde;i on volitatud t&ouml;&ouml;tleja rikkunud vastutava t&ouml;&ouml;tlejaga s&otilde;lmitud lepingut ja vastutav t&ouml;&ouml;tleja on alustanud ise menetlust v&otilde;i p&ouml;&ouml;rdunud vastavasisulise avaldusega p&auml;deva organi poole &otilde;iguserikkuja vastutusele v&otilde;tmiseks seaduses etten&auml;htud korras. </eesti>
+<inglise>(1) Chief processors of databases are liable for any violations of law committed in the maintenance of databases, except if their orders issued in strict compliance with the corresponding Act or other legislation have not been executed or have been executed in bad faith, or if an authorised processor has breached a contract entered into with a chief processor and the chief processor has commenced proceedings or has filed a corresponding application with a competent authority to hold the offender liable pursuant to the procedure prescribed by law. </inglise>
+<eesti>(2) Volitatud t&ouml;&ouml;tleja vastutab ainult nende rikkumiste eest, mis on seotud tema lepinguliste &uuml;lesannete t&auml;itmisega, v&otilde;i ta enda lepinguv&auml;lise seadusvastase tegevuse eest. </eesti>
+<inglise>(2) Authorised processors are liable only for violations relating to the performance of their contractual obligations or for their own extra-contractual unlawful activities. </inglise>
+<eesti>&sect; 9. </eesti>
+<inglise>&sect; 9. </inglise>
+<eesti>Andmekogu asutamise ja kasutuselev&otilde;tmise dokumentidega tutvumine </eesti>
+<inglise>Access to documents concerning establishment and introduction of databases </inglise>
+<eesti>Andmekogu vastutava t&ouml;&ouml;tleja ja andmekogu volitatud t&ouml;&ouml;tleja juures peab olema v&otilde;imalik tutvuda andmekogu asutamise ja muude andmekogu kohta k&auml;ivate dokumentidega. </eesti>
+<inglise>Access to establishment documents and other documents concerning databases shall be provided by chief processors and authorised processors of databases. </inglise>
+<eesti>&sect; 10. </eesti>
+<inglise>&sect; 10. </inglise>
+<eesti>Andmekogus olevate andmetega tutvumine ja neist &auml;rakirjade saamine </eesti>
+<inglise>Access to data contained in databases and receipt of copies thereof </inglise>
+<eesti>(1) Era&otilde;iguslikule isikule kuuluvas andmekogus olevate andmetega tutvumiseks loa andmise v&otilde;i sellest keeldumise ja andmetest &auml;rakirjade v&auml;ljastamise otsustab andmekogu omanik, kui seaduses ei ole s&auml;testatud teisiti. </eesti>
+<inglise>(1) The issue of or refusal to issue permission to access data contained in a database which belongs to a person in private law and provision of copies thereof are decided by the owner of the database unless otherwise provided by law. </inglise>
+<eesti>(2) Riigi ja kohaliku omavalitsuse andmekogudes peetavad andmed on avalikud ning igal Eesti kodanikul on &otilde;igus nendega seaduses s&auml;testatud korras tutvuda ja neist &auml;rakirju saada, v&auml;lja arvatud juhul, kui seadusega on andmetega tutvumine v&otilde;i andmete v&auml;ljastamine keelatud v&otilde;i need on ette n&auml;htud ainult ametialaseks kasutamiseks. </eesti>
+<inglise>(2) Data maintained in state and local government databases are public and every Estonian citizen has the right to access such data and receive copies thereof pursuant to the procedure provided by law, except if access to or release of data is prohibited by law or if the data are intended for internal use only. </inglise>
+<eesti>Kui seadus ei s&auml;testa teisiti, siis on k&auml;esolevas l&otilde;ikes nimetatud &otilde;igus v&otilde;rdselt Eesti kodanikuga ka Eestis viibival v&auml;lisriigi kodanikul ja kodakondsuseta isikul. </eesti>
+<inglise>Citizens of foreign states and stateless persons who are in Estonia have the right specified in this subsection equally with Estonian citizens unless otherwise provided by law. </inglise>
+<eesti>(3) Seaduses s&auml;testatud juhtudel on riigi v&otilde;i kohaliku omavalitsuse andmekogus olevate andmetega tutvumine, andmete v&auml;ljastamine ja neist &auml;rakirjade saamine tasuline. </eesti>
+<inglise>(3) In the cases provided by law, fees are charged for access to and release of data and provision of copies thereof contained in state or local government databases. </inglise>
+<eesti>&sect; 11. </eesti>
+<inglise>&sect; 11. </inglise>
+<eesti>Isiku &otilde;igus tutvuda tema kohta kogutud andmetega </eesti>
+<inglise>Right of persons to access data concerning themselves </inglise>
+<eesti>Igal isikul on &otilde;igus tutvuda tema kohta andmekogusse kogutud andmetega, kui seda &otilde;igust ei ole piiratud seadusega. </eesti>
+<inglise>Every person has the right to access data concerning themself which are collected in databases unless this right is restricted by law. </inglise>
+<eesti>&sect; 11 (1). </eesti>
+<inglise>&sect; 11 (1). </inglise>
+<eesti>Piirangud julgeolekuasutust puudutavate andmete kajastamisel riigi andmekogudes </eesti>
+<inglise>Restrictions upon recording data concerning security authorities in state databases </inglise>
+<eesti>(1) Julgeolekuasutust puudutavaid riigisaladuseks tunnistatud v&otilde;i ametialaseks kasutamiseks etten&auml;htud andmeid kajastatakse &uuml;ksnes julgeolekuasutuste andmekogudes. </eesti>
+<inglise>(1) Data concerning a security authority which are classified as a state secret or prescribed for official use shall be recorded only in databases of security authorities. </inglise>
+<eesti>(2) Julgeolekuasutust puudutavate muude andmete kajastamisel riigi andmekogudes v&otilde;ib vajaduse korral kasutada variandmeid. </eesti>
+<inglise>(2) Upon recording other data concerning security authorities in state databases, shadow information may be used if necessary. </inglise>
+<eesti>(3) Variandmete kasutamine toimub julgeolekuasutuse juhi salajase k&auml;skkirja alusel, milles n&auml;idatakse &auml;ra julgeolekuasutust puudutavad tegelikud andmed ja nende kajastamisel riigi andmekogudes kasutatavad variandmed. </eesti>
+<inglise>(3) Shadow information shall be used on the basis of a classified directive of the head of the security authority in which the actual data concerning the security authority and the shadow information used upon recording the data in state databases shall be set out. </inglise>
+<eesti>(20.12.2000 j&otilde;ust.01.03.2001 - RT I 2001, 7, 17) </eesti>
+<inglise>(20.12.2000 entered into force 01.03.2001 - RT I 2001, 7, 17) </inglise>
+<eesti>&sect; 12. </eesti>
+<inglise>&sect; 12. </inglise>
+<eesti>Andmete ristkasutus </eesti>
+<inglise>Interbase cross-usage of data </inglise>
+<eesti>(1) Riigi v&otilde;i kohaliku omavalitsuse eri andmekogudes s&auml;ilitatavate andmete ristkasutus on lubatud ainult seaduses v&otilde;i seaduse alusel vastuv&otilde;etud &otilde;igusaktis s&auml;testatud juhtudel ja ainult riigile v&otilde;i kohalikule omavalitsus&uuml;ksusele seadusega pandud &uuml;lesannete t&auml;itmiseks. </eesti>
+<inglise>(1) Interbase cross-usage of data stored in different state or local government databases is permitted only in the cases provided by corresponding Acts or legislation issued on the basis thereof and only for the performance of functions imposed on the state or local governments by law. </inglise>
+<eesti>(2) Isikuandmete ristkasutus on lubatud ainult andmekaitse j&auml;relevalveasutuse loal ja juhul, kui see ei riku isiku perekonna- ja eraelu puutumatust. </eesti>
+<inglise>(2) Interbase cross-usage of personal data is permitted only with the permission of the data protection supervision authority and unless it contravenes the inviolability of private and family life of persons. </inglise>
+<eesti>&sect; 13. </eesti>
+<inglise>&sect; 13. </inglise>
+<eesti>Andmekogude laiendamine ja &uuml;hendamine </eesti>
+<inglise>Expansion and combination of databases </inglise>
+<eesti>(1) Riigi ja kohaliku omavalitsuse andmekogude laiendamine v&otilde;i nende &uuml;hendamine on lubatud ainult seaduses s&auml;testatud alustel ja korras, kusjuures see peab toimuma riigile ja kohalikule omavalitsusele seadusega pandud &uuml;lesandeid arvestades. </eesti>
+<inglise>(1) The expansion or combination of state and local government databases is only permitted on the bases and pursuant to the procedure provided by law, based on the functions imposed on the state and local governments by law. </inglise>
+<eesti>(2) Delikaatseid isikuandmeid sisaldava andmekogu laiendamiseks v&otilde;i &uuml;hendamiseks teise andmekoguga on vaja andmekaitse j&auml;relevalveasutuse luba. </eesti>
+<inglise>(2) Permission of the data protection supervision authority is necessary for the expansion or combination of databases containing sensitive personal data. </inglise>
+<eesti>&sect; 14. </eesti>
+<inglise>&sect; 14. </inglise>
+<eesti>Andmekogu pidamine volitatud t&ouml;&ouml;tleja poolt lepingu alusel </eesti>
+<inglise>Maintenance of databases by authorised processors on basis of contract </inglise>
+<eesti>(1) Kui riigi v&otilde;i kohaliku omavalitsuse andmekogu volitatud t&ouml;&ouml;tlejaks on andmekogu asutamise &otilde;igusaktis m&auml;&auml;ratud era&otilde;iguslik isik, peetakse andmekogu lepingu alusel. </eesti>
+<inglise>(1) If the authorised processor of a state or local government database is a legal person in private law designated in the legislation establishing the database, the database is maintained on the basis of a contract. </inglise>
+<eesti>(2) Riigi p&otilde;hiregistri ja riikliku registri pidamise leping s&otilde;lmitakse v&auml;hemalt viieks aastaks. </eesti>
+<inglise>(2) Contracts for the maintenance of general national registers and state registers are entered into for at least five years. </inglise>
+<eesti>Lepingu kestvus pikeneb automaatselt j&auml;rgmiseks viieks aastaks, kui &uuml;ks lepingupool ei esita v&auml;hemalt kaks aastat enne lepingu l&otilde;petamist teisele lepingupoolele lepingu l&otilde;petamise otsust. </eesti>
+<inglise>The duration of such contract is automatically extended for the following five years if neither party to the contract presents a decision to terminate the contract to the other party at least two years before the termination of the contract. </inglise>
+<eesti>(3) Riigiasutuse andmekogu ja kohaliku omavalitsuse registri v&otilde;i muu andmekogu pidamise leping s&otilde;lmitakse v&auml;hemalt kolmeks aastaks. </eesti>
+<inglise>(3) Contracts for the maintenance of state agency databases and local government registers or other databases are entered into for at least three years. </inglise>
+<eesti>Lepingu kestvus pikeneb automaatselt j&auml;rgmiseks kolmeks aastaks, kui &uuml;ks lepingupool ei esita v&auml;hemalt &uuml;ks aasta enne lepingu l&otilde;petamist teisele lepingupoolele lepingu l&otilde;petamise otsust. </eesti>
+<inglise>The duration of such contract is automatically extended for the following three years if neither party to the contract presents a decision to terminate the contract to the other party at least one year before the termination of the contract. </inglise>
+<eesti>(4) Lepingu l&otilde;petamisel ja andmekogu pidamise j&auml;tkumisel m&auml;&auml;ratakse andmekogu volitatud t&ouml;&ouml;tlejaks vastavalt riigiasutus v&otilde;i kohaliku omavalitsuse asutus v&otilde;i s&otilde;lmitakse andmekogu pidamiseks hankeleping. </eesti>
+<inglise>(4) If a contract is terminated but the maintenance of a database is continued, a state agency or local government agency, accordingly, shall be designated as the authorised processor of the database or a procurement contract shall be entered into for the maintenance of the database. </inglise>
+<eesti>(5) Riigi p&otilde;hiregistri, riikliku registri ja riigiasutuse andmekogu pidamise hankeleping s&otilde;lmitakse koosk&otilde;lastatult riigihangete ameti ja andmekaitse j&auml;relevalveasutusega. </eesti>
+<inglise>(5) Procurement contracts for the maintenance of general national registers, state registers and state agency databases are entered into in concordance with the Public Procurement Office and the data protection supervision authority. </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu pidamise hankeleping s&otilde;lmitakse menetluse alusel, mille m&auml;&auml;rab kohalik omavalitsus. </eesti>
+<inglise>A procurement contract for the maintenance of a local government database is entered into pursuant to the procedure determined by the local government. </inglise>
+<eesti>&sect; 15. </eesti>
+<inglise>&sect; 15. </inglise>
+<eesti>Andmekogu andmete t&ouml;&ouml;tlemise vahendite dokumenteerimine </eesti>
+<inglise>Maintaining records of data processing means </inglise>
+<eesti>Andmete t&ouml;&ouml;tlemisel kasutatavate vahendite loetelu peab sisaldama j&auml;rgmisi andmeid: </eesti>
+<inglise>A list of means used in data processing shall include the following information: </inglise>
+<eesti>1) seadme nimetus, t&uuml;&uuml;p, number ning selle seadme valmistanud ettev&otilde;tte nimi; </eesti>
+<inglise>1) the name, type and number of the equipment, and the name of the manufacturer of the equipment; </inglise>
+<eesti>2) kasutatava tarkvara nimetus, litsentsi number ning selle valmistanud ettev&otilde;tte nimi; </eesti>
+<inglise>2) the name and number of the licence of the software used, and the name of the software manufacturer; </inglise>
+<eesti>3) kasutatava tarkvara dokumentide asukoht. </eesti>
+<inglise>3) the location of documentation of the software used. </inglise>
+<eesti>&sect; 16. </eesti>
+<inglise>&sect; 16. </inglise>
+<eesti>Andmekogude riiklik register </eesti>
+<inglise>State register of databases </inglise>
+<eesti>(1) Vabariigi Valitsus asutab riigi ja kohalike omavalitsuste andmekogude ning era&otilde;iguslike isikute peetavate delikaatseid isikuandmeid sisaldavate andmekogude riikliku registri nimetusega "Andmekogude riiklik register". </eesti>
+<inglise>(1) The Government of the Republic shall establish a state register named the state register of databases for state and local government databases and databases containing sensitive personal data which are maintained by persons in private law. </inglise>
+<eesti>(2) Andmekogude riiklikus registris on andmed j&auml;rgmiste riigi ja kohalike omavalitsuste andmekogude kohta: </eesti>
+<inglise>(2) The state register of databases shall contain data concerning the following state and local government databases: </inglise>
+<eesti>1) riigi p&otilde;hiregistrid ja nendega andmete vahetamises osalevad andmekogud; </eesti>
+<inglise>1) the general national registers and databases which share data therewith; </inglise>
+<eesti>2) riiklikud registrid; </eesti>
+<inglise>2) state registers; </inglise>
+<eesti>3) Vabariigi Valitsuse kehtestatud tunnustega riigiasutuste muud andmekogud ja kohalike omavalitsuste andmekogud. </eesti>
+<inglise>3) other state agency and local government databases designated by the Government of the Republic. </inglise>
+<eesti>(3) Andmekogude riikliku registri vastutavaks t&ouml;&ouml;tlejaks m&auml;&auml;ratud valitsusasutus annab Vabariigi Valitsuse ja valitsusasutuste poolt asutatavate andmekogude asutamise dokumentide projektide kohta arvamuse. </eesti>
+<inglise>(3) The government agency designated as the chief processor of the state register of databases shall provide an opinion concerning the draft establishment documents of databases to be established by the Government of the Republic and government agencies. </inglise>
+<eesti>(4) Andmekogude riikliku registri vastutaval t&ouml;&ouml;tlejal on &otilde;igus teha Vabariigi Valitsusele ja andmekogude vastutavatele t&ouml;&ouml;tlejatele ning riigi infos&uuml;steemide alaseid t&ouml;id koordineerivale asutusele sarnaste ja teineteist sisuliselt kordavate andmekogude pidamise v&auml;ltimiseks ettepanekuid andmekogu laiendamiseks, &uuml;hendamiseks v&otilde;i likvideerimiseks, andmete ristkasutuseks, andmet&ouml;&ouml;tluse v&otilde;i andmeh&otilde;ive korrastamiseks. </eesti>
+<inglise>(4) The chief processor of the state register of databases has the right to make proposals to the Government of the Republic, chief processors of databases and the state information systems co-ordination authority for the expansion, combination or liquidation of databases and interbase cross-usage, or the organisation of data processing or data acquisition in order to avoid maintenance of similar or substantively repetitive databases. </inglise>
+<eesti>&sect; 17. </eesti>
+<inglise>&sect; 17. </inglise>
+<eesti>J&auml;relevalve teostamine andmekogude &uuml;le </eesti>
+<inglise>Exercise of supervision over databases </inglise>
+<eesti>(1) J&auml;relevalvet andmekogude pidamise seaduslikkuse &uuml;le teostab andmekaitse j&auml;relevalveasutus. </eesti>
+<inglise>(1) The data protection supervision authority exercises supervision over the legality of maintenance of databases. </inglise>
+<eesti>Andmekaitse j&auml;relevalveasutuse &uuml;lesanded, &otilde;igused ja kohustused on s&auml;testatud isikuandmete kaitse seaduses, k&auml;esolevas seaduses ning muudes seadustes. </eesti>
+<inglise>The functions, rights and duties of the data protection supervision authority are provided for in the Personal Data Protection Act, this Act and other Acts. </inglise>
+<eesti>(2) Andmekaitse j&auml;relevalveasutuse tegevuse &uuml;le teostab kontrolli Riigikogu &otilde;iguskomisjon. </eesti>
+<inglise>(2) The Legal Affairs Committee of the Riigikogu (2) exercises supervision over the data protection supervision authority. </inglise>
+<eesti>2. peat&uuml;kk </eesti>
+<inglise>Chapter 2 </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogud </eesti>
+<inglise>State and Local Government Databases </inglise>
+<eesti>1. osa </eesti>
+<inglise>Part 1 </inglise>
+<eesti>&Uuml;lds&auml;tted </eesti>
+<inglise>General Provisions </inglise>
+<eesti>&sect; 18. </eesti>
+<inglise>&sect; 18. </inglise>
+<eesti>Riigi andmekogu m&otilde;iste ja liigid </eesti>
+<inglise>Definition of state database and classification of state databases </inglise>
+<eesti>(1) Riigi andmekogu on k&auml;esolevas seaduses s&auml;testatud korras asutatud ja riigi omandis olev andmekogu. </eesti>
+<inglise>(1) A state database is a database in state ownership which is established pursuant to the procedure provided for in this Act. </inglise>
+<eesti>(2) Riigi andmekogude liigid on: </eesti>
+<inglise>(2) State databases are classified as follows: </inglise>
+<eesti>1) riigi p&otilde;hiregister; </eesti>
+<inglise>1) general national registers; </inglise>
+<eesti>2) riiklik register; </eesti>
+<inglise>2) state registers; </inglise>
+<eesti>3) riigiasutuste peetavad muud andmekogud. </eesti>
+<inglise>3) other databases maintained by state agencies. </inglise>
+<eesti>&sect; 19. </eesti>
+<inglise>&sect; 19. </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu m&otilde;iste ja liigid </eesti>
+<inglise>Definition of local government database and classification of local government databases </inglise>
+<eesti>(1) Kohaliku omavalitsuse andmekogu on k&auml;esolevas seaduses s&auml;testatud korras asutatud ja kohaliku omavalitsuse omandis olev andmekogu. </eesti>
+<inglise>(1) A local government database is a database in local government ownership which is established pursuant to the procedure provided for in this Act. </inglise>
+<eesti>(2) Kohaliku omavalitsuse andmekogud jagunevad j&auml;rgmiselt: </eesti>
+<inglise>(2) Local government databases are classified as follows: </inglise>
+<eesti>1) kohaliku omavalitsuse registrid; </eesti>
+<inglise>1) local government registers; </inglise>
+<eesti>2) kohaliku omavalitsuse muud andmekogud. </eesti>
+<inglise>2) other local government databases. </inglise>
+<eesti>(3) Mitu kohalikku omavalitsust v&otilde;ivad pidada oma &uuml;lesannete t&auml;itmiseks vajalikku &uuml;hist andmekogu. </eesti>
+<inglise>(3) Several local governments may maintain a joint database for the performance of their functions. </inglise>
+<eesti>&sect; 20. </eesti>
+<inglise>&sect; 20. </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogude pidamise viisid ja &uuml;lesehituse printsiibid </eesti>
+<inglise>Methods of maintaining and principles of structuring state and local government databases </inglise>
+<eesti>(1) Riigi ja kohaliku omavalitsuse andmekogusid peetakse infotehnoloogiliste andmebaasidena. </eesti>
+<inglise>(1) State and local government databases are maintained as computerised databases. </inglise>
+<eesti>Andmekogu pidamisel tuleb andmed klassifitseerida ja kodeerida vastavalt riiklikele klassifikaatoritele ja standarditele. </eesti>
+<inglise>In the maintenance of databases, data shall be classified and coded according to official classifications and standards. </inglise>
+<eesti>(2) Tulenevalt andmekogu eesm&auml;rgist ja selle pidamise otstarbekusest v&otilde;ib riigi ja kohaliku omavalitsuse andmekogusid pidada ka: </eesti>
+<inglise>(2) According to the purposes of databases and the practicability of their maintenance, state and local government databases may also be maintained: </inglise>
+<eesti>1) kartoteekide v&otilde;i kanderaamatutena; </eesti>
+<inglise>1) as card files or entry books; </inglise>
+<eesti>2) andmekogu toimikute v&otilde;i objekti toimikutena; </eesti>
+<inglise>2) as database folders or subject folders; </inglise>
+<eesti>3) heli-, pildi- v&otilde;i esemekoguna; </eesti>
+<inglise>3) as collections of sound, images or objects; </inglise>
+<eesti>4) muul andmekogu asutavas &otilde;igusaktis m&auml;&auml;ratud viisil. </eesti>
+<inglise>4) in other forms determined in the legislation establishing the databases. </inglise>
+<eesti>(3) Andmekogu &uuml;lesehitus m&auml;&auml;ratakse teda asutava &otilde;igusaktiga, l&auml;htudes andmekogu koostamise eesm&auml;rgist ja kasutamise lihtsusest. </eesti>
+<inglise>(3) The structure of a database is determined in the legislation establishing the database according to the purpose for which it is compiled and the facility of its use. </inglise>
+<eesti>(4) Riigiasutustel on keelatud pidada sarnaseid ja teineteist sisuliselt kordavaid andmekogusid. </eesti>
+<inglise>(4) It is prohibited for state agencies to maintain similar or substantively repetitive databases. </inglise>
+<eesti>&sect; 21. </eesti>
+<inglise>&sect; 21. </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogu vastutav t&ouml;&ouml;tleja ja volitatud t&ouml;&ouml;tleja </eesti>
+<inglise>Chief processor and authorised processor of state or local government database </inglise>
+<eesti>(1) Riigi v&otilde;i kohaliku omavalitsuse andmekogu vastutav t&ouml;&ouml;tleja on andmekogu omaniku esindaja, kes vastutab andmekogu pidamise seaduslikkuse eest, korraldab andmekogu ja tema osade projekteerimiseks ja kasutuselev&otilde;tmiseks vajalike t&ouml;&ouml;de l&auml;biviimise ja vastuv&otilde;tmise, juhib andmekogu pidamist, teostab andmekogu pidamise &uuml;le j&auml;relevalvet ning lahendab seaduses s&auml;testatud ulatuses ja korras vaidlusi andmekogu pidamisel tekkinud k&uuml;simustes. </eesti>
+<inglise>(1) The chief processor of a state or local government database is a representative of the owner of the database who is responsible for the legality of the maintenance of the database, who arranges for the performance and acceptance of the work necessary for the design and introduction of databases or parts thereof, directs the maintenance of the database, exercises supervision over the maintenance of the database, and, to the extent and pursuant to the procedure provided by law, resolves disputes concerning issues which arise in the maintenance of the database. </inglise>
+<eesti>(2) Riigi v&otilde;i kohaliku omavalitsuse andmekogu volitatud t&ouml;&ouml;tleja on k&auml;esoleva seaduse v&otilde;i muu &otilde;igusakti alusel m&auml;&auml;ratud v&otilde;i andmekogu vastutava t&ouml;&ouml;tlejaga s&otilde;lmitud lepingu alusel tegutsev riigi- v&otilde;i kohaliku omavalitsuse asutus v&otilde;i isik, kes teostab &otilde;igusaktis v&otilde;i lepingus ja &otilde;igusaktis etten&auml;htud ulatuses andmete t&ouml;&ouml;tlemist. </eesti>
+<inglise>(2) An authorised processor of a state or local government database is a state or local government agency or person designated by this Act or other legislation or operating on the basis of a contract entered into with the chief processor, who processes data to the extent prescribed by legislation or a contract and legislation. </inglise>
+<eesti>(3) Andmekogu vastutav t&ouml;&ouml;tleja annab andmekogu volitatud t&ouml;&ouml;tlejale &uuml;lesandeid ja juhendeid andmekogu pidamise ja t&ouml;&ouml;tlemisega seotud asjades ning teostab kontrolli volitatud t&ouml;&ouml;tleja tegevuse &uuml;le andmekogu pidamisel. </eesti>
+<inglise>(3) Chief processors of databases assign tasks and instructions concerning the maintenance and processing of databases to authorised processors and monitor the activities of authorised processors in the maintenance of databases. </inglise>
+<eesti>&sect; 21 (1). </eesti>
+<inglise>&sect; 21 (1). </inglise>
+<eesti>Juurdep&auml;&auml;s riigi ja kohaliku omavalitsuse andmekogus peetavatele andmetele </eesti>
+<inglise>Access to information maintained in state and local government databases </inglise>
+<eesti>(1) Iga&uuml;hel on &otilde;igus saada riigi ja kohaliku omavalitsuse andmekogust andmeid, millele juurdep&auml;&auml;s ei ole seadusega piiratud. </eesti>
+<inglise>(1) Every person has the right to obtain information from state and local government databases to which access is not restricted by law. </inglise>
+<eesti>(2) Riigi ja kohaliku omavalitsuse andmekogu volitatud t&ouml;&ouml;tleja on kohustatud isiku n&otilde;udel andmed v&auml;ljastama sellekohase taotluse saamisest alates viie t&ouml;&ouml;p&auml;eva jooksul, kui seadusega ei ole s&auml;testatud teist t&auml;htaega. </eesti>
+<inglise>(2) At the request of a person, the authorised processor of a state or local government database is required to release information within five working days as of receipt of a corresponding request unless another term is provided by law. </inglise>
+<eesti>(3) Riigi ja kohaliku omavalitsuse andmekogust v&otilde;i andmekogu kohta ei v&auml;ljastata andmeid, mis k&auml;sitlevad andmekaitset ja andmete tehnilist t&ouml;&ouml;tlemist. </eesti>
+<inglise>(3) Information pertaining to data protection and the technical processing of data shall not be released from a state or local government database or with regard to a database. </inglise>
+<eesti>Sellistele andmetele on juurdep&auml;&auml;su&otilde;igus &uuml;ksnes andmete t&ouml;&ouml;tlejal ja andmekogu pidamise j&auml;rele valvaval isikul v&otilde;i uurimisorganil. </eesti>
+<inglise>Only processors of information and the person exercising supervision over the maintenance of the database or an investigative body have the right to access such information. </inglise>
+<eesti>(4) Riigi ja kohaliku omavalitsuse andmekogus t&ouml;&ouml;deldavatele andmetele tagatakse juurdep&auml;&auml;s avaliku teabe seaduses s&auml;testatud korras, viisil, tingimustel ja t&auml;htaegadel, kui seadusega ei ole s&auml;testatud teistsugust korda, viisi, muid tingimusi v&otilde;i t&auml;htaegu. </eesti>
+<inglise>(4) Access to data processed in a state or local government database shall be ensured pursuant to the procedure, in the manner, under the conditions and within the terms provided for in the Public Information Act unless a different procedure or manner or other conditions or terms are provided by law. </inglise>
+<eesti>Juurdep&auml;&auml;s isikuandmetele v&otilde;imaldatakse koosk&otilde;las isikuandmete kaitse seaduse ja avaliku teabe seadusega. </eesti>
+<inglise>Access to personal data shall be granted in accordance with the Personal Data Protection Act and the Public Information Act. </inglise>
+<eesti>(5) Avalikkusele olulist teavet sisaldavale andmekogule peab olema v&otilde;imalik juurde p&auml;&auml;seda &uuml;ldkasutatava andmesidev&otilde;rgu kaudu. </eesti>
+<inglise>(5) Databases which contain information which is important for the public shall be accessible through the public data communication network. </inglise>
+<eesti>Andmekogud v&otilde;i nende osad, mis tuleb sel viisil avalikustada, s&auml;testatakse andmekogude asutamise aluseks olevas seaduses v&otilde;i muus &otilde;igusaktis. </eesti>
+<inglise>Databases or parts thereof which are to be disclosed in this manner shall be provided for in the Act or other legislation which is the basis for establishment of the databases. </inglise>
+<eesti>(15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>(15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>&sect; 22. </eesti>
+<inglise>&sect; 22. </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekoguga seotud kulude katmine </eesti>
+<inglise>Covering expenditure relating to state and local government databases </inglise>
+<eesti>(1) Riigi ja kohaliku omavalitsuse andmekogu pidamiseks vajalikud kulud sisaldavad andmekogu asutamise, kasutuselev&otilde;tmise, pidamise ja arendamisega, andmete kogumise, registreerimise, t&ouml;&ouml;tlemise ja v&auml;ljastamisega seotud kulusid. </eesti>
+<inglise>(1) Expenditure necessary for the maintenance of a state or local government database includes expenditure relating to the establishment, introduction, maintenance and development of the database and the collection, registration, processing and release of data. </inglise>
+<eesti>(2) Riigi andmekogude pidamiseks vajalikud kulud kaetakse riigieelarvest ja andmekogude pidamisel osutatavate teenuste eest v&otilde;etavate tasude arvel, kui tasuliste teenuste osutamine on s&auml;testatud seadusega. </eesti>
+<inglise>(2) Expenditure necessary for the maintenance of state databases is covered from the state budget and fees for the services provided upon the maintenance of databases if the provision of fee-charging services is provided by law. </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>(3) Riigi p&otilde;hiregistrite ja riiklike registrite pidamiseks vajalikud kulud n&auml;hakse eelarves ette eraldi real sihtotstarbeliste summadena. </eesti>
+<inglise>(3) Expenditure necessary for the maintenance of general national registers and state registers shall be included in the budget as separate budget line items intended for specific purposes. </inglise>
+<eesti>Muude riigi andmekogude puhul n&auml;idatakse nende pidamiseks vajalikud kulud vastutava t&ouml;&ouml;tleja informaatikakulude eelarvereal. </eesti>
+<inglise>Expenditure necessary for the maintenance of other state databases shall be set out in the chief processor's budget line for informatics. </inglise>
+<eesti>(3 (1)) Kui andmekogu pidamisel on seadusega s&auml;testatud tasuliste teenuste osutamine, esitatakse andmekogu pidamise eelarve koostamisel andmed vastavate tasude suuruse ja laekumise kohta eelmisel eelarveaastal. </eesti>
+<inglise>(3 (1)) If the provision of fee-charging services upon the maintenance of a database is provided by law, information concerning the amount and receipt of the corresponding fees during the preceding financial year shall be submitted upon the preparation of the budget of maintenance of database. </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>(4) Kohaliku omavalitsuse andmekogudega seotud kulud kaetakse kohalikust eelarvest. </eesti>
+<inglise>(4) Expenditure relating to local government databases is covered from the local budget. </inglise>
+<eesti>&sect; 23. </eesti>
+<inglise>&sect; 23. </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogude laiendamine ja &uuml;hendamine </eesti>
+<inglise>Expansion and combination of state and local government databases </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogude laiendamine v&otilde;i &uuml;hendamine v&otilde;ib toimuda ainult seaduses etten&auml;htud juhtudel ja andmekaitse j&auml;relevalveasutuse loal, kui: </eesti>
+<inglise>State and local government databases may only be expanded or combined in the cases prescribed by law and with the permission of the data protection supervision authority if: </inglise>
+<eesti>1) laiendamine v&otilde;i &uuml;hendamine on vajalik riigiasutusele v&otilde;i kohalikule omavalitsusele pandud &uuml;lesannete otstarbekamaks t&auml;itmiseks ja laiendatud v&otilde;i &uuml;hendatud andmekogus sisalduvad andmed ei riku isikuandmete kaitse seaduse ja muude seadustega s&auml;testatud piiranguid v&otilde;i </eesti>
+<inglise>1) the expansion or combination is necessary for more effective performance of functions imposed on a state agency or local government, and the data contained in an expanded or combined database do not violate the restrictions provided for in the Personal Data Protection Act or other Acts; or </inglise>
+<eesti>2) riigiasutusele v&otilde;i kohalikule omavalitsusele on seadusega pandud uusi &uuml;lesandeid, mille n&otilde;uetekohane t&auml;itmine toob kaasa vajaduse olemasolevat andmekogu laiendada v&otilde;i &uuml;hendada see m&otilde;ne teise olemasoleva andmekoguga. </eesti>
+<inglise>2) new functions are imposed on a state agency or local government by law the proper performance of which results in a need to expand the existing database or combine it with another existing database. </inglise>
+<eesti>&sect; 24. </eesti>
+<inglise>&sect; 24. </inglise>
+<eesti>Riigi ja kohaliku omavalitsuse andmekogu likvideerimine </eesti>
+<inglise>Liquidation of state or local government database </inglise>
+<eesti>(1) Riigi ja kohaliku omavalitsuse andmekogu likvideerimise otsustab seaduses s&auml;testatud korras andmekogu asutaja. </eesti>
+<inglise>(1) The liquidation of a state or local government database is decided by the establisher of the database pursuant to the procedure provided by law. </inglise>
+<eesti>(2) Andmekogu likvideerimise otsusest teatatakse ametlikus v&auml;ljaandes Ametlikud Teadaanded ja palutakse nelja kuu jooksul esitada v&otilde;imalikud andmekoguga seotud pretensioonid ja n&otilde;uded. </eesti>
+<inglise>(2) The decision to liquidate a database shall be published in the official publication Ametlikud Teadaanded (3) with a request to file possible complaints or claims concerning the database. </inglise>
+<eesti>Alles p&auml;rast nende lahendamist v&otilde;ib andmekogus sisalduvad andmed &uuml;le anda v&otilde;i h&auml;vitada (kustutada). </eesti>
+<inglise>The transfer or destruction (deletion) of data is permitted only after the complaints and claims are resolved. </inglise>
+<eesti>(20.01.99 j&otilde;ust.01.03.99 - RT I 1999, 10, 155) </eesti>
+<inglise>(20.01.99 entered into force 01.03.99 - RT I 1999, 10, 155) </inglise>
+<eesti>2. osa </eesti>
+<inglise>Part 2 </inglise>
+<eesti>Riigi p&otilde;hiregistrid </eesti>
+<inglise>General National Registers </inglise>
+<eesti>&sect; 25. </eesti>
+<inglise>&sect; 25. </inglise>
+<eesti>Riigi p&otilde;hiregistri m&otilde;iste </eesti>
+<inglise>Definition of general national register </inglise>
+<eesti>(1) Riigi p&otilde;hiregister on seadusega asutatud avalikuks kasutamiseks m&auml;&auml;ratud andmekogu, mida peetakse &uuml;ldistes huvides riigi k&otilde;ige olulisemate &uuml;lesannete t&auml;itmiseks. </eesti>
+<inglise>(1) A general national register is a database intended for public use which is established by the corresponding Act and maintained in the public interest for the performance of the most important functions of the state. </inglise>
+<eesti>(2) Riigi p&otilde;hiregistreid peetakse: </eesti>
+<inglise>(2) General national registers are maintained regarding: </inglise>
+<eesti>1) riigi rahvastiku (elanikud), </eesti>
+<inglise>1) the population (residents) of the state; </inglise>
+<eesti>2) riigis registreeritud juriidiliste isikute, </eesti>
+<inglise>2) legal persons registered in the state; </inglise>
+<eesti>3) kinnisvara, </eesti>
+<inglise>3) immovable property; </inglise>
+<eesti>4) seaduses s&auml;testatud vallasvara, mille k&auml;ibe tingimused on seadusega sarnastatud kinnisvara k&auml;ibe tingimustega, </eesti>
+<inglise>4) movable property provided by law, the conditions of commerce of which are approximated by law to the conditions of commerce of immovable property; </inglise>
+<eesti>5) riigivara, </eesti>
+<inglise>5) state assets; </inglise>
+<eesti>6) muude seadusega m&auml;&auml;ratud oluliste objektide kohta. </eesti>
+<inglise>6) other significant subject matter determined by law. </inglise>
+<eesti>&sect; 26. </eesti>
+<inglise>&sect; 26. </inglise>
+<eesti>Riigi p&otilde;hiregistri asutamine </eesti>
+<inglise>Establishment of general national registers </inglise>
+<eesti>(1) Riigi p&otilde;hiregister asutatakse tema kohta k&auml;iva seadusega v&otilde;i antakse m&otilde;ne muu seadusega loodud registrile riigi p&otilde;hiregistri staatus. </eesti>
+<inglise>(1) General national registers are established by corresponding Acts or by the grant of the status of a general national register to registers established by other Acts. </inglise>
+<eesti>(2) Riigi p&otilde;hiregistrit k&auml;sitlevas seaduses s&auml;testatakse: </eesti>
+<inglise>(2) An Act concerning a general national register shall provide for: </inglise>
+<eesti>1) registri asutamise ja kasutuselev&otilde;tmise eesm&auml;rk; </eesti>
+<inglise>1) the purpose of establishment and introduction of the register; </inglise>
+<eesti>2) registri ametlik nimi ning selle kuuluvus p&otilde;hiregistrite hulka; </eesti>
+<inglise>2) the official name of the register and its designation as a general register; </inglise>
+<eesti>3) registri vastutav t&ouml;&ouml;tleja - ministeerium (minister) v&otilde;i Riigikantselei; </eesti>
+<inglise>3) the chief processor of the register - a ministry (a minister) or the State Chancellery; </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317; 24.01.2001 j&otilde;ust.23.02.2001 - RT I 2001, 17, 77) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317; 24.01.2001 entered into force 23.02.2001 - RT I 2001, 17, 77) </inglise>
+<eesti>4) registri volitatud t&ouml;&ouml;tlejate m&auml;&auml;ramise kord; </eesti>
+<inglise>4) procedure for the appointment of authorised processors of the register; </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>5) registri &uuml;lesehitus ja registri pidamise organisatsiooniline struktuur, volitatud t&ouml;&ouml;tlejate &otilde;igused ja kohustused; </eesti>
+<inglise>5) the structure of the register and the organisational structure for the maintenance of the register, the rights and duties of authorised processors; </inglise>
+<eesti>6) registri objekt, registriandmete koosseis, registri objekti kohta registrisse kantavad andmed, registrisse kantud andmete &otilde;iguslik t&auml;hendus, andmete registris s&auml;ilitamise t&auml;htaeg ja juhud, mil on lubatud registrisse kantud andmete ristkasutus; </eesti>
+<inglise>6) subject matter of the register, composition of the data of the register, data on the subject of the register entered in the register, legal effect of data entered in the register, the term for the preservation of data in the register and cases in which cross-usage of data entered in the register is permitted; </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>7) andmete registrisse vastuv&otilde;tmise ja registrist v&auml;ljastamise &uuml;le arvestuse pidamise kord; </eesti>
+<inglise>7) the procedure for maintaining records of the receipt of data in and release of data from the register; </inglise>
+<eesti>8) andmete esitaja ja tema poolt andmete registrisse &uuml;leandmise kord ja t&auml;htajad ning andmete &otilde;igeaegse esitamata j&auml;tmise v&otilde;i teadlikult valeandmete esitamise korral tema suhtes kohaldatavad sanktsioonid; </eesti>
+<inglise>8) the persons who submit data to the register, the procedure and time limits for submission of data by such persons and the sanctions imposed on persons who fail to submit data in good time or knowingly submit false data; </inglise>
+<eesti>9) registrile esitatud andmete registreerimise aluseks olevate alusdokumentide loetelu, juhul kui see ei ole s&auml;testatud muus seaduses; </eesti>
+<inglise>9) the list of source documents which are the basis for registration of data submitted to the register unless the list is provided by another Act. </inglise>
+<eesti>10) registriandmetele juurdep&auml;&auml;su &otilde;igus ja kord; </eesti>
+<inglise>10) right of and procedure for access to data in the register; </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>11) andmete, millele on tulenevalt isikuandmete kaitse seadusest, riigisaladuse seadusest ja muudest seadustest kehtestatud juurdep&auml;&auml;supiirangud, loetelu ning vastavate juurdep&auml;&auml;supiirangute kehtestamise ja juurdep&auml;&auml;supiirangutega andmetele juurdep&auml;&auml;su v&otilde;imaldamise kord; </eesti>
+<inglise>11) a list of data access to which is restricted pursuant to the Personal Data Protection Act, the State Secrets Act or other Acts and the procedure for the establishment of the corresponding restrictions on access and grant of access to data access to which is restricted; </inglise>
+<eesti>(30.05.2000 j&otilde;ust.01.08.2000 - RT I 2000, 50, 317) </eesti>
+<inglise>(30.05.2000 entered into force 01.08.2000 - RT I 2000, 50, 317) </inglise>
+<eesti>12) eba&otilde;igete andmete parandamise ja sellest informeerimise kord; </eesti>
+<inglise>12) the procedure for correction of inaccurate data and notification thereof; </inglise>
+<eesti>13) andmetele juurdep&auml;&auml;su sulgemise tingimused ja kord; </eesti>
+<inglise>13) the conditions and procedure for closure of access to data; </inglise>
+<eesti>14) registrist andmete saamise eest tasumise kord ning andmeid tasuta saavate isikute ja asutuste loetelu; </eesti>
+<inglise>14) the procedure for payment for data received from the register and the list of persons and agencies who receive data without charge; </inglise>
+<eesti>15) registri pidamise finantseerimise kord; </eesti>
+<inglise>15) the procedure for financing the maintenance of the register; </inglise>
+<eesti>16) registri laiendamise, teise registriga &uuml;hendamise ja likvideerimise alused ja kord. </eesti>
+<inglise>16) the bases and procedure for the expansion, combination with other registers and liquidation of the register. </inglise>
+<eesti>(3) Seaduses v&otilde;ib s&auml;testada ka teisi riigi p&otilde;hiregistri kohta k&auml;ivaid tingimusi. </eesti>
+<inglise>(3) Other conditions for a general national register may be provided by law. </inglise>
+<eesti>&sect; 27. </eesti>
+<inglise>&sect; 27. </inglise>
+<eesti>Riigi p&otilde;hiregistri vastutav t&ouml;&ouml;tleja </eesti>
+<inglise>Chief processors of general national registers </inglise>
+<eesti>(1) Riigi p&otilde;hiregistri vastutavaks t&ouml;&ouml;tlejaks m&auml;&auml;ratakse &uuml;ks ministeeriumidest (ministritest) v&otilde;i Riigikantselei. </eesti>
+<inglise>(1) One of the Ministries (ministers) or the State Chancellery shall be designated as the chief processor of a general national register. </inglise>
+<eesti>(24.01.2001 j&otilde;ust.23.02.2001 - RT I 2001, 17, 77) </eesti>
+<inglise>(24.01.2001 entered into force 23.02.2001 - RT I 2001, 17, 77) </inglise>
+<eesti>(2) Registri pidamise t&auml;psemaks korraldamiseks on Vabariigi Valitsusel ja vastutaval t&ouml;&ouml;tlejal &otilde;igus anda (seaduses s&auml;testatud juhtudel ja ulatuses) v&auml;lja &otilde;igusakte. </eesti>
+<inglise>(2) The Government of the Republic and chief processors have the right to issue legislation (in the cases and to the extent provided by law) for more specific administration of the maintenance of the registers. </inglise>
+<eesti>&sect; 28. </eesti>
+<inglise>&sect; 28. </inglise>
+<eesti>Riigi p&otilde;hiregistri volitatud t&ouml;&ouml;tleja </eesti>
+<inglise>Authorised processors of general national registers </inglise>
+<eesti>(1) Riigi p&otilde;hiregistri volitatud t&ouml;&ouml;tlejaks v&otilde;ib olla: </eesti>
+<inglise>(1) The following may be authorised processors of general national registers: </inglise>
+<eesti>1) riigiasutus; </eesti>
+<inglise>1) state agencies; </inglise>
+<eesti>2) &auml;ri&uuml;hing, mille k&otilde;ik aktsiad v&otilde;i osad kuuluvad riigile; </eesti>
+<inglise>2) companies all the stocks or shares of which are held by the state; </inglise>
+<eesti>3) kui seadusega n&auml;hakse ette volitatud t&ouml;&ouml;tleja leidmiseks avaliku konkursi korraldamine, siis avaliku konkursi v&otilde;itnud &auml;ri&uuml;hing. </eesti>
+<inglise>3) a company which wins a public competition if, in order to find an authorised processor, the organisation of a public competition is prescribed by law. </inglise>
+<eesti>(24.01.2001 j&otilde;ust.23.02.2001 - RT I 2001, 17, 77) </eesti>
+<inglise>(24.01.2001 entered into force 23.02.2001 - RT I 2001, 17, 77) </inglise>
+<eesti>(2) K&auml;esoleva paragrahvi l&otilde;ike 1 punktides 1 v&otilde;i 2 nimetatud riigi p&otilde;hiregistri volitatud t&ouml;&ouml;tleja m&auml;&auml;rab vastutava t&ouml;&ouml;tleja ettepanekul oma korraldusega Vabariigi Valitsus, kui seadusega ei ole s&auml;testatud teisiti. </eesti>
+<inglise>(2) Authorised processors of general national registers as specified in clause (1) 1) or 2) of this section are appointed by an order of the Government of the Republic on the proposal of the chief processor unless otherwise prescribed by law. </inglise>
+<eesti>(24.01.2001 j&otilde;ust.23.02.2001 - RT I 2001, 17, 77) </eesti>
+<inglise>(24.01.2001 entered into force 23.02.2001 - RT I 2001, 17, 77) </inglise>
+<eesti>&sect; 29. </eesti>
+<inglise>&sect; 29. </inglise>
+<eesti>P&otilde;hiregistri laiendamine ja &uuml;hendamine </eesti>
+<inglise>Expansion and combination of general registers </inglise>
+<eesti>Riigi p&otilde;hiregistri laiendamine v&otilde;i sellega muu andmekogu &uuml;hendamine toimub p&otilde;hiregistri kohta k&auml;iva seaduse vastavasisulise muutmise teel. </eesti>
+<inglise>In order to expand or combine a general national register with another database, corresponding amendments shall be made to the Act concerning the general register. </inglise>
+<eesti>&sect; 30. </eesti>
+<inglise>&sect; 30. </inglise>
+<eesti>P&otilde;hiregistri likvideerimine </eesti>
+<inglise>Liquidation of general registers </inglise>
+<eesti>Riigi p&otilde;hiregistri v&otilde;ib likvideerida ainult seaduses s&auml;testatud juhtudel eraldi seaduse alusel. </eesti>
+<inglise>General national registers may be liquidated only in the cases provided by law pursuant to a separate Act. </inglise>
+<eesti>3. osa </eesti>
+<inglise>Part 3 </inglise>
+<eesti>Riiklikud registrid </eesti>
+<inglise>State Registers </inglise>
+<eesti>&sect; 31. </eesti>
+<inglise>&sect; 31. </inglise>
+<eesti>Riikliku registri m&otilde;iste </eesti>
+<inglise>Definition of state register </inglise>
+<eesti>Riiklik register k&auml;esoleva seaduse m&otilde;istes on Vabariigi Valitsuse poolt seaduse v&otilde;i v&auml;lislepingu alusel asutatud &uuml;he v&otilde;i mitme ministeeriumi v&otilde;i Riigikantselei seadusekohaste &uuml;lesannete t&auml;itmiseks vajalik andmekogu. </eesti>
+<inglise>For the purposes of this Act, a state register is a database which is established by the Government of the Republic pursuant to law or an international agreement, and which is necessary for the performance of the functions of one or several ministries or the State Chancellery imposed by law. </inglise>
+<eesti>(25.03.98 j&otilde;ust.01.05.98 - RT I 1998, 36/37, 552) </eesti>
+<inglise>(25.03.98 entered into force 01.05.98 - RT I 1998, 36/37, 552) </inglise>
+<eesti>&sect; 32. </eesti>
+<inglise>&sect; 32. </inglise>
+<eesti>Riikliku registri asutamine </eesti>
+<inglise>Establishment of state registers </inglise>
+<eesti>(1) Riikliku registri asutab Vabariigi Valitsus m&auml;&auml;rusega. </eesti>
+<inglise>(1) State registers are established by a regulation of the Government of the Republic. </inglise>
+<eesti>(2) Riikliku registri asutamise ettepaneku Vabariigi Valitsusele teeb minister, kelle valitsemisala &uuml;lesannete t&auml;itmiseks on register vajalik. </eesti>
+<inglise>(2) A proposal to establish a state register shall be made to the Government of the Republic by a minister if the register is necessary for the performance of the functions in the minister's area of government. </inglise>
+<eesti>(3) Minister esitab riikliku registri asutamise ettepaneku Vabariigi Valitsuse m&auml;&auml;ruse eeln&otilde;una koos seletuskirja ja riikliku registri p&otilde;him&auml;&auml;ruse eeln&otilde;uga. </eesti>
+<inglise>(3) A minister shall present a proposal to establish a state register as a draft regulation of the Government of the Republic together with an explanatory memorandum and draft statutes of the state register. </inglise>
+<eesti>(4) Juhul kui asutatav riiklik register h&otilde;lmab mitme ministeeriumi valitsemisala, esitab minister ettepaneku riikliku registri asutamiseks koosk&otilde;lastatult vastavate ministritega. </eesti>
+<inglise>(4) If a state register being established involves areas of government of several ministries, a minister shall make a proposal to establish a state register in co-ordination with the corresponding ministers. </inglise>
+<eesti>(5) Riikliku registri asutamise kohta annab arvamuse riigi infos&uuml;steemide alaseid t&ouml;id koordineeriv asutus, andmekaitse j&auml;relevalveasutus ja andmekogude riikliku registri vastutav t&ouml;&ouml;tleja. </eesti>
+<inglise>(5) The state information systems co-ordination authority, data protection supervision authority and the chief processor of the state register of databases shall provide an opinion on the establishment of a state register. </inglise>
+<eesti>&sect; 33. </eesti>
+<inglise>&sect; 33. </inglise>
+<eesti>Riikliku registri asutamise ettepanekule lisatav seletuskiri </eesti>
+<inglise>Explanatory memorandum appended to proposal to establish state register </inglise>
+<eesti>Riikliku registri asutamise ettepanekule lisatavas seletuskirjas peab sisalduma: </eesti>
+<inglise>An explanatory memorandum appended to a proposal to establish a state register shall set out: </inglise>
+<eesti>1) registri asutamise ja kasutuselev&otilde;tmise eesm&auml;rk; </eesti>
+<inglise>1) the purpose of establishment and introduction of the register; </inglise>
+<eesti>2) registriobjekt ja selle andmete koosseis; </eesti>
+<inglise>2) the subject matter of the register and composition of its data; </inglise>
+<eesti>3) andmeandjate loetelu - f&uuml;&uuml;silised ja juriidilised isikud, kohaliku omavalitsuse organid ja asutused ning riigiasutused, kellel on registrisse andmete andmise kohustus; </eesti>
+<inglise>3) the list of persons submitting data: natural and legal persons, local government bodies and agencies, and state agencies who have the duty to submit data to the register; </inglise>
+<eesti>4) andmesaajate loetelu - f&uuml;&uuml;silised ja juriidilised isikud, kohaliku omavalitsuse organid ja asutused ning riigiasutused, kellel on registrist andmete saamise &otilde;igus; </eesti>
+<inglise>4) the list of data recipients: natural and legal persons, local government bodies and agencies, and state agencies who have the right to receive data from the register; </inglise>
+<eesti>5) registri projekteerimiseks ja kasutuselev&otilde;tmiseks vajalike t&ouml;&ouml;de eelarve; </eesti>
+<inglise>5) the budget for work necessary for the design and introduction of the register; </inglise>
+<eesti>6) registri pidamise kulude arvestus; </eesti>
+<inglise>6) calculation of expenditure for the maintenance of the register; </inglise>
+<eesti>7) ettepanek registri vastutava t&ouml;&ouml;tleja ja volitatud t&ouml;&ouml;tleja kohta. </eesti>
+<inglise>7) a proposal concerning the chief processor and authorised processors of the register; </inglise>
+<eesti>&sect; 34. </eesti>
+<inglise>&sect; 34. </inglise>
+<eesti>Riikliku registri asutamise m&auml;&auml;rus </eesti>
+<inglise>Regulation establishing state register </inglise>
+<eesti>(1) Riikliku registri asutamise m&auml;&auml;ruses peab sisalduma: </eesti>
+<inglise>(1) A regulation establishing a state register shall set out: </inglise>
+<eesti>1) registri nimi; </eesti>
+<inglise>1) the name of the register; </inglise>
+<eesti>2) registri asutamise aluseks olev &otilde;igusakt; </eesti>
+<inglise>2) the legislation on the basis of which the register is established; </inglise>
+<eesti>3) registri projekteerimiseks ja kasutuselev&otilde;tmiseks vajalike t&ouml;&ouml;de tegemise t&auml;htajad, nende t&ouml;&ouml;de finantseerimise maht ja allikad; </eesti>
+<inglise>3) the time limits for the performance of work necessary for the design and introduction of the register, the amount and sources of financing of such work; </inglise>
+<eesti>4) registri vastutav t&ouml;&ouml;tleja - ministeerium v&otilde;i muu valitsusasutus, kelle juhtimisel registrit peetakse ja kes samaaegselt v&otilde;ib olla volitatud t&ouml;&ouml;tleja; </eesti>
+<inglise>4) the chief processor of the register: a ministry or other government agency which directs the maintenance of the register and which may also be an authorised processor; </inglise>
+<eesti>5) registri volitatud t&ouml;&ouml;tleja(te) - riigiasutus(t) e v&otilde;i &auml;ri&uuml;hingu(te), mille k&otilde;ik aktsiad v&otilde;i osad kuuluvad riigile, v&otilde;i muu(de) seadusega m&auml;&auml;ratud isiku(te) - nimi (nimed) v&otilde;i nimetus(ed). </eesti>
+<inglise>5) the authorised processor(s) of the register: name(s) or title(s) of state agency(ies), commercial undertaking(s) all the stocks or shares of which are held by the state, or other persons provided by law. </inglise>
+<eesti>(2) Riikliku registri asutamise m&auml;&auml;rusega kinnitatakse riikliku registri pidamise p&otilde;him&auml;&auml;rus. </eesti>
+<inglise>(2) The statutes for maintenance of a state register shall be approved by the regulation establishing the state register. </inglise>
+<eesti>&sect; 35. </eesti>
+<inglise>&sect; 35. </inglise>
+<eesti>Riikliku registri pidamise p&otilde;him&auml;&auml;rus </eesti>
+<inglise>Statutes for maintenance of state register </inglise>
+<eesti>Riikliku registri pidamise p&otilde;him&auml;&auml;ruses s&auml;testatakse: </eesti>
+<inglise>The statutes for maintenance of a state register shall provide for: </inglise>
+<eesti>1) registri asutamise ja kasutuselev&otilde;tmise eesm&auml;rk; </eesti>
+<inglise>1) the purpose of establishment and introduction of the register; </inglise>
+<eesti>2) registri ametlik nimi; </eesti>
+<inglise>2) the official name of the register; </inglise>
+<eesti>3) registri &uuml;lesehitus ja registri pidamise organisatsiooniline struktuur, andmete t&ouml;&ouml;tlemise kord eri tasanditel, andmete vahetamine ja v&otilde;rdlemine eri tasandite vahel; </eesti>
+<inglise>3) the structure of the register and organisational structure of the maintenance of the register, the procedure for data processing at different levels, and exchange and comparison of data of different levels; </inglise>
+<eesti>4) registrisse kantavad andmed ja nende &otilde;iguslik re&zcaron;iim; </eesti>
+<inglise>4) data to be entered in the register and the legal regime thereof; </inglise>
+<eesti>5) registriandmete esitaja; </eesti>
+<inglise>5) persons who submit data to the register; </inglise>
+<eesti>6) registrisse andmete esitaja poolt kogutud andmete registreerimise aluseks olevate alusdokumentide loetelu, kui see ei ole s&auml;testatud muus seaduses; </eesti>
+<inglise>6) the list of source documents which are the basis for the registration of data collected by persons who submit data to the register unless the list is provided by another Act; </inglise>
+<eesti>7) andmete registrisse &uuml;leandmise kord ja t&auml;htajad; </eesti>
+<inglise>7) the procedure and time limits for submission of data to the register; </inglise>
+<eesti>8) registrist andmete v&auml;ljastamise kord ja registrist andmete saamiseks &otilde;igustatud isikute ring; </eesti>
+<inglise>8) the procedure for release of data from the register and the set of persons entitled to receive data from the register; </inglise>
+<eesti>9) isikud, kellel on &otilde;igus saada andmeid tasuta ning registrist andmete saamise eest tasumise kord; </eesti>
+<inglise>9) the persons who have the right to receive data without charge and the procedure for payment for data received from the register; </inglise>
+<eesti>10) andmete registrist v&auml;ljastamise kord; </eesti>
+<inglise>10) the procedure for release of data from the register; </inglise>
+<eesti>11) vastavalt seadusele piiratult k&auml;ttesaadavate andmete ja salastatavate andmete loetelu ning nendega tutvumise kord; </eesti>
+<inglise>11) lists of and procedures for consulting classified data and data, access to which is restricted, pursuant to law; </inglise>
+<eesti>12) andmetele juurdep&auml;&auml;su sulgemise tingimused ja kord; </eesti>
+<inglise>12) the conditions and procedure for closure of access to data; </inglise>
+<eesti>13) eba&otilde;igete andmete parandamise ja sellest informeerimise kord; </eesti>
+<inglise>13) the procedure for correction of inaccurate data and notification thereof; </inglise>
+<eesti>14) andmete registrisse vastuv&otilde;tmise ja registrist v&auml;ljastamise &uuml;le arvestuse pidamise kord; </eesti>
+<inglise>14) the procedure for maintaining records of the receipt of data in and release of data from the register; </inglise>
+<eesti>15) registri pidamise &uuml;le j&auml;relevalvet teostama &otilde;igustatud isikud ja j&auml;relevalve teostamise kord; </eesti>
+<inglise>15) the persons entitled to exercise supervision over the maintenance of the register and the procedure for exercise of such supervision; </inglise>
+<eesti>16) registri pidamise finantseerimise kord; </eesti>
+<inglise>16) the procedure for financing the maintenance of the register; </inglise>
+<eesti>17) registri likvideerimise kord. </eesti>
+<inglise>17) the procedure for liquidation of the register. </inglise>
+<eesti>&sect; 36. </eesti>
+<inglise>&sect; 36. </inglise>
+<eesti>Riikliku registri laiendamine </eesti>
+<inglise>Expansion of state registers </inglise>
+<eesti>Riikliku registri laiendamine toimub seaduses s&auml;testatud aluste olemasolul riikliku registri pidamise p&otilde;him&auml;&auml;ruses vastavasisuliste muudatuste tegemise j&auml;rel. </eesti>
+<inglise>State registers are expanded on the bases provided by law after corresponding amendments are made in the statutes for maintenance of the registers. </inglise>
+<eesti>&sect; 37. </eesti>
+<inglise>&sect; 37. </inglise>
+<eesti>Riikliku registri likvideerimine </eesti>
+<inglise>Liquidation of state registers </inglise>
+<eesti>(1) Riikliku registri likvideerimise otsustab Vabariigi Valitsus. </eesti>
+<inglise>(1) Liquidation of state registers is decided by the Government of the Republic. </inglise>
+<eesti>(2) Registri likvideerimisel otsustab Vabariigi Valitsus andmete &uuml;leandmise teise registrisse, riiklikku arhiivi v&otilde;i nende kuulumise h&auml;vitamisele ja &uuml;leandmise v&otilde;i h&auml;vitamise t&auml;htaja. </eesti>
+<inglise>(2) Upon liquidation of a state register, the Government of the Republic shall decide on the transfer of data to another register or the state archives or on destruction of data and the time limits for the transfer or destruction of data. </inglise>
+<eesti>(3) Andmete &uuml;leandmine toimub volitatud t&ouml;&ouml;tleja poolt vastutava t&ouml;&ouml;tleja vastutusel ning riikliku andmekaitse j&auml;relevalveasutuse volitatud ametiisiku ja riiklike infos&uuml;steemide alaseid t&ouml;id koordineeriva asutuse volitatud ametiisiku juuresolekul. </eesti>
+<inglise>(3) Data are transferred by authorised processors at the responsibility of the chief processor in the presence of an authorised official of the state data protection supervision authority and state information systems co-ordination authority. </inglise>
+<eesti>Andmete &uuml;leandmisel v&otilde;i h&auml;vitamisel koostatakse vastav akt. </eesti>
+<inglise>Upon transfer or destruction of data, corresponding legal instruments shall be prepared. </inglise>
+<eesti>4. osa </eesti>
+<inglise>Part 4 </inglise>
+<eesti>Riigiasutuse muud andmekogud </eesti>
+<inglise>Other State Agency Databases </inglise>
+<eesti>&sect; 38. </eesti>
+<inglise>&sect; 38. </inglise>
+<eesti>Riigiasutuse andmekogu </eesti>
+<inglise>State agency database </inglise>
+<eesti>Riigiasutuse andmekogu k&auml;esoleva seaduse m&otilde;istes on riigiasutusele seaduse v&otilde;i muu &otilde;igusaktiga pandud &uuml;lesannete t&auml;itmiseks v&otilde;i riigiasutuse t&ouml;&ouml; korraldamise tagamiseks vajalik andmekogu. </eesti>
+<inglise>For the purposes of this Act, a state agency database is a database necessary for the performance of functions imposed on a state agency by corresponding Acts or other legislation or for the ensurance of management of the work of a state agency. </inglise>
+<eesti>&sect; 39. </eesti>
+<inglise>&sect; 39. </inglise>
+<eesti>Riigiasutuse andmekogu asutamine </eesti>
+<inglise>Establishment of state agency database </inglise>
+<eesti>(1) Riigiasutusele seaduse v&otilde;i muu &otilde;igusaktiga pandud &uuml;lesannete t&auml;itmiseks vajaliku andmekogu asutamise otsustab riigiasutuse juht. </eesti>
+<inglise>(1) The establishment of a state agency database necessary for the performance of functions imposed on the state agency by corresponding Acts or other legislation shall be decided by the head of the state agency. </inglise>
+<eesti>(2) Riigiasutuse andmekogu asutab riigiasutuse juht v&otilde;i tema poolt volitatud ametiisik. </eesti>
+<inglise>(2) A state agency database shall be established by the head of the state agency or an official authorised by him or her. </inglise>
+<eesti>&sect; 40. </eesti>
+<inglise>&sect; 40. </inglise>
+<eesti>Riigiasutuse andmekogu asutamise kord </eesti>
+<inglise>Procedure for establishment of state agency database </inglise>
+<eesti>(1) Andmekogu asutamise &otilde;igusaktis m&auml;&auml;rab asutaja kindlaks: </eesti>
+<inglise>(1) In the legislation establishing a local government database, the establisher shall determine the following: </inglise>
+<eesti>1) andmekogu asutamise ja kasutuselev&otilde;tmise eesm&auml;rgi; </eesti>
+<inglise>1) the purpose of establishment and introduction of the database; </inglise>
+<eesti>2) andmekogu nime; </eesti>
+<inglise>2) the name of the database; </inglise>
+<eesti>3) andmekogu &uuml;lesehituse; </eesti>
+<inglise>3) the structure of the database; </inglise>
+<eesti>4) andmekogu vastutava ja volitatud t&ouml;&ouml;tleja; </eesti>
+<inglise>4) the chief and authorised processors of the database; </inglise>
+<eesti>5) andmekogusse kantavad andmed; </eesti>
+<inglise>5) data to be entered in the database; </inglise>
+<eesti>6) (Kehtetu - 15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>6) (Repealed - 15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>7) vastavalt riigisaladuse seadusele ja isikuandmete kaitse seadusele avalikuks kasutamiseks mitteetten&auml;htud andmete loetelu; </eesti>
+<inglise>7) the list of data not intended for public use pursuant to the State Secrets Act and Personal Data Protection Act; </inglise>
+<eesti>8) andmekogu pidamise &uuml;le j&auml;relevalve teostamise korra. </eesti>
+<inglise>8) the procedure for exercising supervision over the maintenance of the database. </inglise>
+<eesti>(2) Andmekogu asutamisest informeeritakse andmekaitse j&auml;relevalveasutust ja vajadusel saadakse sealt andmekogu asutamiseks luba. </eesti>
+<inglise>(2) The data protection supervision authority shall be informed of the establishment of a database and, if necessary, permission for the establishment of a database shall be obtained therefrom. </inglise>
+<eesti>(3) Andmekogu asutamise dokumentide kohta annab arvamuse andmekogude riikliku registri vastutav t&ouml;&ouml;tleja. </eesti>
+<inglise>(3) The chief processor of the state register of databases shall provide an opinion on the establishment documents of a database. </inglise>
+<eesti>&sect; 41. </eesti>
+<inglise>&sect; 41. </inglise>
+<eesti>Riigiasutuse andmekogu likvideerimine </eesti>
+<inglise>Liquidation of state agency database </inglise>
+<eesti>(1) Andmekogu likvideerimise otsustab andmekogu asutaja. </eesti>
+<inglise>(1) The liquidation of a database shall be decided by the establisher of the database. </inglise>
+<eesti>(2) Andmekogu likvideerimisel otsustatakse andmete &uuml;leandmine teise andmekogusse, riiklikku v&otilde;i riigiasutuse arhiivi v&otilde;i nende kuulumine h&auml;vitamisele ja &uuml;leandmise v&otilde;i h&auml;vitamise t&auml;htaeg. </eesti>
+<inglise>(2) Upon liquidation of a database, the transfer of data to another database, the state archives or state agency archives, or their destruction, and the time limits for their transfer or destruction are decided. </inglise>
+<eesti>(3) Andmete &uuml;leandmine toimub andmekogu volitatud t&ouml;&ouml;tleja poolt andmekogu vastutava t&ouml;&ouml;tleja vastutusel ja riikliku andmekaitse j&auml;relevalveasutuse volitatud ametiisiku juuresolekul. </eesti>
+<inglise>(3) Data are transferred by authorised processors at the responsibility of the chief processor in the presence of an authorised official of the state data protection supervision authority. </inglise>
+<eesti>Andmete &uuml;leandmisel v&otilde;i h&auml;vitamisel koostatakse vastav akt. </eesti>
+<inglise>Upon transfer or destruction of data, corresponding legal instruments shall be prepared. </inglise>
+<eesti>5. osa </eesti>
+<inglise>Part 5 </inglise>
+<eesti>Kohaliku omavalitsuse andmekogud </eesti>
+<inglise>Local Government Databases </inglise>
+<eesti>&sect; 42. </eesti>
+<inglise>&sect; 42. </inglise>
+<eesti>Kohaliku omavalitsuse register </eesti>
+<inglise>Local government register </inglise>
+<eesti>Kohaliku omavalitsuse register k&auml;esoleva seaduse m&otilde;istes on kohalikule omavalitsusele seaduse v&otilde;i muu &otilde;igusaktiga pandud &uuml;lesannete t&auml;itmiseks v&otilde;i kohaliku omavalitsuse t&ouml;&ouml; korraldamise tagamiseks vajalik register. </eesti>
+<inglise>For the purposes of this Act, a local government register is a register necessary for the performance of functions imposed on a local government by corresponding Acts or other legislation or for the ensurance of management of the work of a local government. </inglise>
+<eesti>&sect; 43. </eesti>
+<inglise>&sect; 43. </inglise>
+<eesti>Kohaliku omavalitsuse registri asutamine </eesti>
+<inglise>Establishment of local government registers </inglise>
+<eesti>(1) Kohaliku omavalitsuse registri asutab kohaliku omavalitsuse volikogu k&auml;esoleva seaduse alusel ja kohaliku omavalitsuse kehtestatud korras. </eesti>
+<inglise>(1) Local government registers are established by local government councils pursuant to this Act and the procedures established by local governments. </inglise>
+<eesti>(2) Kohaliku omavalitsuse registri asutamise aluseks on seadus v&otilde;i kohaliku omavalitsuse volikogu otsus. </eesti>
+<inglise>(2) The establishment of a local government register is based on law or a resolution of the local government council. </inglise>
+<eesti>(3) Mitme kohaliku omavalitsuse &uuml;lesannete t&auml;itmiseks &uuml;hiselt peetav register asutatakse vastavate volikogude otsusega ning informeeritakse sellest vastavaid maavanemaid ja andmekaitse j&auml;relevalveasutust. </eesti>
+<inglise>(3) A register maintained jointly for the performance of functions of several local governments is established by a resolution of the corresponding local government councils; the corresponding county governors and the data protection supervision authority shall be informed thereof. </inglise>
+<eesti>(4) Kohaliku omavalitsuse registri asutamise ettepanekule lisatavas seletuskirjas peab sisalduma: </eesti>
+<inglise>(4) An explanatory memorandum appended to a proposal to establish a local government register shall set out: </inglise>
+<eesti>1) registri asutamise ja kasutuselev&otilde;tmise eesm&auml;rk; </eesti>
+<inglise>1) the purpose of establishment and introduction of the register; </inglise>
+<eesti>2) registrisse kogutavate andmete loetelu; </eesti>
+<inglise>2) the list of data collected in the register; </inglise>
+<eesti>3) andmete esitajate loetelu - kes ja milliseid andmeid on kohaliku omavalitsuse volikogu otsuse v&otilde;i muu &otilde;igusaktiga kohustatud registrisse andma; </eesti>
+<inglise>3) the list of persons submitting data: who is required to submit data and which data are required to be submitted to the register pursuant to a resolution of the local government council or other legislation; </inglise>
+<eesti>4) tasuta andmesaajate loetelu - kellel ja milliseid andmeid on &otilde;igus &otilde;igusaktide alusel saada; </eesti>
+<inglise>4) the list of data recipients who receive data without charge: who is entitled to receive data and which data is released to them pursuant to legislation; </inglise>
+<eesti>5) registri kasutuselev&otilde;tmiseks vajalike t&ouml;&ouml;de eelarve; </eesti>
+<inglise>5) the budget for work necessary for the introduction of the register; </inglise>
+<eesti>6) registri pidamise kulude arvestus; </eesti>
+<inglise>6) calculation of expenditure for the maintenance of the register; </inglise>
+<eesti>7) ettepanek registri volitatud t&ouml;&ouml;tlejate kohta. </eesti>
+<inglise>7) a proposal concerning the authorised processors of the register. </inglise>
+<eesti>(5) Registri asutaja m&auml;&auml;rab: </eesti>
+<inglise>(5) The establisher of a register shall designate: </inglise>
+<eesti>1) registri nime; </eesti>
+<inglise>1) the name of the register; </inglise>
+<eesti>2) registri vastutava t&ouml;&ouml;tleja - kohaliku omavalitsuse organi, kelle juhtimisel andmekogu peetakse ja kes samaaegselt v&otilde;ib olla andmekogu pidaja; </eesti>
+<inglise>2) the chief processor of the register: a local government body which directs the maintenance of the database and which may also maintain the database; </inglise>
+<eesti>3) registri volitatud t&ouml;&ouml;tleja(d); </eesti>
+<inglise>3) the authorised processor(s) of the register; </inglise>
+<eesti>4) registri kasutuselev&otilde;tmiseks vajalike t&ouml;&ouml;de tegemise t&auml;htajad, nende t&ouml;&ouml;de finantseerimise mahu ja allikad; </eesti>
+<inglise>4) time limits for the performance of work necessary for the introduction of the register, the amount and sources of financing of such work; </inglise>
+<eesti>5) registri pidamise p&otilde;him&auml;&auml;ruse esitamise t&auml;htaja. </eesti>
+<inglise>5) the time limit for submission of the statutes for maintenance of the register. </inglise>
+<eesti>(6) Andmekogu asutamise dokumentidele annab arvamuse andmekogude riikliku registri vastutav t&ouml;&ouml;tleja. </eesti>
+<inglise>(6) The chief processor of the state register of databases shall provide an opinion on the establishment documents of a database. </inglise>
+<eesti>&sect; 44. </eesti>
+<inglise>&sect; 44. </inglise>
+<eesti>Kohaliku omavalitsuse registri pidamise p&otilde;him&auml;&auml;rus </eesti>
+<inglise>Statutes for maintenance of local government register </inglise>
+<eesti>(1) Kohaliku omavalitsuse registri pidamise p&otilde;him&auml;&auml;ruse kinnitab volikogu ja selles s&auml;testatakse: </eesti>
+<inglise>(1) The statutes for maintenance of a local government register shall be approved by the local government council and the statutes shall provide for: </inglise>
+<eesti>1) registri asutamise ja kasutuselev&otilde;tmise eesm&auml;rk; </eesti>
+<inglise>1) the purpose of establishment and introduction of the register; </inglise>
+<eesti>2) registri ametlik nimi; </eesti>
+<inglise>2) the official name of the register; </inglise>
+<eesti>3) registri &uuml;lesehitus ja registri pidamise organisatsiooniline struktuur, andmete t&ouml;&ouml;tlemise kord eri tasanditel, andmete vahetamine ja v&otilde;rdlemine eri tasandite vahel; </eesti>
+<inglise>3) the structure of the register and organisational structure of the maintenance of the register, the procedure for data processing at different levels, and exchange and comparison of data of different levels; </inglise>
+<eesti>4) registrisse kantavad andmed ja nende &otilde;iguslik re&zcaron;iim; </eesti>
+<inglise>4) data to be entered in the register and the legal regime thereof; </inglise>
+<eesti>5) registriandmete esitaja; </eesti>
+<inglise>5) persons who submit data to the register; </inglise>
+<eesti>6) registrisse andmete esitaja kogutud andmete registreerimise aluseks olevate alusdokumentide loetelu, kui see ei ole s&auml;testatud muus seaduses; </eesti>
+<inglise>6) the list of source documents which are the basis for the registration of data collected by persons who submit data to the register unless the list is provided by another Act; </inglise>
+<eesti>7) andmete registrisse &uuml;leandmise kord ja t&auml;htajad; </eesti>
+<inglise>7) the procedure and time limits for submission of data to the register; </inglise>
+<eesti>8) (Kehtetu - 15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>8) (Repealed - 15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>9) isikud, kellel on &otilde;igus saada andmeid tasuta ning registrist andmete saamise eest tasumise kord; </eesti>
+<inglise>9) the persons who have the right to receive data without charge and the procedure for payment for data received from the register; </inglise>
+<eesti>10) andmete registrist v&auml;ljastamise kord; </eesti>
+<inglise>10) the procedure for release of data from the register; </inglise>
+<eesti>11) vastavalt seadusele piiratult k&auml;ttesaadavate andmete ja salastatavate andmete loetelu ning nendega tutvumise kord; </eesti>
+<inglise>11) lists of and procedures for consulting classified data and data, access to which is restricted, pursuant to law; </inglise>
+<eesti>12) andmetele juurdep&auml;&auml;su sulgemise tingimused ja kord; </eesti>
+<inglise>12) the conditions and procedure for closure of access to data; </inglise>
+<eesti>13) eba&otilde;igete andmete parandamise ja sellest informeerimise kord; </eesti>
+<inglise>13) the procedure for correction of inaccurate data and notification thereof; </inglise>
+<eesti>14) andmete registrisse vastuv&otilde;tmise ja registrist v&auml;ljastamise &uuml;le arvestuse pidamise kord; </eesti>
+<inglise>14) the procedure for maintaining records of the receipt of data in and release of data from the register; </inglise>
+<eesti>15) registri pidamise &uuml;le j&auml;relevalvet teostama &otilde;igustatud isikud ja j&auml;relevalve teostamise kord; </eesti>
+<inglise>15) the persons entitled to exercise supervision over the maintenance of the register and the procedure for exercise of such supervision; </inglise>
+<eesti>16) registri pidamise finantseerimise kord; </eesti>
+<inglise>16) the procedure for financing the maintenance of the register; </inglise>
+<eesti>17) registri likvideerimise kord. </eesti>
+<inglise>17) the procedure for liquidation of the register. </inglise>
+<eesti>&sect; 45. </eesti>
+<inglise>&sect; 45. </inglise>
+<eesti>Kohaliku omavalitsuse muu andmekogu </eesti>
+<inglise>Other local government databases </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu k&auml;esoleva seaduse m&otilde;istes on kohalikule omavalitsusele seaduse v&otilde;i muu &otilde;igusaktiga pandud &uuml;lesannete t&auml;itmiseks v&otilde;i t&ouml;&ouml; korraldamise tagamiseks vajalik andmekogu. </eesti>
+<inglise>For the purposes of this Act, a local government database is a database established for the performance of functions imposed on a local government by corresponding Acts or other legislation or for the ensurance of the management of its work. </inglise>
+<eesti>&sect; 46. </eesti>
+<inglise>&sect; 46. </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu asutamine </eesti>
+<inglise>Establishment of local government databases </inglise>
+<eesti>(1) Kohalikule omavalitsusele seaduse v&otilde;i muu &otilde;igusaktiga pandud &uuml;lesannete t&auml;itmiseks vajaliku andmekogu asutamise otsustab kohaliku omavalitsusasutuse juht. </eesti>
+<inglise>(1) The head of a local government agency shall decide on the establishment of a database necessary for the performance of functions imposed on the local government by corresponding Acts or other legislation. </inglise>
+<eesti>(2) Kohaliku omavalitsuse andmekogu asutab kohaliku omavalitsusasutuse juht v&otilde;i tema poolt volitatud ametiisik. </eesti>
+<inglise>(2) A local government database is established by the head of the local government agency or a person authorised by him or her. </inglise>
+<eesti>&sect; 47. </eesti>
+<inglise>&sect; 47. </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu asutamise kord </eesti>
+<inglise>Procedure for establishment of local government database </inglise>
+<eesti>(1) Andmekogu asutamise &otilde;igusaktis m&auml;&auml;rab asutaja kindlaks: </eesti>
+<inglise>(1) In the legislation establishing a local government database, the establisher shall determine the following: </inglise>
+<eesti>1) andmekogu asutamise ja kasutuselev&otilde;tmise eesm&auml;rgi; </eesti>
+<inglise>1) the purpose of establishment and introduction of the database; </inglise>
+<eesti>2) andmekogu nime; </eesti>
+<inglise>2) the name of the database; </inglise>
+<eesti>3) andmekogu &uuml;lesehituse; </eesti>
+<inglise>3) the structure of the database; </inglise>
+<eesti>4) andmekogu vastutava ja volitatud t&ouml;&ouml;tleja; </eesti>
+<inglise>4) the chief and authorised processors of the database; </inglise>
+<eesti>5) andmekogusse kantavad andmed; </eesti>
+<inglise>5) data to be entered in the database; </inglise>
+<eesti>6) (Kehtetu - 15.11.2000 j&otilde;ust.01.01.2001 - RT I 2000, 92, 597) </eesti>
+<inglise>6) (Repealed - 15.11.2000 entered into force 01.01.2001 - RT I 2000, 92, 597) </inglise>
+<eesti>7) vastavalt riigisaladuse seadusele ja isikuandmete kaitse seadusele avalikuks kasutamiseks mitteetten&auml;htud andmete loetelu; </eesti>
+<inglise>7) the list of data not intended for public use pursuant to the State Secrets Act and Personal Data Protection Act; </inglise>
+<eesti>8) andmekogu pidamise &uuml;le j&auml;relevalve teostamise korra. </eesti>
+<inglise>8) the procedure for exercising supervision over the maintenance of the database. </inglise>
+<eesti>(2) Andmekogu asutamisest informeeritakse andmekaitse j&auml;relevalveasutust ja vajadusel saadakse sealt andmekogu asutamiseks luba. </eesti>
+<inglise>(2) The data protection supervision authority shall be informed of the establishment of a database and, if necessary, permission for the establishment of a database shall be obtained therefrom. </inglise>
+<eesti>&sect; 48. </eesti>
+<inglise>&sect; 48. </inglise>
+<eesti>Kohaliku omavalitsuse andmekogu likvideerimine </eesti>
+<inglise>Liquidation of local government database </inglise>
+<eesti>(1) Andmekogu likvideerimise otsustab andmekogu asutaja. </eesti>
+<inglise>(1) The liquidation of a database shall be decided by the establisher of the database. </inglise>
+<eesti>(2) Andmekogu likvideerimisel otsustatakse andmete &uuml;leandmine teise andmekogusse, riiklikku v&otilde;i kohaliku omavalitsuse arhiivi v&otilde;i nende kuulumine h&auml;vitamisele ja &uuml;leandmise v&otilde;i h&auml;vitamise t&auml;htaeg. </eesti>
+<inglise>(2) Upon liquidation of a database, the transfer of data to another database, state archives or local government archives, or their destruction, and the time limits for their transfer or destruction are decided. </inglise>
+<eesti>(3) Andmete &uuml;leandmine toimub andmekogu volitatud t&ouml;&ouml;tleja poolt andmekogu vastutava t&ouml;&ouml;tleja vastutusel ja isikuandmete korral riikliku andmekaitse j&auml;relevalveasutuse volitatud ametiisiku juuresolekul. </eesti>
+<inglise>(3) Data are transferred by authorised processors at the responsibility of the chief processor and, upon transfer of personal data, in the presence of an authorised official of the state data protection supervision authority. </inglise>
+<eesti>Andmete &uuml;leandmisel v&otilde;i h&auml;vitamisel koostatakse vastav akt. </eesti>
+<inglise>Upon transfer or destruction of data, corresponding legal instruments shall be prepared. </inglise>
+<eesti>3. peat&uuml;kk </eesti>
+<inglise>Chapter 3 </inglise>
+<eesti>J&auml;relevalve andmekogude pidamise &uuml;le </eesti>
+<inglise>Supervision over Maintenance of Databases </inglise>
+<eesti>&sect; 49. </eesti>
+<inglise>&sect; 49. </inglise>
+<eesti>Andmekaitse j&auml;relevalveasutus </eesti>
+<inglise>Data protection supervision authority </inglise>
+<eesti>Andmekaitsealast j&auml;relevalvet teostab isikuandmete kaitse seaduse &sect; 34 alusel m&auml;&auml;ratud riigiasutus. </eesti>
+<inglise>The state agency designated pursuant to &sect; 34 of the Personal Data Protection Act shall exercise supervision over data protection. </inglise>
+<eesti>&sect; 50. </eesti>
+<inglise>&sect; 50. </inglise>
+<eesti>Andmekaitse j&auml;relevalveasutuse &otilde;igused </eesti>
+<inglise>Rights of data protection supervision authority </inglise>
+<eesti>Andmekaitse j&auml;relevalveasutusel on lisaks isikuandmete kaitse seaduses s&auml;testatud &otilde;igustele &otilde;igus igal ajal kontrollida riigi ja kohalike omavalitsuste andmekogude pidamise vastavust seadustele ja muudele &otilde;igusaktidele, anda seaduses s&auml;testatud juhtudel lubasid andmete t&ouml;&ouml;tlemiseks ja ristkasutuseks, andmekogude &uuml;hendamiseks, laiendamiseks ja likvideerimiseks, lahendada andmete t&ouml;&ouml;tlemisel tekkivaid vaidlusi ning m&auml;&auml;rata seaduses s&auml;testatud korras karistusi andmete ebaseadusliku t&ouml;&ouml;tlemise ja andmekogude pidamise korra rikkumise puhul. </eesti>
+<inglise>In addition to the rights provided for in the Personal Data Protection Act, the data protection supervision authority has the right to inspect at all times the compliance of the maintenance of state and local government databases with Acts and other legislation; to issue, in the cases provided by law, licences provided by law for the processing and interbase cross-usage of data and for the combination, expansion and liquidation of databases; to resolve disputes arising from data processing and, pursuant to the procedure provided by law, to impose punishments for unlawful data processing or violation of the procedure for maintenance of databases. </inglise>
+<eesti>&sect; 51. </eesti>
+<inglise>&sect; 51. </inglise>
+<eesti>Kaebuste esitamine </eesti>
+<inglise>Filing of complaints </inglise>
+<eesti>Kaebused andmekaitse j&auml;relevalveasutusele tuleb esitada kirjalikus vormis ja kaebuses peavad olema kaebaja andmed, andmed kaebuse objekti kohta, kaebuse p&otilde;hjuseks olevad asjaolud ning n&otilde;uded, mille rahuldamist taotletakse. </eesti>
+<inglise>A complaint shall be filed with the data protection supervision authority in writing and shall set out information concerning the complainant, information about the object of the complaint, circumstances constituting the reason for the complaint and the claims which the complainant seeks to satisfy. </inglise>
+<eesti>4. peat&uuml;kk </eesti>
+<inglise>Chapter 4 </inglise>
+<eesti>Rakenduss&auml;tted </eesti>
+<inglise>Implementing Provisions </inglise>
+<eesti>&sect; 52. </eesti>
+<inglise>&sect; 52. </inglise>
+<eesti>Varem asutatud riiklike registrite ja andmebaaside vastavusse viimine k&auml;esoleva seadusega </eesti>
+<inglise>Bringing previously established state registers and databases into compliance with this Act </inglise>
+<eesti>(1) Riikliku registri v&otilde;i andmebaasi p&otilde;him&auml;&auml;rus, mis on vastu v&otilde;etud enne k&auml;esoleva seaduse j&otilde;ustumist, tuleb viia vastavusse k&auml;esoleva seadusega kahe aasta jooksul p&auml;rast seaduse j&otilde;ustumist. </eesti>
+<inglise>(1) The statutes of state registers or databases which are approved prior to the entry into force of this Act shall be brought into compliance with this Act within two years after the entry into force of this Act. </inglise>
+<eesti>(2) Andmekogusse andmete kogumise, andmekogu pidamise ja andmekogust andmete saamise finantseerimine tuleb viia vastavusse k&auml;esoleva seadusega seaduse j&otilde;ustumisele j&auml;rgneval riigieelarve koostamisel. </eesti>
+<inglise>(2) The financing of collection of data in databases, maintenance of databases and receipt of data from databases shall be brought into compliance with this Act in the draft of the state budget for the year following the entry into force of this Act. </inglise>
+<eesti>&sect; 53. </eesti>
+<inglise>&sect; 53. </inglise>
+<eesti>Riigi p&otilde;hiregistreid kindlustavate s&uuml;steemide v&auml;ljat&ouml;&ouml;tamine ja rakendamine </eesti>
+<inglise>Development and implementation of support systems for general national registers </inglise>
+<eesti>(1) Riigi p&otilde;hiregistrite kasutamist kindlustavate s&uuml;steemide v&auml;ljat&ouml;&ouml;tamise ja rakendamise korra kehtestab Vabariigi Valitsus. </eesti>
+<inglise>(1) The procedure for development and implementation of support systems for the operation of general national registers shall be established by the Government of the Republic. </inglise>
+<eesti>(2) P&otilde;hiregistreid kindlustavateks s&uuml;steemideks on: </eesti>
+<inglise>(2) The support systems for general registers are: </inglise>
+<eesti>1) riiklike klassifikaatorite s&uuml;steem; </eesti>
+<inglise>1) the official classifications system; </inglise>
+<eesti>2) Eesti kaardis&uuml;steem; </eesti>
+<inglise>2) the Estonian map system; </inglise>
+<eesti>3) objektide aadressiandmete ja nimede s&uuml;steem. </eesti>
+<inglise>3) the system of address details and names of objects. </inglise>
+<eesti>(3) P&otilde;hiregistrite loomist kindlustavad s&uuml;steemid tuleb v&auml;lja t&ouml;&ouml;tada kahe aasta jooksul p&auml;rast k&auml;esoleva seaduse j&otilde;ustumist ja s&auml;testada nende rakendamise t&auml;htajad. </eesti>
+<inglise>(3) Support systems for the establishment of general registers shall be developed within two years after the entry into force of this Act, and the time limits for their implementation shall be provided for. </inglise>
+<eesti>&sect; 54. </eesti>
+<inglise>&sect; 54. </inglise>
+<eesti>Vastutus k&auml;esoleva seaduse rikkumise eest </eesti>
+<inglise>Liability for Violation of This Act </inglise>
+<eesti>Isikud, kes andmekogu pidamisel v&otilde;i andmekogu andmete kasutamisel rikuvad k&auml;esolevat seadust, kannavad vastutust distsiplinaar-, haldus- ja kriminaalkorras. </eesti>
+<inglise>Persons who violate this Act upon maintaining databases or using data in databases are held liable pursuant to disciplinary, administrative or criminal procedure. </inglise>
+<eesti>[ &sect;&sect; 55 - 56 v&auml;lja j&auml;etud ] </eesti>
+<inglise>[ &sect;&sect; 55 - 56 omitted ] (3) </inglise>
+<eesti>&sect; 57. </eesti>
+<inglise>&sect; 57. </inglise>
+<eesti>Riiklike registrite seaduse kehtetuks tunnistamine </eesti>
+<inglise>Repeal of State Registers Act The Estonian Soviet Socialist Republic State Registers Act (ENSV Teataja (5) 1990, 3, 61) is repealed. </inglise>
+
+<eesti>Tunnistatakse kehtetuks Eesti N&otilde;ukogude Sotsialistliku Vabariigi riiklike registrite seadus (ENSV Teataja 1990, 3, 61). </eesti>
+<inglise>(2) Riigikogu = the parliament of Estonia (3) The omitted section amends other legislation. </inglise>
+

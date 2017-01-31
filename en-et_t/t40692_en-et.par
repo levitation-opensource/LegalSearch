@@ -1,0 +1,658 @@
+<inglise> Directive 98/31/EC of the European Parliament and of the Council the Councilthe CouncilJune 1998 amending Council Directive 93/6/EEC on the capit l adequacy of investment firms and credit institutions </inglise>
+<eesti> EUROOPA PARLAMENDI JA N&Otilde;UKOGU DIREKTIIV 98/31/E&Uuml;, millega muudetakse n&otilde;ukogu direktiivi 93/6/EM&Uuml; investeerimis&uuml;hingute ja krediidiasutuste kapitali adekvaatsuse kohta 22. juuni 1998 </eesti>
+<inglise> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, </inglise>
+<eesti> EUROOPA PARLAMENT JA EUROOPA LIIDU N&Otilde;UKOGU, </eesti>
+<inglise> Having regard to the Treaty establishing the European Community, and in particular the first and third sentences of Article 57(2) thereof, </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa &Uuml;henduse asutamislepingut, eriti selle artikli 57 l&otilde;ike 2 esimest ja kolmandat lauset, </eesti>
+<inglise> Having regard to the proposal from the Commission (1), </inglise>
+<eesti> v&otilde;ttes arvesse komisjoni ettepanekut, (1) </eesti>
+<inglise> Having regard to the opinion of the Economic and Social Committee (2), </inglise>
+<eesti> v&otilde;ttes arvesse majandus- ja sotsiaalkomitee arvamust, (2) </eesti>
+<inglise> Having regard to the opinion of the European Monetary Institute (3), </inglise>
+<eesti> v&otilde;ttes arvesse Euroopa Rahainstituudi arvamust, (3) </eesti>
+<inglise> Acting in accordance with the procedure laid down in Article 189b of the Treaty (4), </inglise>
+<eesti> toimides asutamislepingu artiklis 189b s&auml;testatud korras (4) ning arvestades, et: </eesti>
+<inglise> (1) Whereas the risks associated with commodities trading and commodity derivatives are currently subject to Council Directive 89/647/EEC of 18 December 1989 on a solvency ratio for credit institutions (5); whereas, however, the market risks associated with those positions are not captured accurately by Directive 89/647/EEC; whereas it is necessary to extend the concept of the 'trading book' to positions in commodities or commodity derivatives which are held for trading purposes and are subject mainly to market risks; whereas institutions must comply with this Directive as regards the coverage of commodity risks on their overall business; whereas the perpetration of serious fraud by certain commodity futures traders is of growing concern to the Community and a threat to the image and integrity of the futures trading business; whereas it is desirable that the Commission should consider defining an appropriate prudential framework in order to prevent these fraudulent practices in the future; </inglise>
+<eesti> 1) kaupadega kauplemise ja kauba tuletisinstrumentidega seotud riskide suhtes kohaldatakse hetkel n&otilde;ukogu 18. detsembri 1989. aasta direktiivi 89/647/EM&Uuml; krediidiasutuste maksev&otilde;ime suhtarvu kohta; (5) direktiiv 89/647/EM&Uuml; ei kata siiski korralikult nende positsioonidega seotud tururiske; "kauplemisportfelli" m&otilde;istet on vaja laiendada kaubapositsioonidele v&otilde;i kauba tuletisinstrumentide positsioonidele, mida hoitakse kauplemiseks ja mis on altid eelk&otilde;ige tururiskidele; asutused peavad t&auml;itma k&auml;esolevat direktiivi oma &uuml;ldisest &auml;ritegevusest tulenevate kaubariskide katmisel; teatavate kaubafutuuridega kauplejate rasked kelmused p&otilde;hjustavad &uuml;hendusele &uuml;ha enam muret ja on ohuks futuuridega kauplemise mainele ja terviklikkusele; on soovitav, et komisjon kaaluks asjakohase usaldusnormide raamistiku m&auml;&auml;ratlemist, et tulevikus v&auml;ltida selliseid pettusi; </eesti>
+<inglise> (2) Whereas Council Directive 93/6/EEC of 15 March 1993 on the capital adequacy of investment firms and credit institutions (6) lays down a standardised method for the calculation of capital requirements for market risks incurred by investment firms and credit institutions; whereas institutions have developed their own risk-management systems (internal models), designed to measure more accurately than the standardised method the market risks incurred by investment firms and credit institutions; whereas the use of more accurate methods of measuring risks should be encouraged; </inglise>
+<eesti> 2) investeerimis&uuml;hingute ja krediidiasutuste kapitali adekvaatsust k&auml;sitleva n&otilde;ukogu 15. m&auml;rtsi 1993. aasta direktiiviga 93/6/EM&Uuml; (6) kehtestatakse &uuml;htne meetod investeerimis&uuml;hingute ja krediidiasutuste kantavate tururiskidega seotud kapitalin&otilde;uete arvutamiseks; asutused on v&auml;lja t&ouml;&ouml;tanud oma riskijuhtimiss&uuml;steemid (sisemudelid), mis on m&otilde;eldud investeerimis&uuml;hingute ja krediidiasutuste kantavate tururiskide m&otilde;&otilde;tmiseks t&auml;psemalt kui &uuml;htse meetodiga; t&auml;psemate riskim&otilde;&otilde;tmismeetodite kasutamist tuleks soodustada; </eesti>
+<inglise> (3) Whereas the use of such internal models for the purpose of calculating capital requirements requires strict internal control mechanisms and should be subject to recognition and supervision by the competent authorities; whereas the continued reliability of the results of the internal model calculation should be verified by a back-testing procedure; </inglise>
+<eesti> 3) selliste sisemudelite kasutamiseks kapitalin&otilde;uete arvutamisel on vaja rangeid sisekontrollis&uuml;steeme ning p&auml;devad asutused peaksid tunnustama ja valvama nende kasutamist; sisemudeli arvutustulemuste j&auml;tkuvas usaldusv&auml;&auml;rsuses tuleks veenduda j&auml;relv&otilde;rdluse abil; </eesti>
+<inglise> (4) Whereas it is appropriate that competent authorities may allow margin requirements for exchange-traded futures and options, and on a transitional basis for cleared over-the-counter derivatives of the same nature, to be used as substitutes for the capital requirement calculated for such instruments in accordance with this Directive, provided that this does not lead to a capital requirement which is lower than the capital requirement calculated according to the other methods prescribed in this Directive; whereas the application of this principle does not require that the equivalence between such margin requirements and the capital requirements calculated according to the other methods prescribed in this Directive must be continually verified by the institutions applying this principle; </inglise>
+<eesti> 4) on asjakohane, et p&auml;devad asutused v&otilde;ivad lubada b&ouml;rsil kaubeldavate futuuride ja optsioonide ning &uuml;leminekuajal samalaadsete b&ouml;rsiv&auml;liste tuletisinstrumentide tagatisen&otilde;udeid kasutada k&auml;esoleva direktiivi alusel sellistele instrumentidele arvutatud kapitalin&otilde;ude asemel, tingimusel et selle tulemuseks ei ole kapitalin&otilde;ue, mis on madalam kui muude k&auml;esolevas direktiivis s&auml;testatud meetoditega arvutatud kapitalin&otilde;ue; selle p&otilde;him&otilde;tte kohaldamine ei n&otilde;ua, et seda kohaldavad asutused peavad selliste tagatisen&otilde;uete ja muude k&auml;esolevas direktiivis s&auml;testatud meetoditega arvutatud kapitalin&otilde;uete v&otilde;rdv&auml;&auml;rsust pidevalt kontrollima; </eesti>
+<inglise> (5) Whereas the rules adopted at the wider international level may, in order to encourage more sophisticated risk-management methods based on internal models, lower capital requirements for credit institutions from third countries; whereas those credit institutions compete with investment firms and credit institutions incorporated in the Member States; whereas for investment firms and credit institutions incorporated in the Member States, only an amendment of Directive 93/6/EEC can provide similar incentives for the development and use of internal models; </inglise>
+<eesti> 5) laiemal rahvusvahelisel tasandil vastuv&otilde;etud eeskirjad v&otilde;ivad keerukamate sisemudelitel p&otilde;hinevate riskijuhtimismeetodite soodustamiseks v&auml;hendada kolmandate riikide krediidiasutuste kapitalin&otilde;udeid; need krediidiasutused konkureerivad liikmesriikides asutatud investeerimis&uuml;hingute ja krediidiasutustega; liikmesriikides asutatud investeerimis&uuml;hingutele ja krediidiasutustele saab samasuguseid soodustusi sisemudelite arendamiseks ja kasutamiseks kehtestada &uuml;ksnes direktiivi 93/6/EM&Uuml; muutmise teel; </eesti>
+<inglise> (6) Whereas for the purpose of calculating market-risk-capital requirements, positions in gold and gold derivatives should be treated in a similar fashion to foreign-exchange positions; </inglise>
+<eesti> 6) tururiskiga kapitali n&otilde;uete arvutamiseks tuleks kulla positsioone ja kulla tuletisinstrumentide positsioone k&auml;sitleda samamoodi kui v&auml;lisvaluuta positsioone; </eesti>
+<inglise> (7) Whereas the issue of subordinated debt should not automatically exclude an issuer's equity from being included in a portfolio qualifying for a 2 % specific-risk weighting according to point 33 of Annex I to Directive 93/6/EEC; </inglise>
+<eesti> 7) allutatud v&otilde;lainstrumentide v&auml;ljalaskmine ei tohiks automaatselt t&auml;hendada, et emitendi aktsiaid ei v&otilde;i arvata portfelli, mille eririski kaal on direktiivi 93/6/EM&Uuml; I lisa punkti 33 kohaselt 2%; </eesti>
+<inglise> (8) Whereas this Directive is in accordance with the work of an international forum of banking supervisors on the supervisory treatment of market risk and of positions in commodities and commodity derivatives; </inglise>
+<eesti> 8) k&auml;esolev direktiiv on koosk&otilde;las pangandusj&auml;relevalvajate rahvusvahelise foorumi t&ouml;&ouml;ga, mis k&auml;sitleb tururiskide ning kaubapositsioonide ja kauba tuletisinstrumentide positsioonide j&auml;relevalvet; </eesti>
+<inglise> (9) Whereas it is necessary to have a transitional capital regime on an optional basis for investment firms and credit institutions undertaking significant commodities business, having a diversified commodity portfolio and being not yet able to use models for the purpose of calculating the commodities risk capital requirement, in order to ensure a harmonious application of this Directive; </inglise>
+<eesti> 9) k&auml;esoleva direktiivi &uuml;htse kohaldamise tagamiseks on vaja, et investeerimis&uuml;hingutel ja krediidiasutustel, kes kauplevad suurel m&auml;&auml;ral kaupadega ja kellel on diversifitseeritud kaubaportfell ning kes ei saa veel kasutada kaubariski kapitalin&otilde;ude arvutamiseks mudeleid, oleks &uuml;leminekuajal valikuline kapitalikord; </eesti>
+<inglise> (10) Whereas this Directive is the most appropriate means of attaining the objectives sought and does not go beyond what is necessary to achieve those objectives, </inglise>
+<eesti> 10) k&auml;esolev direktiiv on sobivaim vahend seatud eesm&auml;rkide saavutamiseks ja ei k&auml;sitle rohkemat kui nende eesm&auml;rkide saavutamiseks vajalik, </eesti>
+<inglise> HAVE ADOPTED THIS DIRECTIVE: </inglise>
+<eesti> ON VASTU V&Otilde;TNUD K&Auml;ESOLEVA DIREKTIIVI. </eesti>
+<inglise> Article 1 </inglise>
+<eesti> Artikkel 1 </eesti>
+<inglise> Directive 93/6/EEC is hereby amended as follows: </inglise>
+<eesti> K&auml;esolevaga muudetakse direktiivi 93/6/EM&Uuml; j&auml;rgmiselt. </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Article 2 is amended as follows: </inglise>
+<eesti> Artiklit 2 muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) point 6(a) and the introductory phrase and subpoints (i) and (ii) of point 6(b) shall be replaced by the following: </inglise>
+<eesti> a) punkti 6 alapunkt a ning punkti 6 alapunkti b sissejuhatav osa ja alapunktid i ja ii asendatakse j&auml;rgmisega: </eesti>
+<inglise> '(a) its proprietary positions in financial instruments, commodities and commodity derivatives which are held for resale and/or which are taken on by the institution with the intention of benefiting in the short term from actual and/or expected differences between their buying and selling prices, or from other price or interest-rate variations, and positions in financial instruments, commodities and commodity derivatives, arising from matched principal broking, or positions taken in order to hedge other elements of the trading book; </inglise>
+<eesti> "a) omandipositsioonidest finantsvahendites, kaupades ja kauba tuletisinstrumentides, mida hoitakse edasim&uuml;&uuml;giks ja/v&otilde;i mida asutus on soetanud kavatsusega saada kiiret kasu ostu- ja m&uuml;&uuml;gihinna tegelike ja/v&otilde;i eeldatavate erinevuste v&otilde;i muude hinna- v&otilde;i intressim&auml;&auml;ra k&otilde;ikumiste arvelt, ning kattuvate ostu- ja m&uuml;&uuml;gisoovide &uuml;hildamisest tulenevatest positsioonidest finantsvahendites, kaupades ja kauba tuletisinstrumentides v&otilde;i positsioonidest, mis v&otilde;etakse kauplemisportfelli teiste osade katmiseks; </eesti>
+<inglise> (b) the exposures due to the unsettled transactions, free deliveries and over-the-counter (OTC) derivative instruments referred to in paragraphs 1, 2, 3 and 5 of Annex II, the exposures due to repurchase agreements and securities and commodities lending which are based on securities or commodities included in the trading book as defined in (a) referred to in paragraph 4 of Annex II, those exposures due to reverse repurchase agreements and securities-borrowing and commodities-borrowing transactions described in the same paragraph, provided the competent authorities so approve, which meet either conditions (i), (ii), (iii) and (v) or conditions (iv) and (v) as follows: </inglise>
+<eesti> b) riskidest, mis tulenevad II lisa punktides 1, 2, 3 ja 5 nimetatud l&otilde;petamata tehingutest, enne tasumist loovutatud v&auml;&auml;rtpaberitest ja b&ouml;rsiv&auml;listest tuletisinstrumentidest, riskidest, mis tulenevad II lisa punktis 4 nimetatud repotehingutest ning v&auml;&auml;rtpaberi- ja kaubalaenude andmisest ja mis p&otilde;hinevad punkti a kohastel kauplemisportfelli kantud v&auml;&auml;rtpaberitel v&otilde;i kaupadel, riskidest, mis tulenevad samas punktis nimetatud p&ouml;&ouml;rdrepotehingutest ja v&auml;&auml;rtpaberite ja kaupade laenutehingutest, tingimusel et p&auml;devad asutused need heaks kiidavad, ja mis vastavad j&auml;rgmistele alapunktides i-iii ja v, v&otilde;i iv ja v kirjeldatud tingimustele: i) riskid arvutatakse iga p&auml;ev turuhinda II lisas s&auml;testatud korras; </eesti>
+<inglise> (i) the exposures are marked to market daily following the procedures laid down in Annex II; </inglise>
+<eesti> ii) tagatist kohandatakse asjakohase lepingu v&otilde;i tehingu v&auml;&auml;rtpaberite v&otilde;i kaupade v&auml;&auml;rtuse oluliste muutuste arvessev&otilde;tmiseks p&auml;devate asutuste heakskiidetud eeskirja kohaselt;" b) punktid 15 ja 16 asendatakse j&auml;rgmisega: </eesti>
+<inglise> (b) points 15 and 16 shall be replaced by the following: </inglise>
+<eesti> c) punkti 17 esimene l&otilde;ik asendatakse j&auml;rgmisega: "17) leping ja p&ouml;&ouml;rdrepotehing - mis tahes leping, mille alusel asutus v&otilde;i tema vastaspool v&otilde;&otilde;randab v&auml;&auml;rtpaberid v&otilde;i kaubad v&otilde;i tagatud &otilde;igused, mis annavad omandi&otilde;iguse v&auml;&auml;rtpaberitele v&otilde;i kaupadele, kui tagatise on andnud tunnustatud b&ouml;rs, kellel on &otilde;igused nendele v&auml;&auml;rtpaberitele v&otilde;i kaupadele, ja lepinguga ei ole asutusel lubatud v&otilde;&otilde;randada ega pantida teatavat v&auml;&auml;rtpaberit v&otilde;i kaupa korraga rohkem kui &uuml;hele vastaspoolele, kohustudes need (v&otilde;i samalaadsed asendusv&auml;&auml;rtpaberid v&otilde;i -kaubad) v&otilde;&otilde;randaja m&auml;&auml;ratud v&otilde;i m&auml;&auml;rataval kuup&auml;eval kindlaksm&auml;&auml;ratud hinnaga tagasi ostma, kui v&auml;&auml;rtpabereid m&uuml;&uuml;vale asutusele on see repotehing ja v&auml;&auml;rtpabereid ostvale asutusele p&ouml;&ouml;rdrepotehing;" </eesti>
+<inglise> '15. </inglise>
+
+<eesti> "18) v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks andmine ja v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks v&otilde;tmine - mis tahes tehing, kus asutus v&otilde;i tema vastaspool annab kohase tagatise eest &uuml;le v&auml;&auml;rtpaberid v&otilde;i kaubad ning laenuv&otilde;tja kohustub tulevikus v&otilde;i laenuandja n&otilde;udmise korral tagastama samav&auml;&auml;rsed v&auml;&auml;rtpaberid v&otilde;i kaubad, kui v&auml;&auml;rtpabereid v&otilde;i kaupu &uuml;leandvale asutusele on see v&auml;&auml;rtpaberite v&otilde;i kaupade laenuksandmine ja v&auml;&auml;rtpabereid v&otilde;i kaupu vastuv&otilde;tvale asutusele v&auml;&auml;rtpaberite v&otilde;i kaupade laenuksv&otilde;tmine. V&auml;&auml;rtpaberite v&otilde;i kaupade laenuksv&otilde;tmist k&auml;sitletakse erialaasjatundjate vahelise tehinguna, kui vastaspoole suhtes kohaldatakse &uuml;henduse tasemel &uuml;htlustatud usaldusnormide t&auml;itmise j&auml;relevalvet v&otilde;i kui vastaspooleks on direktiivis 89/647/EM&Uuml; m&auml;&auml;ratletud A-piirkonna krediidiasutus v&otilde;i kolmanda riigi tunnustatud investeerimis&uuml;hing v&otilde;i kui tehing on s&otilde;lmitud tunnustatud arvelduskoja v&otilde;i b&ouml;rsiga;". </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Article 5(2) shall be replaced by the following: </inglise>
+<eesti> Artikli 5 l&otilde;ige 2 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '2. </inglise>
+<eesti> "2. </eesti>
+<inglise> Notwithstanding paragraph 1, those institutions which calculate the capital requirements for their trading-book business in accordance with Annexes I and II, and as appropriate Annex VIII, shall monitor and control their large exposures in accordance with Directive 92/121/EEC subject to the modifications laid down in Annex VI to this Directive'; </inglise>
+<eesti> Olenemata l&otilde;ikest 1 j&auml;lgivad ja kontrollivad asutused, kes arvutavad oma kauplemisportfelliga seotud kapitalin&otilde;udeid I ja II ning vajaduse korral VIII lisa kohaselt, oma riskide kontsentratsiooni direktiivi 92/121/EM&Uuml; kohaselt, kui k&auml;esoleva direktiivi VI lisas s&auml;testatud muudatustest ei tulene teisiti." </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Article 7(10) and the introductory part of Article 7(11), shall be replaced by the following: </inglise>
+<eesti> Artikli 7 l&otilde;ige 10 ja artikli 7 l&otilde;ike 11 sissejuhatav osa asendatakse j&auml;rgmisega: </eesti>
+<inglise> '10. </inglise>
+<eesti> "10. </eesti>
+<inglise> Where the rights of waiver provided for in paragraphs 7 and 9 are not exercised, the competent authorities may, for the purpose of calculating the capital requirements set out in Annexes I and VIII and the exposures to clients set out in Annex VI on a consolidated basis, permit positions in the trading book of one institution to offset positions in the trading book of another institution according to the rules set out in Annexes I, VI and VIII. </inglise>
+<eesti> Kui l&otilde;igetes 7 ja 9 s&auml;testatud loobumis&otilde;igust ei kasutata, v&otilde;ivad p&auml;devad asutused I ja VIII lisas s&auml;testatud kapitalin&otilde;uete ja VI lisas s&auml;testatud kliendiriskide konsolideeritud arvutamiseks lubada &uuml;he asutuse kauplemisportfelli positsioonide tasaarvestust teise asutuse kauplemisportfelli positsioonide suhtes I, VI ja VIII lisas s&auml;testatud eeskirjade kohaselt. </eesti>
+<inglise> In addition, they may allow foreign-exchange positions in one institution to offset foreign-exchange positions in another institution in accordance with the rules set out in Annex III and/or Annex VIII. </inglise>
+<eesti> Lisaks v&otilde;ivad nad lubada &uuml;he asutuse v&auml;lisvaluuta positsioonide tasaarvestust teise asutuse v&auml;lisvaluuta positsioonide suhtes III ja/v&otilde;i VIII lisas s&auml;testatud eeskirjade kohaselt. </eesti>
+<inglise> They may also allow commodities positions in one institution to offset commodities positions in another institution in accordance with the rules set out in Annex VII and/or Annex VIII. </inglise>
+<eesti> Samuti v&otilde;ivad nad lubada &uuml;he asutuse kaubapositsioonide tasaarvestust teise asutuse kaubapositsioonide suhtes III ja/v&otilde;i VIII lisas s&auml;testatud eeskirjade kohaselt. </eesti>
+<inglise> 11. </inglise>
+<eesti> 11. </eesti>
+<inglise> The competent authorities may also permit offsetting of the trading book and of the foreign-exchange and commodities positions, respectively, of undertakings located in third countries, subject to the simultaneous fulfilment of the following conditions: ' . </inglise>
+<eesti> Samuti v&otilde;ivad p&auml;devad asutused lubada kolmandates riikides asuvate ettev&otilde;tjate kauplemisportfelli ning v&auml;lisv&auml;&auml;ringu- ja kaubapositsioonide tasaarvestust, kui &uuml;hel ajal on t&auml;idetud j&auml;rgmised tingimused:". </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Article 8(5) shall be replaced by the following: </inglise>
+<eesti> Artikli 8 l&otilde;ige 5 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '5. </inglise>
+<eesti> "5. </eesti>
+<inglise> The competent authorities shall oblige institutions to report to them immediately any case in which their counter-parties in repurchase and reverse repurchase agreements or securities and commodities-lending and securities and commodities-borrowing transactions default on their obligations. </inglise>
+<eesti> P&auml;devad asutused kohustavad asutusi teatama neile viivitamata igast juhtumist, mil nende repotehingute ja p&ouml;&ouml;rdrepotehingute v&otilde;i v&auml;&auml;rtpaberite ja kaupade laenuks andmise ja v&otilde;tmise tehingute vastaspooled ei t&auml;ida oma kohustusi. </eesti>
+<inglise> The Commission shall report to the Council on such cases and their implications for the treatment of such agreements and transactions in this Directive not more than three years after the date referred to in Article 12. </inglise>
+<eesti> Komisjon annab n&otilde;ukogule aru sellistest juhtumitest ning nende m&otilde;just selliste lepingute ja tehingute k&auml;sitlemisele k&auml;esolevas direktiivis hiljemalt kolme aasta jooksul p&auml;rast artiklis 12 nimetatud kuup&auml;eva. </eesti>
+<inglise> Such report shall also describe the way that institutions meet those of conditions (i) to (v) in Article 2(6) (b) that apply to them, in particular condition (v). </inglise>
+<eesti> Selles aruandes kirjeldatakse ka seda, kuidas asutused t&auml;idavad nende suhtes kohaldatavaid artikli 2 l&otilde;ike 6 punkti b alapunktide i-v, eelk&otilde;ige alapunkti v tingimusi. </eesti>
+<inglise> Furthermore it shall give details of any changes in the relative volume of institutions' traditional lending and their lending through reverse repurchase agreements and securities-borrowing or commodities-borrowing transactions. </inglise>
+<eesti> Lisaks sellele kirjeldatakse aruandes &uuml;ksikasjalikult igasuguseid muutusi asutuste tavalise laenutegevuse ning p&ouml;&ouml;rdrepotehingute ja v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks v&otilde;tmise tehingute kaudu toimuva laenutegevuse suhtelistes mahtudes. </eesti>
+<inglise> If the Commission concludes on the basis of this report and other information that further safeguards are needed to prevent abuse, it shall make appropriate proposals'. </inglise>
+<eesti> Kui komisjon j&auml;reldab sellest aruandest ja muudest andmetest, et kuritarvituste v&auml;ltimiseks on vaja rakendada t&auml;iendavaid kaitsemeetmeid, teeb ta asjakohased ettepanekud." </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> The following Article shall be inserted: </inglise>
+<eesti> Lisatakse j&auml;rgmine artikkel: </eesti>
+<inglise> 'Article 11a </inglise>
+<eesti> "Artikkel 11a </eesti>
+<inglise> Until 31 December 2006, Member States may authorise their institutions to use the minimum spread, carry and outright rates set out in the following table instead of those indicated in paragraphs 13, 14, 17 and 18 of Annex VII provided that the institutions, in the opinion of their competent authorities: (i) undertake significant commodities business, </inglise>
+<eesti> Liikmesriigid v&otilde;ivad 31. detsembrini 2006 lubada oma asutustel kasutada VII lisa punktides 13, 14, 17 ja 18 osutatute asemel j&auml;rgmises tabelis s&auml;testatud v&auml;himat hinnavahe m&auml;&auml;ra, tehingute edasikandmise kulum&auml;&auml;ra ja ostu-m&uuml;&uuml;gi tehingum&auml;&auml;ra, tingimusel et asjaomaste p&auml;devate asutuste arvates asutused: </eesti>
+<inglise> (ii) have a diversified commodities portfolio, and </inglise>
+<eesti> i) kauplevad suurel m&auml;&auml;ral kaupadega, </eesti>
+<inglise> (iii) are not yet in a position to use internal models for the purpose of calculating the capital requirement on commodities risk in accordance with Annex VIII. </inglise>
+<eesti> ii) omavad diversifitseeritud kaubaportfelli ja </eesti>
+<inglise> Table Precious Base Agricultural Other, including metals metals products (softs) energy products (except gold) </inglise>
+<eesti> iii) ei saa veel kasutada sisemudeleid kaubariski kapitalin&otilde;ude arvutamiseks VIII lisa kohaselt. Tabel </eesti>
+<inglise> Spread rate (%) 1,0 1,2 1,5 1,5 Carry rate (%) 0,3 0,5 0,6 0,6 Outright rate (%) 8 10 12 15 Member States shall inform the Commission of the use they make of this Article'. </inglise>
+<eesti> Liikmesriigid teatavad komisjonile, kuidas nad k&auml;esolevat artiklit kasutavad." </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> Annexes I, II, III and V shall be amended, and Annexes VII and VIII added in accordance with the Annex to this Directive. </inglise>
+<eesti> K&auml;esoleva m&auml;&auml;ruse lisa kohaselt muudetakse I-III ja V lisa ning lisatakse VII ja VIII lisa. </eesti>
+<inglise> Article 2 </inglise>
+<eesti> Artikkel 2 </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 24 months after the date of its entry into force. </inglise>
+<eesti> Liikmesriigid j&otilde;ustavad k&auml;esoleva direktiivi t&auml;itmiseks vajalikud &otilde;igusnormid hiljemalt 24 kuu jooksul p&auml;rast direktiivi j&otilde;ustumist. </eesti>
+<inglise> They shall forthwith inform the Commission thereof. </inglise>
+<eesti> Liikmesriigid teatavad sellest viivitamata komisjonile. </eesti>
+<inglise> When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. </inglise>
+<eesti> Kui liikmesriigid need meetmed vastu v&otilde;tavad, lisavad nad nendesse meetmetesse v&otilde;i nende meetmete ametliku avaldamise korral nende juurde viite k&auml;esolevale direktiivile. </eesti>
+<inglise> The methods of making such reference shall be laid down by Member States. </inglise>
+<eesti> Sellise viitamise viisi n&auml;evad ette liikmesriigid. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Member States shall communicate to the Commission the text of the main provisions of domestic law which they adopt in the field governed by this Directive. </inglise>
+<eesti> Liikmesriigid edastavad komisjonile k&auml;esoleva direktiiviga reguleeritavas valdkonnas nende vastuv&otilde;etud p&otilde;hiliste siseriiklike &otilde;igusnormide teksti. </eesti>
+<inglise> Article 3 </inglise>
+<eesti> Artikkel 3 </eesti>
+<inglise> This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities. </inglise>
+<eesti> K&auml;esolev direktiiv j&otilde;ustub Euroopa &Uuml;henduste Teatajas avaldamise p&auml;eval. </eesti>
+<inglise> Article 4 </inglise>
+<eesti> Artikkel 4 </eesti>
+<inglise> This Directive is addressed to the Member States. </inglise>
+<eesti> K&auml;esolev direktiiv on adresseeritud liikmesriikidele. </eesti>
+<inglise> Done at Luxembourg, 22 June 1998. </inglise>
+<eesti> Luxembourg, 22. juuni 1998 </eesti>
+<inglise> For the European Parliament </inglise>
+<eesti> Euroopa Parlamendi nimel </eesti>
+<inglise> The President </inglise>
+<eesti> president </eesti>
+<inglise> J. M. GIL-ROBLES </inglise>
+<eesti> J. M. GIL-ROBLES </eesti>
+<inglise> For the Council </inglise>
+<eesti> N&otilde;ukogu nimel </eesti>
+<inglise> The President </inglise>
+<eesti> eesistuja </eesti>
+<inglise> J. CUNNINGHAM </inglise>
+<eesti> J. CUNNINGHAM </eesti>
+<inglise> (1) OJ C 240, 6.8.1997, p. 24, and OJ C 118, 17.4.1998, p. 16. </inglise>
+<eesti> (1) E&Uuml;T C 240, 6.08.1997, lk 24 ja E&Uuml;T C 118, 17.04.1998, lk 16. </eesti>
+<inglise> (2) OJ C 19, 21.1.1998, p. 9. </inglise>
+<eesti> (2) E&Uuml;T C 19, 21.01.1998, lk 9. </eesti>
+<inglise> (3) Opinion delivered on 7 October 1997. </inglise>
+<eesti> (3) Arvamus on esitatud 7. oktoobril 1997. </eesti>
+<inglise> (4) Opinion of the European Parliament of 18 December 1997 (OJ C 14, 19.1.1998), Council common position of 9 March 1998 (OJ C 135, 30.4.1998, p. 7) and Decision of the European Parliament of 30 April 1998 (OJ C 152, 18.5.1998). </inglise>
+<eesti> (4) Euroopa Parlamendi 18. detsembri 1997. aasta arvamus (E&Uuml;T C 14, 19.01.1998), n&otilde;ukogu 9. m&auml;rtsi 1998. aasta &uuml;hisseisukoht (E&Uuml;T C 135, 30.04.1998, lk 7) ja Euroopa Parlamendi 30. aprilli 1998. aasta otsus (E&Uuml;T C 152, 18.05.1998). </eesti>
+<inglise> Council Decision of 19 May 1998. </inglise>
+<eesti> N&otilde;ukogu 19. mai 1998. aasta otsus. </eesti>
+<inglise> (5) OJ L 386, 30.12.1989, p. 14. Directive as last amended by Directive 98/32/EC of the European Parliament and of the Council (see page 26 of this Official Journal). </inglise>
+<eesti> (5) E&Uuml;T L 386, 30.12.1989, lk 14. Direktiivi on viimati muudetud Euroopa Parlamendi ja n&otilde;ukogu direktiiviga 98/32/E&Uuml; (vt E&Uuml;T L 204, 21.07.1998, lk 26). </eesti>
+<inglise> (6) OJ L 141, 11.6.1993, p. 1. Directive as amended by Directive 98/33/EC of the European Parliament and of the Council (see page 29 of this Official Journal). </inglise>
+<eesti> (6) E&Uuml;T L 141, 11.06.1993, lk 1. Direktiivi on viimati muudetud Euroopa Parlamendi ja n&otilde;ukogu direktiiviga 98/33/E&Uuml; (vt E&Uuml;T L 204, 21.07.1998, lk 29). </eesti>
+<inglise> ANNEX </inglise>
+<eesti> LISA </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Annex I is amended as follows: </inglise>
+<eesti> I lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) In Paragraph 4, the last sentence is deleted and the following subparagraph is added: </inglise>
+<eesti> a) punkti 4 viimane lause kustutatakse ja lisatakse j&auml;rgmine l&otilde;ik: </eesti>
+<inglise> 'The competent authorities may allow the capital requirement for an exchange-traded future to be equal to the margin required by the exchange if they are fully satisfied that it provides an accurate measure of the risk associated with the future and that it is at least equal to the capital requirement for a future that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> "P&auml;devad asutused v&otilde;ivad lubada, et b&ouml;rsil kaubeldava futuuri kapitalin&otilde;ue on v&otilde;rdne b&ouml;rsil n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt futuuriga seotud riskile ja on v&auml;hemalt v&otilde;rdne futuuri kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> Until 31 December 2006 the competent authorities may also allow the capital requirement for an OTC derivatives contract of the type referred to in this paragraph cleared by a clearing house recognised by them to be equal to the margin required by the clearing house if they are fully satisfied that it provides an accurate measure of the risk associated with the derivatives contract and that it is at least equal to the capital requirement for the contract in question that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII'. </inglise>
+<eesti> Samuti v&otilde;ivad p&auml;devad asutused 31. detsembrini 2006 lubada, et nende tunnustatud arvelduskoja arveldatud ja k&auml;esolevas punktis nimetatud liiki b&ouml;rsiv&auml;lise tuletisinstrumentide lepingu kapitalin&otilde;ue v&otilde;ib olla v&otilde;rdne arvelduskoja n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt tuletisinstrumentide lepinguga seotud riskile ja on v&auml;hemalt v&otilde;rdne k&otilde;nealuse lepingu kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest." ; </eesti>
+<inglise> (b) In paragraph 5, the third subparagraph is replaced by the following: </inglise>
+<eesti> b) punkti 5 kolmas l&otilde;ik asendatakse j&auml;rgmisega: </eesti>
+<inglise> 'The competent authorities shall require that the other risks, apart from the delta risk, associated with options are safeguarded against. </inglise>
+<eesti> "P&auml;devad asutused n&otilde;uavad k&otilde;ikide optsioonidega seotud muude riskide kui deltariski katmist. </eesti>
+<inglise> The competent authorities may allow the requirement against a written exchange-traded option to be equal to the margin required by the exchange if they are fully satisfied that it provides an accurate measure of the risk associated with the option and that it is at least equal to the capital requirement against an option that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada, et b&ouml;rsil kaubeldava v&auml;ljaantud optsiooni kapitalin&otilde;ue on v&otilde;rdne b&ouml;rsi n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt optsiooniga seotud riskile ja on v&auml;hemalt v&otilde;rdne optsiooni kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> Until 31 December 2006 the competent authorities may also allow the capital requirement for an OTC option cleared by a clearing house recognised by them to be equal to the margin required by the clearing house if they are fully satisfied that it provides an accurate measure of the risk associated with the option and that it is at least equal to the capital requirement for an OTC option that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> Samuti v&otilde;ivad p&auml;devad asutused 31. detsembrini 2006 lubada, et nende tunnustatud arvelduskoja arveldatud b&ouml;rsiv&auml;lise optsiooni kapitalin&otilde;ue v&otilde;ib olla v&otilde;rdne arvelduskoja n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt optsiooniga seotud riskile ja on v&auml;hemalt v&otilde;rdne b&ouml;rsiv&auml;lise optsiooni kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> In addition they may allow the requirement on a bought exchange-traded or OTC option to be the same as that for the instrument underlying it, subject to the constraint that the resulting requirement does not exceed the market value of the option. </inglise>
+<eesti> Lisaks v&otilde;ivad nad lubada, et b&ouml;rsil kaubeldava v&otilde;i b&ouml;rsiv&auml;lise ostetud optsiooni kapitalin&otilde;ue on sama, mis tema aluseks oleval instrumendil, tingimusel et tekkiv n&otilde;ue ei &uuml;leta optsiooni turuv&auml;&auml;rtust. </eesti>
+<inglise> The requirement against a written OTC option shall be set in relation to the instrument underlying it'. </inglise>
+<eesti> V&auml;ljaantud b&ouml;rsiv&auml;lise optsiooni kapitalin&otilde;ue seotakse selle aluseks oleva instrumendiga." ; </eesti>
+<inglise> (c) Paragraph 6 is replaced by the following: </inglise>
+<eesti> c) punkt 6 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '6. </inglise>
+<eesti> "6. </eesti>
+<inglise> Warrants relating to debt instruments and equities shall be treated in the same way as options under paragraph 5'. </inglise>
+<eesti> V&otilde;lakirjade ja aktsiate varrante k&auml;sitletakse samamoodi kui punkti 5 alusel optsioone." ; </eesti>
+<inglise> (d) Paragraph 33(i) is replaced by the following: </inglise>
+<eesti> d) punkti 33 alapunkt i asendatakse j&auml;rgmisega: </eesti>
+<inglise> '(i) the equities shall not be those of issuers which have issued only traded debt instruments that currently attract an 8 % requirement in Table 1 appearing in paragraph 14 or that attract a lower requirement only because they are guaranteed or secured'. </inglise>
+<eesti> "i) k&otilde;ne all ei ole nende v&auml;ljalaskjate aktsiad, kes on v&auml;lja lasknud &uuml;ksnes kaubeldavaid v&otilde;lakirju, mida k&auml;sitleb punktis 14 esitatud tabeli 1 kohane 8% n&otilde;ue v&otilde;i mida k&auml;sitleb madalam n&otilde;ue &uuml;ksnes seet&otilde;ttu, et need on tagatud v&otilde;i kindlustatud;". </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Annex II is amended as follows: </inglise>
+<eesti> II lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) Paragraph 1 is replaced by the following: </inglise>
+<eesti> a) punkt 1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '1. </inglise>
+<eesti> "1. </eesti>
+<inglise> In the case of transactions in which debt instruments, equities and commodities (excluding repurchase and reverse repurchase agreements and securities or commodities lending and securities or commodities borrowing) are unsettled after their due delivery dates, an institution must calculate the price difference to which it is exposed. </inglise>
+<eesti> Tehingute puhul, milles arveldused v&otilde;lakirjade, aktsiatega ja kaupadega (v&auml;lja arvatud repotehingud ja p&ouml;&ouml;rdrepotehingud ning v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks andmine ja v&otilde;tmine) ei ole nende etten&auml;htud tehingup&auml;evaks veel l&otilde;petatud, peab asutus arvutama hinnavahe, millega ta riskib. </eesti>
+<inglise> This is the difference between the agreed settlement price for the debt instrument, equity or commodity in question and its current market value, where the difference could involve a loss for the institution. </inglise>
+<eesti> See on asjakohase v&otilde;lakirja, aktsia v&otilde;i kauba kokkulepitud arveldushinna ja tema jooksva turuv&auml;&auml;rtuse vahe, mis v&otilde;ib p&otilde;hjustada asutusele kahjumi. </eesti>
+<inglise> It must multiply this difference by the appropriate factor in column A of the table appearing in paragraph 2 in order to calculate its capital requirement'. </inglise>
+<eesti> Kapitalin&otilde;ude arvutamiseks peab asutus korrutama selle vahe punkti 2 tabeli A-veerus esitatud asjakohase teguriga." ; </eesti>
+<inglise> (b) Paragraphs 3.1 and. 3.2 are replaced by the following: </inglise>
+<eesti> b) punktid 3.1 ja 3.2 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '3.1. </inglise>
+<eesti> "3.1. </eesti>
+<inglise> An institution shall be required to hold capital against counterparty risk if: </inglise>
+<eesti> Asutusel peab olema kapital vastaspoole riski katmiseks, kui: </eesti>
+<inglise> (i) it has paid for securities or commodities before receiving them or it has delivered securities or commodities before receiving payment for them; </inglise>
+<eesti> i) ta on maksnud v&auml;&auml;rtpaberite v&otilde;i kaupade eest enne nende k&auml;ttesaamist v&otilde;i on loovutanud v&auml;&auml;rtpaberid v&otilde;i kaubad enne, kui on nende eest tasu saanud; </eesti>
+<inglise> and </inglise>
+<eesti> ja </eesti>
+<inglise> (ii) in the case of cross-border transactions, one day or more has elapsed since it made that payment or delivery. </inglise>
+<eesti> ii) piiri&uuml;leste tehingute puhul on maksmisest v&otilde;i loovutamisest m&ouml;&ouml;dunud &uuml;ks p&auml;ev v&otilde;i rohkem. </eesti>
+<inglise> 3.2. </inglise>
+<eesti> 3.2. </eesti>
+<inglise> The capital requirement shall be 8 % of the value of the securities or commodities or cash owed to the institution multiplied by the risk weighting applicable to the relevant counterparty'. </inglise>
+<eesti> Kapitalin&otilde;udeks on 8% v&auml;&auml;rtpaberite v&otilde;i kaupade v&auml;&auml;rtusest v&otilde;i asutusele v&otilde;lgnetavast rahast korrutatuna asjakohase vastaspoole suhtes kohaldatava riskikaaluga." ; </eesti>
+<inglise> (c) The heading before paragraph 4.1 and the first subparagraph of paragraph 4.1 are replaced by the following: </inglise>
+<eesti> c) punktile 4.1 eelnev pealkiri ja punkti 4.1 esimene l&otilde;ik asendatakse j&auml;rgmisega: </eesti>
+<inglise> 'Repurchase and reverse repurchase agreements, securities or commodities lending and borrowing </inglise>
+<eesti> "Repotehingud ja p&ouml;&ouml;rdrepotehingud ning v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks andmine ja v&otilde;tmine </eesti>
+<inglise> 4.1. </inglise>
+<eesti> 4.1. </eesti>
+<inglise> In the case of repurchase agreements and securities or commodities lending based on securities or commodities included in the trading book the institution shall calculate the difference between the market value of the securities or commodities and the amount borrowed by the institution or the market value of the collateral, where that difference is positive. </inglise>
+<eesti> Kauplemisportfelli kantud v&auml;&auml;rtpaberitel v&otilde;i kaupadel p&otilde;hinevate repotehingute ja v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks andmise puhul arvutab asutus v&auml;&auml;rtpaberite v&otilde;i kaupade turuv&auml;&auml;rtuse ja enda laenuks v&otilde;etud summa v&otilde;i tagatise turuv&auml;&auml;rtuse vahe, kui see vahe on positiivne. </eesti>
+<inglise> In the case of reverse repurchase agreements and securities or commodities borrowing, the institution shall calculate the difference between the amount the institution has lent or the market value of the collateral and the market value of the securities or commodities it has received, where that difference is positive'. </inglise>
+<eesti> P&ouml;&ouml;rdrepotehingute ja v&auml;&auml;rtpaberite v&otilde;i kaupade laenuks v&otilde;tmise puhul arvutab asutus enda laenuks antud summa v&otilde;i tagatise turuv&auml;&auml;rtuse ja saadud v&auml;&auml;rtpaberite v&otilde;i kaupade turuv&auml;&auml;rtuse vahe, kui see vahe on positiivne." </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> Annex III is amended as follows: </inglise>
+<eesti> III lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) Paragraph 1 is replaced by the following: </inglise>
+<eesti> a) punkt 1 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '1. </inglise>
+<eesti> "1. </eesti>
+<inglise> If the sum of an institution's overall net foreign-exchange position and its net gold position, calculated in accordance with the procedure set out below, exceeds 2 % of its total own funds, it shall multiply the sum of its net foreign-exchange position and its net gold position by 8 % in order to calculate its own-funds requirement against foreign-exchange risk. </inglise>
+<eesti> Kui asutuse kogu netov&auml;lisvaluuta positsiooni ja netokullapositsiooni summa, mis on arvutatud allpool s&auml;testatud korras, &uuml;letab 2% tema kogu omavahenditest, korrutab ta oma v&auml;lisvaluutapositsiooni ja netokullapositsiooni summa 8%ga, et arvutada omavahendite n&otilde;ue valuutakursiriski katmiseks. </eesti>
+<inglise> Until 31 December 2004, the competent authorities may allow institutions to calculate their own-funds requirement by multiplying by 8 % the amount by which the sum of the overall net foreign-exchange position and the net gold position exceeds 2 % of the total own funds'. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad 31. detsembrini 2004 lubada asutustel arvutada omavahendite n&otilde;uet nii, et korrutatakse 8%ga summat, mille v&otilde;rra kogu netov&auml;lisvaluutapositsiooni ja netokullapositsiooni summa &uuml;letab 2% kogu omavahenditest." ; </eesti>
+<inglise> (b) Paragraphs 3.1 and 3.2 are replaced by the following: </inglise>
+<eesti> b) punktid 3.1 ja 3.2 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '3.1. </inglise>
+<eesti> "3.1. </eesti>
+<inglise> Firstly, the institution's net open position in each currency (including the reporting currency) and in gold shall be calculated. </inglise>
+<eesti> Esiteks arvutatakse asutuse avatud netopositsioon igas v&auml;&auml;ringus (sealhulgas aruandlusv&auml;&auml;ring) ja kullas. </eesti>
+<inglise> This position shall consist of the sum of the following elements (positive or negative): </inglise>
+<eesti> See positsioon koosneb j&auml;rgmiste (positiivsete v&otilde;i negatiivsete) osade summast: </eesti>
+<inglise> - the net spot position (i. e. all asset items less all liability items, including accrued interest, in the currency in question or, for gold, the net spot position in gold), </inglise>
+<eesti> - netohetkepositsioon (s.t k&otilde;ik asjakohases v&auml;&auml;ringus olevad varad, millest on maha arvatud k&otilde;ik kohustused, sealhulgas kogunenud intress, v&otilde;i kulla puhul netohetkepositsioon kullas), </eesti>
+<inglise> - the net forward position (i. e. all amounts to be received less all amounts to be paid under forward exchange and gold transactions, including currency and gold futures and the principal on currency swaps not included in the spot position), </inglise>
+<eesti> - netot&auml;htp&auml;evapositsioon (s.t k&otilde;ik v&auml;lisvaluuta ja kulla t&auml;htp&auml;evatehingutega saadavad summad, millest on maha arvatud k&otilde;ik nende tehingutega makstavad summad, sealhulgas valuuta- ja kullafutuurid ja hetkepositsioonis mittesisalduv valuutavahetuslepingute p&otilde;hisumma), </eesti>
+<inglise> - irrevocable guarantees (and similar instruments) that are certain to be called and likely to be irrecoverable, </inglise>
+<eesti> - t&uuml;histamatud tagatised (ja sarnased instrumendid), mida kindlasti kasutatakse ja mis on t&otilde;en&auml;oliselt tagastamatud, </eesti>
+<inglise> - net future income/expenses not yet accrued but already fully hedged (at the discretion of the reporting institution and with the prior consent of the competent authorities, net future income/expenses not yet entered in accounting records but already fully hedged by forward foreign-exchange transactions may be included here). </inglise>
+<eesti> - tulevane tekkimata, kuid t&auml;ielikult kaetud netotulu/netokulu (aruandva asutuse vabal valikul ja p&auml;devate asutuste eelneval loal v&otilde;ib siia arvata ka tulevase tekkimata netotulu/netokulu, mis on raamatupidamisse kandmata, kuid t&auml;ielikult v&auml;lisvaluuta t&auml;htp&auml;evatehingutega kaetud). </eesti>
+<inglise> Such discretion must be exercised on a consistent basis, </inglise>
+<eesti> Sellised valikud peavad olema j&auml;rjepidevad, </eesti>
+<inglise> - the net delta (or delta-based) equivalent of the total book of foreign-currency and gold options, </inglise>
+<eesti> - v&auml;lisvaluuta- ja kullaoptsioonide kogusumma delta (v&otilde;i deltal p&otilde;hinev) netoekvivalent, </eesti>
+<inglise> - the market value of other (i. e. non-foreign-currency and non-gold) options, </inglise>
+<eesti> - muude optsioonide (s.t muude kui v&auml;lisvaluuta- ja kullaoptsioonide) turuv&auml;&auml;rtus, </eesti>
+<inglise> - any positions which an institution has deliberately taken in order to hedge against the adverse effect of the exchange rate on its capital ratio may be excluded from the calculation of net open currency positions. </inglise>
+<eesti> - avatud netov&auml;lisvaluutapositsioonide arvutamisel v&otilde;ib v&auml;lja j&auml;tta positsioonid, mis asutus on tahtlikult v&otilde;tnud, et v&auml;hendada vahetuskursi kahjulikku m&otilde;ju oma maksev&otilde;ime suhtarvule. </eesti>
+<inglise> Such positions should be of a non-trading or structural nature and their exclusion, and any variation of the terms of their exclusion, shall require the consent of the competent authorities. </inglise>
+<eesti> Sellised positsioonid peaksid olema mittekaubeldavad v&otilde;i struktuurilised ning nende v&auml;ljaj&auml;tmiseks v&otilde;i nende v&auml;ljaj&auml;tmise tingimuste muutmiseks on vaja p&auml;devate asutuste n&otilde;usolekut. </eesti>
+<inglise> The same treatment subject to the same conditions as above may be applied to positions which an institution has which relate to items that are already deducted in the calculation of own funds. </inglise>
+<eesti> Nimetatud tingimuste kohaselt v&otilde;ib samamoodi k&auml;sitleda ka asutuse neid positsioone, mis k&auml;sitlevad omavahendite arvutamisel juba mahaarvatud kirjeid. </eesti>
+<inglise> 3.2. </inglise>
+<eesti> 3.2. </eesti>
+<inglise> The competent authorities shall have the discretion to allow institutions to use the net present value when calculating the net open position in each currency and in gold'. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad oma &auml;ran&auml;gemisel lubada asutustel kasutada iga v&auml;&auml;ringu ja kulla avatud netopositsiooni arvutamiseks ajakohast netov&auml;&auml;rtust." ; </eesti>
+<inglise> (c) Paragraph 4, first sentence, is replaced by the following: </inglise>
+<eesti> c) punkti 4 esimene lause asendatakse j&auml;rgmisega: </eesti>
+<inglise> '4. </inglise>
+<eesti> "4. </eesti>
+<inglise> Secondly, net short and long positions in each currency other than the reporting currency and the net long or short position in gold shall be converted at spot rates into the reporting currency'. </inglise>
+<eesti> Teiseks, k&otilde;ikide muude v&auml;&auml;ringute kui aruandlusv&auml;&auml;ringu ning kulla l&uuml;hikesed ja pikad netopositsioonid arvestatakse hetkekursiga &uuml;mber aruandlusv&auml;&auml;ringuks." ; </eesti>
+<inglise> (d) Paragraph 7 is replaced by the following: </inglise>
+<eesti> d) punkt 7 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '7. </inglise>
+<eesti> "7. </eesti>
+<inglise> Secondly, until 31 December 2004, the competent authorities may allow institutions to apply an alternative method to those outlined in paragraphs 1 to 6 for the purposes of this Annex. </inglise>
+<eesti> Teiseks v&otilde;ivad p&auml;devad asutused 31. detsembrini 2004 lubada asutustel kasutada k&auml;esoleva lisa kohaldamiseks punktides 1-6 kirjeldatud meetodi asemel m&otilde;nda asendusmeetodit. </eesti>
+<inglise> The capital requirement produced by this method must be sufficient to exceed 2 % of the net open position as measured in paragraph 4 and, on the basis of an analysis of exchange-rate movements during all the rolling 10-working-day periods over the preceding three years, to exceed the likely loss 99 % or more of the time. </inglise>
+<eesti> Selle meetodiga leitav kapitalin&otilde;ue peab olema piisav, et &uuml;letada 2% punktis 4 osutatud viisil m&otilde;&otilde;detud avatud netopositsioonidest ja &uuml;letada kolme eelnenud aasta jooksul k&otilde;ikide 10t&ouml;&ouml;p&auml;evaste libisevate ajavahemike jooksul toimunud kursimuutuste anal&uuml;&uuml;si p&otilde;hjal arvutatud t&otilde;en&auml;oline kahjum v&auml;hemalt 99% ajast. </eesti>
+<inglise> The alternative method described in the first subparagraph may only be used under the following conditions: </inglise>
+<eesti> Esimeses l&otilde;igus kirjeldatud asendusmeetodit v&otilde;ib kasutada &uuml;ksnes j&auml;rgmistel tingimustel: </eesti>
+<inglise> (i) the calculation formula and the correlation coefficients are set by the competent authorities, based on their analysis of exchange-rate movements; </inglise>
+<eesti> i) arvutusvalemi ja korrelatsioonikordajad kinnitavad p&auml;devad asutused oma kursimuutuste anal&uuml;&uuml;si p&otilde;hjal; </eesti>
+<inglise> (ii) the competent authorities review the correlation coefficients regularly in the light of developments in foreign-exchange markets'. </inglise>
+<eesti> ii) p&auml;devad asutused vaatavad korrelatsioonikordajad korrap&auml;raselt l&auml;bi, pidades silmas v&auml;&auml;ringuturgude arenguid." </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> Annex V is amended as follows: </inglise>
+<eesti> V lisa muudetakse j&auml;rgmiselt: </eesti>
+<inglise> (a) Paragraph 2, first sentence, is replaced by the following: </inglise>
+<eesti> a) punkti 2 esimene lause asendatakse j&auml;rgmisega: </eesti>
+<inglise> 'Notwithstanding paragraph 1, the competent authorities may permit those institutions which are obliged to meet the own-funds requirements laid down in Annexes I, II, III, IV, VI, VII and VIII to use an alternative definition when meeting those requirements only'. </inglise>
+<eesti> "Olenemata l&otilde;ikest 1 v&otilde;ivad p&auml;devad asutused lubada nendel asutustel, kes on kohustatud t&auml;itma I-IV ja VI-VIII lisas s&auml;testatud omavahendite n&otilde;udeid, kasutada muud m&auml;&auml;ratlust &uuml;ksnes neid n&otilde;udeid t&auml;ites." ; </eesti>
+<inglise> (b) Paragraph 4 is replaced by the following: </inglise>
+<eesti> b) punkt 4 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '4. </inglise>
+<eesti> "4. </eesti>
+<inglise> The subordinated loan capital referred to in paragraph 2(c) may not exceed a maximum of 150 % of the original own funds left to meet the requirements laid down in Annexes I, II, III, IV, VI, VII, and VIII and may approach that maximum only in particular circumstances acceptable to the relevant authorities'. </inglise>
+<eesti> Punkti 2 alapunktis c nimetatud allutatud laenukapital ei tohi &uuml;letada 150% esmastest omavahenditest, mida kasutatakse I-IV ja VI-VIII lisa n&otilde;uete t&auml;itmiseks, ja tohib sellele &uuml;lemm&auml;&auml;rale l&auml;heneda &uuml;ksnes asjaomastele ametiasutustele vastuv&otilde;etavatel eriasjaoludel." ; </eesti>
+<inglise> (c) Paragraphs 6 and 7 are replaced by the following: </inglise>
+<eesti> c) punktid 6 ja 7 asendatakse j&auml;rgmisega: </eesti>
+<inglise> '6. </inglise>
+<eesti> "6. </eesti>
+<inglise> The competent authorities may permit investment firms to exceed the ceiling for subordinated loan capital prescribed in paragraph 4 if they judge it prudentially adequate and provided that the total of such subordinated loan capital and the items referred to in paragraph 5 does not exceed 200 % of the original own funds left to meet the requirements imposed in Annexes I, II, III, IV, VI, VII and VIII or 250 % of the same amount where investment firms deduct item 2(d) referred to in paragraph 2 when calculating own funds. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada investeerimis&uuml;hingutel &uuml;letada punktis 4 s&auml;testatud allutatud laenukapitali &uuml;lemm&auml;&auml;ra, kui nad peavad seda p&otilde;hjendatuks seoses usaldusnormide t&auml;itmisega, tingimusel et sellise allutatud laenukapitali ja punktis 5 nimetatud kirjete kogusumma ei &uuml;leta 200% esmastest omavahenditest, mida kasutatakse I-IV ja VI-VII lisa n&otilde;uete t&auml;itmiseks, v&otilde;i 250% samast summast, kui investeerimis&uuml;hingud arvavad omavahendite arvutamisel maha punkti 2 alapunktis d osutatud kirje. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> The competent authorities may permit the ceiling for subordinated loan capital prescribed in paragraph 4 to be exceeded by a credit institution if they judge it prudentially adequate and provided that the total of such subordinated loan capital and the items referred to in paragraph 5 does not exceed 250 % of the original own funds left to meet the requirements imposed in Annexes I, II, III, VI, VII and VIII'. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada krediidiasutustel &uuml;letada punktis 4 s&auml;testatud allutatud laenukapitali &uuml;lemm&auml;&auml;ra, kui nad peavad seda p&otilde;hjendatuks seoses usaldusnormide t&auml;itmisega, tingimusel et sellise allutatud laenukapitali ja punktis 5 nimetatud kirjete kogusumma ei &uuml;leta 250% esmastest omavahenditest, mida kasutatakse I-III ja VI-VIII lisa n&otilde;uete t&auml;itmiseks." </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> The following Annexes are added: </inglise>
+<eesti> Lisatakse j&auml;rgmised lisad: </eesti>
+<inglise> 'ANNEX VII </inglise>
+<eesti> "VII LISA </eesti>
+<inglise> COMMODITIES RISK </inglise>
+<eesti> KAUBARISK </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> Each position in commodities or commodity derivatives shall be expressed in terms of the standard unit of measurement. </inglise>
+<eesti> Iga kaubapositsiooni v&otilde;i kauba tuletisinstrumentide positsiooni v&auml;ljendatakse norm&uuml;hikus. </eesti>
+<inglise> The spot price in each commodity shall be expressed in the reporting currency. </inglise>
+<eesti> Iga kauba hetkehinda v&auml;ljendatakse aruandlusv&auml;&auml;ringus. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Positions in gold or gold derivatives shall be considered as being subject to foreign-exchange risk and treated according to Annex III or Annex VIII, as appropriate, for the purpose of calculating market risk. </inglise>
+<eesti> Kulla positsioone v&otilde;i kulla tuletisinstrumentide positsioone k&auml;sitatakse valuutakursiriski tekitavatena ja k&auml;sitletakse tururiski arvutamiseks vastavalt vajadusele III v&otilde;i VIII lisa kohaselt. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> For the purposes of this Annex, positions which are purely stock financing may be excluded from the commodities risk calculation only. </inglise>
+<eesti> K&auml;esoleva lisa kohaldamisel v&otilde;ib puhtalt varude rahastamisega seotud positsioonid v&auml;lja j&auml;tta &uuml;ksnes kaubariski arvutamisel. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> The interest-rate and foreign-exchange risks not covered by other provisions of this Annex shall be included in the calculation of general risk for traded debt instruments and in the calculation of foreign-exchange risk. </inglise>
+<eesti> K&auml;esoleva lisa muude s&auml;tetega h&otilde;lmamata intressim&auml;&auml;ra- ja valuutakursiriske v&otilde;etakse arvesse kaubeldavate v&otilde;lakirjade &uuml;ldriski ja valuutakursiriski arvutamisel. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> When the short position falls due before the long position, institutions shall also guard against the risk of a shortage of liquidity which may exist in some markets. </inglise>
+<eesti> Kui l&uuml;hike positsioon saabub enne pikka positsiooni, katavad asutused ka likviidsusvaegusriski, mis v&otilde;ib m&otilde;nel turul ilmneda. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> For the purpose of paragraph 19, the excess of an institution's long (short) positions over its short (long) positions in the same commodity and identical commodity futures, options and warrants shall be its net position in each commodity. </inglise>
+<eesti> Punkti 19 kohaldamisel on asutuse iga kauba netopositsioon selliste pikkade ja l&uuml;hikeste positsioonide vahe, mis k&auml;sitlevad sama kaupa ning &uuml;hesuguseid kaubafutuure, -optsioone ja -varrante. </eesti>
+<inglise> The competent authorities shall allow positions in derivative instruments to be treated, as laid down in paragraphs 8, 9 and 10, as positions in the underlying commodity. </inglise>
+<eesti> P&auml;devad asutused lubavad tuletisinstrumentide positsioone k&auml;sitleda punktides 8-10 s&auml;testatud viisil alusvaraks oleva kauba positsioonidena. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> The competent authorities may regard the following positions as positions in the same commodity: </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad sama kauba positsioonidena k&auml;sitelda j&auml;rgmisi positsioone: </eesti>
+<inglise> - positions in different sub-categories of commodities in cases where the sub-categories are deliverable against each other, </inglise>
+<eesti> - kaupade erinevate alaliikide positsioonid, kui alar&uuml;hmad on vastastikku vahetatavad, </eesti>
+<inglise> and </inglise>
+<eesti> ja </eesti>
+<inglise> - positions in similar commodities if they are close substitutes and if a minimum correlation of 0,9 between price movements can be clearly established over a minimum period of one year. </inglise>
+<eesti> - sarnaste kaupade positsioonid, kui need on l&auml;hedased asenduskaubad ja hinnamuutuste selgelt osutatud korrelatsioon on v&auml;hemalt 0,9 v&auml;hemalt &uuml;he aasta jooksul. </eesti>
+<inglise> Particular instruments </inglise>
+<eesti> Eriinstrumendid </eesti>
+<inglise> 8. </inglise>
+<eesti> 8. </eesti>
+<inglise> Commodity futures and forward commitments to buy or sell individual commodities shall be incorporated in the measurement system as notional amounts in terms of the standard unit of measurement and assigned a maturity with reference to expiry date. </inglise>
+<eesti> Kaubafutuure ja t&auml;htajalisi kohustusi osta v&otilde;i m&uuml;&uuml;a &uuml;ksikuid kaupu v&otilde;etakse m&otilde;&otilde;tmiss&uuml;steemis arvesse norm&uuml;hikutes v&auml;ljendatud nimisummadena ja neile m&auml;&auml;ratakse kehtivusaja p&otilde;hjal t&auml;htaeg. </eesti>
+<inglise> The competent authorities may allow the capital requirement for an exchange-traded future to be equal to the margin required by the exchange if they are fully satisfied that it provides an accurate measure of the risk associated with the future and that it is at least equal to the capital requirement for a future that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada, et b&ouml;rsil kaubeldava futuuri kapitalin&otilde;ue on v&otilde;rdne b&ouml;rsi n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt futuuriga seotud riskile ja on v&auml;hemalt v&otilde;rdne futuuri kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> Until 31 December 2006 the competent authorities may also allow the capital requirement for an OTC commodity derivatives contract of the type referred to in this paragraph cleared by a clearing house recognised by them to be equal to the margin required by the clearing house if they are fully satisfied that it provides an accurate measure of the risk associated with the derivatives contract and that it is at least equal to the capital requirement for the contract in question that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> Samuti v&otilde;ivad p&auml;devad asutused 31. detsembrini 2006 lubada, et nende tunnustatud arvelduskoja arveldatud ja k&auml;esolevas punktis nimetatud liiki b&ouml;rsiv&auml;lise kauba tuletisinstrumentide lepingu kapitalin&otilde;ue v&otilde;ib olla v&otilde;rdne arvelduskoja n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt tuletisinstrumentide lepinguga seotud riskile ja on v&auml;hemalt v&otilde;rdne k&otilde;nealuse lepingu kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> 9. </inglise>
+<eesti> 9. </eesti>
+<inglise> Commodity swaps where one side of the transaction is a fixed price and the other the current market price shall be incorporated into the maturity ladder approach as a series of positions equal to the notional amount of the contract, with one position corresponding with each payment on the swap and slotted into the maturity ladder set out in the table appearing in paragraph 13. </inglise>
+<eesti> Kaubavahetuslepinguid, kus tehingu &uuml;ks pool on fikseeritud hinnaga ja teine jooksva turuhinnaga, v&otilde;etakse l&otilde;ppt&auml;htajal p&otilde;hinevas meetodis arvesse lepingu nimisummaga v&otilde;rdsete positsioonide jadana, kusjuures &uuml;ks positsioon vastab igale vahetuslepingu maksele ja paigutub punktis 13 esitatud tabelis s&auml;testatud t&auml;htaegade jaotusse. </eesti>
+<inglise> The positions would be long positions if the institution is paying a fixed price and receiving a floating price and short positions if the institution is receiving a fixed price and paying a floating price. </inglise>
+<eesti> Positsioonid on pikad, kui asutus maksab fikseeritud hinna ja saab ujuva hinna, v&otilde;i l&uuml;hikesed, kui asutus saab kindla hinna ja maksab ujuva hinna. </eesti>
+<inglise> Commodity swaps where the sides of the transaction are in different commodities are to be reported in the relevant reporting ladder for the maturity ladder approach. </inglise>
+<eesti> Kaubavahetuslepingud, kus tehingu poolteks on erinevad kaubad, esitatakse l&otilde;ppt&auml;htajal p&otilde;hineva meetodi asjakohases aruandetabelis. </eesti>
+<inglise> 10. </inglise>
+<eesti> 10. </eesti>
+<inglise> Options on commodities or on commodity derivatives shall be treated as if they were positions equal in value to the amount of the underlying to which the option refers, multiplied by its delta for the purposes of this Annex. </inglise>
+<eesti> K&auml;esoleva lisa kohaldamisel k&auml;sitletakse kaubaoptsioone v&otilde;i kauba tuletisinstrumentide optsioone positsioonidena, mille v&auml;&auml;rtus v&otilde;rdub optsiooni alusvara v&auml;&auml;rtusega, mis on korrutatud selle deltaga. </eesti>
+<inglise> The latter positions may be netted off against any offsetting positions in the identical underlying commodity or commodity derivative. </inglise>
+<eesti> Need positsioonid v&otilde;ib nettida nende aluseks olevate &uuml;hesuguste kaupade v&otilde;i kauba tuletisinstrumentide tasakaalustavate positsioonide suhtes. </eesti>
+<inglise> The delta used shall be that of the exchange concerned, that calculated by the competent authorities or, where none of those is available or for OTC options, that calculated by the institution itself, subject to the competent authorities being satisfied that the model used by the institution is reasonable. </inglise>
+<eesti> Kasutatakse asjaomase b&ouml;rsi v&otilde;i p&auml;devate asutuste arvutatud deltat v&otilde;i kui kumbki ei ole k&auml;ttesaadav v&otilde;i on tegemist b&ouml;rsiv&auml;liste optsioonidega, kasutatakse asutuse enda arvutatud deltat, tingimusel et p&auml;devad asutused on veendunud asutuse valitud mudeli sobivuses. </eesti>
+<inglise> However, the competent authorities may also prescribe that institutions calculate their deltas using a methodology specified by the competent authorities. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad siiski n&otilde;uda, et asutused arvutaksid oma deltad p&auml;devate asutuste etten&auml;htud meetoditega. </eesti>
+<inglise> The competent authorities shall require that the other risks, apart from the delta risk, associated with commodity options are safeguarded against. </inglise>
+<eesti> P&auml;devad asutused n&otilde;uavad k&otilde;ikide kaubaoptsioonidega seotud muude riskide kui deltariski katmist. </eesti>
+<inglise> The competent authorities may allow the requirement for a written exchange-traded commodity option to be equal to the margin required by the exchange if they are fully satisfied that it provides an accurate measure of the risk associated with the option and that it is at least equal to the capital requirement against an option that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada, et b&ouml;rsil kaubeldava v&auml;ljaantud kaubaoptsiooni kapitalin&otilde;ue on v&otilde;rdne b&ouml;rsi n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt optsiooniga seotud riskile ja on v&auml;hemalt v&otilde;rdne optsiooni kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> Until 31 December 2006 the competent authorities may also allow the capital requirement for an OTC commodity option cleared by a clearing house recognised by them to be equal to the margin required by the clearing house if they are fully satisfied that it provides an accurate measure of the risk associated with the option and that it is at least equal to the capital requirement for an OTC option that would result from a calculation made using the method set out in the remainder of this Annex or applying the internal models method described in Annex VIII. </inglise>
+<eesti> Samuti v&otilde;ivad p&auml;devad asutused 31. detsembrini 2006 lubada, et nende tunnustatud arvelduskoja arveldatud b&ouml;rsiv&auml;lise kaubaoptsiooni kapitalin&otilde;ue v&otilde;ib olla v&otilde;rdne arvelduskoja n&otilde;utava tagatisega, kui nad on t&auml;iesti veendunud, et see vastab t&auml;pselt optsiooniga seotud riskile ja on v&auml;hemalt v&otilde;rdne b&ouml;rsiv&auml;lise optsiooni kapitalin&otilde;udega, mis tuleneks k&auml;esolevas lisas edaspidi s&auml;testatud meetodiga tehtud arvutusest v&otilde;i VIII lisas kirjeldatud sisemudelite meetodi kohaldamisest. </eesti>
+<inglise> In addition they may allow the requirement on a bought exchange-traded or OTC commodity option to be the same as that for the commodity underlying it, subject to the constraint that the resulting requirement does not exceed the market value of the option. </inglise>
+<eesti> Lisaks v&otilde;ivad nad lubada, et b&ouml;rsil kaubeldava v&otilde;i b&ouml;rsiv&auml;lise ostetud kaubaoptsiooni kapitalin&otilde;ue on sama, mis tema aluseks oleval kaubal, tingimusel et tekkiv n&otilde;ue ei &uuml;leta optsiooni turuv&auml;&auml;rtust. </eesti>
+<inglise> The requirement for a written OTC option shall be set in relation to the commodity underlying it. </inglise>
+<eesti> V&auml;ljaantud b&ouml;rsiv&auml;lise optsiooni kapitalin&otilde;ue seotakse selle aluseks oleva kaubaga. </eesti>
+<inglise> 11. </inglise>
+<eesti> 11. </eesti>
+<inglise> Warrants relating to commodities shall be treated in the same way as commodity options under paragraph 10. </inglise>
+<eesti> Kaupadega seotud varrante k&auml;sitletakse samamoodi kui punkti 10 alusel kaubaoptsioone. </eesti>
+<inglise> 12. </inglise>
+<eesti> 12. </eesti>
+<inglise> The transferor of commodities or guaranteed rights relating to title to commodities in a repurchase agreement and the lender of commodities in a commodities lending agreement shall include such commodities in the calculation of its capital requirement under this Annex. </inglise>
+<eesti> Repotehingute kohane kaupade v&otilde;i kaupade omandi&otilde;igusega seotud tagatud &otilde;iguste v&otilde;&otilde;randaja ja kaupade laenuksandmise lepingu kohane laenuandja v&otilde;tavad selliseid kaupu k&auml;esoleva lisa kohaselt arvesse oma kapitalin&otilde;ude arvutamisel. </eesti>
+<inglise> (a) Maturity ladder approach </inglise>
+<eesti> a) L&otilde;ppt&auml;htajal p&otilde;hinev meetod </eesti>
+<inglise> 13. </inglise>
+<eesti> 13. </eesti>
+<inglise> The institution shall use a separate maturity ladder in line with the following table for each commodity. </inglise>
+<eesti> Asutus kasutab iga kauba puhul eraldi t&auml;htaegade jaotust koosk&otilde;las j&auml;rgmise tabeliga. </eesti>
+<inglise> All positions in that commodity and all positions which are regarded as positions in the same commodity pursuant to paragraph 7 shall be assigned to the appropriate maturity bands. </inglise>
+<eesti> Selle kauba k&otilde;ik positsioonid ja k&otilde;ik positsioonid, mida k&auml;sitletakse punkti 7 kohaselt sama kauba positsioonidena, paigutatakse asjakohastesse l&otilde;ppt&auml;htajav&ouml;&ouml;nditesse. </eesti>
+<inglise> Physical stocks shall be assigned to the first maturity band. Maturity band Spread rate (in %) </inglise>
+<eesti> F&uuml;&uuml;silised varud paigutatakse esimesse l&otilde;ppt&auml;htajav&ouml;&ouml;ndisse. </eesti>
+<inglise> 14. </inglise>
+<eesti> 14. </eesti>
+<inglise> Competent authorities may allow positions which are, or are regarded pursuant to paragraph 7 as, positions in the same commodity to be offset and assigned to the appropriate maturity bands on a net basis for: </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada, et positsioonid, mis on sama kauba positsioonid v&otilde;i mida k&auml;sitletakse sellistena punkti 7 kohaselt, v&otilde;ib tasaarvestada ja paigutada netopositsioonidena asjakohastesse l&otilde;ppt&auml;htajav&ouml;&ouml;nditesse: </eesti>
+<inglise> - positions in contracts maturing on the same date, </inglise>
+<eesti> - sama t&auml;htp&auml;evaga lepinguid k&auml;sitlevate positsioonide puhul, </eesti>
+<inglise> and </inglise>
+<eesti> ja </eesti>
+<inglise> - positions in contracts maturing within 10 days of each other if the contracts are traded on markets which have daily delivery dates. </inglise>
+<eesti> - &uuml;ksteisest k&otilde;ige rohkem 10 p&auml;eva kaugusel oleva t&auml;htp&auml;evaga lepinguid k&auml;sitlevate positsioonide puhul, kui nende lepingutega kaubeldakse turgudel, kus tehingup&auml;evad on igap&auml;evased. </eesti>
+<inglise> 15. </inglise>
+<eesti> 15. </eesti>
+<inglise> The institution shall then work out the sum of the long positions and the sum of the short positions in each maturity band. </inglise>
+<eesti> Seej&auml;rel arvutab asutus igas l&otilde;ppt&auml;htajav&ouml;&ouml;ndis pikkade positsioonide summa ja l&uuml;hikeste positsioonide summa. </eesti>
+<inglise> The amount of the former (latter) which are matched by the latter (former) in a given maturity band shall be the matched positions in that band, while the residual long or short position shall be the unmatched position for the same band. </inglise>
+<eesti> Teatavas l&otilde;ppt&auml;htajav&ouml;&ouml;ndis esimestena (viimastena) nimetatud positsioonidega kattuvate viimastena (esimestena) nimetatud positsioonide summa on selle v&ouml;&ouml;ndi netitud positsioon, kusjuures &uuml;lej&auml;&auml;v pikk v&otilde;i l&uuml;hike positsioon on sama v&ouml;&ouml;ndi nettimata positsioon. </eesti>
+<inglise> 16. </inglise>
+<eesti> 16. </eesti>
+<inglise> That part of the unmatched long (short) position for a given maturity band that is matched by the unmatched short (long) position for a maturity band further out shall be the matched position between two maturity bands. </inglise>
+<eesti> Teatava l&otilde;ppt&auml;htajav&ouml;&ouml;ndi nettimata pika (l&uuml;hikese) positsiooni see osa, mis kattub pikemat t&auml;htaega esindava l&otilde;ppt&auml;htajav&ouml;&ouml;ndi nettimata l&uuml;hikese (pika) positsiooniga, on kahe l&otilde;ppt&auml;htajav&ouml;&ouml;ndi netitud positsioon. </eesti>
+<inglise> That part of the unmatched long or unmatched short position that cannot be thus matched shall be the unmatched position. </inglise>
+<eesti> Nettimata pika v&otilde;i l&uuml;hikese positsiooni see osa, mis sel viisil ei kattu, on nettimata positsioon. </eesti>
+<inglise> 17. </inglise>
+<eesti> 17. </eesti>
+<inglise> The institution's capital requirement for each commodity shall be calculated on the basis of the relevant maturity ladder as the sum of the following: </inglise>
+<eesti> Asutuse iga kauba kapitalin&otilde;ue arvutatakse asjakohase t&auml;htaegade jaotuse p&otilde;hjal j&auml;rgmiste summana: </eesti>
+<inglise> (i) the sum of the matched long and short positions, multiplied by the appropriate spread rate as indicated in the second column of the table appearing in paragraph 13 for each maturity band and by the spot price for the commodity; </inglise>
+<eesti> i) netitud pikkade ja l&uuml;hikeste positsioonide summa korrutatuna punktis 13 esitatud tabeli teises tulbas igale l&otilde;ppt&auml;htajav&ouml;&ouml;ndile m&auml;&auml;ratud asjakohase hinnavahe m&auml;&auml;ra ja kauba hetkehinnaga; </eesti>
+<inglise> (ii) the matched position between two maturity bands for each maturity band into which an unmatched position is carried forward, multiplied by 0,6 % (carry rate) and by the spot price for the commodity; </inglise>
+<eesti> ii) kahe l&otilde;ppt&auml;htajav&ouml;&ouml;ndi netitud positsioon iga l&otilde;ppt&auml;htajav&ouml;&ouml;ndi puhul, kuhu nettimata positsioon on edasi kantud, korrutatuna 0,6% (tehingute &uuml;lekande kulum&auml;&auml;r) ja kauba hetkehinnaga; </eesti>
+<inglise> (iii) the residual unmatched positions, multiplied by 15 % (outright rate) and by the spot price for the commodity. </inglise>
+<eesti> iii) &uuml;lej&auml;&auml;nud nettimata positsioonid korrutatuna 15% (ostu-m&uuml;&uuml;gi tehingum&auml;&auml;r) ja kauba hetkehinnaga. </eesti>
+<inglise> 18. </inglise>
+<eesti> 18. </eesti>
+<inglise> The institution's overall capital requirement for commodities risk shall be calculated as the sum of the capital requirements calculated for each commodity according to paragraph 17. </inglise>
+<eesti> Asutuse &uuml;ldine kaubariski kapitalin&otilde;ue arvutatakse punkti 17 kohaselt igale kaubale arvutatud kapitalin&otilde;uete summana. </eesti>
+<inglise> (b) Simplified approach </inglise>
+<eesti> b) Lihtsustatud meetod </eesti>
+<inglise> 19. </inglise>
+<eesti> 19. </eesti>
+<inglise> The institution's capital requirement for each commodity shall be calculated as the sum of: </inglise>
+<eesti> Asutuse iga kauba kapitalin&otilde;ue arvutatakse j&auml;rgmiste summana: </eesti>
+<inglise> (i) 15 % of the net position, long or short, multiplied by the spot price for the commodity; </inglise>
+<eesti> i) 15% pikast v&otilde;i l&uuml;hikesest netopositsioonist korrutatuna kauba hetkehinnaga; </eesti>
+<inglise> (ii) 3 % of the gross position, long plus short, multiplied by the spot price for the commodity. </inglise>
+<eesti> ii) 3% pika ja l&uuml;hikese brutopositsiooni summast korrutatuna kauba hetkehinnaga. </eesti>
+<inglise> 20. </inglise>
+<eesti> 20. </eesti>
+<inglise> The institution's overall capital requirement for commodities risk shall be calculated as the sum of the capital requirements calculated for each commodity according to paragraph 19. </inglise>
+<eesti> Asutuse &uuml;ldine kaubariski kapitalin&otilde;ue arvutatakse punkti 19 kohaselt igale kaubale arvutatud kapitalin&otilde;uete summana. </eesti>
+<inglise> ANNEX VIII </inglise>
+<eesti> VIII LISA </eesti>
+<inglise> INTERNAL MODELS </inglise>
+<eesti> SISEMUDELID </eesti>
+<inglise> 1. </inglise>
+<eesti> 1. </eesti>
+<inglise> The competent authorities may, subject to the conditions laid down in this Annex, allow institutions to calculate their capital requirements for position risk, foreign-exchange risk and/or commodities risk using their own internal risk-management models instead of or in combination with the methods described in Annexes I, III and VII. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad k&auml;esolevas lisas s&auml;testatud tingimustel lubada asutustel kasutada oma positsiooniriski, valuutakursiriski ja/v&otilde;i kaubariski kapitalin&otilde;uete arvutamiseks oma sisemisi riskijuhtimismudeleid I, III ja VII lisas kirjeldatud meetodite asemel v&otilde;i nendega &uuml;hendatuna. </eesti>
+<inglise> Explicit recognition by the competent authorities of the use of models for supervisory capital purposes shall be required in each case. </inglise>
+<eesti> Iga kord on vaja p&auml;devate asutuste selges&otilde;nalist heakskiitu, et kasutada mudeleid kapitalij&auml;relevalveks. </eesti>
+<inglise> 2. </inglise>
+<eesti> 2. </eesti>
+<inglise> Recognition shall only be given if the competent authority is satisfied that the institution's risk-management system is conceptually sound and implemented with integrity and that, in particular, the following qualitative standards are met: </inglise>
+<eesti> Heakskiit antakse &uuml;ksnes siis, kui p&auml;dev asutus on veendunud, et asutuse riskijuhtimiss&uuml;steem on sisuliselt veatu, s&uuml;steemi rakendatakse terviklikult ja eelk&otilde;ige t&auml;idetakse j&auml;rgmisi kvaliteedin&otilde;udeid: </eesti>
+<inglise> (i) the internal risk-measurement model is closely integrated into the daily risk-management process of the institution and serves as the basis for reporting risk exposures to senior management of the institution; </inglise>
+<eesti> i) sisemine riskim&otilde;&otilde;tmismudel on tihedalt seotud asutuse igap&auml;evase riskijuhtimisega ja selle alusel teatatakse riskidest asutuse n&otilde;ukogule; </eesti>
+<inglise> (ii) the institution has a risk control unit that is independent from business trading units and reports directly to senior management. </inglise>
+<eesti> ii) asutusel on kauplemisosakondadest s&otilde;ltumatu riskij&auml;relevalve osakond, kes annab aru otse n&otilde;ukogule. </eesti>
+<inglise> The unit must be responsible for designing and implementing the institution's risk-management system. </inglise>
+<eesti> Osakond peab vastutama asutuse riskijuhtimiss&uuml;steemi kavandamise ja rakendamise eest. </eesti>
+<inglise> It shall produce and analyse daily reports on the output of the risk-measurement model and on the appropriate measures to be taken in terms of trading limits; </inglise>
+<eesti> Ta koostab ja anal&uuml;&uuml;sib iga p&auml;ev aruandeid riskim&otilde;&otilde;tmismudeliga saadud tulemuste ja kauplemise piirm&auml;&auml;radega seotud asjakohaste meetmete kohta; </eesti>
+<inglise> (iii) the institution's board of directors and senior management are actively involved in the risk-control process and the daily reports produced by the risk-control unit are reviewed by a level of management with sufficient authority to enforce both reductions of positions taken by individual traders as well as in the institution's overall risk exposure; </inglise>
+<eesti> iii) asutuse juhatus ja n&otilde;ukogu osalevad aktiivselt riskij&auml;relevalves ning riskij&auml;relevalve osakonna koostatud p&auml;evaaruanded vaatab l&auml;bi selline juhtimistasand, kellel on piisavad volitused v&auml;hendada nii &uuml;ksikute kauplejate v&otilde;etud positsioone kui ka asutuse koguriski; </eesti>
+<inglise> (iv) the institution has sufficient numbers of staff skilled in the use of sophisticated models in the trading, risk-control, audit and back-office areas; </inglise>
+<eesti> iv) asutustel on piisav hulk t&ouml;&ouml;tajaid, kes oskavad kasutada keerulisi mudeleid kauplemisel, riskij&auml;relevalves, kontrollimisel ja tehingute arveldamisel; </eesti>
+<inglise> (v) the institution has established procedures for monitoring and ensuring compliance with a documented set of internal policies and controls concerning the overall operation of the risk-measurement system; </inglise>
+<eesti> v) asutus on kehtestanud riskim&otilde;&otilde;tmiss&uuml;steemi &uuml;ldist toimimist k&auml;sitlevate kirjalike asutusesiseste tegevus- ja kontrollip&otilde;him&otilde;tete t&auml;itmise j&auml;relevalve ja tagamise korra; </eesti>
+<inglise> (vi) the institution's models have a proven track record of reasonable accuracy in measuring risks; </inglise>
+<eesti> vi) on olemas kinnitatud andmed, et asutuse mudelitega on riske piisavalt t&auml;pselt m&otilde;&otilde;detud; </eesti>
+<inglise> (vii) the institution frequently conduct a rigorous programme of stress testing and the results of these tests are reviewed by senior management and reflected in the policies and limits it sets; </inglise>
+<eesti> vii) asutus rakendab tihti ranget kriisitestimiskava, mille tulemused vaatab n&otilde;ukogu l&auml;bi ja v&otilde;tab neid oma kinnitatavates tegevusp&otilde;him&otilde;tetes ja piirm&auml;&auml;rades arvesse; </eesti>
+<inglise> (viii) the institution must conduct, as part of its regular internal auditing process, an independent review of its risk-measurement system. </inglise>
+<eesti> viii) asutus peab oma korrap&auml;rase sisekontrolli raames korraldama oma riskijuhtimiss&uuml;steemi s&otilde;ltumatu kontrollimise. </eesti>
+<inglise> This review must include both the activities of the business trading units and of the independent risk-control unit. </inglise>
+<eesti> Kontrollimine peab h&otilde;lmama nii kauplemisosakondade kui ka s&otilde;ltumatu riskij&auml;relevalve osakonna tegevust. </eesti>
+<inglise> At least once a year, the institution must conduct a review of its overall risk-management process. </inglise>
+<eesti> Asutus peab v&auml;hemalt kord aastas kontrollima oma &uuml;ldist riskijuhtimist. </eesti>
+<inglise> The review must consider: </inglise>
+<eesti> See kontrollimine peab k&auml;sitlema: </eesti>
+<inglise> - the adequacy of the documentation of the risk-management system and process and the organisation of the risk-control unit, </inglise>
+<eesti> - riskijuhtimiss&uuml;steemi ja selle toimimist k&auml;sitlevate dokumentide ning riskij&auml;relevalve osakonna korralduse asjakohasust, </eesti>
+<inglise> - the integration of market risk measures into daily risk management and the integrity of the management information system, </inglise>
+<eesti> - tururiski m&otilde;&otilde;tmistulemuste &uuml;hildamist igap&auml;evase riskijuhtimisega ja juhtimisteabes&uuml;steemi terviklikkust, </eesti>
+<inglise> - the process the institution employs for approving risk-pricing models and valuation systems that are used by front and back-office personnel, </inglise>
+<eesti> - menetlust, mida asutus rakendab tehingute s&otilde;lmimis- ja arveldusosakondade t&ouml;&ouml;tajate kasutatavate riskihindamismudelite ja hindamiss&uuml;steemide kinnitamiseks, </eesti>
+<inglise> - the scope of market risks captured by the risk-measurement model and the validation of any significant changes in the risk-measurement process, </inglise>
+<eesti> - riskim&otilde;&otilde;tmismudeliga h&otilde;lmatud tururiskide ulatust ja riskim&otilde;&otilde;tmises tehtavate oluliste muudatuste kinnitamist, </eesti>
+<inglise> - the accuracy and completeness of position data, the accuracy and appropriateness of volatility and correlation assumptions, and the accuracy of valuation and risk sensitivity calculations, </inglise>
+<eesti> - positsioone k&auml;sitlevate andmete t&auml;psust ja t&auml;ielikkust, volatiilsus- ja korrelatsiooniennustuste t&auml;psust ja asjakohasust ning hindamise ja riskitundlikkusarvutuste t&auml;psust, </eesti>
+<inglise> - the verification process the institution employs to evaluate the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources, </inglise>
+<eesti> - kontrollimenetlust, mida asutus rakendab sisemudelites kasutatavate teabeallikate j&auml;rjepidevuse, &otilde;igeaegsuse ja usaldusv&auml;&auml;rsuse ning s&otilde;ltumatuse hindamiseks, </eesti>
+<inglise> and </inglise>
+<eesti> ja </eesti>
+<inglise> - the verification process the institution uses to evaluate back-testing that is conducted to assess the model's accuracy. </inglise>
+<eesti> - kontrollimenetlust, mida asutus rakendab mudeli t&auml;psuse m&otilde;&otilde;tmiseks tehtava j&auml;relv&otilde;rdluse hindamiseks. </eesti>
+<inglise> 3. </inglise>
+<eesti> 3. </eesti>
+<inglise> The institution shall monitor the accuracy and performance of its model by conducting a back-testing programme. </inglise>
+<eesti> Asutus kontrollib oma mudeli t&auml;psust ja toimimist j&auml;relv&otilde;rdluskava abil. </eesti>
+<inglise> The back-testing has to provide for each business day a comparison of the one-day value-at-risk measure generated by the institution's value by the end of the subsequent business day. </inglise>
+<eesti> J&auml;relv&otilde;rdluse abil tuleb iga pangap&auml;eva suhtes v&otilde;rrelda asutuse mudeli p&otilde;hjal j&auml;rgmise pangap&auml;eva l&otilde;puks leitud p&auml;evase riskiv&auml;&auml;rtuse &otilde;igsust. </eesti>
+<inglise> Competent authorities shall examine the institution's capability to perform back-testing on both actual and hypothetical changes in the portfolio's value. </inglise>
+<eesti> P&auml;devad asutused uurivad asutuse suutlikkust tagantj&auml;rele v&otilde;rrelda nii tegelikke kui ka oletatavaid muutusi portfelli v&auml;&auml;rtuses. </eesti>
+<inglise> Back-testing on hypothetical changes in the portfolio's value is based on a comparison between the portfolio's end-of-day value and, assuming unchanged positions, its value at the end of the subsequent day. </inglise>
+<eesti> Portfelli v&auml;&auml;rtuse oletatavate muutuste j&auml;relv&otilde;rdlus p&otilde;hineb portfelli p&auml;eval&otilde;puv&auml;&auml;rtuse ja selle j&auml;rgmise p&auml;eva l&otilde;ppv&auml;&auml;rtuse v&otilde;rdlemisel, eeldusel et positsioonid ei muutu. </eesti>
+<inglise> Competent authorities shall require institutions to take appropriate measures to improve their back-testing programme if deemed deficient. </inglise>
+<eesti> P&auml;devad asutused n&otilde;uavad, et asutused v&otilde;taksid oma j&auml;relv&otilde;rdluskava parandamiseks asjakohaseid meetmeid, kui see osutub puudulikuks. </eesti>
+<inglise> 4. </inglise>
+<eesti> 4. </eesti>
+<inglise> For the purpose of calculating capital requirements for specific risk associated with traded debt and equity positions, the competent authorities may recognise the use of an institution's internal model if in addition to compliance with the conditions in the remainder of this Annex the model: </inglise>
+<eesti> Kaubeldavate v&otilde;lakirjade ja aktsiate positsioonidega seotud eririski kapitalin&otilde;uete arvutamiseks v&otilde;ivad p&auml;devad asutused heaks kiita asutuste sisemudeli kasutamise, kui mudel lisaks k&auml;esoleva lisa &uuml;lej&auml;&auml;nud tingimuste t&auml;itmisele: </eesti>
+<inglise> - explains the historical price variation in the portfolio, </inglise>
+<eesti> - selgitab portfellis toimunud hinnamuutusi, </eesti>
+<inglise> - captures concentration in terms of magnitude and changes of composition of the portfolio, </inglise>
+<eesti> - n&auml;itab kontsentratsiooni portfelli mahu ja koostise muutuste osas, </eesti>
+<inglise> - is robust to an adverse environment, </inglise>
+<eesti> - t&ouml;&ouml;tab korralikult ka ebasoodsas keskkonnas, </eesti>
+<inglise> - is validated through back-testing aimed at assessing whether specific risk is being accurately captured. </inglise>
+<eesti> - on kontrollitud j&auml;relv&otilde;rdluse abil, mille eesm&auml;rk on hinnata eririski t&auml;pset m&otilde;&otilde;tmist. </eesti>
+<inglise> If competent authorities allow this back-testing to be performed on the basis of relevant sub-portfolios, these must be chosen in a consistent manner. </inglise>
+<eesti> Kui p&auml;devad asutused lubavad sellist j&auml;relv&otilde;rdlust teha asjakohaste portfelliosade p&otilde;hjal, tuleb need valida j&auml;rjepidevalt. </eesti>
+<inglise> 5. </inglise>
+<eesti> 5. </eesti>
+<inglise> Institutions using internal models which are not recognised in accordance with paragraph 4 shall be subject to a separate capital charge for specific risk as calculated according to Annex I. </inglise>
+<eesti> Punkti 4 alusel heakskiitmata sisemudeleid kasutavad asutused kohustuvad t&auml;itma eraldi eririski kapitalin&otilde;uet, mis arvutatakse I lisa kohaselt. </eesti>
+<inglise> 6. </inglise>
+<eesti> 6. </eesti>
+<inglise> For the purpose of paragraph 10(ii) the results of the institution's own calculation shall be scaled up by a multiplication factor of at least 3. </inglise>
+<eesti> Punkti 10 alapunkti ii kohaldamisel korrutatakse asutuse oma arvutust teguriga, mille suurus on v&auml;hemalt 3. </eesti>
+<inglise> 7. </inglise>
+<eesti> 7. </eesti>
+<inglise> The multiplication factor shall be increased by a plus-factor of between 0 and 1 in accordance with the following table, depending on the number of overshootings for the most recent 250 business days as evidenced by the institution's back-testing. </inglise>
+<eesti> Korrutustegurit suurendatakse j&auml;rgmise tabeli kohaselt lisateguriga 0-1, olenevalt &uuml;letamiste arvust viimase 250 pangap&auml;eva jooksul, mis n&auml;htub asutuse j&auml;relv&otilde;rdlusest. </eesti>
+<inglise> Competent authorities shall require the institutions to calculate overshootings consistently on the basis of back-testing either on actual or on hypothetical changes in the portfolio's value. </inglise>
+<eesti> P&auml;devad asutused n&otilde;uavad, et asutused arvutaksid &uuml;letamisi j&auml;rjepidevalt kas portfelli v&auml;&auml;rtuse tegelike v&otilde;i oletatavate muutuste j&auml;relv&otilde;rdluse p&otilde;hjal. </eesti>
+<inglise> An overshooting is a one-day change in the portfolio's value that exceeds the related one-day value-at-risk measure generated by the institution's model. </inglise>
+<eesti> &Uuml;letamine on portfelli v&auml;&auml;rtuse p&auml;evane muutus, mis &uuml;letab asutuse mudeli p&otilde;hjal leitud vastava p&auml;evase riskiv&auml;&auml;rtuse. </eesti>
+<inglise> For the purpose of determining the plus-factor the number of overshootings shall be assessed at least quarterly. Number of overshootings Plus-factor </inglise>
+<eesti> Lisateguri m&auml;&auml;ramiseks kontrollitakse &uuml;letamiste arvu v&auml;hemalt kord kvartalis. </eesti>
+<inglise> Fewer than 5 0,00 5 0,40 6 0,50 7 0,65 8 0,75 9 0,85 10 or more 1,00 The competent authorities can, in individual cases and owing to an exceptional situation, waive the requirement to increase the multiplication factor by the plus-factor according to the above table, if the institution has demonstrated to the satisfaction of the competent authorities that such an increase is unjustified and that the model is basically sound. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad &uuml;ksikjuhtudel ja erandlikes olukordades loobuda n&otilde;udest suurendada korrutustegurit eespool esitatud tabeli kohase lisateguriga, kui asutus on p&auml;devaid asutusi rahuvaldaval viisil t&otilde;endanud, et selline suurendus on p&otilde;hjendamatu ja mudel on sisuliselt veatu. </eesti>
+<inglise> If numerous overshootings indicate that the model is not sufficiently accurate, the competent authorities shall revoke the model's recognition or impose appropriate measures to ensure that the model is improved promptly. </inglise>
+<eesti> Kui arvukad &uuml;letamised osutavad, et mudel ei ole piisavalt t&auml;pne, t&uuml;histavad p&auml;devad asutused mudeli heakskiidu v&otilde;i rakendavad asjakohaseid meetmeid tagamaks, et mudelit parandatakse viivitamata. </eesti>
+<inglise> In order to allow competent authorities to monitor the appropriateness of the plus-factor on an ongoing basis, institutions shall notify promptly, and in any case no later than within five working days, the competent authorities of overshootings that result form their back-testing programme and that would according to the above table imply an increase of a plus-factor. </inglise>
+<eesti> V&otilde;imaldamaks p&auml;devatel asutustel pidevalt veenduda lisateguri asjakohasuses, teatavad asutused p&auml;devatele asutustele viivitamata ja igal juhul hiljemalt viie t&ouml;&ouml;p&auml;eva jooksul &uuml;letamistest, mis n&auml;htuvad nende j&auml;relv&otilde;rdluskavast ja t&auml;hendavad eespool esitatud tabeli kohaselt lisateguri suurendamist. </eesti>
+<inglise> 8. </inglise>
+<eesti> 8. </eesti>
+<inglise> If the institution's model is recognised by the competent authorities in accordance with paragraph 4 for the purpose of calculating capital requirements for specific risk, the institution shall increase its capital requirement calculated pursuant to paragraphs 6, 7 and 10 by a surcharge in the amount of either: </inglise>
+<eesti> Kui p&auml;devad asutused kiidavad asutuse mudeli punkti 4 kohaselt heaks eririski kapitalin&otilde;uete arvutamiseks, suurendab asutus oma punktide 6, 7 ja 10 kohaselt arvutatud kapitalin&otilde;uet summa v&otilde;rra, mis vastab kas: </eesti>
+<inglise> (i) the specific risk portion of the value-at-risk measure which should be isolated according to supervisory guidelines; or, at the institution's option, </inglise>
+<eesti> i) riskiv&auml;&auml;rtuse eririski osale, mis tuleks j&auml;relevalvesuuniste kohaselt eraldada, v&otilde;i asutuse valikul </eesti>
+<inglise> (ii) the value-at-risk measures of sub-portfolios of debt and equity positions that contain specific risk. </inglise>
+<eesti> ii) eririski sisaldavate v&otilde;lakirja- ja aktsiapositsioonide portfelliosade riskiv&auml;&auml;rtusele. </eesti>
+<inglise> Institutions using option (ii) are required to identify their sub-portfolio structure beforehand and should not change it without the consent of the competent authorities. </inglise>
+<eesti> Valikut ii kasutavad asutused peavad eelnevalt m&auml;&auml;ratlema oma portfelliosa &uuml;lesehituse ja ei tohiks seda p&auml;devate asutuste n&otilde;usolekuta muuta. </eesti>
+<inglise> 9. </inglise>
+<eesti> 9. </eesti>
+<inglise> The competent authorities may waive the requirement pursuant to paragraph 8 for a surcharge if the institution demonstrates that in line with agreed international standards its model accurately captures also the event risk and default risk for its traded debt and equity positions. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad loobuda punkti 8 kohasest suurendamise n&otilde;udest, kui asutus t&otilde;endab, et koosk&otilde;las rahvusvaheliselt tunnustatud normidega m&otilde;&otilde;dab tema mudel t&auml;pselt ka tema kaubeldavate v&otilde;lakirjade ja aktsiate positsioonide toimumis- ja t&auml;itmataj&auml;tmisriski. </eesti>
+<inglise> 10. </inglise>
+<eesti> 10. </eesti>
+<inglise> Each institution must meet a capital requirement expressed as the higher of: </inglise>
+<eesti> Iga asutus peab t&auml;itma kapitalin&otilde;ude, mis on suurem kui: </eesti>
+<inglise> (i) its previous day's value-at-risk number measured according to the parameters specified in this Annex; </inglise>
+<eesti> i) tema eelmise p&auml;eva riskiv&auml;&auml;rtus, mis on m&otilde;&otilde;detud k&auml;esolevas lisas piiritletud suuruste kohaselt; </eesti>
+<inglise> (ii) an average of the daily value-at-risk measures on each of the preceding 60 business days, multiplied by the factor mentioned in paragraph 6, adjusted by the factor mentioned in paragraph 7. </inglise>
+<eesti> ii) eelnenud 60 pangap&auml;eva p&auml;evaste riskiv&auml;&auml;rtuste keskmine, korrutatuna punktis 6 nimetatud teguriga, mida on kohandatud punktis 7 nimetatud teguriga. </eesti>
+<inglise> 11. </inglise>
+<eesti> 11. </eesti>
+<inglise> The calculation of value-at-risk shall be subject to the following minimum standards: </inglise>
+<eesti> Riskiv&auml;&auml;rtuse arvutamisel t&auml;idetakse v&auml;hemalt j&auml;rgmisi n&otilde;udeid: </eesti>
+<inglise> (i) at least daily calculation of value-at-risk; </inglise>
+<eesti> i) riskiv&auml;&auml;rtus arvutatakse v&auml;hemalt iga p&auml;ev; </eesti>
+<inglise> (ii) a 99th percentile, one-tailed confidence interval; </inglise>
+<eesti> ii) 99% &uuml;hesuunaline usaldusvahemik; </eesti>
+<inglise> (iii) a 10-day equivalent holding period; </inglise>
+<eesti> iii) 10p&auml;evane hoiuaeg; </eesti>
+<inglise> (iv) an effective historical observation period of at least one year except where a shorter observation period is justified by a significant upsurge in price volatility; </inglise>
+<eesti> iv) v&auml;hemalt aastane tagasivaateline j&auml;lgimisperiood, v&auml;lja arvatud juhul, kui l&uuml;hem j&auml;lgimisperiood on p&otilde;hjendatud hinna volatiilsuse m&auml;rkimisv&auml;&auml;rse &auml;kkt&otilde;usu t&otilde;ttu; </eesti>
+<inglise> (v) three-monthly data set updates. </inglise>
+<eesti> v) andmeid ajakohastatakse iga kolme kuu tagant. </eesti>
+<inglise> 12. </inglise>
+<eesti> 12. </eesti>
+<inglise> The competent authorities shall require that the model captures accurately all the material price risks of options or option-like positions and that any other risks not captured by the model are covered adequately by own funds. </inglise>
+<eesti> P&auml;devad asutused n&otilde;uavad, et mudel m&otilde;&otilde;daks t&auml;pselt k&otilde;iki olulisi optsioonide v&otilde;i optsoonisarnaste positsioonide hinnariske ja k&otilde;ik muud mudeliga h&otilde;lmamata riskid oleksid omavahenditega asjakohaselt kaetud. </eesti>
+<inglise> 13. </inglise>
+<eesti> 13. </eesti>
+<inglise> The competent authorities shall require that the risk-measurement model captures a sufficient number of risk factors, depending on the level of activity of the institution in the respective markets. </inglise>
+<eesti> P&auml;devad asutused n&otilde;uavad, et riskim&otilde;&otilde;tmismudel h&otilde;lmas piisava hulga riskitegureid, olenevalt asutuse tegevuse ulatusest asjakohastel turgudel. </eesti>
+<inglise> As a minimum, the following provisions shall be respected: </inglise>
+<eesti> T&auml;idetakse v&auml;hemalt j&auml;rgmisi eeskirju: </eesti>
+<inglise> (i) for interest rate risk, the risk-measurement system shall incorporate a set of risk factors corresponding to the interest rates in each currency in which the institution has interest rate sensitive on- or off-balance sheet positions. </inglise>
+<eesti> i) intressim&auml;&auml;ra riski puhul sisaldab riskim&otilde;&otilde;tmiss&uuml;steem hulka riskitegureid, mis vastavad k&otilde;ikide nende v&auml;&auml;ringute intressim&auml;&auml;radele, milles asutusel on intressim&auml;&auml;ratundlikke bilansisiseseid v&otilde;i -v&auml;liseid positsioone. </eesti>
+<inglise> The institution shall model the yield curves using one of the generally accepted approaches. </inglise>
+<eesti> Asutus koostab intressik&otilde;verate mudelid, kasutades m&otilde;nd &uuml;ldtunnustatud meetodit. </eesti>
+<inglise> For material exposures to interest-rate risk in the major currencies and markets, the yield curve shall be divided into a minimum of six maturity segments, to capture the variations of volatility of rates along the yield curve. </inglise>
+<eesti> P&otilde;hiliste v&auml;&auml;ringute ja turgude oluliste intressim&auml;&auml;rariskide puhul jagatakse intressik&otilde;ver v&auml;hemalt kuude l&otilde;ppt&auml;htajav&ouml;&ouml;ndisse, et m&otilde;&otilde;ta m&auml;&auml;rade volatiilsuse muutusi intressik&otilde;veral. </eesti>
+<inglise> The risk-measurement system must also capture the risk of less than perfectly correlated movements between different yield curves; </inglise>
+<eesti> Riskim&otilde;&otilde;tmiss&uuml;steem peab samuti h&otilde;lmama riski, mis tuleneb erinevate intressik&otilde;verate liikumiste kehvast vastastikusest seostamisest; </eesti>
+<inglise> (ii) for foreign-exchange risk, the risk-measurement system shall incorporate risk factors corresponding to gold and to the individual foreign currencies in which the institution's positions are denominated; </inglise>
+<eesti> ii) valuutakursiriski puhul sisaldab riskim&otilde;&otilde;tmiss&uuml;steem riskitegureid, mis vastavad kullale ja &uuml;ksikutele v&auml;lisv&auml;&auml;ringutele, milles asutuse positsioonid on v&auml;&auml;ringustatud; </eesti>
+<inglise> (iii) for equity risk, the risk-measurement system shall use a separate risk factor at least for each of the equity markets in which the institution holds significant positions; </inglise>
+<eesti> iii) aktsiakursiriski puhul sisaldab riskim&otilde;&otilde;tmiss&uuml;steem eraldi riskitegurit v&auml;hemalt iga aktsiaturu suhtes, kus asutusel on olulisi positsioone; </eesti>
+<inglise> (iv) for commodity risk, the risk-measurement system shall use a separate risk factor at least for each commodity in which the institution holds significant positions. </inglise>
+<eesti> iv) kaubariski puhul sisaldab riskim&otilde;&otilde;tmiss&uuml;steem eraldi riskitegurit v&auml;hemalt iga kauba suhtes, milles asutusel on olulisi positsioone. </eesti>
+<inglise> The risk-measurement system must also capture the risk of less than perfectly correlated movements between similar, but not identical, commodities and the exposure to changes in forward prices arising from maturity mismatches. </inglise>
+<eesti> Riskim&otilde;&otilde;tmiss&uuml;steem peab h&otilde;lmama ka riski, mis tuleneb sarnaste, kuid mitte &uuml;hesuguste kaupade hinnaliikumiste kehvast vastastikusest seostamisest, ja t&auml;htp&auml;evahindade muutumise riski, mis tuleneb t&auml;htaegade erinevusest. </eesti>
+<inglise> It shall also take account of market characteristics, notably delivery dates and the scope provided to traders to close out positions. </inglise>
+<eesti> Samuti v&otilde;etakse s&uuml;steemis arvesse turgude tunnusjooni, eelk&otilde;ige tehingup&auml;evi ja kauplejate v&otilde;imalust positsioone sulgeda. </eesti>
+<inglise> 14. </inglise>
+<eesti> 14. </eesti>
+<inglise> The competent authorities may allow institutions to use empirical correlations within risk categories and across risk categories if they are satisfied that the institution's system for measuring correlations is sound and implemented with integrity'. </inglise>
+<eesti> P&auml;devad asutused v&otilde;ivad lubada asutustel kasutada riskiklassides ja riskiklasside vahel &uuml;ldisi korrelatsioone, kui nad on veendunud, et asutuse s&uuml;steem vastastikuste seoste m&otilde;&otilde;tmiseks on veatu ja seda rakendatakse terviklikult." </eesti>
+ 
