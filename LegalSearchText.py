@@ -48,7 +48,7 @@ arg_index = 1   # NB! for Python the first real argument has index 1
 
 if (
     len(argv) == 1
-    or ((len(argv) > arg_index) and (argv[arg_index] == "help"))
+    or ((len(argv) > arg_index) and (argv[arg_index].lower() == "help"))
 ):
     print('Usage:')
     print('LegalSearchText.exe help')
@@ -64,7 +64,7 @@ if (
 
 # init search index?
 
-init = (len(argv) > arg_index) and (argv[arg_index] == 'learn')
+init = (len(argv) > arg_index) and (argv[arg_index].lower() == 'learn')
 
 if (init):
     arg_index = arg_index + 1
@@ -76,10 +76,10 @@ if (init):
 use_line_search = False           # default to text level  
 
 if (len(argv) > arg_index): 
-    if (argv[arg_index] == "text"):
+    if (argv[arg_index].lower() == "text"):
         use_line_search = False
         arg_index = arg_index + 1
-    elif (argv[arg_index] == "line"):
+    elif (argv[arg_index].lower() == "line"):
         use_line_search = True
         arg_index = arg_index + 1
 
@@ -91,16 +91,16 @@ search_language = ""
 result_language = ""
 
 if (len(argv) > arg_index): 
-    if (argv[arg_index] == "eng" or argv[arg_index] == "engeng"):
+    if (argv[arg_index].lower() == "eng" or argv[arg_index].lower() == "engeng"):
         search_language = "eng" 
         result_language = "eng"
-    elif (argv[arg_index] == "est" or argv[arg_index] == "estest"):
+    elif (argv[arg_index].lower() == "est" or argv[arg_index].lower() == "estest"):
         search_language = "est" 
         result_language = "est"
-    elif (argv[arg_index] == "engest"):
+    elif (argv[arg_index].lower() == "engest"):
         search_language = "eng" 
         result_language = "est"
-    elif (argv[arg_index] == "esteng"):
+    elif (argv[arg_index].lower() == "esteng"):
         search_language = "est" 
         result_language = "eng"
 
@@ -117,13 +117,13 @@ all_search_corpus_dirs = ['et-en/', 'en-et_t/', 'en-et_u/']
 search_corpus_dirs = []
 
 if (len(argv) > arg_index): 
-    if (argv[arg_index] == "eeeu" or argv[arg_index] == "euee"):
+    if (argv[arg_index].lower() == "eeeu" or argv[arg_index].lower() == "euee"):
         search_corpus_name = "eeeu"
         search_corpus_dirs = ['et-en/', 'en-et_t/', 'en-et_u/']    # Estonian and EU laws
-    elif (argv[arg_index] == "eu"):
+    elif (argv[arg_index].lower() == "eu"):
         search_corpus_name = "eu"
         search_corpus_dirs = ['en-et_t/', 'en-et_u/']              # only EU laws
-    elif (argv[arg_index] == "ee"):
+    elif (argv[arg_index].lower() == "ee"):
         search_corpus_name = "ee"
         search_corpus_dirs = ['et-en/']                            # only Estonian laws
 
@@ -172,7 +172,7 @@ if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
 
 notlike = []
 notlike_tags = []
-if (len(argv) > arg_index and argv[arg_index] == 'notlike'):
+if (len(argv) > arg_index and argv[arg_index].lower() == 'notlike'):
     arg_index = arg_index + 1
     while (len(argv) >= arg_index and argv[arg_index].isnumeric()):
         notlike.append(int(argv[arg_index]))
