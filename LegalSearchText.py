@@ -632,7 +632,11 @@ if (len(notlike) > 0):
     else:
 
         #with open(last_results_file_name, 'r') as infile:
-        lastresults = [line.strip() for line in open(last_results_file_name, 'r')]
+        if (os.path.exists(last_results_file_name)):
+            lastresults = [line.strip() for line in open(last_results_file_name, 'r')]
+        else:
+            print('Notlike command: previous search result not available')
+            sys.exit()
 
 
     print('Inferring semantics of excluded matches')
