@@ -59,6 +59,11 @@ if (
     print('    * language parameter engest means that the query is in English and results should be shown from corresponding Estonian corpus')
     print('    * language parameter esteng means that the query is in Estonian and results should be shown from corresponding English corpus')
     print('    * scope parameter eeeu means that both Estonian and EU laws are used for search')
+    print('')
+    print('Copyrights:')
+    print('GenSim, GNU LGPLv2.1 license. https://radimrehurek.com/gensim/')
+    print('Miniconda, BSD 3-clause licence. https://conda.io/miniconda')
+
     sys.exit()
 
 
@@ -504,7 +509,7 @@ if (init or not os.path.exists(model_file)):
     # >>> model.build_vocab(sentences)
 
     print('Scanning files for vocabulary')
-    print('... this may take a few time, go eat some apples')
+    print('... this may take a few minutes, go eat some apples')
     model.scan_vocab(sentences)
 
 
@@ -583,6 +588,20 @@ if (init or not os.path.exists(model_file)):
 
     print('Done. You can issue search queries now')
     #sys.exit()
+
+
+
+    # reload the model for improved results immediately after indexing. Else the first time search gives bad results for some reason. TODO: why?
+    numpy.random.seed(0)
+    random.seed(0)
+
+    if (len(positive_words) > 0 or len(negative_words) > 0):
+        model = gensim.models.Word2Vec.load(model_file)
+
+    # If you need such determinism, you should be able to force it by explicitly resetting the model.random property to a freshly- and deterministically seeded RandomState instance
+    # https://github.com/RaRe-Technologies/gensim/issues/447
+    model.random.seed(0)
+
 
 
 else:  # if (init or not os.path.exists(model_file)):
@@ -769,6 +788,7 @@ while True:     # in case only EE laws are looked at, the training corpus still 
 
         
         # need to detect previously processed search results in case we are extending the search results list when looking for restricted corpus results and the database is indexed on full corpus
+        # TODO: gather all results and sort them again and only the display the results. Else it may happen that invoking the search in multiple loops causes the scores to "dance".
         if (tag in previously_found_tags):
             continue
 
