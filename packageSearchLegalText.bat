@@ -6,6 +6,7 @@ pyinstaller --noconfirm LegalSearchText.py > nul
 
 copy /Y copyrights.txt ".\dist\LegalSearchText\" 
 copy /Y corpus_references.txt ".\dist\LegalSearchText\" 
+copy /Y development_instructions.txt ".\dist\LegalSearchText\" 
 copy /Y _readme.txt ".\dist\LegalSearchText\" 
 copy /Y _LegalSearchText.bat ".\dist\LegalSearchText\"
 copy /Y _LegalSearchText_with_logging.bat ".\dist\LegalSearchText\"
