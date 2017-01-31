@@ -61,7 +61,7 @@ if (
     print('    * scope parameter eeeu means that both Estonian and EU laws are used for search')
     print('')
     print('Copyrights:')
-    print('GenSim, GNU LGPLv2.1 license. https://radimrehurek.com/gensim/')
+    print('GenSim, GNU LGPLv2.1 licence. https://radimrehurek.com/gensim/')
     print('Miniconda, BSD 3-clause licence. https://conda.io/miniconda')
 
     sys.exit()
@@ -115,13 +115,12 @@ if (len(argv) > arg_index):
         result_language = "none"
         do_not_detect_tags = True
 
-if (search_language == ""):
-    search_language = "eng"     # default to English language
-    result_language = "eng"
-else:
+if (search_language != ""):
     arg_index = arg_index + 1
 
 
+
+# choose corpus directories
 
 search_corpus_name = ""
 search_corpus_dirs = []
@@ -153,11 +152,28 @@ else:
     arg_index = arg_index + 1
 
 
+
+# choose default language
+
+if (search_language == ""):
+    if (using_custom_corpus):
+        search_language = "none"    # default to non-parallel corpus when using custom corpus
+        result_language = "none"
+        do_not_detect_tags = True
+    else:
+        search_language = "eng"     # default to English language
+        result_language = "eng"
+
+
+
+# decide full corpus directories list
+
 if do_not_detect_tags and not using_custom_corpus:
     print("If 'none' mode is selected for language then custom corpus must be used")
     sys.exit()
 
 all_search_corpus_dirs = search_corpus_dirs if using_custom_corpus else ['et-en/', 'en-et_t/', 'en-et_u/']
+
 
 
 # select corpus scope
