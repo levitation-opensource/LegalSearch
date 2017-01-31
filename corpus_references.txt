@@ -1,0 +1,3 @@
+
+Inglise-eesti ja eesti-inglise paralleelkorpus: http://www.cl.ut.ee/korpused/paralleel/
+
