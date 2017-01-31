@@ -8,6 +8,7 @@
 print('LegalSearchText 31.01.2017')
 
 
+import hashlib
 import logging
 import numpy
 import random
@@ -52,8 +53,8 @@ if (
 ):
     print('Usage:')
     print('LegalSearchText.exe help')
-    print('LegalSearchText.exe learn [level: text|line (text)] [language: eng|est (eng)] [num_dims: (152/252)]')
-    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng (eng)] [scope: ee|eu|eeeu (ee)] [num_results: (20)] [num_dims: (152/252)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
+    print('LegalSearchText.exe learn [level: text|line (text)] [language: eng|est|none (eng)] [num_dims: (152/252)]')
+    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng|none (eng)] [scope: ee|eu|eeeu|folder:... (ee)] [num_results: (20)] [num_dims: (152/252)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
     print('    Notes:')
     print('    * language parameter engest means that the query is in English and results should be shown from corresponding Estonian corpus')
     print('    * language parameter esteng means that the query is in Estonian and results should be shown from corresponding English corpus')
@@ -89,6 +90,7 @@ if (len(argv) > arg_index):
 
 search_language = ""
 result_language = ""
+do_not_detect_tags = False
 
 if (len(argv) > arg_index): 
     if (argv[arg_index].lower() == "eng" or argv[arg_index].lower() == "engeng"):
@@ -103,6 +105,10 @@ if (len(argv) > arg_index):
     elif (argv[arg_index].lower() == "esteng"):
         search_language = "est" 
         result_language = "eng"
+    elif (argv[arg_index].lower() == "none"):
+        search_language = "none" 
+        result_language = "none"
+        do_not_detect_tags = True
 
 if (search_language == ""):
     search_language = "eng"     # default to English language
@@ -113,8 +119,8 @@ else:
 
 
 search_corpus_name = ""
-all_search_corpus_dirs = ['et-en/', 'en-et_t/', 'en-et_u/']
 search_corpus_dirs = []
+using_custom_corpus = False
 
 if (len(argv) > arg_index): 
     if (argv[arg_index].lower() == "eeeu" or argv[arg_index].lower() == "euee"):
@@ -126,6 +132,14 @@ if (len(argv) > arg_index):
     elif (argv[arg_index].lower() == "ee"):
         search_corpus_name = "ee"
         search_corpus_dirs = ['et-en/']                            # only Estonian laws
+    elif (argv[arg_index].lower()[:7] == "folder:"):
+        using_custom_corpus = True
+        custom_folder = os.path.normpath(argv[arg_index][7:])
+        
+        custom_folder_id = hashlib.md5(custom_folder.encode('utf-8')).hexdigest()
+
+        search_corpus_name = "custom_" + custom_folder_id
+        search_corpus_dirs = [custom_folder + '/']                 # custom folder
 
 if (len(search_corpus_dirs) == 0):
     search_corpus_name = "ee"
@@ -133,6 +147,12 @@ if (len(search_corpus_dirs) == 0):
 else:
     arg_index = arg_index + 1
 
+
+if do_not_detect_tags and not using_custom_corpus:
+    print("If 'none' mode is selected for language then custom corpus must be used")
+    sys.exit()
+
+all_search_corpus_dirs = search_corpus_dirs if using_custom_corpus else ['et-en/', 'en-et_t/', 'en-et_u/']
 
 
 # select corpus scope
@@ -373,15 +393,21 @@ class ReadSentences(object):
                 (line_no, line) = line_kvp
                 line = line.strip() 
 
+                if (len(line) == 0):         # empty line
+                    continue
+
                     
-                if (line[:len(search_tag_start)].lower() == search_tag_start 
-                    and line[-len(search_tag_end):].lower() == search_tag_end):  
+                if (do_not_detect_tags
+                    or (
+                        line[:len(search_tag_start)].lower() == search_tag_start 
+                        and line[-len(search_tag_end):].lower() == search_tag_end)):  
 
                     num_lines = num_lines + 1
                     lang_line_no = lang_line_no + 1
 
                     # TODO: do not lowercase abbreviations
-                    line = line[len(search_tag_start):-len(search_tag_end)].lower().translate(translator).split()    # split() also strips()
+                    line = line if do_not_detect_tags else line[len(search_tag_start):-len(search_tag_end)]
+                    line = line.lower().translate(translator).split()    # split() also strips()
                     line = [x for x in filter_words(line)]
 
                     if (use_line_search):    # line search
@@ -691,6 +717,8 @@ result_index = 0
 print('Searching for matches')
 
 
+prev_result_count = 0
+
 while True:     # in case only EE laws are looked at, the training corpus still contains both EE and EU laws, so we need to filter out any EU laws
                 # TODO: do the filtering using some additional pseudo-keywords?
 
@@ -724,6 +752,14 @@ while True:     # in case only EE laws are looked at, the training corpus still 
     # comment-out: this is a problem in case the results are dancing! Instead we are using tags list
 
     number_of_previously_generated_similars = topn
+
+
+
+    if (len(similars) == prev_result_count):    # no more results can be generated, prevent infinite loop
+        break
+
+    prev_result_count = len(similars)
+
 
     
     for similar in similars:
@@ -783,16 +819,21 @@ while True:     # in case only EE laws are looked at, the training corpus still 
 
         for line in lines:
 
-            line2 = line.strip().lower()    
+            if (len(line) == 0):         # empty line
+                continue
+
+
+            line = line.strip()   
 
 
             # detect est-eng line ordering. Detect that for each source file separately
 
             if (
-                not est_eng_order_detected
+                not do_not_detect_tags
+                and not est_eng_order_detected
                 and not est_tags_encountered
-                and line2[:len(est_tag_start)].lower() == est_tag_start 
-                and line2[-len(est_tag_end):].lower() == est_tag_end
+                and line[:len(est_tag_start)].lower() == est_tag_start 
+                and line[-len(est_tag_end):].lower() == est_tag_end
             ):
                 est_tags_encountered = True 
                         
@@ -801,10 +842,11 @@ while True:     # in case only EE laws are looked at, the training corpus still 
                     est_eng_line_offset = -1    # eng tags are before est tags
 
             if (
-                not est_eng_order_detected
+                not do_not_detect_tags
+                and not est_eng_order_detected
                 and not eng_tags_encountered
-                and line2[:len(eng_tag_start)].lower() == eng_tag_start 
-                and line2[-len(eng_tag_end):].lower() == eng_tag_end
+                and line[:len(eng_tag_start)].lower() == eng_tag_start 
+                and line[-len(eng_tag_end):].lower() == eng_tag_end
             ):
                 eng_tags_encountered = True 
                         
@@ -815,16 +857,21 @@ while True:     # in case only EE laws are looked at, the training corpus still 
 
             # gather title text
 
-            if (line2[:len(result_tag_start)] == result_tag_start 
-                and line2[-len(result_tag_end):] == result_tag_end):  
+            if (do_not_detect_tags
+                or (
+                    line[:len(result_tag_start)].lower() == result_tag_start 
+                    and line[-len(result_tag_end):].lower() == result_tag_end)):  
 
                 num_lines = num_lines + 1
-                title_lines = ('' if title_lines == '' else title_lines + ' - ') + line.strip()[len(result_tag_start):-len(result_tag_end)].strip()
+
+                line = line if do_not_detect_tags else line[len(result_tag_start):-len(result_tag_end)].strip()
+
+                title_lines = ('' if title_lines == '' else title_lines + ' - ') + line
             
                 if (num_lines == 3):    # enough title lines
                     break
     
-            #/ if (line2[:len(result_tag_start)] == result_tag_start and line2[-len(result_tag_end):] == result_tag_end):  
+            #/ if (line[:len(result_tag_start)] == result_tag_start and line2[-len(result_tag_end):] == result_tag_end):  
 
         #/ for line in lines:
 
@@ -845,7 +892,9 @@ while True:     # in case only EE laws are looked at, the training corpus still 
             line_no = line_no + search_result_line_offset        # NB! search_result_line_offset
     
 
-            line = lines[line_no].strip()[len(result_tag_start):-len(result_tag_end)].strip()
+            line = lines[line_no].strip()
+            line = line if do_not_detect_tags else line[len(result_tag_start):-len(result_tag_end)].strip()
+
             print("[" + str(result_index) + "] " + "{0:.3f}".format(score) + ' "' + title_lines + '" : /' + line + "/ : line #" + str(lang_line_no + 1) + " @ " + fname)
             # print("[" + str(result_index) + "] (" + str(score) + ") : " + fname + " (" + title_lines + ")" + " : line " + str(lang_line_no + 1) + ' : ' + line)
             # print("[" + str(result_index) + "] " + "{0:.3f}".format(score) + ' /' + line + '/ "' + title_lines + '" : line #' + str(lang_line_no + 1) + " @ " + fname)
