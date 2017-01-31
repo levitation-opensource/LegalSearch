@@ -1,0 +1,35 @@
+
+
+
+Download & install https://conda.io/miniconda.html
+
+
+
+From command line:
+------------------
+
+python -m pip install --upgrade pip
+
+pip install --upgrade --ignore-installed setuptools
+
+pip install cython
+
+conda install --yes numpy scipy
+
+easy_install --upgrade gensim
+
+pip install nltk
+
+
+pip install pyinstaller
+
+
+
+One suggestion for free development environment:
+------------------------------------------------
+
+pip install jupyter
+
+jupyter notebook
+
+
