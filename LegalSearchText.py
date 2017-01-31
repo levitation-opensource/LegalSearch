@@ -53,7 +53,7 @@ if (
     print('Usage:')
     print('LegalSearchText.exe help')
     print('LegalSearchText.exe learn [level: text|line (text)] [language: eng|est (eng)] [num_dims: (152/252)]')
-    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng (eng)] [scope: ee|eu|eeeu (ee)] [num_dims: (152/252)] [num_results: (20)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
+    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng (eng)] [scope: ee|eu|eeeu (ee)] [num_results: (20)] [num_dims: (152/252)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
     print('    Notes:')
     print('    * language parameter engest means that the query is in English and results should be shown from corresponding Estonian corpus')
     print('    * language parameter esteng means that the query is in Estonian and results should be shown from corresponding English corpus')
@@ -144,6 +144,16 @@ index_corpus_dirs = ['et-en/', 'en-et_t/', 'en-et_u/']
 
 
 
+# select number of results
+
+num_results = 20
+
+if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
+    num_results = int(argv[arg_index])
+    arg_index = arg_index + 1
+
+
+
 # select number of dimensions
 
 num_dims = 250 if use_line_search else 150  
@@ -155,16 +165,6 @@ if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
 
 num_dims1 = num_dims
 num_dims = int((num_dims + 3) / 4) * 4  # round up to next multiple of 4 for improved performance
-
-
-
-# select number of results
-
-num_results = 20
-
-if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
-    num_results = int(argv[arg_index])
-    arg_index = arg_index + 1
 
 
 
