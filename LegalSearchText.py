@@ -52,8 +52,8 @@ if (
 ):
     print('Usage:')
     print('LegalSearchText.exe help')
-    print('LegalSearchText.exe learn [level: text|line (text)] [language: eng|est (eng)] [num_dims: (100)]')
-    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng (eng)] [scope: ee|eu|eeeu (ee)] [num_dims: (100)] [num_results: (20)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
+    print('LegalSearchText.exe learn [level: text|line (text)] [language: eng|est (eng)] [num_dims: (152/252)]')
+    print('LegalSearchText.exe [level: text|line (text)] [language: eng|est|engest|esteng (eng)] [scope: ee|eu|eeeu (ee)] [num_dims: (152/252)] [num_results: (20)] [notlike #1 #3 #8 ...] query words ... -negative -words ...')    
     print('    Notes:')
     print('    * language parameter engest means that the query is in English and results should be shown from corresponding Estonian corpus')
     print('    * language parameter esteng means that the query is in Estonian and results should be shown from corresponding English corpus')
