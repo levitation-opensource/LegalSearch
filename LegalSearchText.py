@@ -764,12 +764,10 @@ while True:     # in case only EE laws are looked at, the training corpus still 
     if (prev_result_count < prev_topn):     # no more additional results can be generated, optimisation for quick exit
         break
 
-    prev_topn = topn
-
-
 
     # number_of_previously_generated_similars will be skipped
     topn = num_results + len(notlike) + number_of_previously_generated_similars
+    prev_topn = topn
 
 
     # similars = model.docvecs.most_similar([inferred_vector], topn=(num_results + len(notlike)))
