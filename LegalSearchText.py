@@ -5,7 +5,7 @@
 # roland@simplify.ee
 #
 
-print('LegalSearchText 31.01.2017')
+print('LegalSearchText 01.02.2017')
 
 
 import hashlib
@@ -181,7 +181,6 @@ all_search_corpus_dirs = search_corpus_dirs if using_custom_corpus else ['et-en/
 use_common_corpus = True    # index always the whole corpus?
 
 index_corpus_name = "full" if use_common_corpus else search_corpus_name  
-index_corpus_dirs = ['et-en/', 'en-et_t/', 'en-et_u/']
 
 
 
@@ -198,13 +197,13 @@ if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
 # select number of dimensions
 
 num_dims = 250 if use_line_search else 150  
-num_dims = int((num_dims + 3) / 4) * 4  # round up to next multiple of 4 for improved performance and suppress any warning messages since defaults behaviour is used anyway
+num_dims = int((num_dims + 3) / 4) * 4  # round up to next multiple of 4 for improved performance and suppress any notice messages since defaults behaviour is used anyway
 
 if ((len(argv) > arg_index) and (argv[arg_index].isnumeric())):
     num_dims = int(argv[arg_index])
     arg_index = arg_index + 1
 
-num_dims1 = num_dims
+num_dims1 = num_dims    # if num_dims1 and num_dims differ then a notice will be shown later
 num_dims = int((num_dims + 3) / 4) * 4  # round up to next multiple of 4 for improved performance
 
 
@@ -228,7 +227,7 @@ forbidden_words = ['&sect;', 'a', 'an', 'and', 'at', 'be', 'because', 'can', 'ei
                    'in', 'is', 'of', 'neither', 'nor', 'not', 'on', 'or', 'the', 'was', 'xor']
 
 # https://en.wikipedia.org/wiki/Stemming
-forbidden_sufixes = ['.', 'ed', 'ing', 'ly', "n't", 's', "s'", "'s"]    # translate(translator) does not remove dots after numerics
+forbidden_sufixes = ['.', 'ed', 'ing', 'ly', "n't", 's', "s'", "'s"]    # '.': translate(translator) does not remove dots after numerics
 
 def filter_words(line):
     for word in line:
@@ -241,7 +240,7 @@ def filter_words(line):
 
             word = word.strip()
 
-            if (word != '' and not word.isnumeric()):   # TODO!: implement min word length?
+            if (len(word) != 0 and not word.isnumeric()):   # TODO!: implement min word length?
                 yield word
 
 #/ def filter_words(line):
@@ -254,7 +253,7 @@ def filter_words(line):
 
 # TODO!!! use stemmer from https://github.com/arthur-flam/search-tfidf-word2vec-poc
 # TODO!!! use Phraser?
-# TODO!!! converts &html; strings to normal characters
+# TODO!!! convert &html; strings to normal characters
 # TODO!!! remove punctuation
 
 translator = str.maketrans('', '', string.punctuation)  # remove all punctuation
@@ -302,9 +301,9 @@ if (init and len(all_datadirs) != len(all_search_corpus_dirs)):
     print('Some texts folders not found')
     sys.exit()
 
-if (len(datadirs) != len(search_corpus_dirs)):
-    print('Some texts folders not found')
-    sys.exit()
+# if (len(datadirs) != len(search_corpus_dirs)):
+#    print('Some texts folders not found')
+#    sys.exit()
 
 
 
@@ -369,15 +368,15 @@ class ReadSentences(object):
 
                     corpus = datadir
 
-                    # first entry in tuple is a tag but if will be used in displaying the results so it needs to be properly formatted too
+                    # second entry in tuple is a tag but if will be used in displaying the results so it needs to be properly formatted too
                     self.files.append([corpus, os.path.join(datadir, file), fullfilename])
 
         #/ for datadir in local_datadirs:
 
         # shuffling is needed for improved learning
-        # TODO: but order files must be same for all loops?
+        # TODO: but order of files must be same for all loops?
         # random.shuffle(self.files)   
-        self.max_num_files = -1 #10
+        self.max_num_files = -1 #10     # for debugging
 
     #/ def __init__(self, datadirs):
  
@@ -388,10 +387,15 @@ class ReadSentences(object):
 
         num_files = 0
 
+
+        # shuffling is needed for improved learning
+        random.shuffle(self.files)
+
+
         for fname_kvp in self.files:
 
             num_files = num_files + 1
-            if (self.max_num_files != -1 and num_files > self.max_num_files):
+            if (self.max_num_files != -1 and num_files > self.max_num_files):     # for debugging
                 break
 
             (corpus, tag_fname, fullfilename) = fname_kvp
@@ -399,7 +403,7 @@ class ReadSentences(object):
             num_lines = 0
             lang_line_no = 0
 
-            lines = [x for x in enumerate(open(fullfilename, 'r'))]
+            lines = [x for x in enumerate(open(fullfilename, 'r'))]     # enumerate adds line indexes
             if (len(lines) == 0):   # empty lines?
                 continue
 
@@ -437,7 +441,7 @@ class ReadSentences(object):
 
                     else:   # document search
 
-                        for word in filter_words(line):
+                        for word in line:   # all words into single line
                             line2.append(word)
 
                 #/ if (line[:len(tag_start)].lower() == tag_start and line[-len(tag_end):].lower() == tag_end):
@@ -446,7 +450,7 @@ class ReadSentences(object):
             #/ for line_kvp in lines:
 
             if not use_line_search:
-                lines2 = [[1, 0, line2]]
+                lines2 = [[0, 0, line2]]
 
 
 
@@ -510,7 +514,7 @@ if (init or not os.path.exists(model_file)):
     # Let's say you want to invoke the multiple passes yourself, by calling `train()` for each pass. (The main reason I can think of to do this would be to do interim reporting/model-evaluation after each pass.) In such a case you'd probably want to (1) set `iter` to 1 so the internal repeats are prevented; and (2) manage `alpha` yourself, so that it still decays gradually over all passes from its max to its min. (You certainly *don't* want a saw-tooth pattern, where each call to `train()` sends it from 0.025 to 0.001, which you'd get if you left `alpha` and `min_alpha` at their defaults.) 
     # The most simple way to manage alpha yourself is to set `alpha` and `min_alpha` to the same initial fixed value, so a full pass uses that value, then decrement them both before each next pass, in fixed-size steps down to the desired final-pass value. So, that approach has been shown in a number of published examples, including the doc2vec-IMDB.ipynb notebook bundled with gensim. (More sophisticated smoother-decay approaches are if course also possible.)
     # https://groups.google.com/forum/#!msg/gensim/7eiwqfhAbhs/NwoTI-OFHwAJ
-    # TODO!!! use normal iteration in non-debug mode
+    # TODO!!! use normal iteration in release mode
     #    model = gensim.models.Doc2Vec(iter=1, min_count=10, size=num_dims, workers=16, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
     #    model = gensim.models.Doc2Vec(seed=0, dm=0, min_count=10, size=num_dims, workers=16, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
     #    model = gensim.models.Doc2Vec(seed=0, dm=0, min_count=10, size=num_dims, workers=1, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
@@ -577,8 +581,8 @@ if (init or not os.path.exists(model_file)):
     #
     # comment-out:
     # causes "AttributeError: 'Doc2Vec' object has no attribute 'syn1'"
-    # I could handle the error i two ways:
-    # setting the parameter hs=0 by initializing the model or
+    # I could handle the error in two ways:
+    # setting the parameter hs=0 when initializing the model or
     # not calling model.init_sims()
     # ...
     # I just figured out. it also works with init_sims(replace=False).
@@ -588,9 +592,6 @@ if (init or not os.path.exists(model_file)):
     # Thanks for your report. Yes, inference works almost exactly like training, so a model with training-state discarded won't be able to reasonably infer either. The comment for init_sims(replace=True) could be a bit clearer.
     # TODO!!! choose
     # https://github.com/RaRe-Technologies/gensim/issues/483
-
-
-
     print('Pruning the associations')
     model.init_sims(replace=False)
 
@@ -692,7 +693,6 @@ if (len(notlike) > 0):
 
     else:
 
-        #with open(last_results_file_name, 'r') as infile:
         if (os.path.exists(last_results_file_name)):
             lastresults = [line.strip() for line in open(last_results_file_name, 'r')]
         else:
@@ -708,14 +708,14 @@ if (len(notlike) > 0):
         notlike_tags.append(tag)
 
         if not tag in model.docvecs:
-            print('Excluded match not found: ' + str(notlike_index))
+            print('Warning: Excluded match not found: ' + str(notlike_index))
             continue
 
         negative_similar_vector = model.docvecs[tag]
         # NB! .docvecs: https://groups.google.com/forum/#!topic/gensim/sbJBb7sEBVE
 
 
-        if (inferred_negative_vector.size > 0):
+        if (inferred_negative_vector.size > 0):      # is current negative vector the first one? We cannot add empty array to a vector, so we need to know
             inferred_negative_vector = inferred_negative_vector + negative_similar_vector
         else:
             inferred_negative_vector = negative_similar_vector
@@ -728,13 +728,16 @@ if (len(notlike) > 0):
 
 
 
-if (inferred_positive_vector.size > 0 and inferred_negative_vector.size > 0):
-    inferred_vector = inferred_positive_vector - inferred_negative_vector
-elif (inferred_positive_vector.size > 0):
-    inferred_vector = inferred_positive_vector
-elif (inferred_negative_vector.size > 0):
-    inferred_vector = -inferred_negative_vector
-else:
+# if (inferred_positive_vector.size > 0 and inferred_negative_vector.size > 0):
+#     inferred_vector = inferred_positive_vector - inferred_negative_vector
+# elif (inferred_positive_vector.size > 0):
+#     inferred_vector = inferred_positive_vector
+# elif (inferred_negative_vector.size > 0):
+#     inferred_vector = -inferred_negative_vector
+# else:
+#     print('Please enter a search query')
+#     sys.exit()
+if (inferred_positive_vector.size == 0 and inferred_negative_vector.size == 0):
     print('Please enter a search query')
     sys.exit()
 
@@ -756,6 +759,10 @@ prev_result_count = 0
 
 while True:     # in case only EE laws are looked at, the training corpus still contains both EE and EU laws, so we need to filter out any EU laws
                 # TODO: do the filtering using some additional pseudo-keywords?
+
+    if (prev_result_count <= topn):     # no more additional results can be generated, optimisation for quick exit
+        break
+
 
     # number_of_previously_generated_similars will be skipped
     topn = num_results + len(notlike) + number_of_previously_generated_similars
@@ -804,7 +811,7 @@ while True:     # in case only EE laws are looked at, the training corpus still 
 
         
         # need to detect previously processed search results in case we are extending the search results list when looking for restricted corpus results and the database is indexed on full corpus
-        # TODO: gather all results and sort them again and only the display the results. Else it may happen that invoking the search in multiple loops causes the scores to "dance".
+        # TODO: gather all results and sort them again and only then display the results. Else it may happen that invoking the search in multiple loops causes the scores to "dance".
         if (tag in previously_found_tags):
             continue
 
@@ -815,24 +822,26 @@ while True:     # in case only EE laws are looked at, the training corpus still 
         if (result_index >= num_results):
             break
 
-        if (tag in notlike_tags):
+        if (tag in notlike_tags):   # do not show forbidden documents even when search algorithm finds them
             continue
 
 
-        (corpus, fname, line_no, lang_line_no) = tag.split(':')
+        (corpus, fname, line_no, lang_line_no) = tag.split(':')     # TODO: support for full-path folder names in corpus
         line_no = int(line_no)
         lang_line_no = int(lang_line_no)
 
 
-        if (corpus not in search_corpus_dirs):
+        if (corpus not in search_corpus_dirs):  # we indexed the whole corpus but are searching for only subset corpus
             continue
 
+
+        fullfilename = os.path.join(basedatadir, fname)
     
-        filesize = os.path.getsize(os.path.join(basedatadir, fname))
+        filesize = os.path.getsize(fullfilename)
         if filesize == 0:   # ignore zero-size files. Search may return them when using old index database
             continue
 
-        lines = [x for x in open(os.path.join(basedatadir, fname))] 
+        lines = [x for x in open(fullfilename)] 
         if (len(lines) == 0):    # empty lines?
             continue
 
@@ -920,9 +929,9 @@ while True:     # in case only EE laws are looked at, the training corpus still 
             # est_eng_line_offset : 1 if est tags are before eng tags
             if (search_language == result_language):
                 search_result_line_offset = 0   # NB!
-            elif (search_language == "est"):
+            elif (search_language == "est"):   # and result_language == "eng")
                 search_result_line_offset = est_eng_line_offset     # result offset: 1 if est tags are before eng tags 
-            else:   # if (search_language == "eng")
+            else:   # if (search_language == "eng" and result_language == "est")
                 search_result_line_offset = -est_eng_line_offset    # result offset: -1 if est tags are before eng tags 
 
             line_no = line_no + search_result_line_offset        # NB! search_result_line_offset
@@ -947,6 +956,8 @@ while True:     # in case only EE laws are looked at, the training corpus still 
         break
     else:
         continue    # while True:
+
+#/ while True:
 
 
 
