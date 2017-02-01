@@ -756,6 +756,7 @@ print('Searching for matches')
 
 
 prev_result_count = 0
+prev_topn = 0
 
 while True:     # in case only EE laws are looked at, the training corpus still contains both EE and EU laws, so we need to filter out any EU laws
                 # TODO: do the filtering using some additional pseudo-keywords?
@@ -763,8 +764,10 @@ while True:     # in case only EE laws are looked at, the training corpus still 
     # number_of_previously_generated_similars will be skipped
     topn = num_results + len(notlike) + number_of_previously_generated_similars
 
-    if (prev_result_count <= topn):     # no more additional results can be generated, optimisation for quick exit
+    if (prev_result_count < prev_topn):     # no more additional results can be generated, optimisation for quick exit
         break
+
+    prev_topn = topn
 
 
     # similars = model.docvecs.most_similar([inferred_vector], topn=(num_results + len(notlike)))
