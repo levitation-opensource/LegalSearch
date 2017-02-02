@@ -25,7 +25,7 @@ if not exist LegalSearchText.exe (
 	echo Please move this .bat file to the same folder as the .exe file!
 	:loop_error
 	set /p dummy=
-	goto loop_error
+	goto :loop_error
 )
 
 
@@ -46,6 +46,8 @@ echo.
 
 echo. >> LegalSearchTextLog.txt
 echo. >> LegalSearchTextLog.txt
+echo %TIME% %DATE% >> LegalSearchTextLog.txt 
+echo.
 echo Query: %query% >> LegalSearchTextLog.txt
 echo. >> LegalSearchTextLog.txt
 
@@ -56,4 +58,4 @@ FOR /F "tokens=*" %%I IN ('LegalSearchText.exe %query%') DO (
 )
 
 
-goto loop
+goto :loop

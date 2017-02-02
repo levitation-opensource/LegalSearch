@@ -25,7 +25,7 @@ if not exist LegalSearchText.exe (
 	echo Please move this .bat file to the same folder as the .exe file!
 	:loop_error
 	set /p dummy=
-	goto loop_error
+	goto :loop_error
 )
 
 
@@ -47,4 +47,4 @@ echo.
 LegalSearchText.exe %query%
 
 
-goto loop
+goto :loop
