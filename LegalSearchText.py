@@ -10,6 +10,7 @@ print('LegalSearchText 01.02.2017')
 
 import hashlib
 import logging
+import multiprocessing
 import numpy
 import random
 import os
@@ -35,6 +36,8 @@ import gensim     # import gensim only after disabling gensim warnings
 
 # cores = multiprocessing.cpu_count()
 # assert gensim.models.doc2vec.FAST_VERSION > -1, "this will be painfully slow otherwise"   # TODO: multicore support
+
+num_workers = multiprocessing.cpu_count()    # TODO
 
 
 
@@ -469,20 +472,6 @@ class ReadSentences(object):
                         if (first_bilingual_prefix == None):
                             first_bilingual_prefix = bilingual_prefix
 
-
-
-                    if (first_bilingual_prefix == bilingual_prefix):    # new pair of bilingual lines starts here
-                    
-                        # lets flush the previous lines
-                        # after first pair of lines are read in
-                        if (use_line_search and lang_line_no > 0):     # NB! if use_line_search
-                            lines2.append([line_no - 1, lang_line_no, line2])
-                            line2 = []
-
-                        # increment after previous pair of lines is saved
-                        num_lines = num_lines + 1
-                        lang_line_no = lang_line_no + 1
-
                 #/ if (not do_not_detect_tags and use_bilingual_training):
 
 
@@ -496,10 +485,6 @@ class ReadSentences(object):
                     )
                     or is_bilingual_tag_match
                 ):                      
-
-                    if not use_bilingual_training:
-                        num_lines = num_lines + 1
-                        lang_line_no = lang_line_no + 1
 
                     # TODO: do not lowercase abbreviations
                     line = line if do_not_detect_tags else line[len(search_tag_start):-len(search_tag_end)]
@@ -520,10 +505,33 @@ class ReadSentences(object):
                         for word in line:   # all words into single line
                             line2.append(word)
 
+
+                    # increment after previous pair of lines is saved
+                    if (not use_bilingual_training):
+                        num_lines = num_lines + 1
+                        lang_line_no = lang_line_no + 1
+
                 #/ if (line[:len(tag_start)].lower() == tag_start and line[-len(tag_end):].lower() == tag_end):
 
 
+
+                if (use_bilingual_training 
+                    and first_bilingual_prefix != bilingual_prefix):    # second line of pair of bilingual lines starts here
+                    
+                    # lets flush the previous lines
+                    # after first pair of lines are read in
+                    if (use_line_search and lang_line_no > 0):     # NB! if use_line_search
+                        lines2.append([line_no - 1, lang_line_no, line2])   #NB! -1 since we will save the index of first line of the pair of lines
+                        line2 = []
+
+                    # increment after previous pair of lines is saved
+                    num_lines = num_lines + 1
+                    lang_line_no = lang_line_no + 1
+
+
             #/ for line_kvp in lines:
+
+
 
             if not use_line_search:
                 lines2 = [[0, 0, line2]]
@@ -601,7 +609,7 @@ if (init or not os.path.exists(model_file)):
     #    model = gensim.models.Doc2Vec(iter=1, min_count=10, size=num_dims, workers=16, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
     #    model = gensim.models.Doc2Vec(seed=0, dm=0, min_count=10, size=num_dims, workers=16, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
     #    model = gensim.models.Doc2Vec(seed=0, dm=0, min_count=10, size=num_dims, workers=1, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
-    model = gensim.models.Doc2Vec(seed=0, min_count=10, size=num_dims, workers=1, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
+    model = gensim.models.Doc2Vec(seed=0, min_count=10, size=num_dims, workers=num_workers, sample=1e-5, max_vocab_size=10000, hs=1)  # an empty model, no training yet
 
     sentences = ReadSentences(all_datadirs if use_common_corpus else datadirs) # a memory-friendly iterator
     # >>> bigram_transformer = gensim.models.phrases.Phraser(sentences)
@@ -911,7 +919,7 @@ while True:     # in case only EE laws are looked at, the training corpus still 
         if (tag in notlike_tags):   # do not show forbidden documents even when search algorithm finds them
             continue
 
-        print (tag)
+        # print (tag)
         (corpus, fname, line_no, lang_line_no) = tag.split(':')     # TODO: support for full-path folder names in corpus
         line_no = int(line_no)
         lang_line_no = int(lang_line_no)
