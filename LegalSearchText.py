@@ -544,10 +544,15 @@ class ReadSentences(object):
                 tag2 = tag_fname
 
                 # https://medium.com/@rajkumar021989/one-additional-point-in-labeledlinesentence-function-ccff6fcab3c9#.b9c9jrfib
-                if use_line_search:
-                    yield gensim.models.doc2vec.TaggedDocument(line, [tag, tag2])
-                else:
-                    yield gensim.models.doc2vec.TaggedDocument(line, [tag])
+                # if use_line_search:
+                #    yield gensim.models.doc2vec.TaggedDocument(line, [tag, tag2])
+                # else:
+                #    yield gensim.models.doc2vec.TaggedDocument(line, [tag])
+
+                # in some conditions the tag2 gets shuffled into the position of first tag, which causes the search result displaying to crash
+                # so we need to store it as part of the line
+                line.append("tagword_" + tag2)
+                yield gensim.models.doc2vec.TaggedDocument(line, [tag])
 
                 # TODO
                 # >>> bigram_phraser = gensim.models.Phrases([line], min_count=2, threshold=2, delimiter=b' ')
@@ -906,7 +911,7 @@ while True:     # in case only EE laws are looked at, the training corpus still 
         if (tag in notlike_tags):   # do not show forbidden documents even when search algorithm finds them
             continue
 
-
+        print (tag)
         (corpus, fname, line_no, lang_line_no) = tag.split(':')     # TODO: support for full-path folder names in corpus
         line_no = int(line_no)
         lang_line_no = int(lang_line_no)
