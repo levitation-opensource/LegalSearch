@@ -1070,9 +1070,9 @@ while True:     # in case only EE laws are looked at, the training corpus still 
 
             # est_eng_line_offset : 1 if est tags are before eng tags
             if (use_bilingual_training):    # in this case line indexes are always based on earliest language
-                if (search_language == "eng" and est_eng_line_offset == 1):     # est tags are before eng tags
+                if (result_language == "eng" and est_eng_line_offset == 1):     # est tags are before eng tags
                     search_result_line_offset = 1
-                elif (search_language == "est" and est_eng_line_offset == -1):  # eng tags are before est tags
+                elif (result_language == "est" and est_eng_line_offset == -1):  # eng tags are before est tags
                     search_result_line_offset = 1
                 else:
                     search_result_line_offset = 0
