@@ -96,6 +96,7 @@ if (len(argv) > arg_index):
 search_language = ""
 result_language = ""
 do_not_detect_tags = False
+use_bilingual_training = True
 
 if (len(argv) > arg_index): 
     if (argv[arg_index].lower() == "eng" or argv[arg_index].lower() == "engeng"):
@@ -114,6 +115,7 @@ if (len(argv) > arg_index):
         search_language = "none" 
         result_language = "none"
         do_not_detect_tags = True
+        use_bilingual_training = False  # NB!
 
 if (search_language != ""):
     arg_index = arg_index + 1
@@ -279,6 +281,11 @@ while (len(argv) > arg_index):
     arg_index = arg_index + 1
 
 
+
+search_word_prefix = ""
+if (use_bilingual_training):
+    search_word_prefix = search_language + "_"
+
 negative_words = [x for x in filter_words(negative_words)]
 positive_words = [x for x in filter_words(positive_words)]
 
@@ -286,6 +293,10 @@ positive_words = [x for x in filter_words(positive_words)]
 print('positive query words: ' + str(positive_words))
 print('negative query words: ' + str(negative_words))
 print('negative query result indexes from previous query: ' + str(notlike))
+
+
+negative_words = [search_word_prefix + x for x in negative_words]
+positive_words = [search_word_prefix + x for x in positive_words]
 
 
 
@@ -309,7 +320,14 @@ if (init and len(all_datadirs) != len(all_search_corpus_dirs)):
 
 # select model file based on search language and corpus
 
-model_file = os.path.join(curdir, 'legalsearch_' + ('line' if use_line_search else 'text') + '_' + search_language + '_' + index_corpus_name + '_' + str(num_dims) + 'd.dat')
+model_file = os.path.join(curdir, 
+                    'legalsearch' 
+                    + '_' + ('line' if use_line_search else 'text') 
+                    + '_' + ('parallel' if use_bilingual_training else search_language) 
+                    + '_' + index_corpus_name 
+                    + '_' + str(num_dims) 
+                    + 'd.dat'
+                )
 
 
 
@@ -336,7 +354,14 @@ elif (result_language == "est"):
     result_tag_end = est_tag_end
 
 
-last_results_file_name = os.path.join(curdir, 'legalsearchtext_last_results_' + search_language + '_' + search_corpus_name + '.dat')
+last_results_file_name = os.path.join(curdir, 
+                            'legalsearch'
+                            + '_' + ('line' if use_line_search else 'text')
+                            + '_last_results' 
+                            + '_' + search_language 
+                            + '_' + search_corpus_name     #NB! not index_corpus_name (which may be full corpus)
+                            + '_' + str(num_dims)
+                            + '.dat')
 
 
 
@@ -411,7 +436,8 @@ class ReadSentences(object):
 
 
             line2 = []  # used for text search
-
+            
+            first_bilingual_prefix = None
 
             for line_kvp in lines:
 
@@ -421,21 +447,71 @@ class ReadSentences(object):
                 if (len(line) == 0):         # empty line
                     continue
 
-                    
-                if (do_not_detect_tags
-                    or (
-                        line[:len(search_tag_start)].lower() == search_tag_start 
-                        and line[-len(search_tag_end):].lower() == search_tag_end)):  
 
-                    num_lines = num_lines + 1
-                    lang_line_no = lang_line_no + 1
+                is_bilingual_tag_match = False
+                if (use_bilingual_training):
+
+                    if (line[:len(est_tag_start)].lower() == est_tag_start 
+                        and line[-len(est_tag_end):].lower() == est_tag_end):
+
+                        is_bilingual_tag_match = True
+                        bilingual_prefix = "est_"
+
+                        if (first_bilingual_prefix == None):
+                            first_bilingual_prefix = bilingual_prefix
+
+                    elif (line[:len(eng_tag_start)].lower() == eng_tag_start 
+                        and line[-len(eng_tag_end):].lower() == eng_tag_end):
+
+                        is_bilingual_tag_match = True
+                        bilingual_prefix = "eng_"
+
+                        if (first_bilingual_prefix == None):
+                            first_bilingual_prefix = bilingual_prefix
+
+
+
+                    if (first_bilingual_prefix == bilingual_prefix):    # new pair of bilingual lines starts here
+                    
+                        # lets flush the previous lines
+                        # after first pair of lines are read in
+                        if (use_line_search and lang_line_no > 0):     # NB! if use_line_search
+                            lines2.append([line_no - 1, lang_line_no, line2])
+                            line2 = []
+
+                        # increment after previous pair of lines is saved
+                        num_lines = num_lines + 1
+                        lang_line_no = lang_line_no + 1
+
+                #/ if (not do_not_detect_tags and use_bilingual_training):
+
+
+
+                if (
+                    do_not_detect_tags
+                    or (
+                        not use_bilingual_training
+                        and line[:len(search_tag_start)].lower() == search_tag_start 
+                        and line[-len(search_tag_end):].lower() == search_tag_end
+                    )
+                    or is_bilingual_tag_match
+                ):                      
+
+                    if not use_bilingual_training:
+                        num_lines = num_lines + 1
+                        lang_line_no = lang_line_no + 1
 
                     # TODO: do not lowercase abbreviations
                     line = line if do_not_detect_tags else line[len(search_tag_start):-len(search_tag_end)]
                     line = line.lower().translate(translator).split()    # split() also strips()
-                    line = [x for x in filter_words(line)]
+                    line = [bilingual_prefix + x for x in filter_words(line)]   # NB! bilingual_prefix
 
-                    if (use_line_search):    # line search
+                    if (use_bilingual_training):
+
+                        for word in line:   # words from two (bilingual) lines into single line
+                            line2.append(word)
+
+                    elif (use_line_search):    # line search
 
                         lines2.append([line_no, lang_line_no, line])
 
@@ -479,6 +555,8 @@ class ReadSentences(object):
                 # >>> yield bigram_phraser[line]
 
             #/ for line_tuple in lines2:
+
+        #/ for fname_kvp in self.files:
 
     #/ def __iter__(self):
 
@@ -930,7 +1008,15 @@ while True:     # in case only EE laws are looked at, the training corpus still 
         if (use_line_search):
 
             # est_eng_line_offset : 1 if est tags are before eng tags
-            if (search_language == result_language):
+            if (use_bilingual_training):    # in this case line indexes are always based on earliest language
+                if (search_language == "eng" and est_eng_line_offset == 1):     # est tags are before eng tags
+                    search_result_line_offset = 1
+                elif (search_language == "est" and est_eng_line_offset == -1):  # eng tags are before est tags
+                    search_result_line_offset = 1
+                else:
+                    search_result_line_offset = 0
+
+            elif (search_language == result_language):
                 search_result_line_offset = 0   # NB!
             elif (search_language == "est"):   # and result_language == "eng")
                 search_result_line_offset = est_eng_line_offset     # result offset: 1 if est tags are before eng tags 
