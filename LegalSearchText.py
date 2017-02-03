@@ -228,25 +228,66 @@ if (len(argv) > arg_index and argv[arg_index].lower() == 'notlike'):
 # define word filters
         
 # TODO!!!: use NLTK
-forbidden_words = ['&sect;', 'a', 'an', 'and', 'at', 'be', 'because', 'can', 'either', 'did', 'does', \
+eng_forbidden_words = ['a', 'an', 'and', 'at', 'be', 'because', 'can', 'either', 'did', 'does', \
                    'in', 'is', 'of', 'neither', 'nor', 'not', 'on', 'or', 'the', 'was', 'xor']
 
-# https://en.wikipedia.org/wiki/Stemming
-forbidden_sufixes = ['.', 'ed', 'ing', 'ly', "n't", 's', "s'", "'s"]    # '.': translate(translator) does not remove dots after numerics
+est_forbidden_words = ['ega', 'ja', 'ning', 'olema', 'olla', 'oli', 'on', 'sest', 'tegi', 'teeb', 'või']    # TODO
 
-def filter_words(line):
+common_forbidden_words = ['&sect;']
+
+for common_forbidden_word in common_forbidden_words:
+    eng_forbidden_words.append(common_forbidden_word)
+    est_forbidden_words.append(common_forbidden_word)
+
+
+
+# https://en.wikipedia.org/wiki/Stemming
+eng_forbidden_sufixes = ['ed', 'ing', 'ly', "n't", 'es', 's', "s'", "'s"]
+
+est_forbidden_sufixes = ['mine']
+
+common_forbidden_sufixes = ['.', 'mine']    # '.': translate(translator) does not remove dots after numerics
+
+for common_forbidden_sufix in common_forbidden_sufixes:
+    eng_forbidden_sufixes.append(common_forbidden_sufix)
+    est_forbidden_sufixes.append(common_forbidden_sufix)
+
+
+
+def filter_words(line, lang):
+
+    if (lang == "eng"):
+        forbidden_words = eng_forbidden_words
+    elif (lang == "est"):
+        forbidden_words = est_forbidden_words
+
+    if (lang == "eng"):
+        forbidden_sufixes = eng_forbidden_sufixes
+    elif (lang == "est"):
+        forbidden_sufixes = est_forbidden_sufixes
+
     for word in line:
+
         if word not in forbidden_words:
 
             for sufix in forbidden_sufixes:
+
                 sufix_length = len(sufix)
-                if (word[-sufix_length:] == sufix):
+
+                if (len(word) > sufix_length    # sufix must not match whole word   # TODO: add parameter for minimum character count before sufix?
+                    and word[-sufix_length:] == sufix):
+                    
                     word = word[:-sufix_length]
+
 
             word = word.strip()
 
             if (len(word) != 0 and not word.isnumeric()):   # TODO!: implement min word length?
                 yield word
+
+        #/ if word not in forbidden_words:
+
+    #/ for word in line:
 
 #/ def filter_words(line):
 
@@ -289,8 +330,8 @@ search_word_prefix = ""
 if (use_bilingual_training):
     search_word_prefix = search_language + "_"
 
-negative_words = [x for x in filter_words(negative_words)]
-positive_words = [x for x in filter_words(positive_words)]
+negative_words = [x for x in filter_words(negative_words, search_language)]
+positive_words = [x for x in filter_words(positive_words, search_language)]
 
 
 print('positive query words: ' + str(positive_words))
@@ -440,7 +481,7 @@ class ReadSentences(object):
 
             line2 = []  # used for text search
             
-            first_bilingual_prefix = None
+            first_line_language = None
 
             for line_kvp in lines:
 
@@ -452,25 +493,30 @@ class ReadSentences(object):
 
 
                 is_bilingual_tag_match = False
+                line_language = ""
+
                 if (use_bilingual_training):
 
                     if (line[:len(est_tag_start)].lower() == est_tag_start 
                         and line[-len(est_tag_end):].lower() == est_tag_end):
 
                         is_bilingual_tag_match = True
-                        bilingual_prefix = "est_"
+                        line_language = "est"
 
-                        if (first_bilingual_prefix == None):
-                            first_bilingual_prefix = bilingual_prefix
+                        if (first_line_language == None):
+                            first_line_language = line_language
 
                     elif (line[:len(eng_tag_start)].lower() == eng_tag_start 
                         and line[-len(eng_tag_end):].lower() == eng_tag_end):
 
                         is_bilingual_tag_match = True
-                        bilingual_prefix = "eng_"
+                        line_language = "eng"
 
-                        if (first_bilingual_prefix == None):
-                            first_bilingual_prefix = bilingual_prefix
+                        if (first_line_language == None):
+                            first_line_language = line_language
+
+
+                    bilingual_prefix = line_language + '_'
 
                 #/ if (not do_not_detect_tags and use_bilingual_training):
 
@@ -489,7 +535,7 @@ class ReadSentences(object):
                     # TODO: do not lowercase abbreviations
                     line = line if do_not_detect_tags else line[len(search_tag_start):-len(search_tag_end)]
                     line = line.lower().translate(translator).split()    # split() also strips()
-                    line = [bilingual_prefix + x for x in filter_words(line)]   # NB! bilingual_prefix
+                    line = [bilingual_prefix + x for x in filter_words(line, line_language)]   # NB! bilingual_prefix
 
                     if (use_bilingual_training):
 
@@ -516,7 +562,7 @@ class ReadSentences(object):
 
 
                 if (use_bilingual_training 
-                    and first_bilingual_prefix != bilingual_prefix):    # second line of pair of bilingual lines starts here
+                    and first_line_language != line_language):    # second line of pair of bilingual lines starts here
                     
                     # lets flush the previous lines
                     # after first pair of lines are read in
@@ -614,6 +660,8 @@ if (init or not os.path.exists(model_file)):
     sentences = ReadSentences(all_datadirs if use_common_corpus else datadirs) # a memory-friendly iterator
     # >>> bigram_transformer = gensim.models.phrases.Phraser(sentences)
 
+    # print('Reading in text files')    
+    # sentences = [x for x in sentences]  # save all sentences into memory
 
 
     # >>> model.build_vocab(bigram_transformer[sentences])
