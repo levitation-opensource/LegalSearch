@@ -274,7 +274,7 @@ def filter_words(line, lang):
 
                 sufix_length = len(sufix)
 
-                if (len(word) >= 2 + sufix_length    # sufix must not match whole word   # TODO: add parameter for minimum character count before sufix?
+                if (len(word) >= 3 + sufix_length    # sufix must not match whole word   # TODO: add parameter for minimum character count before sufix?
                     and word[-sufix_length:] == sufix):
                     
                     word = word[:-sufix_length]
