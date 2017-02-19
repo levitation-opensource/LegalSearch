@@ -524,12 +524,12 @@ class ReadSentences(object):
 
                 if (
                     do_not_detect_tags
+                    or is_bilingual_tag_match
                     or (
                         not use_bilingual_training
                         and line[:len(search_tag_start)].lower() == search_tag_start 
                         and line[-len(search_tag_end):].lower() == search_tag_end
                     )
-                    or is_bilingual_tag_match
                 ):                      
 
                     # TODO: do not lowercase abbreviations

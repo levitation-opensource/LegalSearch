@@ -17,7 +17,7 @@ mode con: cols=170 lines=9999
 
 REM change active dir to current location
 %~d0
-cd /d %~dp0
+cd /d "%~dp0"
 
 
 if not exist LegalSearchText.exe (
