@@ -20,3 +20,5 @@ del LegalSearchText_new.zip > nul 2>nul
 "C:\Program Files (x86)\7-Zip\7z.exe" a -mx=9 -r -y LegalSearchText_new.zip ".\dist\LegalSearchText" > nul
 
 
+pause
+
