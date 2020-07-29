@@ -9,3 +9,5 @@ Latest compiled demo of code published here can be downloaded from http://www.si
 
 For development, see "development_instructions.txt"
 
+
+[![Analytics](https://ga-beacon.appspot.com/UA-351728-28/LegalSearch/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
