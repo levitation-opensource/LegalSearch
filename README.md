@@ -1,4 +1,4 @@
-This is a legal text search engine that uses semantic search algorithm in order to find related keywords and sort the results by relevance. 
+This is a prototype legal text search engine that uses semantic search algorithm in order to find related keywords and sort the results by relevance. 
 
 Updated live version of the code, and other thematically related developments, are publicly accessible at http://www.deeplaw.ai/
 
